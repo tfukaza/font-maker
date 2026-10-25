@@ -19,11 +19,6 @@ jobs:
           version: "0.11.23"
           enable-cache: true
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-
       - name: Install FontForge on macOS
         if: runner.os == 'macOS'
         run: brew bundle
@@ -35,27 +30,11 @@ jobs:
       - name: Install locked dependencies
         run: uv sync --all-extras --frozen --python 3.12
 
-      - name: Install UI dependencies
-        run: npm ci
-
       - name: Lint and type-check Python
         run: |
           uv run ruff check src tests
           uv run ruff format --check src tests
           uv run mypy src/font_maker
-
-      - name: Check and build MCP App
-        run: |
-          npm run typecheck
-          npm run build
-
-      - name: Install browser for MCP App acceptance tests
-        if: runner.os == 'Linux'
-        run: npx playwright install --with-deps chromium
-
-      - name: Run MCP App acceptance tests
-        if: runner.os == 'Linux'
-        run: npm run test:e2e
 
       - name: Validate plugin and skill discovery metadata
         run: uv run pytest tests/test_distribution.py

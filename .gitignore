@@ -11,10 +11,7 @@ build/
 dist/
 htmlcov/
 .coverage
-node_modules/
 .hypothesis/
-test-results/
-playwright-report/
 .fontmaker/
 .claude/settings.local.json
 .playwright-mcp/

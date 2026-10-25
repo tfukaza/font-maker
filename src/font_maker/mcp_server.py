@@ -4,20 +4,11 @@ from __future__ import annotations
 
 import base64
 from collections.abc import Callable
-from pathlib import Path
 from typing import Any
 
 from mcp.server import MCPServer
-from mcp.server.apps import Apps
 from mcp.types import CallToolResult, ImageContent, TextContent, ToolAnnotations
 
-from .design_session import (
-    DesignMode,
-    DesignSession,
-    DesignSessionStore,
-    FontBrief,
-    FontConcept,
-)
 from .errors import FontMakerError
 from .models import (
     GlyphMetricsUpdate,
@@ -29,93 +20,11 @@ from .models import (
 from .service import FontMakerService
 
 INSTRUCTIONS = (
-    "Use open_font_designer when the user wants help deciding what kind of font to make. "
-    "When the app asks for visual directions, generate comparable concept specimens with "
-    "the requested sample text, then call submit_font_concepts. Read the final brief before "
-    "creating font metrics or SVG glyphs. "
     "Open or create a project before editing. Inspect its current revision and pass that revision "
     "to every mutation. Import SVGs made from the shared template, validate after imports, and "
     "preview the compiled font before export. Spacing suggestions never apply themselves. "
     "FontForge, created by George Williams and maintained by its contributors, is the "
     "GPL-3.0-or-later compilation backend."
-)
-
-APP_URI = "ui://font-maker/designer.html"
-APP_HTML = Path(__file__).with_name("ui").joinpath("font-designer.html")
-design_sessions = DesignSessionStore()
-apps = Apps()
-
-
-@apps.tool(
-    resource_uri=APP_URI,
-    name="open_font_designer",
-    title="Open the font designer",
-    description=(
-        "Start an interactive visual interview that helps a person describe a font, "
-        "explore generated directions, or build a font brief step by step."
-    ),
-    visibility=["model", "app"],
-)
-def open_font_designer(
-    sample_text: str = "Hamburgefontsiv",
-    starting_description: str = "",
-    mode: DesignMode | None = None,
-) -> DesignSession:
-    """Create a short-lived font design session and render its interactive view."""
-
-    return design_sessions.create(
-        sample_text=sample_text,
-        starting_description=starting_description,
-        mode=mode,
-    )
-
-
-@apps.tool(
-    resource_uri=APP_URI,
-    name="update_font_brief",
-    title="Update font brief",
-    description="Save the current choices from the interactive font designer.",
-    visibility=["app"],
-)
-def update_font_brief(session_id: str, brief: FontBrief) -> DesignSession:
-    """Persist a complete UI snapshot and return the assembled prompt."""
-
-    return design_sessions.update(session_id, brief)
-
-
-@apps.tool(
-    resource_uri=APP_URI,
-    name="read_font_design",
-    title="Refresh font design",
-    description="Read the latest brief and any agent-generated concept specimens.",
-    visibility=["app"],
-)
-def read_font_design(session_id: str) -> DesignSession:
-    """Allow the App to poll for concepts submitted by the agent."""
-
-    return design_sessions.get(session_id)
-
-
-@apps.tool(
-    resource_uri=APP_URI,
-    name="finalize_font_brief",
-    title="Finalize font brief",
-    description="Mark a sufficiently complete font brief as ready for generation.",
-    visibility=["app"],
-)
-def finalize_font_brief(session_id: str) -> DesignSession:
-    """Validate and finalize the interview before it is sent into the chat."""
-
-    return design_sessions.finalize(session_id)
-
-
-apps.add_html_resource(
-    APP_URI,
-    APP_HTML.read_text(encoding="utf-8"),
-    name="Font design interview",
-    title="Font Maker — design a typeface",
-    description="A visual interview for constructing an agent-ready font brief.",
-    prefers_border=False,
 )
 
 server = MCPServer(
@@ -124,7 +33,6 @@ server = MCPServer(
     description="A stateful SVG-to-font workshop powered by FontForge.",
     instructions=INSTRUCTIONS,
     version="0.1.0",
-    extensions=[apps],
 )
 service = FontMakerService()
 
@@ -152,31 +60,6 @@ DESTRUCTIVE = ToolAnnotations(
     idempotent_hint=True,
     open_world_hint=False,
 )
-
-
-@server.tool(
-    title="Get font brief",
-    description="Read a font design session, including its assembled generation prompt.",
-    annotations=READ_ONLY,
-)
-def get_font_brief(session_id: str) -> DesignSession:
-    """Return the current brief to the model."""
-
-    return design_sessions.get(session_id)
-
-
-@server.tool(
-    title="Submit font concepts",
-    description=(
-        "Attach comparable font concept specimens to a design session after generating them. "
-        "Use the exact sample text and consistent presentation for every concept."
-    ),
-    annotations=WRITE,
-)
-def submit_font_concepts(session_id: str, concepts: list[FontConcept]) -> DesignSession:
-    """Make agent-generated directions available to the interactive App."""
-
-    return design_sessions.submit_concepts(session_id, concepts)
 
 
 def _safe(call: Callable[[], dict[str, Any]]) -> dict[str, Any]:

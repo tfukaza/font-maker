@@ -27,7 +27,7 @@ Use only the styles relevant to the brief; a hybrid may need selected guidance f
 
 ## 1. Agree on scope and original provenance
 
-Record intended use, direction, family/style, formats, character profile, language claims, and optional feature ambitions. If direction is unresolved, use `open_font_designer` or compare concepts with identical text and presentation before expanding the set.
+Record intended use, direction, family/style, formats, character profile, language claims, and optional feature ambitions. If direction is unresolved, compare concepts with identical text and presentation before expanding the set.
 
 Keep the original concept and approved changes available to reviewers. Record its defining proportions, curvature, terminals, weight, and joins; compare compiled proofs against that source, not only the last iteration. A readable but stylistically drifting glyph remains unresolved until corrected or the changed direction is approved.
 

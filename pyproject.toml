@@ -44,7 +44,6 @@ fontmaker-mcp = "font_maker.mcp_server:main"
 packages = ["src/font_maker"]
 
 [tool.hatch.build]
-artifacts = ["src/font_maker/ui/font-designer.html"]
 exclude = [
   "/.hypothesis",
   "/.mypy_cache",
@@ -53,9 +52,6 @@ exclude = [
   "/.uv-cache",
   "/.venv",
   "/dist",
-  "/node_modules",
-  "/playwright-report",
-  "/test-results",
 ]
 
 [tool.ruff]

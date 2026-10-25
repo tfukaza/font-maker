@@ -13,45 +13,6 @@ FontForge is the compilation backend. Font Maker supplies the durable project mo
 
 Version 1 targets one static, monochrome outline style. Variable fonts, color fonts, bitmap strikes, hinting authoring, and complex-script mark positioning are later work.
 
-## Interactive concept harness
-
-`open_font_designer` is an MCP App entry point for people who do not yet have a finished
-concept image or technical type vocabulary. The server returns a `ui://` HTML resource that
-the MCP host renders inline. It does not launch a second web or MCP server.
-
-The interface offers three routes into the same structured `FontBrief`:
-
-- **Describe it:** start with free language, comparisons, a use case, or a reference.
-- **Show me directions:** choose a loose mood and construction, then ask the agent for three
-  controlled concept specimens.
-- **Guide me step by step:** answer visual questions about edge construction, personality,
-  stroke endings, weight, width, corners, contrast, regularity, slant, and decoration.
-
-```mermaid
-sequenceDiagram
-  participant P as Person
-  participant U as MCP App view
-  participant S as Font Maker server
-  participant A as Agent
-  A->>S: open_font_designer(sample_text)
-  S-->>U: session + structured brief
-  P->>U: visual choices and plain-language notes
-  U->>S: update_font_brief(session_id, brief)
-  U->>A: request comparable concept specimens
-  A->>A: generate images with the exact sample text
-  A->>S: submit_font_concepts(session_id, concepts)
-  U->>S: read_font_design(session_id)
-  S-->>U: three visual directions
-  P->>U: select and refine a direction
-  U->>A: final prompt + structured brief
-```
-
-The App updates model context when the host supports it and includes the complete prompt in
-its user-initiated chat message as a fallback. Hosts without MCP Apps support can call the
-same tools and work with their structured results without rendering the view. Design-session
-state is process-local in this first slice; the final font project remains the durable source
-of truth.
-
 ## State model
 
 MCP provides convenient session state, but the server must not keep the only copy of a font in memory.
