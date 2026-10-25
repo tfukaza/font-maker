@@ -2,7 +2,7 @@
   "source": {
     "path": "/Users/tomokif/code/font-maker/fonts/super-pixel",
     "project_id": "f3721ac8-ee24-448d-923a-4e171260735d",
-    "revision": "627a65613488a5842c460d2bddb0ce96d0720156e84c7293aff105deeb2acfd3",
+    "revision": "62fd86afbefd5c96624e4a0a8d7b80f50795fda265594ed9ca192e1bef4b19c4",
     "family_name": "Super Pixel",
     "style_name": "Regular",
     "glyph_count": 103,
@@ -28,7 +28,7 @@
       "transport": "stdio"
     }
   },
-  "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32",
+  "revision": "4911ef0bf0d98d2247ec07cdeb5fa27474c0ac0491dc03b07f1db345f9d3b0f5",
   "cells": {
     "A": 18,
     "B": 20,
@@ -61,7 +61,7 @@
     "c": 11,
     "d": 16,
     "e": 15,
-    "f": 12,
+    "f": 11,
     "g": 18,
     "h": 14,
     "i": 6,
@@ -544,6 +544,17 @@
       "code": "FONTFORGE_VALIDATION_FLAGS",
       "severity": "warning",
       "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "f",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
       "glyph": "five",
       "rule": null,
       "measurements": {
@@ -971,32 +982,32 @@
     }
   ],
   "build": {
-    "project_id": "8dcd975a-6c26-4cec-8633-c227b3a62311",
-    "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32",
+    "project_id": "60fe571a-6fe5-45aa-8302-a38b5fec1b8d",
+    "revision": "4911ef0bf0d98d2247ec07cdeb5fa27474c0ac0491dc03b07f1db345f9d3b0f5",
     "artifacts": [
       {
-        "artifact_id": "5f18d98a-7f02-4f6a-8511-0d095e3f7795",
+        "artifact_id": "ecb187c8-dbe9-430c-9da6-9cb54d060fa2",
         "path": "build/fonts/SuperPixelBitmap-Regular.ttf",
         "mime_type": "font/ttf",
-        "size": 10380,
-        "sha256": "9bf579b9ed869b9966f58a2b0987dfe9cafdd9af94509b3613ba05191b6051e4",
-        "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32"
+        "size": 10384,
+        "sha256": "b84efe0468c2d4bf1ff52f63288324257573831b44cb5353a21981ab22a59f27",
+        "revision": "4911ef0bf0d98d2247ec07cdeb5fa27474c0ac0491dc03b07f1db345f9d3b0f5"
       },
       {
-        "artifact_id": "55394c32-b1f0-450f-af31-7ea89a4f3620",
+        "artifact_id": "a094288d-6679-472a-84ea-f2d1711728b5",
         "path": "build/fonts/SuperPixelBitmap-Regular.otf",
         "mime_type": "font/otf",
-        "size": 11892,
-        "sha256": "6c01aba61da62062c28ed61e8424eb6c6484314b4b9cf5b51e45bbcb56ebdbfb",
-        "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32"
+        "size": 11888,
+        "sha256": "1c5b26fcbcd7178e98eadb0a40699eb37b02e89f9a88f7ac2d7c3dfd68f9fe83",
+        "revision": "4911ef0bf0d98d2247ec07cdeb5fa27474c0ac0491dc03b07f1db345f9d3b0f5"
       },
       {
-        "artifact_id": "df32caed-c72b-42b5-aeeb-18af0ad2e49c",
+        "artifact_id": "18fb26d4-8f45-44f1-9d2c-ca0aaf8d1a81",
         "path": "build/fonts/SuperPixelBitmap-Regular.woff2",
         "mime_type": "font/woff2",
         "size": 2476,
-        "sha256": "50cc536b83a0c2c94aa4d88abcbaa572b3356359e14927eea203d0fe5e67d343",
-        "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32"
+        "sha256": "74a8fada3fa892e2d34c425e2b5f74574bee5d93bc6d6689482c6f0cb6f6fda4",
+        "revision": "4911ef0bf0d98d2247ec07cdeb5fa27474c0ac0491dc03b07f1db345f9d3b0f5"
       }
     ],
     "diagnostics": [
@@ -1399,6 +1410,17 @@
         "severity": "warning",
         "message": "FontForge reported validation flags on the generated glyph.",
         "glyph": "eight",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "f",
         "rule": null,
         "measurements": {
           "bitmask": 4
@@ -1841,7 +1863,7 @@
       "license": "GPL-3.0-or-later",
       "credit": "FontForge by George Williams and the FontForge contributors",
       "source": "https://github.com/fontforge/fontforge/tree/20251009",
-      "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32",
+      "revision": "4911ef0bf0d98d2247ec07cdeb5fa27474c0ac0491dc03b07f1db345f9d3b0f5",
       "inspections": {
         "ttf": {
           "tables": [

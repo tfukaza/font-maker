@@ -1,7 +1,11 @@
-"""Redraw Super Pixel's l, c and C from the generator's grid patterns and rebuild."""
+"""Redraw the named Super Pixel glyphs from the generator's grid patterns and rebuild.
+
+Usage: python examples/revise_super_pixel_glyphs.py f [c C ...]
+"""
 
 from __future__ import annotations
 
+import datetime
 import hashlib
 import sys
 import tempfile
@@ -16,10 +20,12 @@ from examples.generate_concept_fonts import all_patterns, write_svg
 
 ROOT = Path(__file__).resolve().parents[1]
 PROJECT = ROOT / "fonts" / "super-pixel"
-GLYPHS = ["l", "c", "C"]
 
 
 def main() -> None:
+    GLYPHS = sys.argv[1:]
+    if not GLYPHS:
+        raise SystemExit(__doc__)
     service = FontMakerService()
     opened = service.open_project(str(PROJECT))
     pid, revision = opened["project_id"], opened["revision"]
@@ -56,12 +62,12 @@ def main() -> None:
         assert len(font.getBestCmap()) == 103
         font.flavor = "woff"
         font.save(fonts / "SuperPixel-Regular.woff")
-    _, png = service.preview(
-        pid, "Illinois 1l Il| cC Cocoa clock", font_size=72, pixel_scale=2, guides=False
-    )
+    text = " ".join(GLYPHS) + " Illinois 1l cC Cocoa often fifty after offer"
+    _, png = service.preview(pid, text, font_size=72, pixel_scale=2, guides=False)
     previews = PROJECT / "build" / "previews"
     previews.mkdir(parents=True, exist_ok=True)
-    (previews / "l-c-revision-2026-10-25.png").write_bytes(png)
+    stem = "-".join(GLYPHS) + f"-revision-{datetime.date.today()}"
+    (previews / f"{stem}.png").write_bytes(png)
     print(revision)
 
 

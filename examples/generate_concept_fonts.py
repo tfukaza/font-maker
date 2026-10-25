@@ -172,6 +172,8 @@ def all_patterns(style: str | None = None) -> dict[str, tuple[str, ...]]:
         patterns["l"] = rows(".##../..#../..#../..#../..#../..#../..##.")
         patterns["c"] = rows(".###./#...#/#..../#...#/.###.", 2)
         patterns["C"] = rows(".###./#...#/#..../#..../#..../#...#/.###.")
+        # Step f's hook off the stem instead of meeting it at a right angle.
+        patterns["f"] = rows("..##./.#.../.#.../####./.#.../.#.../.#...")
     return patterns
 
 

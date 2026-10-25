@@ -1,8 +1,16 @@
 # Super Pixel visual review
 
+## f revision — 2026-10-25
+
+Current revision: `62fd86afbefd5c96624e4a0a8d7b80f50795fda265594ed9ca192e1bef4b19c4`.
+
+Removed the corner pixel where `f`'s top arm met its stem, so the hook now steps diagonally off the stem instead of forming a right angle. Width, advance, kerning and every other glyph's pixels are unchanged. Applied with `examples/revise_super_pixel_glyphs.py f`; Super Pixel Bitmap was regenerated from the result.
+
+Inspected the [preview](build/previews/f-revision-2026-10-25.png), including `often fifty after offer`.
+
 ## l and c/C revision — 2026-10-25
 
-Current revision: `627a65613488a5842c460d2bddb0ce96d0720156e84c7293aff105deeb2acfd3`.
+Reviewed revision: `627a65613488a5842c460d2bddb0ce96d0720156e84c7293aff105deeb2acfd3`.
 
 Removed `l`'s bottom-left foot pixel so it no longer matches `1` (`l` now ends in a right-hand foot; `1` keeps its full foot). Hooked the `c` and `C` terminals inward by one pixel and shortened their arms to three pixels, matching the `o`/`O` construction with the right side open. All three glyphs keep their widths, so advances, kerning and every other glyph's pixels are unchanged. The grid patterns live in `examples/generate_concept_fonts.py`; `examples/revise_super_pixel_glyphs.py` applied them to this project, and Super Pixel Bitmap was regenerated from the result.
 
