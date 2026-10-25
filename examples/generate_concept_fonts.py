@@ -167,6 +167,11 @@ def all_patterns(style: str | None = None) -> dict[str, tuple[str, ...]]:
         # or j's existing descender. The separate flow study stays unchanged.
         patterns["i"] = rows("..#../...../..#../..#../..#../..#../..#..")
         patterns["j"] = rows("...#./...../...#./...#./...#./...#./#..#./.##..")
+        # Drop l's left foot so it no longer reads as 1, and hook the c/C
+        # terminals inward like o/O. Widths, and so advances, are unchanged.
+        patterns["l"] = rows(".##../..#../..#../..#../..#../..#../..##.")
+        patterns["c"] = rows(".###./#...#/#..../#...#/.###.", 2)
+        patterns["C"] = rows(".###./#...#/#..../#..../#..../#...#/.###.")
     return patterns
 
 

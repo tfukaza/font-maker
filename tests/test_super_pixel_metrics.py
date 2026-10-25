@@ -32,7 +32,7 @@ def contour_bounds(glyph, glyph_set):
 def test_grid_pattern_correction_is_scoped_to_dotted_letters():
     original = GENERATOR["all_patterns"]()
     grid = GENERATOR["all_patterns"]("grid")
-    assert {name for name in grid if grid[name] != original[name]} == {"i", "j"}
+    assert {name for name in grid if grid[name] != original[name]} == {"i", "j", "l", "c", "C"}
     assert GENERATOR["all_patterns"]("flow") == original
     for name in ("i", "j"):
         # Dot on the top cap row, one empty row, then lowercase body.
@@ -40,6 +40,22 @@ def test_grid_pattern_correction_is_scoped_to_dotted_letters():
         assert "#" not in grid[name][1]
         assert "#" in grid[name][2]
         assert grid[name][3:] == original[name][3:]
+
+
+def test_grid_l_differs_from_one_and_c_terminals_hook_inward():
+    original = GENERATOR["all_patterns"]()
+    grid = GENERATOR["all_patterns"]("grid")
+    def inked(pattern):
+        return [row for row in GENERATOR["trim_pattern"](pattern) if "#" in row]
+
+    # l loses its left foot pixel; 1 keeps its full foot.
+    assert inked(grid["l"])[-1] == ".##"
+    assert inked(grid["1"])[-1] == "###"
+    for name in ("c", "C"):
+        body = inked(grid[name])
+        assert body[0] == body[-1] == ".###."
+        assert body[1][-1] == body[-2][-1] == "#"
+        assert all(len(row) == len(inked(original[name])[0]) for row in body)
 
 
 @pytest.mark.fontforge

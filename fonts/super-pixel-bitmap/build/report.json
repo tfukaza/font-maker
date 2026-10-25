@@ -1,8 +1,8 @@
 {
   "source": {
-    "path": "/Users/tomokif/code/font-maker/super-pixel",
+    "path": "/Users/tomokif/code/font-maker/fonts/super-pixel",
     "project_id": "f3721ac8-ee24-448d-923a-4e171260735d",
-    "revision": "e1e93a6fbe9c7850195bdebd959989b7fc43865254fea8c917347c74c5800fd4",
+    "revision": "627a65613488a5842c460d2bddb0ce96d0720156e84c7293aff105deeb2acfd3",
     "family_name": "Super Pixel",
     "style_name": "Regular",
     "glyph_count": 103,
@@ -28,7 +28,7 @@
       "transport": "stdio"
     }
   },
-  "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365",
+  "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32",
   "cells": {
     "A": 18,
     "B": 20,
@@ -67,7 +67,7 @@
     "i": 6,
     "j": 9,
     "k": 13,
-    "l": 10,
+    "l": 9,
     "m": 16,
     "n": 12,
     "o": 12,
@@ -971,32 +971,32 @@
     }
   ],
   "build": {
-    "project_id": "92c190b5-d972-4e9d-8616-165e15ec5536",
-    "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365",
+    "project_id": "8dcd975a-6c26-4cec-8633-c227b3a62311",
+    "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32",
     "artifacts": [
       {
-        "artifact_id": "8c90a2c5-ac3f-42f1-aad9-a704f4a4eff7",
+        "artifact_id": "5f18d98a-7f02-4f6a-8511-0d095e3f7795",
         "path": "build/fonts/SuperPixelBitmap-Regular.ttf",
         "mime_type": "font/ttf",
-        "size": 10344,
-        "sha256": "879c6d030a154043cbb0e390603669b474e5cfd76a3f04256e5ff22e2bd752de",
-        "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365"
+        "size": 10380,
+        "sha256": "9bf579b9ed869b9966f58a2b0987dfe9cafdd9af94509b3613ba05191b6051e4",
+        "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32"
       },
       {
-        "artifact_id": "a2de2ef5-6f74-4225-85c7-6878cc8572ab",
+        "artifact_id": "55394c32-b1f0-450f-af31-7ea89a4f3620",
         "path": "build/fonts/SuperPixelBitmap-Regular.otf",
         "mime_type": "font/otf",
-        "size": 11796,
-        "sha256": "d0583ab035e8a00280403c6d9134684877792a82fc384c698099e7f6412c9865",
-        "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365"
+        "size": 11892,
+        "sha256": "6c01aba61da62062c28ed61e8424eb6c6484314b4b9cf5b51e45bbcb56ebdbfb",
+        "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32"
       },
       {
-        "artifact_id": "ea270336-e376-40e1-9aba-044471350a76",
+        "artifact_id": "df32caed-c72b-42b5-aeeb-18af0ad2e49c",
         "path": "build/fonts/SuperPixelBitmap-Regular.woff2",
         "mime_type": "font/woff2",
-        "size": 2484,
-        "sha256": "8df49047f927dfdc8a73d93221f2d09663248e96cfce3f304fe8f0523f2a7f94",
-        "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365"
+        "size": 2476,
+        "sha256": "50cc536b83a0c2c94aa4d88abcbaa572b3356359e14927eea203d0fe5e67d343",
+        "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32"
       }
     ],
     "diagnostics": [
@@ -1841,7 +1841,7 @@
       "license": "GPL-3.0-or-later",
       "credit": "FontForge by George Williams and the FontForge contributors",
       "source": "https://github.com/fontforge/fontforge/tree/20251009",
-      "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365",
+      "revision": "65ee0c2e796bfff355035accfddaf208f3d7a9a567a1f56b59aacd1b1c7edb32",
       "inspections": {
         "ttf": {
           "tables": [

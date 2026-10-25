@@ -1,8 +1,16 @@
 # Super Pixel visual review
 
+## l and c/C revision — 2026-10-25
+
+Current revision: `627a65613488a5842c460d2bddb0ce96d0720156e84c7293aff105deeb2acfd3`.
+
+Removed `l`'s bottom-left foot pixel so it no longer matches `1` (`l` now ends in a right-hand foot; `1` keeps its full foot). Hooked the `c` and `C` terminals inward by one pixel and shortened their arms to three pixels, matching the `o`/`O` construction with the right side open. All three glyphs keep their widths, so advances, kerning and every other glyph's pixels are unchanged. The grid patterns live in `examples/generate_concept_fonts.py`; `examples/revise_super_pixel_glyphs.py` applied them to this project, and Super Pixel Bitmap was regenerated from the result.
+
+Inspected the [preview](build/previews/l-c-revision-2026-10-25.png) of `Illinois 1l Il| cC Cocoa clock`.
+
 ## Dotted-letter height correction — 2026-09-15
 
-Current revision: `e1e93a6fbe9c7850195bdebd959989b7fc43865254fea8c917347c74c5800fd4`.
+Reviewed revision: `e1e93a6fbe9c7850195bdebd959989b7fc43865254fea8c917347c74c5800fd4`.
 
 Raised the `i` and `j` body tops from 400 to the declared 500-unit x-height; moved their unchanged 100×100 dots from 500–600 to 600–700, retaining a 100-unit gap. The `i` baseline stays at 0 and `j` descender at −100. Advances, sidebearings, kerning, mappings, and every other compiled outline are unchanged. TTF, OTF, and WOFF2 measurements agree; validation reports only the existing unset-font-license information message.
 
