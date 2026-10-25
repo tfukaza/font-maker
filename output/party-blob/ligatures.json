@@ -1,0 +1,13 @@
+{
+  "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d",
+  "revision": "4f701c6eff7b2ff81f0744c5fc9454152ff90ab9e08a339b40f640d2f5c6c36f",
+  "changed": [
+    "ligatures"
+  ],
+  "diagnostics": [],
+  "suggested_previews": [
+    "affine office",
+    "fifty difficult",
+    "fi fl ffi ffl"
+  ]
+}

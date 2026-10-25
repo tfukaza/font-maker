@@ -1,0 +1,4 @@
+interface:
+  display_name: "Font Ligature Design"
+  short_description: "Explore original ligatures and verify readable behavior"
+  default_prompt: "Use $font-ligature-design to explore original combinations, compare ordinary and kerning-only words, and verify readable features within the approved direction."

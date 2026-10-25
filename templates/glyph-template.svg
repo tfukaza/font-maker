@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1000"
+  height="1000"
+  viewBox="0 0 1000 1000"
+  data-fontmaker-template-version="1"
+  data-fontmaker-units-per-em="1000"
+  data-fontmaker-baseline-y="800"
+  data-fontmaker-ascender="800"
+  data-fontmaker-cap-height="700"
+  data-fontmaker-x-height="500"
+  data-fontmaker-descender="-200"
+>
+  <title>Font Maker glyph template</title>
+  <desc>
+    Draw filled glyph outlines inside the group named glyph. Keep this viewBox,
+    origin, and baseline unchanged across every glyph in the font project.
+  </desc>
+
+  <!--
+    The Font Maker CLI removes this entire group before importing an outline.
+    It is safe for the guide layer to contain strokes and labels; glyph artwork
+    must remain in the separate path-only group below.
+  -->
+  <g
+    id="fontmaker-guides"
+    data-fontmaker-ignore="true"
+    font-family="sans-serif"
+    font-size="18"
+    vector-effect="non-scaling-stroke"
+  >
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" />
+
+    <g fill="none" stroke="#94a3b8" stroke-width="1" stroke-dasharray="8 8">
+      <line x1="0" y1="0" x2="1000" y2="0" data-guide="ascender" data-font-y="800" />
+      <line x1="0" y1="100" x2="1000" y2="100" data-guide="cap-height" data-font-y="700" />
+      <line x1="0" y1="300" x2="1000" y2="300" data-guide="x-height" data-font-y="500" />
+      <line x1="0" y1="1000" x2="1000" y2="1000" data-guide="descender" data-font-y="-200" />
+    </g>
+
+    <!-- The one canonical baseline shared by every glyph SVG. -->
+    <line
+      x1="0"
+      y1="800"
+      x2="1000"
+      y2="800"
+      fill="none"
+      stroke="#2563eb"
+      stroke-width="2"
+      data-guide="baseline"
+      data-fontmaker-baseline="true"
+      data-font-y="0"
+    />
+
+    <line
+      x1="0"
+      y1="0"
+      x2="0"
+      y2="1000"
+      fill="none"
+      stroke="#cbd5e1"
+      stroke-width="1"
+      data-guide="origin-x"
+      data-font-x="0"
+    />
+
+    <g fill="#475569">
+      <text x="12" y="24">ascender 800</text>
+      <text x="12" y="92">cap height 700</text>
+      <text x="12" y="292">x-height 500</text>
+      <text x="12" y="792" fill="#1d4ed8">baseline 0</text>
+      <text x="12" y="988">descender -200</text>
+    </g>
+  </g>
+
+  <!-- Add only closed, filled outline paths to this group. -->
+  <g id="glyph" fill="#000000" />
+</svg>

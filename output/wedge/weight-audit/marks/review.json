@@ -1,0 +1,827 @@
+{
+  "revision": "c5c1dfebdde7e86a107e9b155087a50ececa2a571cbd6d86c8d50010f22c451c",
+  "font_sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f",
+  "font_size": 160,
+  "pixel_scale": 2,
+  "glyphs": [
+    {
+      "character": " ",
+      "codepoint": "U+0020",
+      "glyph": "space",
+      "source": "drawings/glyph-U0020.svg",
+      "advance": 255,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "No ink by design. The255-unit space separates words clearly in24px context.",
+      "family": "spacing",
+      "measurements": {
+        "advance": 255
+      },
+      "recommendation": "retain",
+      "source_sha256": "4e4179dbe5ca3874d36c8e1660460dd74ba51c60610425b96ced735358397150"
+    },
+    {
+      "character": "!",
+      "codepoint": "U+0021",
+      "glyph": "exclam",
+      "source": "drawings/glyph-U0021.svg",
+      "advance": 253,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The tapered shaft is coherent, but its78-unit dot is weak beside the large shaft and current i/j dots. The92-unit candidate preserves the centered diamond and gives the stop enough presence.",
+      "family": "dot",
+      "measurements": {
+        "shaft_top_width": 97,
+        "shaft_max_width": 123,
+        "shaft_tip_width": 21,
+        "dot_diameter_before": 78,
+        "dot_diameter_candidate": 92,
+        "shaft_dot_clearance_candidate": 79
+      },
+      "recommendation": "refine_proposed",
+      "source_sha256": "cbf27623fa16ffa96b857b92167458b0f77b799981c03a7ef738cdc10d9306bf",
+      "candidate_source": "weight-audit/marks/candidate-svg/glyph-U0021.svg",
+      "candidate_source_sha256": "0aee69afafaac3a6575c7908e5d81ab8717ecf936e355b81336bb559ed2ae33c",
+      "candidate_visual": "inspected and recommended; master integration pending"
+    },
+    {
+      "character": "\"",
+      "codepoint": "U+0022",
+      "glyph": "quotedbl",
+      "source": "drawings/glyph-U0022.svg",
+      "advance": 378,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Both93-to41-unit tapered components have equal weight. Their larger filled area remains appropriate for suspended quotation; no thickening is needed.",
+      "family": "quotation",
+      "measurements": {
+        "component_top_width": 93,
+        "component_bottom_width": 41
+      },
+      "recommendation": "retain",
+      "source_sha256": "e57e30b49bece42e0e9892cb233f4c80eb1eebcc24516dccafa097c694646303"
+    },
+    {
+      "character": "#",
+      "codepoint": "U+0023",
+      "glyph": "numbersign",
+      "source": "drawings/glyph-U0023.svg",
+      "advance": 620,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two51-unit crossbars deliberately dominate the32.6-unit slanted stems. Their identical joins do not accumulate excessive blackness in #1 context.",
+      "family": "operator",
+      "measurements": {
+        "crossbar": 51,
+        "slanted_stem_perpendicular": 32.61
+      },
+      "recommendation": "retain",
+      "source_sha256": "dcf0c98d2bd884810e8fa6192c6228d222123ad452ad3a605de8ac0910225289"
+    },
+    {
+      "character": "$",
+      "codepoint": "U+0024",
+      "glyph": "dollar",
+      "source": "drawings/glyph-U0024.svg",
+      "advance": 613,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The27-unit central bar is suitably fine. Parallel capital review identified excessive S waist mass; this sign shares that exact S base, so it must receive the same confirmed S correction rather than retain a heavier waist.",
+      "family": "S curve and hairline",
+      "measurements": {
+        "central_bar": 27,
+        "S_waist_before_perpendicular_from_caps_review": 143.49,
+        "S_waist_candidate_perpendicular_from_caps_review": 128.95
+      },
+      "recommendation": "follow_capital_S_proposal",
+      "source_sha256": "a9d5f9229e939a70e2088e9a6e027d97627977dfbbcce1467d6dcceec9d4cbf1",
+      "dependency": "weight-audit/caps capital S and dollar candidate; dollar bar stays27units"
+    },
+    {
+      "character": "%",
+      "codepoint": "U+0025",
+      "glyph": "percent",
+      "source": "drawings/glyph-U0025.svg",
+      "advance": 766,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Each small oval has66-unit sides and21-unit extrema; the25.35-unit slash remains fine but continuous at24px. The contrast is deliberate and does not require matching upright letter stems.",
+      "family": "round and slash",
+      "measurements": {
+        "oval_side": 66,
+        "oval_extrema": 21,
+        "slash_perpendicular": 25.35
+      },
+      "recommendation": "retain",
+      "source_sha256": "bc7037d71b0d5b00474dbee85833d73f63228f3979b7dcb1494a5ef23061fdd3"
+    },
+    {
+      "character": "&",
+      "codepoint": "U+0026",
+      "glyph": "ampersand",
+      "source": "drawings/glyph-U0026.svg",
+      "advance": 760,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The long main diagonal is about96units normal to its edges. The crossing has sufficient white clearance and does not produce an isolated dark knot; bowl weight remains consistent with the concept.",
+      "family": "compound diagonal and rounds",
+      "measurements": {
+        "main_diagonal_perpendicular_approx": 95.98
+      },
+      "recommendation": "retain",
+      "source_sha256": "dec33ba59fc84dd1333a82d061990bc70c0d4993d2db8d303e1d725beb344135"
+    },
+    {
+      "character": "'",
+      "codepoint": "U+0027",
+      "glyph": "quotesingle",
+      "source": "drawings/glyph-U0027.svg",
+      "advance": 207,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The single93-to41-unit tapered stroke matches each straight-double-quote component and is visible without dominating letters at24px.",
+      "family": "quotation",
+      "measurements": {
+        "top_width": 93,
+        "bottom_width": 41
+      },
+      "recommendation": "retain",
+      "source_sha256": "6b47510bd31cba27d6a0fae9a227696d4b2a24edff4ccdc8bb8d739c2cee3385"
+    },
+    {
+      "character": "(",
+      "codepoint": "U+0028",
+      "glyph": "parenleft",
+      "source": "drawings/glyph-U0028.svg",
+      "advance": 353,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The115-unit center weight tapers evenly to light terminals. Despite the taller outline, its perceived mass is balanced around10; do not make the entire enclosure monoline.",
+      "family": "curved enclosure",
+      "measurements": {
+        "center_width": 115
+      },
+      "recommendation": "retain",
+      "source_sha256": "fe0b6ea14e41e61448a5ff06db52958aa65816eff8b59b4bc1a3704ae87e9431"
+    },
+    {
+      "character": ")",
+      "codepoint": "U+0029",
+      "glyph": "parenright",
+      "source": "drawings/glyph-U0029.svg",
+      "advance": 353,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Mirrored115-unit center weight matches the opening parenthesis at both proof sizes. Neither side appears darker.",
+      "family": "curved enclosure",
+      "measurements": {
+        "center_width": 115
+      },
+      "recommendation": "retain",
+      "source_sha256": "463f329535367c87628f47bb3cc7dc127d5fccb394e99bffd0bfa7aba3f4bb1e"
+    },
+    {
+      "character": "*",
+      "codepoint": "U+002A",
+      "glyph": "asterisk",
+      "source": "drawings/glyph-U002A.svg",
+      "advance": 462,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Five equal rotational arms taper82→34units; the open center and negative wedges prevent the compact mark becoming a blot. All arms remain visible at24px.",
+      "family": "radial wedge",
+      "measurements": {
+        "arm_outer_width": 82,
+        "arm_inner_width": 34
+      },
+      "recommendation": "retain",
+      "source_sha256": "d7ffee42924f5774e59d773c78709933210ffae0ff8bf874513fed79e88baab5"
+    },
+    {
+      "character": "+",
+      "codepoint": "U+002B",
+      "glyph": "plus",
+      "source": "drawings/glyph-U002B.svg",
+      "advance": 582,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The36-unit cross reads evenly in horizontal and vertical directions. A thick letter-stem weight would make this functional sign visually intrusive.",
+      "family": "operator",
+      "measurements": {
+        "horizontal": 36,
+        "vertical": 36
+      },
+      "recommendation": "retain",
+      "source_sha256": "b7802267db18880bc1116d8dfad8a86ea387786d309ef938302857a1d59b0a4b"
+    },
+    {
+      "character": ",",
+      "codepoint": "U+002C",
+      "glyph": "comma",
+      "source": "drawings/glyph-U002C.svg",
+      "advance": 200,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The existing81-by80-unit head looks finer than needed in text. Candidate uses a92-unit head with equal45-degree sides and a restrained redrawn tail connection; endpoint and descender remain unchanged.",
+      "family": "dot and tail",
+      "measurements": {
+        "head_before_width": 81,
+        "head_before_height": 80,
+        "head_candidate_width": 92,
+        "head_candidate_height": 92,
+        "tail_bottom_svg_y": 915
+      },
+      "recommendation": "refine_proposed",
+      "source_sha256": "02db2ed90fbde5a6ecb8c82174a5522ee0b4c2d2953f3f1328346ef064444044",
+      "candidate_source": "weight-audit/marks/candidate-svg/glyph-U002C.svg",
+      "candidate_source_sha256": "2bb574d68ad5c524ed927b338e5f9b7c0549a53b189db3f3798fa7ec35231bb9",
+      "candidate_visual": "inspected and recommended; master integration pending"
+    },
+    {
+      "character": "-",
+      "codepoint": "U+002D",
+      "glyph": "hyphen",
+      "source": "drawings/glyph-U002D.svg",
+      "advance": 338,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Its short244-unit span needs a45-unit bar to remain legible. It is heavier than the longer39-unit dashes intentionally, with consistent perceived emphasis.",
+      "family": "horizontal separator",
+      "measurements": {
+        "bar": 45,
+        "length": 244
+      },
+      "recommendation": "retain",
+      "source_sha256": "f8b3f198eaed34d0cd508ec44f81c14586a9bd34a0d964d776d7fce51e894f34"
+    },
+    {
+      "character": ".",
+      "codepoint": "U+002E",
+      "glyph": "period",
+      "source": "drawings/glyph-U002E.svg",
+      "advance": 200,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The78-unit diamond has little visual presence at24px, especially in decimals. Enlarging to92 keeps the baseline point and center fixed, improving stop visibility without reaching the106-unit i/j dot weight.",
+      "family": "dot",
+      "measurements": {
+        "diameter_before": 78,
+        "diameter_candidate": 92,
+        "ink_area_before": 3042,
+        "ink_area_candidate": 4232,
+        "comparison_i_dot_diameter": 106
+      },
+      "recommendation": "refine_proposed",
+      "source_sha256": "e7becd09e703af2a6d777426649144b80b6c4efd8243259038710b8f835c5b3d",
+      "candidate_source": "weight-audit/marks/candidate-svg/glyph-U002E.svg",
+      "candidate_source_sha256": "fedd65c2ac91204c7d93ea1562335efeb72abf05e6c4e5d93a5d580a7a09b5b4",
+      "candidate_visual": "inspected and recommended; master integration pending"
+    },
+    {
+      "character": "/",
+      "codepoint": "U+002F",
+      "glyph": "slash",
+      "source": "drawings/glyph-U002F.svg",
+      "advance": 439,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The28.5-unit normal weight is deliberately a thin separator. It remains continuous in a/b, and parallels the backslash; matching bold letter diagonals would overemphasize it.",
+      "family": "thin diagonal",
+      "measurements": {
+        "perpendicular": 28.51
+      },
+      "recommendation": "retain",
+      "source_sha256": "5ee11eaa7b3ad55d323571ad4db7add94a847fc86a5d558b02099a180e1c0c08"
+    },
+    {
+      "character": ":",
+      "codepoint": "U+003A",
+      "glyph": "colon",
+      "source": "drawings/glyph-U003A.svg",
+      "advance": 218,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Equal78-unit diamonds are quiet beside numerals. Candidate92-unit diamonds preserve the lower baseline and upper439-unit SVG center, making12:30 clearer without closing the gap.",
+      "family": "dot",
+      "measurements": {
+        "diameter_before": 78,
+        "diameter_candidate": 92,
+        "upper_center_svg_y": 439,
+        "gap_candidate": 223
+      },
+      "recommendation": "refine_proposed",
+      "source_sha256": "31f942dd6ab898d190d1366ad7b0b3f4812571406cc20136b990b7b5c64790ef",
+      "candidate_source": "weight-audit/marks/candidate-svg/glyph-U003A.svg",
+      "candidate_source_sha256": "954d5201ba0e209a8cf246e45a8583de49363ab595c287b947dc8935b64ff881",
+      "candidate_visual": "inspected and recommended; master integration pending"
+    },
+    {
+      "character": ";",
+      "codepoint": "U+003B",
+      "glyph": "semicolon",
+      "source": "drawings/glyph-U003B.svg",
+      "advance": 218,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Both components were underweight with the period family. Candidate combines the92-unit upper dot and revised comma head; the tail remains distinct and does not add a dark bump.",
+      "family": "dot and tail",
+      "measurements": {
+        "upper_dot_before": 78,
+        "upper_dot_candidate": 92,
+        "comma_head_before_width": 81,
+        "comma_head_candidate_width": 92
+      },
+      "recommendation": "refine_proposed",
+      "source_sha256": "1d48645bcd1fa74e40f22819cc116cba8c4b753dd012f22d0133de32ec5a53a5",
+      "candidate_source": "weight-audit/marks/candidate-svg/glyph-U003B.svg",
+      "candidate_source_sha256": "904582aa8acbf15a1ae0c139967f8ed68bab3394ac444bc3d769471e11a460c6",
+      "candidate_visual": "inspected and recommended; master integration pending"
+    },
+    {
+      "character": "<",
+      "codepoint": "U+003C",
+      "glyph": "less",
+      "source": "drawings/glyph-U003C.svg",
+      "advance": 582,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The approximately34-unit arms match the35/36-unit straight operators perceptually. The central bevel prevents excess acute-corner mass.",
+      "family": "operator diagonal",
+      "measurements": {
+        "arm_perpendicular_approx": 33.99,
+        "central_vertical_bevel": 20
+      },
+      "recommendation": "retain",
+      "source_sha256": "c2484c12c6af76185983efa9576f15272732f7e910d5298d1175281143d355b8"
+    },
+    {
+      "character": "=",
+      "codepoint": "U+003D",
+      "glyph": "equal",
+      "source": "drawings/glyph-U003D.svg",
+      "advance": 582,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Both35-unit bars have identical thickness and remain distinct at24px; matching plus by apparent weight is more relevant than the thick letters.",
+      "family": "operator",
+      "measurements": {
+        "bar": 35
+      },
+      "recommendation": "retain",
+      "source_sha256": "a72a02279e03246f8df9382d76bb32c6b69c227fdb54ed87193173179c9e4b05"
+    },
+    {
+      "character": ">",
+      "codepoint": "U+003E",
+      "glyph": "greater",
+      "source": "drawings/glyph-U003E.svg",
+      "advance": 582,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The matching less-than construction keeps both arms near34units and appears equally dark. No independent adjustment is needed.",
+      "family": "operator diagonal",
+      "measurements": {
+        "arm_perpendicular_approx": 33.99,
+        "central_vertical_bevel": 20
+      },
+      "recommendation": "retain",
+      "source_sha256": "1a634605f2233532f2bdb96fd30657b79b3f91965bbcd44c803121a5f87f9289"
+    },
+    {
+      "character": "?",
+      "codepoint": "U+003F",
+      "glyph": "question",
+      "source": "drawings/glyph-U003F.svg",
+      "advance": 496,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The hook maintains thick/thin contrast. Its78-unit dot is too quiet under the broad curved head;92units improves balance and still leaves82units clearance below the hook.",
+      "family": "curve and dot",
+      "measurements": {
+        "dot_before": 78,
+        "dot_candidate": 92,
+        "hook_dot_clearance_candidate": 82
+      },
+      "recommendation": "refine_proposed",
+      "source_sha256": "0b4cc78023bb8804fc4363acf51febbe7e9f15fa8a16f4d46bf80a23c1d3d869",
+      "candidate_source": "weight-audit/marks/candidate-svg/glyph-U003F.svg",
+      "candidate_source_sha256": "6c4b62f819c1f40438eef7ec7a0f14b2c068f80982af72bfee8ab28bd0fd285e",
+      "candidate_visual": "inspected and recommended; master integration pending"
+    },
+    {
+      "character": "@",
+      "codepoint": "U+0040",
+      "glyph": "at",
+      "source": "drawings/glyph-U0040.svg",
+      "advance": 866,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The94-unit outer-left stroke,27-unit top and37-unit outer-right stroke create intentional contrast. The inner a has enough white counter, and @home does not show an unusually dark enclosure.",
+      "family": "spiral and internal letter",
+      "measurements": {
+        "outer_left_at_svg_y452": 94,
+        "outer_top": 27,
+        "outer_right_at_svg_y395": 37
+      },
+      "recommendation": "retain",
+      "source_sha256": "b2ac04bd6d2ff1306bc8bb6613060f3366666d3c98e80a3bebe3f8c300b205b6"
+    },
+    {
+      "character": "[",
+      "codepoint": "U+005B",
+      "glyph": "bracketleft",
+      "source": "drawings/glyph-U005B.svg",
+      "advance": 334,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The92-unit upright is deliberately lighter than the full letter stems;25-unit lips frame rather than compete with figures. Corners do not swell.",
+      "family": "rectilinear enclosure",
+      "measurements": {
+        "vertical": 92,
+        "horizontal_lips": 25
+      },
+      "recommendation": "retain",
+      "source_sha256": "47396c9ebfb58386750f1055cf571e2e8c39f73f5e4259488e9abebf0ce92211"
+    },
+    {
+      "character": "\\",
+      "codepoint": "U+005C",
+      "glyph": "backslash",
+      "source": "drawings/glyph-U005C.svg",
+      "advance": 439,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Mirrored slash shares28.5-unit normal thickness and is equally visible in contextual a\\b.",
+      "family": "thin diagonal",
+      "measurements": {
+        "perpendicular": 28.51
+      },
+      "recommendation": "retain",
+      "source_sha256": "aa0da1ac80a2201902cd467c521c8c3c47a9b55d55f46a491f91340a4b2a3b0f"
+    },
+    {
+      "character": "]",
+      "codepoint": "U+005D",
+      "glyph": "bracketright",
+      "source": "drawings/glyph-U005D.svg",
+      "advance": 334,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The92/25-unit upright/lip family matches the opening bracket, with no unevenness around10.",
+      "family": "rectilinear enclosure",
+      "measurements": {
+        "vertical": 92,
+        "horizontal_lips": 25
+      },
+      "recommendation": "retain",
+      "source_sha256": "4bf0b76ae864468cb731ecfe1176cf91b977516e8cae207a20f1b33266a8e809"
+    },
+    {
+      "character": "^",
+      "codepoint": "U+005E",
+      "glyph": "asciicircum",
+      "source": "drawings/glyph-U005E.svg",
+      "advance": 510,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The accent-like standalone chevron intentionally tapers to28-unit outer termini and a48-unit apex plateau. Both halves carry equal perceived mass; it should not be converted to a uniform ribbon.",
+      "family": "tapered chevron",
+      "measurements": {
+        "outer_terminal_span": 28,
+        "apex_plateau": 48
+      },
+      "recommendation": "retain",
+      "source_sha256": "a6f9b88b7b83f07c36ad3621b5a4823d95b1bfd30edffd74b1e8f4239216c6d4"
+    },
+    {
+      "character": "_",
+      "codepoint": "U+005F",
+      "glyph": "underscore",
+      "source": "drawings/glyph-U005F.svg",
+      "advance": 554,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The31-unit low bar is long enough to remain visible at24px and light enough to avoid competing with the baseline serifs.",
+      "family": "horizontal separator",
+      "measurements": {
+        "bar": 31,
+        "length": 510
+      },
+      "recommendation": "retain",
+      "source_sha256": "1eb09c90247644ddb54991a0fa0a85f5497978428cc7086d1c6e5c3ff353569a"
+    },
+    {
+      "character": "`",
+      "codepoint": "U+0060",
+      "glyph": "grave",
+      "source": "drawings/glyph-U0060.svg",
+      "advance": 300,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The92-unit broad end tapers to an approximately26.8-unit cut. The steep shape keeps adequate visible mass without looking like a bold diagonal stem.",
+      "family": "tapered accent",
+      "measurements": {
+        "broad_horizontal_end": 92,
+        "terminal_length": 26.83
+      },
+      "recommendation": "retain",
+      "source_sha256": "2cea8af878f21ac116eb437cd9d69545e123bf84f981f27e056a98ba60fe5d94"
+    },
+    {
+      "character": "{",
+      "codepoint": "U+007B",
+      "glyph": "braceleft",
+      "source": "drawings/glyph-U007B.svg",
+      "advance": 395,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The102-unit vertical segments and23/24-unit terminals/waist preserve contrast. The inward waist remains light with no accumulated knot at24px.",
+      "family": "curved enclosure",
+      "measurements": {
+        "vertical_segments": 102,
+        "top_bottom_terminal": 23,
+        "waist_terminal": 24
+      },
+      "recommendation": "retain",
+      "source_sha256": "22630db3d1e48e1ca2e7037dff3c5dde1ab6a588a35bdd84bbe995ea35e4ea7f"
+    },
+    {
+      "character": "|",
+      "codepoint": "U+007C",
+      "glyph": "bar",
+      "source": "drawings/glyph-U007C.svg",
+      "advance": 214,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "A32-unit vertical is appropriate to a separator and close to the slash/operator family, while remaining visible between figures.",
+      "family": "thin vertical separator",
+      "measurements": {
+        "vertical": 32
+      },
+      "recommendation": "retain",
+      "source_sha256": "669ab7ac5cff1d1f0cd110be1e019933a7dcab545d40ae306a6ecb246b1b83c1"
+    },
+    {
+      "character": "}",
+      "codepoint": "U+007D",
+      "glyph": "braceright",
+      "source": "drawings/glyph-U007D.svg",
+      "advance": 395,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Mirrored102-unit vertical segments and23/24-unit terminals match the opening brace perceptually at both sizes.",
+      "family": "curved enclosure",
+      "measurements": {
+        "vertical_segments": 102,
+        "top_bottom_terminal": 23,
+        "waist_terminal": 24
+      },
+      "recommendation": "retain",
+      "source_sha256": "c3b2784d7c663d867e358b086936a2c58dea96e8a32b95da90899d39c4c3bd29"
+    },
+    {
+      "character": "~",
+      "codepoint": "U+007E",
+      "glyph": "asciitilde",
+      "source": "drawings/glyph-U007E.svg",
+      "advance": 588,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The paired curves carry60-unit thickness at horizontal extrema, tapering toward the ends. This compensates for the compact curved shape; it looks balanced with other operators.",
+      "family": "curved operator",
+      "measurements": {
+        "thickness_at_horizontal_extrema": 60
+      },
+      "recommendation": "retain",
+      "source_sha256": "741f01b87ac1714c7cb49d2d7cb52e0b035deafb1793b80019d5431ee441b76a"
+    },
+    {
+      "character": "–",
+      "codepoint": "U+2013",
+      "glyph": "endash",
+      "source": "drawings/glyph-U2013.svg",
+      "advance": 570,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The486-unit bar uses39-unit thickness, maintaining visible text separation without the visual mass of a stem.",
+      "family": "horizontal separator",
+      "measurements": {
+        "bar": 39,
+        "length": 486
+      },
+      "recommendation": "retain",
+      "source_sha256": "79fdf035d5c628cd6732447c8f96228593ab8893a9212140d0de187f43ce8fe5"
+    },
+    {
+      "character": "—",
+      "codepoint": "U+2014",
+      "glyph": "emdash",
+      "source": "drawings/glyph-U2014.svg",
+      "advance": 1000,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The912-unit bar keeps the same39-unit stroke as en dash. Its longer span does not require adding stroke weight.",
+      "family": "horizontal separator",
+      "measurements": {
+        "bar": 39,
+        "length": 912
+      },
+      "recommendation": "retain",
+      "source_sha256": "c2321db8b0031a27977fa40fb03f6c4ce22a5bee4ef0885df25d2a0ffa4a391f"
+    },
+    {
+      "character": "‘",
+      "codepoint": "U+2018",
+      "glyph": "quoteleft",
+      "source": "drawings/glyph-U2018.svg",
+      "advance": 209,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The81-unit head plus long curved tail carries enough total ink in “Wedge” context. It may remain slightly smaller than the proposed92-unit full stop because its connected tail adds mass.",
+      "family": "curved quotation",
+      "measurements": {
+        "head_span": 81
+      },
+      "recommendation": "retain",
+      "source_sha256": "a4e03de163ab3dcc5b7c73e8e99c1183a022b6828442af0703d22da22c151a82"
+    },
+    {
+      "character": "’",
+      "codepoint": "U+2019",
+      "glyph": "quoteright",
+      "source": "drawings/glyph-U2019.svg",
+      "advance": 209,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Mirrored quotation weight remains visible over the lowercase ascenders; the tail adds mass missing from an isolated dot.",
+      "family": "curved quotation",
+      "measurements": {
+        "head_span": 81
+      },
+      "recommendation": "retain",
+      "source_sha256": "4b815b954cbc009a903e07a26176345c0e4fec4462058ba9fcd199cb284c55bf"
+    },
+    {
+      "character": "“",
+      "codepoint": "U+201C",
+      "glyph": "quotedblleft",
+      "source": "drawings/glyph-U201C.svg",
+      "advance": 380,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two repeated opening components share81-unit head span and171-unit separation. No dark cluster or vanishing mark is visible in24px text.",
+      "family": "curved quotation",
+      "measurements": {
+        "component_head_span": 81,
+        "component_offset": 171
+      },
+      "recommendation": "retain",
+      "source_sha256": "353698795e8f388ab741f78e78098d5db5617df83056d3f42352ac29b9045494"
+    },
+    {
+      "character": "”",
+      "codepoint": "U+201D",
+      "glyph": "quotedblright",
+      "source": "drawings/glyph-U201D.svg",
+      "advance": 380,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Closing pair shares single-quote construction and171-unit separation; both marks remain equally dark in the native proof.",
+      "family": "curved quotation",
+      "measurements": {
+        "component_head_span": 81,
+        "component_offset": 171
+      },
+      "recommendation": "retain",
+      "source_sha256": "d930ac1fa10aa615e7c2f9af843d75ab826d51e83f388e7b7ae46e48b098201f"
+    },
+    {
+      "character": "•",
+      "codepoint": "U+2022",
+      "glyph": "bullet",
+      "source": "drawings/glyph-U2022.svg",
+      "advance": 330,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The150-unit diamond deliberately exceeds punctuation size; its greater ink area communicates a separator. It remains distinct without overwhelming adjacent words.",
+      "family": "separator dot",
+      "measurements": {
+        "diameter": 150,
+        "ink_area": 11250
+      },
+      "recommendation": "retain",
+      "source_sha256": "d29ef7f284121fde34303d70b78a0d1d08687330466f160937efa198c22994ce"
+    },
+    {
+      "character": "…",
+      "codepoint": "U+2026",
+      "glyph": "ellipsis",
+      "source": "drawings/glyph-U2026.svg",
+      "advance": 600,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Three78-unit diamonds are fine enough to fade at24px. Three92-unit candidates preserve200-unit center spacing and baseline points, improving rhythm without merging into a bar.",
+      "family": "dot sequence",
+      "measurements": {
+        "diameter_before": 78,
+        "diameter_candidate": 92,
+        "center_spacing": 200
+      },
+      "recommendation": "refine_proposed",
+      "source_sha256": "7f4e65045715b5d96e56b60b092f24f298d4f92c99cb266ad0494c6c0e57dd7e",
+      "candidate_source": "weight-audit/marks/candidate-svg/glyph-U2026.svg",
+      "candidate_source_sha256": "6f1763b82d3b6e121bd4353ea7cbaaa7f950842ff923d87897852abeeaf7783e",
+      "candidate_visual": "inspected and recommended; master integration pending"
+    }
+  ],
+  "scope": "All41 encoded nondigit nonletter entries including space. Digits and letters belong to the other parallel audits. Source paths and compiled proofs inspected after generation.",
+  "context_proofs": [
+    {
+      "file": "context-56.png",
+      "font_size": 56,
+      "pixel_scale": 2
+    },
+    {
+      "file": "context-24.png",
+      "font_size": 24,
+      "pixel_scale": 1
+    }
+  ],
+  "candidate_proofs": [
+    {
+      "file": "compare-96.png",
+      "font_size": 96,
+      "pixel_scale": 2
+    },
+    {
+      "file": "compare-56.png",
+      "font_size": 56,
+      "pixel_scale": 2
+    },
+    {
+      "file": "compare-24.png",
+      "font_size": 24,
+      "pixel_scale": 1
+    }
+  ],
+  "candidate_font_sha256": "6ae5221aaa643e6eceff304de0e54809e6a1b58120ea625337a600740ab5e6aa",
+  "candidate_changed_glyphs": [
+    "colon",
+    "comma",
+    "ellipsis",
+    "exclam",
+    "period",
+    "question",
+    "semicolon"
+  ],
+  "candidate_invariants": {
+    "cmap_unchanged": true,
+    "advances_unchanged": true,
+    "GPOS_unchanged": true,
+    "GSUB_unchanged": true,
+    "all_other_outlines_unchanged": true
+  },
+  "candidate_validation": "Compiled successfully with no error/warning diagnostics. Informational FONT_LICENSE_UNSET only.",
+  "result": "Seven punctuation refinements recommended after compiled before/after comparison. Dollar refinement follows matching S proposal from capital audit. Other33 entries retained. No master edits made by this agent. This evidence supersedes prior blanket no-change mark review for the seven punctuation forms and dollar."
+}

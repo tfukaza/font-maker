@@ -1,0 +1,85 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "font-maker"
+version = "0.1.0"
+description = "A stateful MCP font workshop for agents, powered by FontForge."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
+authors = [{ name = "tfukaza" }]
+keywords = ["fontforge", "fonts", "mcp", "svg", "typography"]
+dependencies = [
+  "defusedxml>=0.7.1,<1",
+  "filelock>=3.20,<4",
+  "fonttools[woff]>=4.60,<5",
+  "mcp[cli]>=2.2,<3",
+  "pydantic>=2.12,<3",
+  "resvg>=0.2,<0.3",
+  "rich>=14.2,<15",
+  "ruamel-yaml>=0.18.16,<0.19",
+  "typer>=0.20,<1",
+  "uharfbuzz>=0.56,<0.57",
+]
+
+[project.optional-dependencies]
+dev = [
+  "hypothesis>=6.140,<7",
+  "mypy>=1.18,<2",
+  "pytest>=8.4,<9",
+  "pytest-asyncio>=1.2,<2",
+  "pytest-cov>=7,<8",
+  "pyyaml>=6.0,<7",
+  "ruff>=0.14,<1",
+]
+
+[project.scripts]
+fontmaker = "font_maker.cli:main"
+fontmaker-mcp = "font_maker.mcp_server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/font_maker"]
+
+[tool.hatch.build]
+artifacts = ["src/font_maker/ui/font-designer.html"]
+exclude = [
+  "/.hypothesis",
+  "/.mypy_cache",
+  "/.pytest_cache",
+  "/.ruff_cache",
+  "/.uv-cache",
+  "/.venv",
+  "/dist",
+  "/node_modules",
+  "/playwright-report",
+  "/test-results",
+]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+extend-exclude = [".uv-cache"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+packages = ["font_maker"]
+exclude = ["src/font_maker/fontforge_driver.py"]
+
+[[tool.mypy.overrides]]
+module = ["defusedxml.*", "fontTools.*", "resvg.*", "uharfbuzz"]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+addopts = "-ra --strict-markers"
+testpaths = ["tests"]
+markers = [
+  "fontforge: requires a working FontForge executable",
+]

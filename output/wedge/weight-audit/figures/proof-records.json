@@ -1,0 +1,160 @@
+[
+  {
+    "proof": "seven-options",
+    "font_size": 110,
+    "pixel_scale": 2,
+    "rows": [
+      {
+        "label": "Before \u2014 original",
+        "text": "0123456789",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/revisions/before-weight-audit/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f"
+      },
+      {
+        "label": "A \u2014 diagonal 116, top bar 109",
+        "text": "0123456789",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-A/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "35df97c0053c1734e2942efc29abd3ba4cbb6cdde95b31c675d5a6624f3a275b"
+      },
+      {
+        "label": "B \u2014 diagonal 116, top bar 92",
+        "text": "0123456789",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-B/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "b08a0f8fd091cb535565fc8fefd93dc3d25c25fbf9099b10473eb4f9c06398cf"
+      },
+      {
+        "label": "C \u2014 diagonal 108, top bar 92",
+        "text": "0123456789",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-C/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "e16d399b69d28d08d1a300a6c1b0c19784414c87216ce36c64c5bf678b35d4ae"
+      }
+    ]
+  },
+  {
+    "proof": "seven-detail",
+    "font_size": 170,
+    "pixel_scale": 2,
+    "rows": [
+      {
+        "label": "Before",
+        "text": "147 777",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/revisions/before-weight-audit/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f"
+      },
+      {
+        "label": "A",
+        "text": "147 777",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-A/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "35df97c0053c1734e2942efc29abd3ba4cbb6cdde95b31c675d5a6624f3a275b"
+      },
+      {
+        "label": "B",
+        "text": "147 777",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-B/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "b08a0f8fd091cb535565fc8fefd93dc3d25c25fbf9099b10473eb4f9c06398cf"
+      },
+      {
+        "label": "C",
+        "text": "147 777",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-C/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "e16d399b69d28d08d1a300a6c1b0c19784414c87216ce36c64c5bf678b35d4ae"
+      }
+    ]
+  },
+  {
+    "proof": "seven-native",
+    "font_size": 24,
+    "pixel_scale": 1,
+    "rows": [
+      {
+        "label": "Before",
+        "text": "0123456789 17:47 $77.70 777",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/revisions/before-weight-audit/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f"
+      },
+      {
+        "label": "A",
+        "text": "0123456789 17:47 $77.70 777",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-A/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "35df97c0053c1734e2942efc29abd3ba4cbb6cdde95b31c675d5a6624f3a275b"
+      },
+      {
+        "label": "B",
+        "text": "0123456789 17:47 $77.70 777",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-B/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "b08a0f8fd091cb535565fc8fefd93dc3d25c25fbf9099b10473eb4f9c06398cf"
+      },
+      {
+        "label": "C",
+        "text": "0123456789 17:47 $77.70 777",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-C/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "e16d399b69d28d08d1a300a6c1b0c19784414c87216ce36c64c5bf678b35d4ae"
+      }
+    ]
+  },
+  {
+    "proof": "figure-baseline-1",
+    "font_size": 110,
+    "pixel_scale": 2,
+    "rows": [
+      {
+        "label": "Current figures \u2014 0.112",
+        "text": "0011223344",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/revisions/before-weight-audit/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f"
+      }
+    ]
+  },
+  {
+    "proof": "figure-baseline-2",
+    "font_size": 110,
+    "pixel_scale": 2,
+    "rows": [
+      {
+        "label": "Current figures \u2014 0.112",
+        "text": "5566778899",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/revisions/before-weight-audit/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f"
+      }
+    ]
+  },
+  {
+    "proof": "figure-baseline-3",
+    "font_size": 110,
+    "pixel_scale": 2,
+    "rows": [
+      {
+        "label": "Current figures \u2014 0.112",
+        "text": "H1H 147 471 714",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/revisions/before-weight-audit/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f"
+      }
+    ]
+  },
+  {
+    "proof": "figure-baseline-4",
+    "font_size": 110,
+    "pixel_scale": 2,
+    "rows": [
+      {
+        "label": "Current figures \u2014 0.112",
+        "text": "06 68 89 98 23 35",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/revisions/before-weight-audit/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f"
+      }
+    ]
+  },
+  {
+    "proof": "figure-baseline-5",
+    "font_size": 110,
+    "pixel_scale": 2,
+    "rows": [
+      {
+        "label": "Current figures \u2014 0.112",
+        "text": "Edition 07 / 17.09.2026",
+        "font": "/Users/tomokif/code/font-maker/output/wedge/revisions/before-weight-audit/build/fonts/HakilandDisplay-Regular.ttf",
+        "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f"
+      }
+    ]
+  }
+]

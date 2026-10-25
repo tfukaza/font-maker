@@ -1,0 +1,45 @@
+{
+  "project": {
+    "path": "/Users/tomokif/code/font-maker/output/wedge/review-pass-2/ligatures/trial-project",
+    "project_id": "26be0789-0723-4b5a-bc6c-995040d9e03a",
+    "revision": "5727fc10af285e0ad0f24fefe2bf60bbdba86c6a1ce7dbbf271d2516d4c0f0af",
+    "family_name": "Hakiland Display Ligature Spacing Study",
+    "style_name": "Regular",
+    "glyph_count": 103,
+    "kerning_pair_count": 125,
+    "ligature_count": 0,
+    "capabilities": {
+      "font_maker_version": "0.1.0",
+      "fontforge": {
+        "available": true,
+        "executable": "/opt/homebrew/bin/fontforge",
+        "version": "20251009",
+        "required_version": "20251009",
+        "compatible": true,
+        "license": "GPL-3.0-or-later",
+        "credit": "FontForge by George Williams and the FontForge contributors",
+        "source": "https://github.com/fontforge/fontforge/tree/20251009"
+      },
+      "formats": [
+        "ttf",
+        "otf",
+        "woff2"
+      ],
+      "transport": "stdio"
+    }
+  },
+  "revision": "1a4d8b04a1cbf21c1788f661d54dd52fe25f368d8f6bf836433ad5098354222e",
+  "font": "/Users/tomokif/code/font-maker/output/wedge/review-pass-2/ligatures/trial-project/build/fonts/HakilandDisplayLigatureSpacingStudy-Regular.ttf",
+  "sha256": "6607742266a9481c1ef658bf88e4dbcba7c5ae4e7ce3bc42f2aee2cd5ecc99cc",
+  "scoped_differences": {
+    "family": "isolated study",
+    "kerning": {
+      "fb": 24,
+      "fh": 24,
+      "fk": 24,
+      "fl": 24
+    }
+  },
+  "outlines_and_metrics_identical": true,
+  "ligatures": 0
+}

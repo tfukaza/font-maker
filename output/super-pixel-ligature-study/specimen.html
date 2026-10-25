@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Super Pixel — Ligature laboratory</title>
+<style>
+:root{color:#192127;background:#edf2f5;font:16px/1.5 system-ui,sans-serif}
+*{box-sizing:border-box}body{margin:0}main{max-width:1120px;margin:auto;padding:36px}
+h1{font-size:24px;margin:0}h2{font-size:18px;margin:0 0 12px}p{max-width:76ch}
+.intro{color:#475964;margin-bottom:28px}.controls{display:flex;gap:24px;flex-wrap:wrap;align-items:center}
+label{display:flex;gap:8px;align-items:center}input{accent-color:#1759a7}
+textarea{width:100%;min-height:210px;background:white;color:inherit;border:1px solid #b0c2ce;
+padding:24px;resize:vertical;font:64px/1.4 Study;letter-spacing:0;margin-top:16px}
+.font{font-family:Study;font-weight:400;letter-spacing:0;overflow-wrap:anywhere}
+.off{font-feature-settings:'kern' 1,'liga' 0,'dlig' 0}.on{font-feature-settings:'kern' 1,'liga' 0,'dlig' 1}
+.pair{margin-top:32px;padding:24px;background:white}.compare{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.sample{font-size:48px;line-height:1.6}.label{font-size:13px;color:#475964}.note{margin:12px 0 0;color:#475964}
+.status{font-size:14px}a{color:#1759a7}button{padding:8px 14px;border:1px solid #1759a7;background:white;color:#1759a7;font:inherit}
+:focus-visible{outline:3px solid #1759a7;outline-offset:3px}footer{margin-top:36px;font-size:12px;overflow-wrap:anywhere}
+body.loading .font,body.loading textarea{visibility:hidden}
+@media(max-width:650px){main{padding:20px}.compare{grid-template-columns:1fr}.sample{font-size:40px}textarea{padding:12px}}
+</style>
+<body class="loading"><main>
+<h1>Super Pixel: ligature laboratory</h1>
+<p class="intro">Five original experiments. The released font is unchanged. The shared crossbars are the strongest candidates; the nested ra and emblem-like oo remain exploratory.</p>
+<p id="load" role="status">Loading the embedded study font…</p>
+<section><h2>Try your own words</h2>
+<div class="controls">
+<label>Size <input id="size" type="range" min="16" max="120" value="64"><output id="sizeLabel">64 px</output></label>
+<label><input id="kern" type="checkbox" checked>Kerning</label>
+<label><input id="dlig" type="checkbox">Experimental ligatures (dlig)</label>
+<button id="reset" type="button">Reset text</button>
+</div>
+<textarea id="tester" aria-label="Type to test the study font" spellcheck="false">Factory letter system
+rare loop moon</textarea>
+<p id="coverage" class="status" aria-live="polite"></p>
+<p class="note">The toggle enables ct, tt, st, ra, and oo together. No standard ligatures are configured. Unsupported characters are flagged; their fallback appearance is not part of this font.</p>
+</section>
+<div id="pairs"></div>
+<section class="pair"><h2>Character coverage</h2><div id="inventory" class="font off sample"></div></section>
+<footer>
+<p>Exploratory font downloads: <a href="project/build/fonts/SuperPixelLigatureStudy-Regular.ttf" download>TTF</a> · <a href="project/build/fonts/SuperPixelLigatureStudy-Regular.otf" download>OTF</a> · <a href="project/build/fonts/SuperPixelLigatureStudy-Regular.woff2" download>WOFF2</a></p>
+<p id="metadata"></p><p>Built with Font Maker and FontForge. These are project-original outlines, not derived from an existing font set.</p>
+</footer>
+</main>
+<script>
+const data={"font": "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", "codepoints": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 8211, 8212, 8216, 8217, 8220, 8221, 8226, 8230], "revision": "d5d1cdffea718bb708770cadfc6c52e466a7fbda7d30f7a48964b7afe094f1cc", "sha256": "b496252254e0917b452a9ddcca56f9a65afbf8bed42fad9fb1d981286c6a832f", "candidates": [{"sequence": "ct", "words": "Factory actor", "verdict": "Readable in words, but the enclosed top can feel d-like at small size."}, {"sequence": "tt", "words": "letter little", "verdict": "Strong candidate: two ascenders and separate feet preserve both letters."}, {"sequence": "st", "words": "system pasta", "verdict": "Promising: a shared upper rail with a recognizable s and distinct t."}, {"sequence": "ra", "words": "rare graphic", "verdict": "Not recommended in this form: the join closes the a's upper opening."}, {"sequence": "oo", "words": "loop moon", "verdict": "Emblem-like experiment: two counters become a compact spectacles shape."}]};
+const tester=document.querySelector('#tester'),size=document.querySelector('#size'),kern=document.querySelector('#kern'),dlig=document.querySelector('#dlig');
+const initial=tester.value,supported=new Set(data.codepoints);
+function update(){tester.style.fontSize=size.value+'px';document.querySelector('#sizeLabel').textContent=size.value+' px';tester.style.fontFeatureSettings='"kern" '+Number(kern.checked)+',"liga" 0,"dlig" '+Number(dlig.checked);tester.style.fontKerning=kern.checked?'normal':'none';const missing=[...new Set([...tester.value].filter(c=>!supported.has(c.codePointAt(0))&&!['\n','\r','\t'].includes(c)))];document.querySelector('#coverage').textContent=missing.length?'Not drawn: '+missing.join(' '):'All characters in this text are supported.';}
+for(const el of [tester,size,kern,dlig])el.addEventListener('input',update);
+document.querySelector('#reset').onclick=()=>{tester.value=initial;update()};
+for(const item of data.candidates){const section=document.createElement('section');section.className='pair';const title=document.createElement('h2');title.textContent=item.sequence;section.append(title);const compare=document.createElement('div');compare.className='compare';for(const [label,setting] of [['Ordinary','off'],['Experiment','on']]){const col=document.createElement('div'),caption=document.createElement('div'),sample=document.createElement('div');caption.className='label';caption.textContent=label;sample.className='font sample '+setting;sample.textContent=item.words;col.append(caption,sample);compare.append(col)}section.append(compare);const note=document.createElement('p');note.className='note';note.textContent=item.verdict;section.append(note);const link=document.createElement('a');link.href='proofs/'+item.sequence+'-64.png';link.textContent='High-resolution three-way comparison';section.append(link);document.querySelector('#pairs').append(section)}
+document.querySelector('#inventory').textContent=data.codepoints.filter(cp=>cp!==32).map(cp=>String.fromCodePoint(cp)).join('');
+document.querySelector('#metadata').textContent='Family: Super Pixel Ligature Study. Source revision: '+data.revision+'. Embedded WOFF2 SHA-256: '+data.sha256+'.';
+new FontFace('Study','url(data:font/woff2;base64,'+data.font+')').load().then(font=>{document.fonts.add(font);document.body.classList.remove('loading');document.querySelector('#load').textContent='Study font loaded locally. No network font requests.'}).catch(()=>{document.querySelector('#load').textContent='Font failed to load. Open a fresh copy of this specimen; font previews are hidden.'});update();
+</script>
+</body></html>

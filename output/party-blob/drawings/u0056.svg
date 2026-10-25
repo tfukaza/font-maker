@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 1070"
+     width="1000" height="1070"
+     data-fontmaker-family="Snap Syrup"
+     data-fontmaker-upm="1000"
+     data-fontmaker-baseline-y="800">
+  <title>Snap Syrup shared glyph template</title>
+  <desc>Draw filled outlines only inside #glyph. Do not crop or move the baseline.</desc>
+  <g id="fontmaker-guides" data-fontmaker-ignore="true"
+     fill="none" stroke-width="1" vector-effect="non-scaling-stroke">
+    <line id="ascender-guide" x1="0" x2="1000" y1="0" y2="0" stroke="#8b5cf6" opacity="0.45"/>
+    <line id="cap-height-guide" x1="0" x2="1000" y1="80" y2="80" stroke="#3b82f6" opacity="0.45"/>
+    <line id="x-height-guide" x1="0" x2="1000" y1="380" y2="380" stroke="#10b981" opacity="0.45"/>
+    <line id="baseline" data-fontmaker-baseline="true" x1="0" x2="1000" y1="800" y2="800" stroke="#ef4444" stroke-width="2"/>
+    <line id="descender-guide" x1="0" x2="1000" y1="1070" y2="1070" stroke="#f59e0b" opacity="0.45"/>
+  </g>
+  <g id="glyph" fill="#000000"><path d="M50 92 C105 66 167 112 187 174 C211 249 214 356 247 460 C270 535 304 613 349 667 C422 523 441 370 451 248 C460 153 498 85 549 83 C605 80 625 129 595 190 C550 282 501 361 466 467 C423 597 411 719 352 788 C321 825 280 822 238 779 C163 701 141 544 119 413 C99 291 67 221 38 174 C14 135 23 105 50 92 Z"/></g>
+</svg>

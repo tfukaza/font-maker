@@ -1,0 +1,1668 @@
+schema_version: 1
+project_id: dedadf02-2f48-4857-b209-8a5294efd994
+font:
+  family_name: Hakiland Display
+  style_name: Regular
+  version: '0.113'
+metrics:
+  units_per_em: 1000
+  ascender: 800
+  cap_height: 700
+  x_height: 470
+  baseline: 0
+  descender: -240
+  line_gap: 70
+svg:
+  view_box:
+    - 0.0
+    - 0.0
+    - 1000.0
+    - 1040.0
+  y_axis: down
+  baseline_y: 800.0
+  scale: 1.0
+  translate_x: 0.0
+  translate_y: 0.0
+references:
+  concept: references/codex-clipboard-9b9d5222-0485-40e2-b46a-a99d6d1fe063.png
+glyphs:
+  H:
+    source: 
+      glyphs/44bd7ae60f478fae1061e11a7739f4b94d1daf917982d33b6fc8a01a63f89c21.svg
+    codepoints:
+      - U+0048
+    advance_width: 730
+  O:
+    source: 
+      glyphs/c4694f2e93d5c4e7d51f9c5deb75e6cc8be5e1114178c6a45b6fc2c566a0aa8c.svg
+    codepoints:
+      - U+004F
+    advance_width: 730
+  n:
+    source: 
+      glyphs/1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9.svg
+    codepoints:
+      - U+006E
+    advance_width: 586
+  o:
+    source: 
+      glyphs/65c74c15a686187bb6bbf9958f494fc6b80068034a659a9ad44991b08c58f2d2.svg
+    codepoints:
+      - U+006F
+    advance_width: 558
+  A:
+    source: 
+      glyphs/559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd.svg
+    codepoints:
+      - U+0041
+    advance_width: 740
+  V:
+    source: 
+      glyphs/de5a6f78116eca62d7fc5ce159d23ae6b889b365a1739ad2cf36f925a140d0cc.svg
+    codepoints:
+      - U+0056
+    advance_width: 738
+  Q:
+    source: 
+      glyphs/4ae81572f06e1b88fd5ced7a1a000945432e83e1551e6f721ee9c00b8cc33260.svg
+    codepoints:
+      - U+0051
+    advance_width: 770
+  i:
+    source: 
+      glyphs/de7d1b721a1e0632b7cf04edf5032c8ecffa9f9a08492152b926f1a5a7e765d7.svg
+    codepoints:
+      - U+0069
+    advance_width: 274
+  l:
+    source: 
+      glyphs/acac86c0e609ca906f632b0e2dacccb2b77d22b0621f20ebece1a4835b93f6f0.svg
+    codepoints:
+      - U+006C
+    advance_width: 274
+  j:
+    source: 
+      glyphs/189f40034be7a199f1fa9891668ee3ab6049f82d38c68be70f596eab2e1857b7.svg
+    codepoints:
+      - U+006A
+    advance_width: 286
+  a:
+    source: 
+      glyphs/ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.svg
+    codepoints:
+      - U+0061
+    advance_width: 547
+    left_side_bearing: 60
+  p:
+    source: 
+      glyphs/148de9c5a7a44d19e56cd9ae1a554bf67847afb0c58f6e12fa29ac7ddfca9940.svg
+    codepoints:
+      - U+0070
+    advance_width: 582
+  r:
+    source: 
+      glyphs/454349e422f05297191ead13e21d3db520e5abef52055e4964b82fb213f593a1.svg
+    codepoints:
+      - U+0072
+    advance_width: 438
+  g:
+    source: 
+      glyphs/cd0aa9856147b6c5b4ff2b7dfee5da20aa38253099ef1b4a64aced233c9afe29.svg
+    codepoints:
+      - U+0067
+    advance_width: 558
+  space:
+    source: 
+      glyphs/3f49dbbfe051cb20cc038923424fedf8d18307cc805e1520e4168e9360e2eb38.svg
+    codepoints:
+      - U+0020
+    advance_width: 255
+  exclam:
+    source: 
+      glyphs/2ea8c4c32450789ed16fb0183f18f07b3ec5a0d49d12bff2b8290e91a17c4f3d.svg
+    codepoints:
+      - U+0021
+    advance_width: 253
+  quotedbl:
+    source: 
+      glyphs/5b5fe02d044cc8200758114c69d3652f5dd65d5d0aa3b31910ec798e22334b28.svg
+    codepoints:
+      - U+0022
+    advance_width: 378
+  numbersign:
+    source: 
+      glyphs/8be60576413cda247019af8d68f7ec1e4755ce3cfc1f810593ce1f89003d1573.svg
+    codepoints:
+      - U+0023
+    advance_width: 620
+  dollar:
+    source: 
+      glyphs/588d2c1d1f23963e1647ea4fb720eec44b113b82d057156b970e96df9a1be810.svg
+    codepoints:
+      - U+0024
+    advance_width: 613
+  percent:
+    source: 
+      glyphs/fd86717aca41c558c78c19ab2b50691179a57ba5200bc7e3317be70efd4043ad.svg
+    codepoints:
+      - U+0025
+    advance_width: 766
+  ampersand:
+    source: 
+      glyphs/5bc235f3389438623923ba41cba9ef3e84cc5a013dc4e44011f736aca9def866.svg
+    codepoints:
+      - U+0026
+    advance_width: 760
+  quotesingle:
+    source: 
+      glyphs/bfcf61274866cd59d8a46f36755f4e19acfa66946c04b23c4332244385c1007a.svg
+    codepoints:
+      - U+0027
+    advance_width: 207
+  parenleft:
+    source: 
+      glyphs/54642681f60379bc576510d67a4e3e4bade7354d2fd9e2a73e336cfdd7e7e575.svg
+    codepoints:
+      - U+0028
+    advance_width: 353
+  parenright:
+    source: 
+      glyphs/21a254bd992815f5ab739047abc12e71eaed206b5f9d2c5f5d9dba85431cfcc0.svg
+    codepoints:
+      - U+0029
+    advance_width: 353
+  asterisk:
+    source: 
+      glyphs/e88b582743998b75b68b2611bc4e3d9d0112020d8859e879300c825cd003800e.svg
+    codepoints:
+      - U+002A
+    advance_width: 462
+  plus:
+    source: 
+      glyphs/383ef36928344f56ffe8fe23ceed2ad8c0db8ec222c5f56c47163747dc738a0e.svg
+    codepoints:
+      - U+002B
+    advance_width: 582
+  comma:
+    source: 
+      glyphs/f36a4e58670569181595399beec37e22c3dba2d8d2abd191b86602a16c23289c.svg
+    codepoints:
+      - U+002C
+    advance_width: 200
+  hyphen:
+    source: 
+      glyphs/022fc763cb64892377e7cc52674f90bfc3243896372046352f9e8236dc9d6bdf.svg
+    codepoints:
+      - U+002D
+    advance_width: 338
+  period:
+    source: 
+      glyphs/514cb13f603464f97849ba88d2d4f9698003a9323de9b7a3d162ef76f6998122.svg
+    codepoints:
+      - U+002E
+    advance_width: 200
+  slash:
+    source: 
+      glyphs/939d59d1285efa522f3964451c00cbfea1e22d19a6769b9aa00317fecd681e93.svg
+    codepoints:
+      - U+002F
+    advance_width: 439
+  zero:
+    source: 
+      glyphs/f9194e73f9e9459e3450ea10a179cdf77aafa695beecd3b9344a98d111622243.svg
+    codepoints:
+      - U+0030
+    advance_width: 580
+  one:
+    source: 
+      glyphs/7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed.svg
+    codepoints:
+      - U+0031
+    advance_width: 378
+  two:
+    source: 
+      glyphs/3fc4ccfe745870e2c0d99f71f30ff0656c8dedd41cc1d7d3d376b0dbe685e2f3.svg
+    codepoints:
+      - U+0032
+    advance_width: 559
+  three:
+    source: 
+      glyphs/8b5b9db0c13db24256c829aa364aa90c6d2eba318b9232a4ab9313b954d3555f.svg
+    codepoints:
+      - U+0033
+    advance_width: 552
+  four:
+    source: 
+      glyphs/04efaf080f5a3e74e1c29d1ca6a48569382cbbcd324e8d59d2b83ef21c039f00.svg
+    codepoints:
+      - U+0034
+    advance_width: 582
+  five:
+    source: 
+      glyphs/222b0bd51fcef7e65c2e62db2ed65457013bab56be6fafeb19ee11d453153c80.svg
+    codepoints:
+      - U+0035
+    advance_width: 549
+  six:
+    source: 
+      glyphs/44778d82365e4af681c40d5f0eef5cf6f5899d3f0ac335050a7ed6779cf3f674.svg
+    codepoints:
+      - U+0036
+    advance_width: 570
+  seven:
+    source: 
+      glyphs/3ba8d02b16fd2a01c1a8ba1a1f036d7ce386ed953696fa57331c2ac48a80b255.svg
+    codepoints:
+      - U+0037
+    advance_width: 546
+  eight:
+    source: 
+      glyphs/c195d2d8756234367242ba7616c5c60369bc25ced2dcb5b92808d31b58ef217a.svg
+    codepoints:
+      - U+0038
+    advance_width: 572
+  nine:
+    source: 
+      glyphs/edcd8e701a2df0cd66a39bae6aa156cf16fe2b9653ef65f7d31742e2352421e4.svg
+    codepoints:
+      - U+0039
+    advance_width: 570
+  colon:
+    source: 
+      glyphs/70bdae49483e37d0af32b9744687346938f38f56e5c3486b4638795180082bbe.svg
+    codepoints:
+      - U+003A
+    advance_width: 218
+  semicolon:
+    source: 
+      glyphs/1e69fcfadd9d966848126920db1d5abf1672e23e7b43f482553e04353252b084.svg
+    codepoints:
+      - U+003B
+    advance_width: 218
+  less:
+    source: 
+      glyphs/4fdd3b6201a22c7814d6e67dbb7a17790224ea0fd32ef0a0ccb0a5485eae4c9d.svg
+    codepoints:
+      - U+003C
+    advance_width: 582
+  equal:
+    source: 
+      glyphs/f9d6cd1ed5cf1ead7b54873537748e0daa8f1390cd61555b68089fca063444f3.svg
+    codepoints:
+      - U+003D
+    advance_width: 582
+  greater:
+    source: 
+      glyphs/08996f19af92547a1dc91f2d7838d15fd5e2b1064d5f746cffa2968625646903.svg
+    codepoints:
+      - U+003E
+    advance_width: 582
+  question:
+    source: 
+      glyphs/1f5087db919ced5c123c7f507d3fcce818cb0cf6e77c2f95a8a35e951e03fdb9.svg
+    codepoints:
+      - U+003F
+    advance_width: 496
+  at:
+    source: 
+      glyphs/b1d6b91b67c2afa5e322988d9462638d354ddf8a1ef79dba987f815c22b4baee.svg
+    codepoints:
+      - U+0040
+    advance_width: 866
+  B:
+    source: 
+      glyphs/df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c.svg
+    codepoints:
+      - U+0042
+    advance_width: 670
+  C:
+    source: 
+      glyphs/6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d.svg
+    codepoints:
+      - U+0043
+    advance_width: 717
+  D:
+    source: 
+      glyphs/3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43.svg
+    codepoints:
+      - U+0044
+    advance_width: 736
+  E:
+    source: 
+      glyphs/a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58.svg
+    codepoints:
+      - U+0045
+    advance_width: 654
+  F:
+    source: 
+      glyphs/f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9.svg
+    codepoints:
+      - U+0046
+    advance_width: 607
+  G:
+    source: 
+      glyphs/333e0a1e27815d0ceee55c473fe3dc93d56c63e3bee2b3b4aee8eed6d70191a3.svg
+    codepoints:
+      - U+0047
+    advance_width: 754
+  I:
+    source: 
+      glyphs/a83dd0ccbffe39d071cc317ddf6e97f5c6b1c87af91919271f9fa140b0508c6c.svg
+    codepoints:
+      - U+0049
+    advance_width: 304
+  J:
+    source: 
+      glyphs/6da43b944e494e885e69af021f93c6d9331c78aa228084711429160a5bbd15b5.svg
+    codepoints:
+      - U+004A
+    advance_width: 463
+  K:
+    source: 
+      glyphs/86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.svg
+    codepoints:
+      - U+004B
+    advance_width: 725
+  L:
+    source: 
+      glyphs/72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa.svg
+    codepoints:
+      - U+004C
+    advance_width: 633
+  M:
+    source: 
+      glyphs/08f271887ce94707da822d5263bae19d5519cb3614e0daedc4c7ce5dab7473f1.svg
+    codepoints:
+      - U+004D
+    advance_width: 890
+  N:
+    source: 
+      glyphs/8ce86a6ae65d3692e7305e2c58ac62eebd97d3d943e093f577da25c36988246b.svg
+    codepoints:
+      - U+004E
+    advance_width: 768
+  P:
+    source: 
+      glyphs/5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.svg
+    codepoints:
+      - U+0050
+    advance_width: 650
+  R:
+    source: 
+      glyphs/8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac.svg
+    codepoints:
+      - U+0052
+    advance_width: 724
+  S:
+    source: 
+      glyphs/8de0b3c47f112c59745f717a626932264c422a7563954872e237b223af4ad643.svg
+    codepoints:
+      - U+0053
+    advance_width: 613
+  T:
+    source: 
+      glyphs/e632b7095b0bf32c260fa4c539e9fd7b852d0de454e9be26f24d0d6f91d069d3.svg
+    codepoints:
+      - U+0054
+    advance_width: 690
+  U:
+    source: 
+      glyphs/a25513c7e0f6eaa80a3337ee18081b9e2ed09e00af8531c8f7bb2542764027e7.svg
+    codepoints:
+      - U+0055
+    advance_width: 746
+  W:
+    source: 
+      glyphs/fcb5f40df9be6bae66c1d77a6c15968866a9e6cbd7314ca432b019d17392f6f4.svg
+    codepoints:
+      - U+0057
+    advance_width: 1020
+  X:
+    source: 
+      glyphs/4b68ab3847feda7d6c62c1fbcbeebfa35eab7351ed5e78f4ddadea5df64b8015.svg
+    codepoints:
+      - U+0058
+    advance_width: 728
+  Y:
+    source: 
+      glyphs/18f5384d58bcb1bba0bcd9e6a6781d1a6ac2cc280c330ecbab6cb7931b721552.svg
+    codepoints:
+      - U+0059
+    advance_width: 706
+  Z:
+    source: 
+      glyphs/bbeebd879e1dff6918546dc0c179fdde505f2a21591c9a9c96e36b054ec5af83.svg
+    codepoints:
+      - U+005A
+    advance_width: 663
+  bracketleft:
+    source: 
+      glyphs/67fa340aa71aaab25ef28298fea8ff71ca6ce6ee5135d6c573942b4028133dce.svg
+    codepoints:
+      - U+005B
+    advance_width: 334
+  backslash:
+    source: 
+      glyphs/dcc8bea64340a9d9a29f443dae6a680eb612e746106ecf2760235a7e3328477b.svg
+    codepoints:
+      - U+005C
+    advance_width: 439
+  bracketright:
+    source: 
+      glyphs/1eea5ae16dd27d964438a0f4a13f676a0d1e4cf2e1962ccc92cd6f66e25e2f9a.svg
+    codepoints:
+      - U+005D
+    advance_width: 334
+  asciicircum:
+    source: 
+      glyphs/5368c9aec552324502e74782a269676fc62cc930f8fe95c8dfa5b94075f14c6d.svg
+    codepoints:
+      - U+005E
+    advance_width: 510
+  underscore:
+    source: 
+      glyphs/40321bd36a95181f24647a34ee65297fd80a88d7c98b31c96efe0db43867a0e5.svg
+    codepoints:
+      - U+005F
+    advance_width: 554
+  grave:
+    source: 
+      glyphs/ebefe184171f13e8bf0fdc97799d6e005b1980b7fe74569fff151d244d0619a4.svg
+    codepoints:
+      - U+0060
+    advance_width: 300
+  b:
+    source: 
+      glyphs/3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d.svg
+    codepoints:
+      - U+0062
+    advance_width: 582
+  c:
+    source: 
+      glyphs/2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6.svg
+    codepoints:
+      - U+0063
+    advance_width: 506
+  d:
+    source: 
+      glyphs/18ac3e7343f016890c510e93f935261169d9e3f565436429830faf0934f4f8e4.svg
+    codepoints:
+      - U+0064
+    advance_width: 582
+  e:
+    source: 
+      glyphs/3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea.svg
+    codepoints:
+      - U+0065
+    advance_width: 531
+  f:
+    source: 
+      glyphs/252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111.svg
+    codepoints:
+      - U+0066
+    advance_width: 363
+  h:
+    source: 
+      glyphs/aaa9402664f1a41f40ebbc52c9993eb66aeb366602958fdfaa283b71e64db123.svg
+    codepoints:
+      - U+0068
+    advance_width: 586
+  k:
+    source: 
+      glyphs/8254c329a92850f6d539dd376f4816ee2764517da5e0235514af433164480d7a.svg
+    codepoints:
+      - U+006B
+    advance_width: 562
+  m:
+    source: 
+      glyphs/62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a.svg
+    codepoints:
+      - U+006D
+    advance_width: 858
+  q:
+    source: 
+      glyphs/8e35c2cd3bf6641bdb0e2050b76932cbb2e6034a0ddacc1d9bea82a6ba57f7cf.svg
+    codepoints:
+      - U+0071
+    advance_width: 582
+  s:
+    source: 
+      glyphs/043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89.svg
+    codepoints:
+      - U+0073
+    advance_width: 458
+  t:
+    source: 
+      glyphs/e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.svg
+    codepoints:
+      - U+0074
+    advance_width: 370
+  u:
+    source: 
+      glyphs/0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6.svg
+    codepoints:
+      - U+0075
+    advance_width: 588
+  v:
+    source: 
+      glyphs/4c94485e0c21ae6c41ce1dfe7b6bfaceea5ab68e40a2476f50208e526f506080.svg
+    codepoints:
+      - U+0076
+    advance_width: 530
+  w:
+    source: 
+      glyphs/50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326.svg
+    codepoints:
+      - U+0077
+    advance_width: 766
+  x:
+    source: 
+      glyphs/2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.svg
+    codepoints:
+      - U+0078
+    advance_width: 531
+  y:
+    source: 
+      glyphs/a1fce4363854ff888cff4b8e7875d600c2682390412a8cf79b37d0b11148b0fa.svg
+    codepoints:
+      - U+0079
+    advance_width: 531
+  z:
+    source: 
+      glyphs/594e519ae499312b29433b7dd8a97ff068defcba9755b6d5d00e84c524d67b06.svg
+    codepoints:
+      - U+007A
+    advance_width: 492
+  braceleft:
+    source: 
+      glyphs/2b4286347678d41b7e97a3092bbdb5f6dbcfeeedcea5655c8368f9f95427e8df.svg
+    codepoints:
+      - U+007B
+    advance_width: 395
+  bar:
+    source: 
+      glyphs/fcde2b2edba56bf408601fb721fe9b5c338d10ee429ea04fae5511b68fbf8fb9.svg
+    codepoints:
+      - U+007C
+    advance_width: 214
+  braceright:
+    source: 
+      glyphs/fcbf1e6dc0336b203b96898aa97a46609119c5b768ec2c8cc3e5bbddd424ef24.svg
+    codepoints:
+      - U+007D
+    advance_width: 395
+  asciitilde:
+    source: 
+      glyphs/0d985d33a4e59e04e3c7575141b8ecba3d904a4cd8cea28ae204449ddaafc576.svg
+    codepoints:
+      - U+007E
+    advance_width: 588
+  endash:
+    source: 
+      glyphs/78fe1d15c4a00de9057e4163e7f8de704d812503fb9f5768b0610779d197e031.svg
+    codepoints:
+      - U+2013
+    advance_width: 570
+  emdash:
+    source: 
+      glyphs/ba1061ee5c177216ff56510172df2070b591ebeb03a37abe325b85c5030f590c.svg
+    codepoints:
+      - U+2014
+    advance_width: 1000
+  quoteleft:
+    source: 
+      glyphs/ce56aa12d7cdbcf5a9855151e2fbced3c3e6a266e30d365e5f754cb281a6107f.svg
+    codepoints:
+      - U+2018
+    advance_width: 209
+  quoteright:
+    source: 
+      glyphs/b9207a590c84d9fa9f3dfda5382528e94a3397772bfcf76829db6893b831c534.svg
+    codepoints:
+      - U+2019
+    advance_width: 209
+  quotedblleft:
+    source: 
+      glyphs/dc98cb2b169065d5f53c6adba7d77bb559fc605a966023485fa3226c60e2b6e6.svg
+    codepoints:
+      - U+201C
+    advance_width: 380
+  quotedblright:
+    source: 
+      glyphs/11fad74a9de7560eb448a49953b716177e416883f3c4bb36c7462589393b66a5.svg
+    codepoints:
+      - U+201D
+    advance_width: 380
+  bullet:
+    source: 
+      glyphs/ed12eb20000f3e53945efeb9eca0c664f0ac3382cdf93a8d46b808a990f69a79.svg
+    codepoints:
+      - U+2022
+    advance_width: 330
+  ellipsis:
+    source: 
+      glyphs/b014a0215b719a333d94f3e9f599ff66a75ccfe07964e619adeb221d7ae3b796.svg
+    codepoints:
+      - U+2026
+    advance_width: 600
+kerning:
+  groups: {}
+  pairs:
+    - left: A
+      right: V
+      value: -95
+    - left: A
+      right: W
+      value: -90
+    - left: A
+      right: Y
+      value: -105
+    - left: A
+      right: T
+      value: -90
+    - left: A
+      right: C
+      value: -20
+    - left: A
+      right: O
+      value: -20
+    - left: A
+      right: Q
+      value: -20
+    - left: V
+      right: A
+      value: -90
+    - left: W
+      right: A
+      value: -80
+    - left: Y
+      right: A
+      value: -105
+    - left: T
+      right: A
+      value: -95
+    - left: L
+      right: T
+      value: -100
+    - left: L
+      right: V
+      value: -90
+    - left: L
+      right: W
+      value: -85
+    - left: L
+      right: Y
+      value: -105
+    - left: F
+      right: A
+      value: -65
+    - left: P
+      right: A
+      value: -65
+    - left: T
+      right: a
+      value: -85
+    - left: T
+      right: c
+      value: -85
+    - left: T
+      right: e
+      value: -85
+    - left: T
+      right: g
+      value: -85
+    - left: T
+      right: o
+      value: -85
+    - left: T
+      right: s
+      value: -85
+    - left: T
+      right: r
+      value: -55
+    - left: T
+      right: u
+      value: -55
+    - left: T
+      right: y
+      value: -45
+    - left: V
+      right: a
+      value: -90
+    - left: V
+      right: c
+      value: -90
+    - left: V
+      right: e
+      value: -90
+    - left: V
+      right: g
+      value: -90
+    - left: V
+      right: o
+      value: -90
+    - left: V
+      right: s
+      value: -75
+    - left: W
+      right: a
+      value: -110
+    - left: W
+      right: c
+      value: -110
+    - left: W
+      right: e
+      value: -110
+    - left: W
+      right: g
+      value: -110
+    - left: W
+      right: o
+      value: -110
+    - left: W
+      right: s
+      value: -90
+    - left: Y
+      right: a
+      value: -90
+    - left: Y
+      right: c
+      value: -90
+    - left: Y
+      right: e
+      value: -90
+    - left: Y
+      right: g
+      value: -90
+    - left: Y
+      right: o
+      value: -90
+    - left: Y
+      right: s
+      value: -90
+    - left: Y
+      right: r
+      value: -55
+    - left: Y
+      right: u
+      value: -55
+    - left: F
+      right: a
+      value: -50
+    - left: F
+      right: c
+      value: -50
+    - left: F
+      right: e
+      value: -50
+    - left: F
+      right: o
+      value: -50
+    - left: r
+      right: a
+      value: -18
+    - left: r
+      right: c
+      value: -18
+    - left: r
+      right: e
+      value: -18
+    - left: r
+      right: o
+      value: -18
+    - left: r
+      right: period
+      value: -40
+    - left: r
+      right: comma
+      value: -40
+    - left: v
+      right: period
+      value: -50
+    - left: v
+      right: comma
+      value: -50
+    - left: w
+      right: period
+      value: -50
+    - left: w
+      right: comma
+      value: -50
+    - left: y
+      right: period
+      value: -50
+    - left: y
+      right: comma
+      value: -50
+    - left: k
+      right: e
+      value: -12
+    - left: k
+      right: o
+      value: -12
+    - left: T
+      right: period
+      value: -80
+    - left: T
+      right: comma
+      value: -80
+    - left: V
+      right: period
+      value: -100
+    - left: V
+      right: comma
+      value: -100
+    - left: W
+      right: period
+      value: -85
+    - left: W
+      right: comma
+      value: -85
+    - left: Y
+      right: period
+      value: -85
+    - left: Y
+      right: comma
+      value: -85
+    - left: A
+      right: v
+      value: -25
+    - left: A
+      right: w
+      value: -25
+    - left: A
+      right: y
+      value: -25
+    - left: quotedblleft
+      right: A
+      value: -70
+    - left: quoteleft
+      right: A
+      value: -70
+    - left: P
+      right: period
+      value: -50
+    - left: P
+      right: comma
+      value: -50
+    - left: F
+      right: period
+      value: -100
+    - left: F
+      right: comma
+      value: -100
+    - left: T
+      right: v
+      value: -45
+    - left: T
+      right: w
+      value: -45
+    - left: V
+      right: r
+      value: -55
+    - left: V
+      right: u
+      value: -55
+    - left: W
+      right: r
+      value: -80
+    - left: W
+      right: u
+      value: -80
+    - left: Y
+      right: v
+      value: -30
+    - left: Y
+      right: w
+      value: -30
+    - left: v
+      right: a
+      value: -22
+    - left: w
+      right: a
+      value: -16
+    - left: y
+      right: a
+      value: -18
+    - left: v
+      right: e
+      value: -22
+    - left: w
+      right: e
+      value: -16
+    - left: y
+      right: e
+      value: -18
+    - left: v
+      right: o
+      value: -22
+    - left: w
+      right: o
+      value: -16
+    - left: y
+      right: o
+      value: -18
+    - left: o
+      right: v
+      value: -14
+    - left: e
+      right: v
+      value: -12
+    - left: a
+      right: v
+      value: -8
+    - left: o
+      right: w
+      value: -14
+    - left: e
+      right: w
+      value: -12
+    - left: a
+      right: w
+      value: -8
+    - left: o
+      right: y
+      value: -14
+    - left: e
+      right: y
+      value: -12
+    - left: a
+      right: y
+      value: -8
+    - left: W
+      right: q
+      value: -110
+    - left: W
+      right: d
+      value: -110
+    - left: W
+      right: m
+      value: -80
+    - left: W
+      right: n
+      value: -80
+    - left: W
+      right: p
+      value: -80
+    - left: W
+      right: i
+      value: -65
+    - left: W
+      right: j
+      value: -65
+    - left: W
+      right: v
+      value: -65
+    - left: W
+      right: w
+      value: -65
+    - left: W
+      right: x
+      value: -65
+    - left: W
+      right: y
+      value: -65
+    - left: W
+      right: z
+      value: -65
+    - left: W
+      right: t
+      value: -35
+    - left: W
+      right: C
+      value: -35
+    - left: W
+      right: G
+      value: -35
+    - left: W
+      right: O
+      value: -35
+    - left: W
+      right: Q
+      value: -35
+    - left: W
+      right: S
+      value: -35
+    - left: A
+      right: G
+      value: -20
+    - left: O
+      right: A
+      value: -20
+    - left: D
+      right: A
+      value: -15
+    - left: C
+      right: A
+      value: -10
+    - left: f
+      right: A
+      value: -30
+    - left: v
+      right: A
+      value: -25
+    - left: w
+      right: A
+      value: -25
+    - left: y
+      right: A
+      value: -25
+    - left: A
+      right: quoteleft
+      value: -60
+    - left: A
+      right: quoteright
+      value: -80
+    - left: A
+      right: quotedblleft
+      value: -60
+    - left: A
+      right: quotedblright
+      value: -80
+    - left: quoteright
+      right: A
+      value: -60
+    - left: quotedblright
+      right: A
+      value: -60
+    - left: T
+      right: C
+      value: -25
+    - left: T
+      right: G
+      value: -25
+    - left: T
+      right: O
+      value: -25
+    - left: T
+      right: Q
+      value: -25
+    - left: T
+      right: d
+      value: -85
+    - left: T
+      right: q
+      value: -85
+    - left: T
+      right: m
+      value: -55
+    - left: T
+      right: n
+      value: -55
+    - left: T
+      right: p
+      value: -55
+    - left: T
+      right: i
+      value: -30
+    - left: T
+      right: j
+      value: -30
+    - left: T
+      right: t
+      value: -25
+    - left: T
+      right: x
+      value: -45
+    - left: T
+      right: z
+      value: -45
+    - left: T
+      right: colon
+      value: -55
+    - left: T
+      right: semicolon
+      value: -55
+    - left: B
+      right: T
+      value: -20
+    - left: D
+      right: T
+      value: -25
+    - left: O
+      right: T
+      value: -25
+    - left: Q
+      right: T
+      value: -20
+    - left: S
+      right: T
+      value: -20
+    - left: a
+      right: T
+      value: -50
+    - left: b
+      right: T
+      value: -50
+    - left: c
+      right: T
+      value: -60
+    - left: e
+      right: T
+      value: -60
+    - left: g
+      right: T
+      value: -20
+    - left: h
+      right: T
+      value: -40
+    - left: i
+      right: T
+      value: -25
+    - left: j
+      right: T
+      value: -25
+    - left: k
+      right: T
+      value: -35
+    - left: m
+      right: T
+      value: -40
+    - left: n
+      right: T
+      value: -40
+    - left: o
+      right: T
+      value: -60
+    - left: p
+      right: T
+      value: -50
+    - left: q
+      right: T
+      value: -35
+    - left: r
+      right: T
+      value: -35
+    - left: s
+      right: T
+      value: -50
+    - left: t
+      right: T
+      value: -20
+    - left: u
+      right: T
+      value: -40
+    - left: v
+      right: T
+      value: -30
+    - left: w
+      right: T
+      value: -30
+    - left: x
+      right: T
+      value: -30
+    - left: y
+      right: T
+      value: -30
+    - left: z
+      right: T
+      value: -30
+    - left: period
+      right: T
+      value: -80
+    - left: comma
+      right: T
+      value: -80
+    - left: colon
+      right: T
+      value: -50
+    - left: semicolon
+      right: T
+      value: -50
+    - left: V
+      right: C
+      value: -25
+    - left: V
+      right: G
+      value: -25
+    - left: V
+      right: O
+      value: -25
+    - left: V
+      right: Q
+      value: -25
+    - left: V
+      right: S
+      value: -20
+    - left: V
+      right: d
+      value: -90
+    - left: V
+      right: q
+      value: -90
+    - left: V
+      right: m
+      value: -55
+    - left: V
+      right: n
+      value: -55
+    - left: V
+      right: p
+      value: -55
+    - left: V
+      right: i
+      value: -35
+    - left: V
+      right: j
+      value: -35
+    - left: V
+      right: v
+      value: -35
+    - left: V
+      right: w
+      value: -35
+    - left: V
+      right: x
+      value: -35
+    - left: V
+      right: y
+      value: -35
+    - left: V
+      right: z
+      value: -35
+    - left: V
+      right: t
+      value: -25
+    - left: V
+      right: colon
+      value: -60
+    - left: V
+      right: semicolon
+      value: -60
+    - left: B
+      right: V
+      value: -15
+    - left: D
+      right: V
+      value: -25
+    - left: O
+      right: V
+      value: -25
+    - left: Q
+      right: V
+      value: -25
+    - left: R
+      right: V
+      value: -15
+    - left: S
+      right: V
+      value: -15
+    - left: a
+      right: V
+      value: -45
+    - left: b
+      right: V
+      value: -45
+    - left: c
+      right: V
+      value: -50
+    - left: e
+      right: V
+      value: -50
+    - left: g
+      right: V
+      value: -20
+    - left: h
+      right: V
+      value: -35
+    - left: i
+      right: V
+      value: -20
+    - left: j
+      right: V
+      value: -20
+    - left: k
+      right: V
+      value: -25
+    - left: m
+      right: V
+      value: -35
+    - left: n
+      right: V
+      value: -35
+    - left: o
+      right: V
+      value: -50
+    - left: p
+      right: V
+      value: -45
+    - left: q
+      right: V
+      value: -30
+    - left: r
+      right: V
+      value: -30
+    - left: s
+      right: V
+      value: -40
+    - left: t
+      right: V
+      value: -20
+    - left: u
+      right: V
+      value: -35
+    - left: v
+      right: V
+      value: -25
+    - left: w
+      right: V
+      value: -25
+    - left: x
+      right: V
+      value: -25
+    - left: y
+      right: V
+      value: -25
+    - left: z
+      right: V
+      value: -25
+    - left: period
+      right: V
+      value: -80
+    - left: comma
+      right: V
+      value: -80
+    - left: colon
+      right: V
+      value: -50
+    - left: semicolon
+      right: V
+      value: -50
+    - left: Y
+      right: C
+      value: -35
+    - left: Y
+      right: G
+      value: -35
+    - left: Y
+      right: O
+      value: -35
+    - left: Y
+      right: Q
+      value: -35
+    - left: Y
+      right: S
+      value: -25
+    - left: Y
+      right: d
+      value: -90
+    - left: Y
+      right: q
+      value: -90
+    - left: Y
+      right: i
+      value: -40
+    - left: Y
+      right: j
+      value: -40
+    - left: Y
+      right: m
+      value: -55
+    - left: Y
+      right: n
+      value: -55
+    - left: Y
+      right: p
+      value: -55
+    - left: Y
+      right: t
+      value: -25
+    - left: Y
+      right: x
+      value: -30
+    - left: Y
+      right: y
+      value: -30
+    - left: Y
+      right: z
+      value: -30
+    - left: Y
+      right: colon
+      value: -55
+    - left: Y
+      right: semicolon
+      value: -55
+    - left: B
+      right: Y
+      value: -15
+    - left: D
+      right: Y
+      value: -35
+    - left: O
+      right: Y
+      value: -35
+    - left: Q
+      right: Y
+      value: -30
+    - left: R
+      right: Y
+      value: -15
+    - left: S
+      right: Y
+      value: -20
+    - left: a
+      right: Y
+      value: -45
+    - left: b
+      right: Y
+      value: -60
+    - left: c
+      right: Y
+      value: -65
+    - left: e
+      right: Y
+      value: -65
+    - left: g
+      right: Y
+      value: -20
+    - left: h
+      right: Y
+      value: -40
+    - left: i
+      right: Y
+      value: -20
+    - left: j
+      right: Y
+      value: -20
+    - left: k
+      right: Y
+      value: -30
+    - left: m
+      right: Y
+      value: -40
+    - left: n
+      right: Y
+      value: -40
+    - left: o
+      right: Y
+      value: -65
+    - left: p
+      right: Y
+      value: -60
+    - left: q
+      right: Y
+      value: -40
+    - left: r
+      right: Y
+      value: -35
+    - left: s
+      right: Y
+      value: -50
+    - left: t
+      right: Y
+      value: -20
+    - left: u
+      right: Y
+      value: -40
+    - left: v
+      right: Y
+      value: -30
+    - left: w
+      right: Y
+      value: -30
+    - left: x
+      right: Y
+      value: -30
+    - left: y
+      right: Y
+      value: -30
+    - left: z
+      right: Y
+      value: -30
+    - left: period
+      right: Y
+      value: -75
+    - left: comma
+      right: Y
+      value: -75
+    - left: colon
+      right: Y
+      value: -50
+    - left: semicolon
+      right: Y
+      value: -50
+    - left: F
+      right: C
+      value: -20
+    - left: F
+      right: G
+      value: -20
+    - left: F
+      right: O
+      value: -20
+    - left: F
+      right: Q
+      value: -20
+    - left: F
+      right: J
+      value: -35
+    - left: F
+      right: d
+      value: -50
+    - left: F
+      right: g
+      value: -50
+    - left: F
+      right: q
+      value: -50
+    - left: F
+      right: s
+      value: -40
+    - left: F
+      right: m
+      value: -25
+    - left: F
+      right: n
+      value: -25
+    - left: F
+      right: p
+      value: -25
+    - left: F
+      right: r
+      value: -25
+    - left: F
+      right: u
+      value: -25
+    - left: F
+      right: i
+      value: -15
+    - left: F
+      right: j
+      value: -15
+    - left: F
+      right: v
+      value: -20
+    - left: F
+      right: w
+      value: -20
+    - left: F
+      right: x
+      value: -20
+    - left: F
+      right: y
+      value: -20
+    - left: F
+      right: z
+      value: -20
+    - left: F
+      right: colon
+      value: -45
+    - left: F
+      right: semicolon
+      value: -45
+    - left: L
+      right: C
+      value: -20
+    - left: L
+      right: G
+      value: -20
+    - left: L
+      right: O
+      value: -20
+    - left: L
+      right: Q
+      value: -20
+    - left: L
+      right: c
+      value: -15
+    - left: L
+      right: d
+      value: -15
+    - left: L
+      right: e
+      value: -15
+    - left: L
+      right: g
+      value: -15
+    - left: L
+      right: o
+      value: -15
+    - left: L
+      right: q
+      value: -15
+    - left: L
+      right: v
+      value: -50
+    - left: L
+      right: w
+      value: -50
+    - left: L
+      right: y
+      value: -50
+    - left: L
+      right: quoteleft
+      value: -90
+    - left: L
+      right: quoteright
+      value: -120
+    - left: L
+      right: quotedblleft
+      value: -90
+    - left: L
+      right: quotedblright
+      value: -120
+    - left: L
+      right: question
+      value: -30
+    - left: f
+      right: b
+      value: 24
+    - left: f
+      right: h
+      value: 24
+    - left: f
+      right: k
+      value: 24
+    - left: f
+      right: l
+      value: 24
+ligatures: []
+build:
+  formats:
+    - ttf
+    - otf
+  output_dir: build/fonts
+  remove_overlaps: true
+  correct_contour_direction: true
+  add_extrema: true
+  round_coordinates: true

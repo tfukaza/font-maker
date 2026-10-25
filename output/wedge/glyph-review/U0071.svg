@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="154" viewBox="0 0 103 154">
+<title>Wedge preview</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<path d="M392 370 336 426 353 432Q343 440 328.0 445.5Q313 451 297.5 454.5Q282 458 281 458Q219 458 186.0 399.5Q153 341 153.0 235.0Q153 129 186.0 70.5Q219 12 281.0 12.0Q343 12 392 80ZM380 441 498 480V-166L552 -220H338L392 -166V48Q338 -12 258 -12Q158 -12 99.0 56.0Q40 124 40 235Q40 344 104.5 413.0Q169 482 270 482Q331 482 380 441Z" fill="#111827" transform="translate(24 100.8) scale(0.096 -0.096)"/>
+</svg>

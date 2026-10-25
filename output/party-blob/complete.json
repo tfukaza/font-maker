@@ -1,0 +1,309 @@
+[
+  {
+    "tool": "upsert_glyphs",
+    "mutate": true,
+    "glyph_file": "extension-glyphs.json",
+    "save": "extension-import.json"
+  },
+  {
+    "tool": "set_kerning",
+    "mutate": true,
+    "args": {
+      "upsert_pairs": [
+        {
+          "left": "P",
+          "right": "a",
+          "value": -180
+        },
+        {
+          "left": "P",
+          "right": "o",
+          "value": -130
+        },
+        {
+          "left": "T",
+          "right": "a",
+          "value": -160
+        },
+        {
+          "left": "T",
+          "right": "o",
+          "value": -160
+        },
+        {
+          "left": "T",
+          "right": "e",
+          "value": -150
+        },
+        {
+          "left": "V",
+          "right": "a",
+          "value": -110
+        },
+        {
+          "left": "W",
+          "right": "a",
+          "value": -90
+        },
+        {
+          "left": "Y",
+          "right": "a",
+          "value": -150
+        },
+        {
+          "left": "F",
+          "right": "a",
+          "value": -100
+        },
+        {
+          "left": "F",
+          "right": "o",
+          "value": -80
+        }
+      ]
+    },
+    "save": "extension-kern.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "! \" # $ % & ' ( ) * + , - . /",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "symbols1-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": ": ; < = > ? @ [ \\ ] ^ _ ` { | } ~",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "symbols2-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "\u2018Party\u2019 \u201cBlob\u201d \u2013 \u2014 \u2022 \u2026",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "typographic-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "0123456789 Il1 O0",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "figures-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "$1,234.50 50% 12:30",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "uses-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Party Blob",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "name-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Pa Po Ta To Te Va Wa Ya Fa Fo",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "kerning-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "A party for 25 friends!",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "mixed-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "abcdefghijklm",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "lower1-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "nopqrstuvwxyz",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "lower2-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "ABCDEFG",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "caps1-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "HIJKLMN",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "caps2-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "OPQRST",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "caps3-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "UVWXYZ",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "caps4-complete.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "a@b.com (a+b)/2 [x] {y}",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "boundaries-complete.json"
+  },
+  {
+    "tool": "validate_font_project",
+    "args": {
+      "temporary_build": true
+    },
+    "save": "extension-validation.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "$ \u2013 \u2014 12:30 Ta To Te",
+      "font_size": 120,
+      "pixel_scale": 3,
+      "guides": false
+    },
+    "save": "refinements-final.json"
+  }
+]

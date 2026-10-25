@@ -1,0 +1,135 @@
+{
+  "result": {
+    "project_id": "d77ce934-c4da-439e-b701-d99b4660daa8",
+    "revision": "08826bebaf9893b3b10a858eda40a0a9ac403dd51771643a24966cd99e07f6b7",
+    "artifacts": [
+      {
+        "artifact_id": "05de815e-299a-44d5-abe8-17d4121f9a47",
+        "path": "build/fonts/HakilandDisplay-Regular.ttf",
+        "mime_type": "font/ttf",
+        "size": 11412,
+        "sha256": "a32be41dc0a77169ed882fd103dc47054ccdd04a81a1d71b4e1f99ae64fec9a6",
+        "revision": "08826bebaf9893b3b10a858eda40a0a9ac403dd51771643a24966cd99e07f6b7"
+      }
+    ],
+    "diagnostics": [
+      {
+        "code": "FONT_LICENSE_UNSET",
+        "severity": "info",
+        "message": "The generated font has no user-selected license metadata.",
+        "glyph": null,
+        "rule": null,
+        "measurements": {},
+        "suggested_action": null
+      }
+    ],
+    "backend": {
+      "name": "FontForge",
+      "fontforge_version": "20251009",
+      "license": "GPL-3.0-or-later",
+      "credit": "FontForge by George Williams and the FontForge contributors",
+      "source": "https://github.com/fontforge/fontforge/tree/20251009",
+      "revision": "08826bebaf9893b3b10a858eda40a0a9ac403dd51771643a24966cd99e07f6b7",
+      "inspections": {
+        "ttf": {
+          "tables": [
+            "FFTM",
+            "GDEF",
+            "GPOS",
+            "GSUB",
+            "GlyphOrder",
+            "OS/2",
+            "cmap",
+            "gasp",
+            "glyf",
+            "head",
+            "hhea",
+            "hmtx",
+            "loca",
+            "maxp",
+            "name",
+            "post"
+          ],
+          "glyph_count": 106,
+          "units_per_em": 1000,
+          "has_gpos": true,
+          "has_gsub": true
+        }
+      }
+    }
+  },
+  "changes": {
+    "E": [
+      [
+        "90.0 751.0",
+        "90.0 746.0"
+      ],
+      [
+        "V147.0",
+        "V154.0"
+      ]
+    ],
+    "F": [
+      [
+        "V751.0",
+        "V746.0"
+      ],
+      [
+        "90.0 751.0",
+        "90.0 746.0"
+      ],
+      [
+        "V147.0",
+        "V154.0"
+      ]
+    ],
+    "L": [
+      [
+        "206.0 147.0",
+        "206.0 154.0"
+      ],
+      [
+        "90.0 751.0",
+        "90.0 746.0"
+      ],
+      [
+        "V147.0",
+        "V154.0"
+      ]
+    ],
+    "N": [
+      [
+        "641.0 616.0V148.0",
+        "641.0 616.0V154.0"
+      ],
+      [
+        "665.0 148.0",
+        "665.0 155.0"
+      ],
+      [
+        "118.0 177.0V752.0",
+        "118.0 177.0V746.0"
+      ],
+      [
+        "94.0 752.0",
+        "94.0 746.0"
+      ],
+      [
+        "94.0 746.0V150.0",
+        "94.0 746.0V154.0"
+      ]
+    ],
+    "Y": [
+      [
+        "421.0 479.0V751.0",
+        "421.0 479.0V746.0"
+      ],
+      [
+        "305.0 751.0",
+        "305.0 746.0"
+      ]
+    ]
+  },
+  "candidate": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/caps/serif-candidate.ttf",
+  "sha256": "a32be41dc0a77169ed882fd103dc47054ccdd04a81a1d71b4e1f99ae64fec9a6"
+}

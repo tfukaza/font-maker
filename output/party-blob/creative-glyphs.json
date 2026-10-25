@@ -1,0 +1,32 @@
+[
+  {
+    "name": "e_c",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/ligature-drawings/e_c.svg",
+    "codepoints": [],
+    "advance_width": 805
+  },
+  {
+    "name": "i_n",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/ligature-drawings/i_n.svg",
+    "codepoints": [],
+    "advance_width": 650
+  },
+  {
+    "name": "n_a",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/ligature-drawings/n_a.svg",
+    "codepoints": [],
+    "advance_width": 855
+  },
+  {
+    "name": "o_o",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/ligature-drawings/o_o.svg",
+    "codepoints": [],
+    "advance_width": 865
+  },
+  {
+    "name": "r_t",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/ligature-drawings/r_t.svg",
+    "codepoints": [],
+    "advance_width": 660
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "trial_font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/caps/S-dollar-final.ttf",
+  "sha256": "bbc72467792a8231afe54ff8a2b243d12e4c1df0e5b7ad17759d2b1df6de2df1",
+  "changed_outlines": [
+    "S",
+    "dollar"
+  ],
+  "hmtx_unchanged": true,
+  "cmap_unchanged": true,
+  "GPOS_unchanged": true,
+  "GSUB_unchanged": true,
+  "bounds_unchanged": true,
+  "validation": []
+}

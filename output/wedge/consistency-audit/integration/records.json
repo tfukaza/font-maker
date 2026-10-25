@@ -1,0 +1,196 @@
+[
+  {
+    "proof": "rounds-64",
+    "texts": [
+      "Oo0 CcGg Qq",
+      "BbDdPpRr 689",
+      "CeOe GgQq 0O"
+    ],
+    "size": 64,
+    "pixel_scale": 3,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "rounds-24",
+    "texts": [
+      "Oo0 CcGg Qq",
+      "BbDdPpRr 689",
+      "CeOe GgQq 0O"
+    ],
+    "size": 24,
+    "pixel_scale": 1,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "verticals-64",
+    "texts": [
+      "HhIiJjLlTt 1Il",
+      "bdfhkl bdqp",
+      "minimum parallel"
+    ],
+    "size": 64,
+    "pixel_scale": 3,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "verticals-24",
+    "texts": [
+      "HhIiJjLlTt 1Il",
+      "bdfhkl bdqp",
+      "minimum parallel"
+    ],
+    "size": 24,
+    "pixel_scale": 1,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "diagonals-64",
+    "texts": [
+      "AaVvWwXxYyZz",
+      "KkRrNnMm 247",
+      "Vivid waves zigzag"
+    ],
+    "size": 64,
+    "pixel_scale": 3,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "diagonals-24",
+    "texts": [
+      "AaVvWwXxYyZz",
+      "KkRrNnMm 247",
+      "Vivid waves zigzag"
+    ],
+    "size": 24,
+    "pixel_scale": 1,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "details-64",
+    "texts": [
+      "i j . , : ; ! ? \u2026",
+      "ftrg \u201cQuoted\u201d",
+      "AaRrGg QO"
+    ],
+    "size": 64,
+    "pixel_scale": 3,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "details-24",
+    "texts": [
+      "i j . , : ; ! ? \u2026",
+      "ftrg \u201cQuoted\u201d",
+      "AaRrGg QO"
+    ],
+    "size": 24,
+    "pixel_scale": 1,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "words-64",
+    "texts": [
+      "Angular grace",
+      "Quiet geometry.",
+      "Shape & proportion",
+      "We align. We refine."
+    ],
+    "size": 64,
+    "pixel_scale": 3,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "words-24",
+    "texts": [
+      "Angular grace",
+      "Quiet geometry.",
+      "Shape & proportion",
+      "We align. We refine."
+    ],
+    "size": 24,
+    "pixel_scale": 1,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "figures-64",
+    "texts": [
+      "0123456789",
+      "1.25 / 7.50 / 9.99",
+      "09:47 \u2014 17.09.2026"
+    ],
+    "size": 64,
+    "pixel_scale": 3,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  },
+  {
+    "proof": "figures-24",
+    "texts": [
+      "0123456789",
+      "1.25 / 7.50 / 9.99",
+      "09:47 \u2014 17.09.2026"
+    ],
+    "size": 24,
+    "pixel_scale": 1,
+    "features": {
+      "kern": true,
+      "liga": false
+    },
+    "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+    "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691"
+  }
+]

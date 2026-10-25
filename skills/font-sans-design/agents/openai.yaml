@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sans-Serif Font Design"
+  short_description: "Refine sans proportions, apertures, and stroke balance"
+  default_prompt: "Use $font-sans-design to refine this original sans-serif font with balanced strokes, coherent terminals, and clear forms."

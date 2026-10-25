@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Super Pixel — Ligature laboratory</title>
+<style>
+:root{color:#192127;background:#edf2f5;font:16px/1.5 system-ui,sans-serif}
+*{box-sizing:border-box}body{margin:0}main{max-width:1120px;margin:auto;padding:36px}
+h1{font-size:24px;margin:0}h2{font-size:18px;margin:0 0 12px}p{max-width:76ch}
+.intro{color:#475964;margin-bottom:28px}.controls{display:flex;gap:24px;flex-wrap:wrap;align-items:center}
+label{display:flex;gap:8px;align-items:center}input{accent-color:#1759a7}
+textarea{width:100%;min-height:210px;background:white;color:inherit;border:1px solid #b0c2ce;
+padding:24px;resize:vertical;font:64px/1.4 Study;letter-spacing:0;margin-top:16px}
+.font{font-family:Study;font-weight:400;letter-spacing:0;overflow-wrap:anywhere}
+.off{font-feature-settings:'kern' 1,'liga' 0,'dlig' 0}.on{font-feature-settings:'kern' 1,'liga' 0,'dlig' 1}
+.pair{margin-top:32px;padding:24px;background:white}.compare{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.sample{font-size:48px;line-height:1.6}.label{font-size:13px;color:#475964}.note{margin:12px 0 0;color:#475964}
+.status{font-size:14px}a{color:#1759a7}button{padding:8px 14px;border:1px solid #1759a7;background:white;color:#1759a7;font:inherit}
+:focus-visible{outline:3px solid #1759a7;outline-offset:3px}footer{margin-top:36px;font-size:12px;overflow-wrap:anywhere}
+body.loading .font,body.loading textarea{visibility:hidden}
+@media(max-width:650px){main{padding:20px}.compare{grid-template-columns:1fr}.sample{font-size:40px}textarea{padding:12px}}
+</style>
+<body class="loading"><main>
+<h1>Super Pixel: ligature laboratory</h1>
+<p class="intro">Five original experiments. The released font is unchanged. The shared crossbars are the strongest candidates; the nested ra and emblem-like oo remain exploratory.</p>
+<p id="load" role="status">Loading the embedded study font…</p>
+<section><h2>Try your own words</h2>
+<div class="controls">
+<label>Size <input id="size" type="range" min="16" max="120" value="64"><output id="sizeLabel">64 px</output></label>
+<label><input id="kern" type="checkbox" checked>Kerning</label>
+<label><input id="dlig" type="checkbox">Experimental ligatures (dlig)</label>
+<button id="reset" type="button">Reset text</button>
+</div>
+<textarea id="tester" aria-label="Type to test the study font" spellcheck="false">Factory letter system
+rare loop moon</textarea>
+<p id="coverage" class="status" aria-live="polite"></p>
+<p class="note">The toggle enables ct, tt, st, ra, and oo together. No standard ligatures are configured. Unsupported characters are flagged; their fallback appearance is not part of this font.</p>
+</section>
+<div id="pairs"></div>
+<section class="pair"><h2>Character coverage</h2><div id="inventory" class="font off sample"></div></section>
+<footer>
+<p>Exploratory font downloads: <a href="project/build/fonts/SuperPixelLigatureStudy-Regular.ttf" download>TTF</a> · <a href="project/build/fonts/SuperPixelLigatureStudy-Regular.otf" download>OTF</a> · <a href="project/build/fonts/SuperPixelLigatureStudy-Regular.woff2" download>WOFF2</a></p>
+<p id="metadata"></p><p>Built with Font Maker and FontForge. These are project-original outlines, not derived from an existing font set.</p>
+</footer>
+</main>
+<script>
+const data=__STUDY_DATA__;
+const tester=document.querySelector('#tester'),size=document.querySelector('#size'),kern=document.querySelector('#kern'),dlig=document.querySelector('#dlig');
+const initial=tester.value,supported=new Set(data.codepoints);
+function update(){tester.style.fontSize=size.value+'px';document.querySelector('#sizeLabel').textContent=size.value+' px';tester.style.fontFeatureSettings='"kern" '+Number(kern.checked)+',"liga" 0,"dlig" '+Number(dlig.checked);tester.style.fontKerning=kern.checked?'normal':'none';const missing=[...new Set([...tester.value].filter(c=>!supported.has(c.codePointAt(0))&&!['\n','\r','\t'].includes(c)))];document.querySelector('#coverage').textContent=missing.length?'Not drawn: '+missing.join(' '):'All characters in this text are supported.';}
+for(const el of [tester,size,kern,dlig])el.addEventListener('input',update);
+document.querySelector('#reset').onclick=()=>{tester.value=initial;update()};
+for(const item of data.candidates){const section=document.createElement('section');section.className='pair';const title=document.createElement('h2');title.textContent=item.sequence;section.append(title);const compare=document.createElement('div');compare.className='compare';for(const [label,setting] of [['Ordinary','off'],['Experiment','on']]){const col=document.createElement('div'),caption=document.createElement('div'),sample=document.createElement('div');caption.className='label';caption.textContent=label;sample.className='font sample '+setting;sample.textContent=item.words;col.append(caption,sample);compare.append(col)}section.append(compare);const note=document.createElement('p');note.className='note';note.textContent=item.verdict;section.append(note);const link=document.createElement('a');link.href='proofs/'+item.sequence+'-64.png';link.textContent='High-resolution three-way comparison';section.append(link);document.querySelector('#pairs').append(section)}
+document.querySelector('#inventory').textContent=data.codepoints.filter(cp=>cp!==32).map(cp=>String.fromCodePoint(cp)).join('');
+document.querySelector('#metadata').textContent='Family: Super Pixel Ligature Study. Source revision: '+data.revision+'. Embedded WOFF2 SHA-256: '+data.sha256+'.';
+new FontFace('Study','url(data:font/woff2;base64,'+data.font+')').load().then(font=>{document.fonts.add(font);document.body.classList.remove('loading');document.querySelector('#load').textContent='Study font loaded locally. No network font requests.'}).catch(()=>{document.querySelector('#load').textContent='Font failed to load. Open a fresh copy of this specimen; font previews are hidden.'});update();
+</script>
+</body></html>

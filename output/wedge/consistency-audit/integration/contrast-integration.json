@@ -1,0 +1,53 @@
+{
+  "version": "0.115",
+  "revision": "086eb4a097cbacf291cc0c7344276b19591eee3e260f25652676c9fcc5d0a552",
+  "formats": {
+    "ttf": {
+      "sha256": "73340ac5a37c4d00acc6df30cd3ba6fc3db59e8eceed521ae7f41c0ce3600ade",
+      "coverage": 103,
+      "shaping_checked": [
+        "0123456789 147 747 777",
+        "HEFLNYI useful uniform",
+        "Angular grace 17:47",
+        "We Welcome Wednesday",
+        "fl fk fb fh office"
+      ]
+    },
+    "otf": {
+      "sha256": "b08196a08def7594a3a3be1e62ca9e5bafbd6f1ffeae7259730b752f9a5210fc",
+      "coverage": 103,
+      "shaping_checked": [
+        "0123456789 147 747 777",
+        "HEFLNYI useful uniform",
+        "Angular grace 17:47",
+        "We Welcome Wednesday",
+        "fl fk fb fh office"
+      ]
+    },
+    "woff2": {
+      "sha256": "d29e4d4797eba9fd5ca6702eef138f3aed7ea814a3489b1c4d10349a3775f8a2",
+      "coverage": 103,
+      "shaping_checked": [
+        "0123456789 147 747 777",
+        "HEFLNYI useful uniform",
+        "Angular grace 17:47",
+        "We Welcome Wednesday",
+        "fl fk fb fh office"
+      ]
+    }
+  },
+  "changed_from_0114": [
+    "seven"
+  ],
+  "diagnostics": [
+    {
+      "code": "FONT_LICENSE_UNSET",
+      "severity": "info",
+      "message": "The generated font has no user-selected license metadata.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    }
+  ]
+}

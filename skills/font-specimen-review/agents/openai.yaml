@@ -1,0 +1,4 @@
+interface:
+  display_name: "Font Specimen Review"
+  short_description: "Review concept fidelity, balance, coverage, and regressions"
+  default_prompt: "Use $font-specimen-review to compare this compiled font with its original direction and critically review balance, coverage, spacing, and feature evidence."

@@ -1,0 +1,121 @@
+{
+  "project_id": "d75e345b-b8f4-4b8f-a7d2-b0c1c7cbfb18",
+  "revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773",
+  "artifacts": [
+    {
+      "artifact_id": "d806f48a-8803-4ff5-b030-69f4a2ed5e02",
+      "path": "build/fonts/HakilandDisplay-Regular.ttf",
+      "mime_type": "font/ttf",
+      "size": 10456,
+      "sha256": "95c8caf7ee3a1aa885ad020a7e57a4f1f5443c1c615333dabfbed011a020ccf5",
+      "revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773"
+    },
+    {
+      "artifact_id": "c9812101-9726-41ae-9cd2-8c8c0b112bc7",
+      "path": "build/fonts/HakilandDisplay-Regular.otf",
+      "mime_type": "font/otf",
+      "size": 10392,
+      "sha256": "fa0ee34bd0ed046b76533e8de670295483f69cb6be359f4bacbed028c488089b",
+      "revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773"
+    },
+    {
+      "artifact_id": "d8fb7a6e-b263-4eff-bd2d-92e38d74d0a7",
+      "path": "build/fonts/HakilandDisplay-Regular.woff2",
+      "mime_type": "font/woff2",
+      "size": 5264,
+      "sha256": "7cde040cda79d520304ea949d21fb8ed7ca4c6fa711dceb5f28411b0e28e9d00",
+      "revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "FONT_LICENSE_UNSET",
+      "severity": "info",
+      "message": "The generated font has no user-selected license metadata.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    }
+  ],
+  "backend": {
+    "name": "FontForge",
+    "fontforge_version": "20251009",
+    "license": "GPL-3.0-or-later",
+    "credit": "FontForge by George Williams and the FontForge contributors",
+    "source": "https://github.com/fontforge/fontforge/tree/20251009",
+    "revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773",
+    "inspections": {
+      "ttf": {
+        "tables": [
+          "FFTM",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "GlyphOrder",
+          "OS/2",
+          "cmap",
+          "gasp",
+          "glyf",
+          "head",
+          "hhea",
+          "hmtx",
+          "loca",
+          "maxp",
+          "name",
+          "post"
+        ],
+        "glyph_count": 106,
+        "units_per_em": 1000,
+        "has_gpos": true,
+        "has_gsub": true
+      },
+      "otf": {
+        "tables": [
+          "CFF ",
+          "FFTM",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "GlyphOrder",
+          "OS/2",
+          "cmap",
+          "head",
+          "hhea",
+          "hmtx",
+          "maxp",
+          "name",
+          "post"
+        ],
+        "glyph_count": 104,
+        "units_per_em": 1000,
+        "has_gpos": true,
+        "has_gsub": true
+      },
+      "woff2": {
+        "tables": [
+          "FFTM",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "GlyphOrder",
+          "OS/2",
+          "cmap",
+          "gasp",
+          "glyf",
+          "head",
+          "hhea",
+          "hmtx",
+          "loca",
+          "maxp",
+          "name",
+          "post"
+        ],
+        "glyph_count": 106,
+        "units_per_em": 1000,
+        "has_gpos": true,
+        "has_gsub": true
+      }
+    }
+  }
+}

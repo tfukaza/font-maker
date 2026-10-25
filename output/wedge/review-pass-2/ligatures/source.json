@@ -1,0 +1,32 @@
+{
+  "source": {
+    "path": "/Users/tomokif/code/font-maker/output/wedge",
+    "project_id": "d75e345b-b8f4-4b8f-a7d2-b0c1c7cbfb18",
+    "revision": "4b03087526b719ffe2972ed1b48e64a3a23e2a470b7d9aaf23d1e8c421772cb3",
+    "family_name": "Hakiland Display",
+    "style_name": "Regular",
+    "glyph_count": 103,
+    "kerning_pair_count": 125,
+    "ligature_count": 0,
+    "capabilities": {
+      "font_maker_version": "0.1.0",
+      "fontforge": {
+        "available": true,
+        "executable": "/opt/homebrew/bin/fontforge",
+        "version": "20251009",
+        "required_version": "20251009",
+        "compatible": true,
+        "license": "GPL-3.0-or-later",
+        "credit": "FontForge by George Williams and the FontForge contributors",
+        "source": "https://github.com/fontforge/fontforge/tree/20251009"
+      },
+      "formats": [
+        "ttf",
+        "otf",
+        "woff2"
+      ],
+      "transport": "stdio"
+    }
+  },
+  "sha256": "777dde9cdbf31f71213188fdf42f90c200122e62e180a1e2e456329302f64704"
+}

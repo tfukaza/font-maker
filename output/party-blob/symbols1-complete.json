@@ -1,0 +1,309 @@
+{
+  "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d",
+  "revision": "b25f8517cf42164f8a01aa9a42168e95d142284f816544a7bdaf7835ff421050",
+  "settings": {
+    "text": "! \" # $ % & ' ( ) * + , - . /",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "font_size": 96,
+    "pixel_scale": 3,
+    "guides": false
+  },
+  "artifacts": [
+    {
+      "artifact_id": "fb3d961a-fcfb-451d-a5cf-0d2973aab53c",
+      "path": "build/previews/preview-08b88f3ca9a1.svg",
+      "mime_type": "image/svg+xml",
+      "size": 8262,
+      "sha256": "25fa9f5bdcd0a6141507adee3e484f135fa647b5c7f3ee155ba6cae92c449043",
+      "revision": "b25f8517cf42164f8a01aa9a42168e95d142284f816544a7bdaf7835ff421050"
+    },
+    {
+      "artifact_id": "5bad56b2-b411-4442-afeb-75e896944a3e",
+      "path": "build/previews/preview-08b88f3ca9a1.png",
+      "mime_type": "image/png",
+      "size": 39424,
+      "sha256": "3708edfce7ea9df537200332694e4c07b0df0c44a61dcbaf2f3c02679744a25b",
+      "revision": "b25f8517cf42164f8a01aa9a42168e95d142284f816544a7bdaf7835ff421050"
+    }
+  ],
+  "shaping": {
+    "text": "! \" # $ % & ' ( ) * + , - . /",
+    "direction": "ltr",
+    "script": "None",
+    "language": "c",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "units_per_em": 1000,
+    "glyphs": [
+      {
+        "glyph_id": 65,
+        "glyph_name": "uni0021",
+        "cluster": 0,
+        "x_advance": 240,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 1,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 66,
+        "glyph_name": "uni0022",
+        "cluster": 2,
+        "x_advance": 300,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 3,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 67,
+        "glyph_name": "uni0023",
+        "cluster": 4,
+        "x_advance": 640,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 5,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 68,
+        "glyph_name": "uni0024",
+        "cluster": 6,
+        "x_advance": 615,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 7,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 69,
+        "glyph_name": "uni0025",
+        "cluster": 8,
+        "x_advance": 760,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 9,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 70,
+        "glyph_name": "uni0026",
+        "cluster": 10,
+        "x_advance": 770,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 11,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 55,
+        "glyph_name": "quotesingle",
+        "cluster": 12,
+        "x_advance": 165,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 13,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 71,
+        "glyph_name": "uni0028",
+        "cluster": 14,
+        "x_advance": 315,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 15,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 72,
+        "glyph_name": "uni0029",
+        "cluster": 16,
+        "x_advance": 315,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 17,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 73,
+        "glyph_name": "uni002A",
+        "cluster": 18,
+        "x_advance": 510,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 19,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 74,
+        "glyph_name": "uni002B",
+        "cluster": 20,
+        "x_advance": 550,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 21,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 33,
+        "glyph_name": "comma",
+        "cluster": 22,
+        "x_advance": 190,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 23,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 42,
+        "glyph_name": "hyphen",
+        "cluster": 24,
+        "x_advance": 310,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 25,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 53,
+        "glyph_name": "period",
+        "cluster": 26,
+        "x_advance": 190,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 60,
+        "glyph_name": "space",
+        "cluster": 27,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 75,
+        "glyph_name": "uni002F",
+        "cluster": 28,
+        "x_advance": 405,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      }
+    ],
+    "total_advance": 9145
+  }
+}

@@ -1,0 +1,1482 @@
+{
+  "font_sha256": "777dde9cdbf31f71213188fdf42f90c200122e62e180a1e2e456329302f64704",
+  "revision": "4b03087526b719ffe2972ed1b48e64a3a23e2a470b7d9aaf23d1e8c421772cb3",
+  "glyphs": {
+    "A": {
+      "authoritative_source": "output/wedge/refined/glyph-U0041.svg",
+      "source_sha256": "59429999d73e8a9b753592b3cbaf507f4f0312cc35683e41c717c87a8e4936de",
+      "compiled_bounds": [
+        28,
+        0,
+        724,
+        724
+      ],
+      "advance_lsb": [
+        740,
+        28
+      ],
+      "proof": "proofs/alphabet-01.png",
+      "canonical_source": "output/wedge/glyphs/559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Triangular counter and heavy right leg retain the wedge identity; crossbar reads level at36/24px.",
+      "svg_findings": "Counter stays open; outer apex y76 is pointed overshoot. Crossbar edges y529/553 are horizontal24units; inspected short closing segment at the counter-left junction, no visible kink.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "B": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0042.svg",
+      "source_sha256": "b80be9fe59675757cb6678e563a1e18e4d7ffd9a65a7b3196bb4e2c3509f87c4",
+      "compiled_bounds": [
+        36,
+        0,
+        635,
+        700
+      ],
+      "advance_lsb": [
+        670,
+        36
+      ],
+      "proof": "proofs/alphabet-01.png",
+      "canonical_source": "output/wedge/glyphs/df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Upper bowl is deliberately smaller; waist remains legible, neither bowl swells at stem.",
+      "svg_findings": "116-unit stem and23-unit bowl horizontals; cubic bowl extrema use vertical handles. Overlapping stem/serif/bowl components compiled cleanly.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "C": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0043.svg",
+      "source_sha256": "54dd5d7f85c565ac5e83855eb4e756d9aa28914614cc1c606eeeaf84fa75c124",
+      "compiled_bounds": [
+        46,
+        -12,
+        657,
+        712
+      ],
+      "advance_lsb": [
+        717,
+        46
+      ],
+      "proof": "proofs/alphabet-01.png",
+      "canonical_source": "output/wedge/glyphs/6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Open aperture, sharp upper terminal and light lower exit read coherently.",
+      "svg_findings": "Outer y88/812 and inner top110 preserve overshoot/hairline; terminal line to562,270 deliberately follows an angular cut; lower cubic exit remains smooth.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "D": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0044.svg",
+      "source_sha256": "c954f38c663ebfb8925f0d83227a26164fe1d52796062659dfc2b6a0b0821891",
+      "compiled_bounds": [
+        36,
+        0,
+        690.0,
+        700
+      ],
+      "advance_lsb": [
+        736,
+        36
+      ],
+      "proof": "proofs/alphabet-01.png",
+      "canonical_source": "output/wedge/glyphs/3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Broad right round balances straight left stem; counter is steady and open.",
+      "svg_findings": "116-unit stem,24-unit top/bottom, symmetric outer handles about y450; inner and outer extrema share horizontal/vertical tangent families.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "E": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0045.svg",
+      "source_sha256": "73daecc25d51a819d1519766689077d049d61d1a84ac5dd837b94753068bdd84",
+      "compiled_bounds": [
+        36,
+        0,
+        621,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        36
+      ],
+      "proof": "proofs/alphabet-01.png",
+      "canonical_source": "output/wedge/glyphs/a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Three arms remain distinct at24px; top and lower wedges do not overwhelm stem.",
+      "svg_findings": "116-unit vertical, horizontal midarm y442/466 and24-unit top/bottom. Arm-end wedges are deliberate, no slivers at joins.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "F": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0046.svg",
+      "source_sha256": "ff3e5ee26791400498faf5a971a33122bddf5cf7210e9b732001826d10f354dd",
+      "compiled_bounds": [
+        36,
+        0,
+        588,
+        700
+      ],
+      "advance_lsb": [
+        607,
+        36
+      ],
+      "proof": "proofs/alphabet-01.png",
+      "canonical_source": "output/wedge/glyphs/f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Open lower right and upper/middle wedge balance survive use size.",
+      "svg_findings": "116-unit vertical; midarm y439/463 is24units. Top extends to572; unequal terminal wedge cuts are not a parallel-stroke defect.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "G": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0047.svg",
+      "source_sha256": "340111358fef290d2ad775593226d34b624bd8586f3b241d974e1475036e665b",
+      "compiled_bounds": [
+        46,
+        -12,
+        727,
+        712
+      ],
+      "advance_lsb": [
+        754,
+        46
+      ],
+      "proof": "proofs/alphabet-02.png",
+      "canonical_source": "output/wedge/glyphs/333e0a1e27815d0ceee55c473fe3dc93d56c63e3bee2b3b4aee8eed6d70191a3.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Large open counter and right spur reproduce concept character without a swollen join.",
+      "svg_findings": "Outer cubic extrema y88/812; right upright x532/650 is118units, intentional near116 cap family. Crossbar y450 is horizontal; no fill leak at step.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "H": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0048.svg",
+      "source_sha256": "4dac80b2d50492aaccd3612312ff4906bdcccf26448489582a9e8f6a9523c108",
+      "compiled_bounds": [
+        36,
+        0,
+        694,
+        700
+      ],
+      "advance_lsb": [
+        730,
+        36
+      ],
+      "proof": "proofs/alphabet-02.png",
+      "canonical_source": "output/wedge/glyphs/44bd7ae60f478fae1061e11a7739f4b94d1daf917982d33b6fc8a01a63f89c21.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Even upright rhythm; middle bar is visible but appropriately light.",
+      "svg_findings": "Both stems116units, crossbar24units; crown/foot tips share y100/800 and45-degree cuts.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "I": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0049.svg",
+      "source_sha256": "2f590509721f21e2331bedaa6affdb770161366f683888ee41290c4f8ce46650",
+      "compiled_bounds": [
+        40,
+        0,
+        264,
+        700
+      ],
+      "advance_lsb": [
+        304,
+        40
+      ],
+      "proof": "proofs/alphabet-02.png",
+      "canonical_source": "output/wedge/glyphs/a83dd0ccbffe39d071cc317ddf6e97f5c6b1c87af91919271f9fa140b0508c6c.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Narrow capital remains recognizable beside H/O at24px.",
+      "svg_findings": "Stem x94/210 is116units, serif cuts54by54; exact shared top/baseline.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "J": {
+      "authoritative_source": "output/wedge/drawings/glyph-U004A.svg",
+      "source_sha256": "bbbf433a397f991cdb7ec1720b95b5ba3c1f350946648ffe850cbad66f1f016d",
+      "compiled_bounds": [
+        140,
+        -72,
+        417,
+        700
+      ],
+      "advance_lsb": [
+        463,
+        140
+      ],
+      "proof": "proofs/alphabet-02.png",
+      "canonical_source": "output/wedge/glyphs/6da43b944e494e885e69af021f93c6d9331c78aa228084711429160a5bbd15b5.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Descending hook has deliberate faceted terminal; it reads as J without a counter pinch.",
+      "svg_findings": "Stem x247/363 is116units. Hook cubic transitions to terminal at226,872;72-unit below-baseline exception is stylistic and visually coherent.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "K": {
+      "authoritative_source": "output/wedge/refined/glyph-U004B.svg",
+      "source_sha256": "e5151c085a9cb3593c7fc31096bad0a1c2891da37654d24151bd03984733103c",
+      "compiled_bounds": [
+        36,
+        0,
+        701,
+        700
+      ],
+      "advance_lsb": [
+        725,
+        36
+      ],
+      "proof": "proofs/alphabet-02.png",
+      "canonical_source": "output/wedge/glyphs/86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Diagonals meet without a dark knot; lower leg is substantial next to H.",
+      "svg_findings": "Heavy leg edges435,314→655,754 and336,400→513,754 both have1:2 direction. Thin diagonal is intentionally separate; unified compiled connection is clean.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "L": {
+      "authoritative_source": "output/wedge/drawings/glyph-U004C.svg",
+      "source_sha256": "0fe1221912d7f0cb7a8bc3fe50e8a2252740c4494656a5e92fe82b56a40b580e",
+      "compiled_bounds": [
+        36,
+        0,
+        611,
+        700
+      ],
+      "advance_lsb": [
+        633,
+        36
+      ],
+      "proof": "proofs/alphabet-02.png",
+      "canonical_source": "output/wedge/glyphs/72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Strong stem and low wedge make a quiet open capital.",
+      "svg_findings": "116-unit vertical,24-unit foot; outer rising terminal and inside diagonal form deliberate wedge, no unintended point.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "M": {
+      "authoritative_source": "output/wedge/refined/glyph-U004D.svg",
+      "source_sha256": "654dd018dc4023f2cd27787b25560974b850dae09697335c3a5ee36f1cd32a37",
+      "compiled_bounds": [
+        40,
+        0,
+        852,
+        700
+      ],
+      "advance_lsb": [
+        890,
+        40
+      ],
+      "proof": "proofs/alphabet-03.png",
+      "canonical_source": "output/wedge/glyphs/08f271887ce94707da822d5263bae19d5519cb3614e0daedc4c7ce5dab7473f1.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Deep central vertex reads clearly; wide capital does not look congested.",
+      "svg_findings": "24-unit left hairline/116-unit right stem; thin ascending edges use the matching inner direction after refinement. Central tip y796 is intentionally near baseline.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "N": {
+      "authoritative_source": "output/wedge/drawings/glyph-U004E.svg",
+      "source_sha256": "871ab9e97d66af406691b3ae3f9b3f0625941064b881c7de3d85103cf9df0d1d",
+      "compiled_bounds": [
+        40,
+        0,
+        720,
+        700
+      ],
+      "advance_lsb": [
+        768,
+        40
+      ],
+      "proof": "proofs/alphabet-03.png",
+      "canonical_source": "output/wedge/glyphs/8ce86a6ae65d3692e7305e2c58ac62eebd97d3d943e093f577da25c36988246b.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Strong diagonal and thin flanking uprights retain high contrast at24px.",
+      "svg_findings": "24-unit side hairlines. Main long edges are near-parallel with optical endpoint/serif adjustment, not nominally exact duplicates; no visible taper anomaly.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "O": {
+      "authoritative_source": "output/wedge/drawings/glyph-U004F.svg",
+      "source_sha256": "334ca6996c2c1041f9faa04a94fa63151f86ad24cca0b65c51799b41d7f85866",
+      "compiled_bounds": [
+        47.0,
+        -12.0,
+        683.0,
+        712.0
+      ],
+      "advance_lsb": [
+        730,
+        47
+      ],
+      "proof": "proofs/alphabet-03.png",
+      "canonical_source": "output/wedge/glyphs/c4694f2e93d5c4e7d51f9c5deb75e6cc8be5e1114178c6a45b6fc2c566a0aa8c.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Round sides appear balanced, with delicate top/bottom retained at24px.",
+      "svg_findings": "Outer ellipse extents x47/683,y88/812; inner x183/547,y110/790. Aligned extrema and tangents;136-unit sides/22-unit top-bottom.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "P": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0050.svg",
+      "source_sha256": "50fc2b902fc9281186adcc860016dc84acdfe83185ece6cb15cd1ffdca4241e1",
+      "compiled_bounds": [
+        36,
+        0,
+        604,
+        700
+      ],
+      "advance_lsb": [
+        650,
+        36
+      ],
+      "proof": "proofs/alphabet-03.png",
+      "canonical_source": "output/wedge/glyphs/5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Counter remains open and stem-bowl junction looks crisp.",
+      "svg_findings": "116-unit stem; bowl outer and inner right extrema x604/468. Horizontal return y447/470 is23units; overlap cleanup is visually clean.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "Q": {
+      "authoritative_source": "output/wedge/refined/glyph-U0051.svg",
+      "source_sha256": "9a0e67f80ea7d6f84f91a2f05858653dd1d8d81ae727f33b2b0970428f252715",
+      "compiled_bounds": [
+        47,
+        -151,
+        683.0,
+        712.0
+      ],
+      "advance_lsb": [
+        770,
+        47
+      ],
+      "proof": "proofs/alphabet-03.png",
+      "canonical_source": "output/wedge/glyphs/4ae81572f06e1b88fd5ced7a1a000945432e83e1551e6f721ee9c00b8cc33260.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Current ribbon and interior diamond stay identifiable at use size and avoid a generic slash. Preserve latest drawing; user aesthetic approval remains pending.",
+      "svg_findings": "O bowl retained; ribbon edges319,837→534,880 and274,884→609,951 share1:5 slope. Diamond/connector and bowl union show no conversion sliver; tail reaches-151.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": "User aesthetic approval remains pending."
+    },
+    "R": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0052.svg",
+      "source_sha256": "c31fdfd312fa3afc547720fb8373eeab7a51e2ec053350af3b1275111f6f2446",
+      "compiled_bounds": [
+        36,
+        0,
+        703,
+        700
+      ],
+      "advance_lsb": [
+        724,
+        36
+      ],
+      "proof": "proofs/alphabet-03.png",
+      "canonical_source": "output/wedge/glyphs/8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Distinct bowl/leg transition remains dynamic and stable at24px.",
+      "svg_findings": "P bowl reused intentionally; curved leg entry at393,452 progresses into diagonal, finishing at baseline800. No extra point or spike in compiled junction.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "S": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0053.svg",
+      "source_sha256": "f6ad199713f7f6a8e0157ce3ceacabc24b4f2a726825f5c9f325a41f6bd39097",
+      "compiled_bounds": [
+        66,
+        -12,
+        568,
+        712
+      ],
+      "advance_lsb": [
+        613,
+        66
+      ],
+      "proof": "proofs/alphabet-04.png",
+      "canonical_source": "output/wedge/glyphs/8de0b3c47f112c59745f717a626932264c422a7563954872e237b223af4ad643.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Upper and lower lobes are controlled; central diagonal is substantial without a lump.",
+      "svg_findings": "Extrema y88/812 align with round family; handles at outer/inner lobe extremes keep tangents continuous. Sharp exposed terminals are deliberate.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "T": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0054.svg",
+      "source_sha256": "ea212387c1dfb6b455bdf5cc84d4e90503d954af7828cc7d55ca42a084fd0bc5",
+      "compiled_bounds": [
+        23,
+        0,
+        667,
+        700
+      ],
+      "advance_lsb": [
+        690,
+        23
+      ],
+      "proof": "proofs/alphabet-04.png",
+      "canonical_source": "output/wedge/glyphs/e632b7095b0bf32c260fa4c539e9fd7b852d0de454e9be26f24d0d6f91d069d3.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Wide cap and light horizontal balance stem; wedge ends remain open.",
+      "svg_findings": "116-unit stem,25-unit cap bar. Left/right wedge geometry mirrors about x345; serif overlap is removed cleanly.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "U": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0055.svg",
+      "source_sha256": "bc554e64e8e73b15f74b546c9e37a4347844e2f4837f745365eeca4719cec769",
+      "compiled_bounds": [
+        38,
+        -12,
+        696,
+        700
+      ],
+      "advance_lsb": [
+        746,
+        38
+      ],
+      "proof": "proofs/alphabet-04.png",
+      "canonical_source": "output/wedge/glyphs/a25513c7e0f6eaa80a3337ee18081b9e2ed09e00af8531c8f7bb2542764027e7.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Thin right upright balances heavy left and open bowl; bottom is smooth.",
+      "svg_findings": "Left116units/right25units. Inner low point773 vs outer812 gives deliberate heavier bottom than22-unit round cap hairline; no flat spot.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "V": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0056.svg",
+      "source_sha256": "d3edff9830e3900b12153b88bc4081bb27a1db796151d6331f930b0dec62a0e8",
+      "compiled_bounds": [
+        28,
+        -14,
+        690,
+        700
+      ],
+      "advance_lsb": [
+        738,
+        28
+      ],
+      "proof": "proofs/alphabet-04.png",
+      "canonical_source": "output/wedge/glyphs/de5a6f78116eca62d7fc5ce159d23ae6b889b365a1739ad2cf36f925a140d0cc.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Main diagonal has convincing mass beside H; bottom point stays clear.",
+      "svg_findings": "Both heavy edges have|dx/dy|0.4; perpendicular thickness about115.5units. Pointy base extends14units below baseline.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "W": {
+      "authoritative_source": "output/wedge/refined/glyph-U0057.svg",
+      "source_sha256": "68f9a9a4e860a83e7543954333cb59413ee020cf4e62dd4c26e929acb18ccc1a",
+      "compiled_bounds": [
+        23,
+        -14,
+        963,
+        700
+      ],
+      "advance_lsb": [
+        1020,
+        23
+      ],
+      "proof": "proofs/alphabet-04.png",
+      "canonical_source": "output/wedge/glyphs/fcb5f40df9be6bae66c1d77a6c15968866a9e6cbd7314ca432b019d17392f6f4.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Recent thickening balances H and keeps both valleys open at24px.",
+      "svg_findings": "Heavy-edge construction remains parallel; compiled perpendicular width about121units is optical compensation. Thin right leg and inner joins retain clear negative space.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "X": {
+      "authoritative_source": "output/wedge/refined/glyph-U0058.svg",
+      "source_sha256": "cde0b147c1bb559316c4bc97f0a9d73e1899c2ba62180965dea05917c1a8ca08",
+      "compiled_bounds": [
+        42,
+        0,
+        682,
+        700
+      ],
+      "advance_lsb": [
+        728,
+        42
+      ],
+      "proof": "proofs/alphabet-04.png",
+      "canonical_source": "output/wedge/glyphs/4b68ab3847feda7d6c62c1fbcbeebfa35eab7351ed5e78f4ddadea5df64b8015.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Recent heavier descending stroke holds its own beside H/O at36/24px.",
+      "svg_findings": "Heavy edges share2:3 direction; thin rising pair share4:5. Source140-unit horizontal span converts to116.5 perpendicular; no waist kink.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "Y": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0059.svg",
+      "source_sha256": "85447b8cf459d2dbed69dfcb03e748737354d7c2f4656cb63cf4c27f3e385b4f",
+      "compiled_bounds": [
+        24,
+        0,
+        666,
+        700
+      ],
+      "advance_lsb": [
+        706,
+        24
+      ],
+      "proof": "proofs/alphabet-05.png",
+      "canonical_source": "output/wedge/glyphs/18f5384d58bcb1bba0bcd9e6a6781d1a6ac2cc280c330ecbab6cb7931b721552.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Two arms resolve cleanly into upright; no heavy knot or weak stem.",
+      "svg_findings": "Upright x305/421 is116units. Arm junction at421,479/305,493 preserves contrast and matches stem sides; angular shoulder is deliberate.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "Z": {
+      "authoritative_source": "output/wedge/drawings/glyph-U005A.svg",
+      "source_sha256": "7e70ec3747d5a23fc2c5612c4eaf673241c1cc6950d5b3b96b1b011250e7fb5c",
+      "compiled_bounds": [
+        34,
+        0,
+        621,
+        700
+      ],
+      "advance_lsb": [
+        663,
+        34
+      ],
+      "proof": "proofs/alphabet-05.png",
+      "canonical_source": "output/wedge/glyphs/bbeebd879e1dff6918546dc0c179fdde505f2a21591c9a9c96e36b054ec5af83.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Solid diagonal and angular terminals remain legible at24px.",
+      "svg_findings": "Heavy long boundaries473,124→34,777 and621,123→181,776 are effectively parallel within endpoint correction.23/24-unit horizontal bars align with E.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "a": {
+      "authoritative_source": "output/wedge/refined/glyph-U0061.svg",
+      "source_sha256": "a12872f324277c59f641bb296b77e9a105315c7698eb09fd96458a0e5d0ca495",
+      "compiled_bounds": [
+        60,
+        -23,
+        535,
+        482
+      ],
+      "advance_lsb": [
+        547,
+        60
+      ],
+      "proof": "proofs/alphabet-05.png",
+      "canonical_source": "output/wedge/glyphs/ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Narrowed lower bowl is contained beneath the upper terminal; no conspicuous left bulge in isolation or aadd.",
+      "svg_findings": "Outer lower left x82 vs inner186 gives104-unit side. Entry handles use matching142,50 vectors; inner upper stroke is24units. Master LSB shift preserves this geometry.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": "User aesthetic approval remains pending."
+    },
+    "b": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0062.svg",
+      "source_sha256": "3657bacf8d0a9457ed5e7bf2269fa5ba4df72dfaafae66e6925d3b44e6bbab74",
+      "compiled_bounds": [
+        26,
+        -12,
+        540,
+        770
+      ],
+      "advance_lsb": [
+        582,
+        26
+      ],
+      "proof": "proofs/alphabet-05.png",
+      "canonical_source": "output/wedge/glyphs/3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Bowl joins ascend/descend naturally; no protruding lump at stem.",
+      "svg_findings": "Single bowl+stem outline; stem106units, right round about113units. Counter return uses same vertical attachment x188 with controlled curved entry/exit.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "c": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0063.svg",
+      "source_sha256": "067db546dedc269e58f9d31d11e3087e0c2d3ebc8882060ff8091c1c53ffc7aa",
+      "compiled_bounds": [
+        38.0,
+        -12,
+        473,
+        482.0
+      ],
+      "advance_lsb": [
+        506,
+        38
+      ],
+      "proof": "proofs/alphabet-05.png",
+      "canonical_source": "output/wedge/glyphs/2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Open aperture and sharp upper cut retain contrast at24px.",
+      "svg_findings": "Outer left38 and inner151 are113 apart; round y318/812. Cubic lower exit plus small terminal line stays clean after quadratic conversion.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "d": {
+      "authoritative_source": "output/wedge/refined/glyph-U0064.svg",
+      "source_sha256": "ea2364b1d59f8d2f9ee89e0a029a1366611d039596d1ec925cd97b371d89ee5d",
+      "compiled_bounds": [
+        40,
+        -12,
+        554,
+        770
+      ],
+      "advance_lsb": [
+        582,
+        40
+      ],
+      "proof": "proofs/alphabet-05.png",
+      "canonical_source": "output/wedge/glyphs/18ac3e7343f016890c510e93f935261169d9e3f565436429830faf0934f4f8e4.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Counter rises into shoulder; compact left bowl and slanted foot avoid previous swollen form.",
+      "svg_findings": "106-unit upright x392/498; left side40/160 is120units, controlled compensation. Counter bottom753 is intentionally higher than b/q; shoulder handles show no extra extremum.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": "User aesthetic approval remains pending."
+    },
+    "e": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0065.svg",
+      "source_sha256": "f55286b0722b0422bfac56087217c6dfab3fa447b8ce73ed62422de2c27114ca",
+      "compiled_bounds": [
+        38,
+        -12,
+        490,
+        482
+      ],
+      "advance_lsb": [
+        531,
+        38
+      ],
+      "proof": "proofs/alphabet-06.png",
+      "canonical_source": "output/wedge/glyphs/3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Horizontal eye stays open and lower aperture remains clear at24px.",
+      "svg_findings": "Bar edges y522/546 are24units; left-side family113units. Counter closes using economical curves; smooth vertical extrema at top and left.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "f": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0066.svg",
+      "source_sha256": "21bd7d00c6109ae8c9097898fd1355759382248d5d17c7936e772b2ba25d5f29",
+      "compiled_bounds": [
+        32,
+        0,
+        382,
+        770
+      ],
+      "advance_lsb": [
+        363,
+        32
+      ],
+      "proof": "proofs/alphabet-06.png",
+      "canonical_source": "output/wedge/glyphs/252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Hook and small triangular top terminal read clearly; isolate has no contour defect. Sequence overhang belongs in ligature review.",
+      "svg_findings": "106-unit stem,25-unit crossbar y330/355. Upper cubic hook and sharp diagonal terminal deliberately overhang right; no accidental intersection.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "g": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0067.svg",
+      "source_sha256": "20b073856fb80c2b607e091a7d01d2c5fbed8e1fb547e148967c73c73b2b6a4a",
+      "compiled_bounds": [
+        39,
+        -223,
+        526,
+        572
+      ],
+      "advance_lsb": [
+        558,
+        39
+      ],
+      "proof": "proofs/alphabet-06.png",
+      "canonical_source": "output/wedge/glyphs/cd0aa9856147b6c5b4ff2b7dfee5da20aa38253099ef1b4a64aced233c9afe29.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Triangular ear stays simple and connected; both counters and lower loop remain open at24px.",
+      "svg_findings": "Ear is a single110×110 right triangle. Upper bowl aligned extrema and20-unit top/bottom; lower loop cubic boundaries and link union have no spur/sliver.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": "User aesthetic approval remains pending."
+    },
+    "h": {
+      "authoritative_source": "output/wedge/refined/glyph-U0068.svg",
+      "source_sha256": "c6cecc5197fa7779cae505b6d4c4eac38e102efa01ad0cb164dd1e8d815ebc2d",
+      "compiled_bounds": [
+        26,
+        0,
+        556,
+        770
+      ],
+      "advance_lsb": [
+        586,
+        26
+      ],
+      "proof": "proofs/alphabet-06.png",
+      "canonical_source": "output/wedge/glyphs/aaa9402664f1a41f40ebbc52c9993eb66aeb366602958fdfaa283b71e64db123.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Shoulder rises naturally from stem; right upright matches lowercase weight.",
+      "svg_findings": "Left106/right105units, smooth shoulder outer y318; counter shoulder handles and stem attachment maintain light rising entrance.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "i": {
+      "authoritative_source": "output/wedge/refined/glyph-U0069.svg",
+      "source_sha256": "35c023c9673a90a17d85c547ac0311c2e88d974c6bfc8ddfce320068f6df7db5",
+      "compiled_bounds": [
+        26,
+        0,
+        242,
+        661
+      ],
+      "advance_lsb": [
+        274,
+        26
+      ],
+      "proof": "proofs/alphabet-06.png",
+      "canonical_source": "output/wedge/glyphs/de7d1b721a1e0632b7cf04edf5032c8ecffa9f9a08492152b926f1a5a7e765d7.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Larger diamond is visible at24px with a clear gap above head wedge.",
+      "svg_findings": "Diamond width/height106 centeredx135, y139..245; body top320 means75-unit clear gap.106-unit stem unchanged.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "j": {
+      "authoritative_source": "output/wedge/refined/glyph-U006A.svg",
+      "source_sha256": "0dbc130d27961b6bbe46c4cae8574ccbaf290979328791852c4c1d1021c37227",
+      "compiled_bounds": [
+        9,
+        -230,
+        197,
+        661
+      ],
+      "advance_lsb": [
+        286,
+        9
+      ],
+      "proof": "proofs/alphabet-06.png",
+      "canonical_source": "output/wedge/glyphs/189f40034be7a199f1fa9891668ee3ab6049f82d38c68be70f596eab2e1857b7.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Larger centered diamond and descending hook distinguish j at24px.",
+      "svg_findings": "Diamond width/height106 centeredx144; same75-unit body clearance as i. Stem106units, hook reaches-230 inside line metrics.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "k": {
+      "authoritative_source": "output/wedge/drawings/glyph-U006B.svg",
+      "source_sha256": "a6915d2b94a2e4ec3e00870dd276773720cefb136fb378e7744f0fbdfc350683",
+      "compiled_bounds": [
+        26,
+        0,
+        527,
+        770
+      ],
+      "advance_lsb": [
+        562,
+        26
+      ],
+      "proof": "proofs/alphabet-07.png",
+      "canonical_source": "output/wedge/glyphs/8254c329a92850f6d539dd376f4816ee2764517da5e0235514af433164480d7a.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Upper hairline and heavy lower leg meet cleanly; stroke mass matches lowercase controls.",
+      "svg_findings": "106-unit upright. Heavy lower leg edges differ slightly in slope as a deliberate taper into foot, unlike exact-parallel X; no visual swelling or notch.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "l": {
+      "authoritative_source": "output/wedge/drawings/glyph-U006C.svg",
+      "source_sha256": "9bdaeb6659062c1497acf4c3f44e5aac8ef78bd1ba15e1cd990e1d4da4e60b5c",
+      "compiled_bounds": [
+        26,
+        0,
+        242,
+        770
+      ],
+      "advance_lsb": [
+        274,
+        26
+      ],
+      "proof": "proofs/alphabet-07.png",
+      "canonical_source": "output/wedge/glyphs/acac86c0e609ca906f632b0e2dacccb2b77d22b0621f20ebece1a4835b93f6f0.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Tall simple stem retains angled head and grounded foot.",
+      "svg_findings": "106-unit stem,54-unit45-degree foot cuts, ascender y30. Shared b/h/l ascender geometry is exact.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "m": {
+      "authoritative_source": "output/wedge/refined/glyph-U006D.svg",
+      "source_sha256": "533d61a06aa33f4f7bc3347c06e35c86ffb12e4d375eff7f949c2ed339790c44",
+      "compiled_bounds": [
+        26,
+        0,
+        828,
+        482
+      ],
+      "advance_lsb": [
+        858,
+        26
+      ],
+      "proof": "proofs/alphabet-07.png",
+      "canonical_source": "output/wedge/glyphs/62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Both shoulders are open, three stems read evenly at24px.",
+      "svg_findings": "Stems106/105/105; outer shoulder topsy318, controlled shared inner heightsy361. Middle join has no dark overlap knot after compilation.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "n": {
+      "authoritative_source": "output/wedge/refined/glyph-U006E.svg",
+      "source_sha256": "d784fa6ceef805ebca5c8258cd9df0e163ba271b863d491f45d110ddea568192",
+      "compiled_bounds": [
+        26,
+        0,
+        556,
+        482
+      ],
+      "advance_lsb": [
+        586,
+        26
+      ],
+      "proof": "proofs/alphabet-07.png",
+      "canonical_source": "output/wedge/glyphs/1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Shoulder and stem rhythm remain even in noon and minimum.",
+      "svg_findings": "Left106/right105units; y318 shoulder overshoot and y320 pointed head differ2units intentionally. Inside and outside shoulder handles are controlled.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "o": {
+      "authoritative_source": "output/wedge/drawings/glyph-U006F.svg",
+      "source_sha256": "16533fa40bb0389972c7d62ffc4cb7c299fb4a3eb80cefa187ed75abd357a50e",
+      "compiled_bounds": [
+        40.0,
+        -12.0,
+        518.0,
+        482.0
+      ],
+      "advance_lsb": [
+        558,
+        40
+      ],
+      "proof": "proofs/alphabet-07.png",
+      "canonical_source": "output/wedge/glyphs/65c74c15a686187bb6bbf9958f494fc6b80068034a659a9ad44991b08c58f2d2.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Round counter is open and stroke mass matches n without visible bulges.",
+      "svg_findings": "Outer x40/518,y318/812, innerx153/405,y340/790. Side113/top-bottom22; extrema and tangent families align.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "p": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0070.svg",
+      "source_sha256": "688c3c33a077d2edc54540bc523252f53ba67569a6f05d5d6c30f254ad71c201",
+      "compiled_bounds": [
+        26,
+        -220,
+        540,
+        482
+      ],
+      "advance_lsb": [
+        582,
+        26
+      ],
+      "proof": "proofs/alphabet-07.png",
+      "canonical_source": "output/wedge/glyphs/148de9c5a7a44d19e56cd9ae1a554bf67847afb0c58f6e12fa29ac7ddfca9940.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Bowl/descender relation reads clearly at24px and in bdqp.",
+      "svg_findings": "106-unit upright with54-unit foot cuts at y1020; same original b bowl at x540/427, unified contour avoids overlap swelling.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "q": {
+      "authoritative_source": "output/wedge/refined/glyph-U0071.svg",
+      "source_sha256": "447a7d2a241173b240fc5f8d81423a6dbceccf3fba3e3535f992e369bafed0bc",
+      "compiled_bounds": [
+        40,
+        -220,
+        552,
+        482
+      ],
+      "advance_lsb": [
+        582,
+        40
+      ],
+      "proof": "proofs/alphabet-08.png",
+      "canonical_source": "output/wedge/glyphs/8e35c2cd3bf6641bdb0e2050b76932cbb2e6034a0ddacc1d9bea82a6ba57f7cf.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Lower foot and upper attachment distinguish q; no protruding bowl join.",
+      "svg_findings": "106-unit upright x392/498; left round113units; single unified contour with upper shoulder at392,370. Descender-220 matches p.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "r": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0072.svg",
+      "source_sha256": "636b1e3194ecd4c8d55d798df41f1547ce9ccd2c129e52df16ea5f90c2593fd6",
+      "compiled_bounds": [
+        26,
+        0,
+        404,
+        488
+      ],
+      "advance_lsb": [
+        438,
+        26
+      ],
+      "proof": "proofs/alphabet-08.png",
+      "canonical_source": "output/wedge/glyphs/454349e422f05297191ead13e21d3db520e5abef52055e4964b82fb213f593a1.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Diamond-like terminal has intentional strong mass while entrance remains light.",
+      "svg_findings": "Terminal segments318,312→404,398→326,476→259,409 are45degrees; curved return into stem is smooth, no point artifact.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "s": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0073.svg",
+      "source_sha256": "9a4eceb290f7d66896637dd39a2ce5b7daac0360b6eb9a1c29712e863373bf8a",
+      "compiled_bounds": [
+        46,
+        -12,
+        414,
+        482
+      ],
+      "advance_lsb": [
+        458,
+        46
+      ],
+      "proof": "proofs/alphabet-08.png",
+      "canonical_source": "output/wedge/glyphs/043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Open central flow and angular terminals remain legible at24px.",
+      "svg_findings": "Outer top/bottom318/812, inner340/790; cubic handles resolve diagonal into both lobes without secondary extremum.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "t": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0074.svg",
+      "source_sha256": "c98fdb0296b67b3a12163a53133039fb860a00e81017dd5de9b08edec552a8b0",
+      "compiled_bounds": [
+        29,
+        -12,
+        342,
+        638
+      ],
+      "advance_lsb": [
+        370,
+        29
+      ],
+      "proof": "proofs/alphabet-08.png",
+      "canonical_source": "output/wedge/glyphs/e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Short ascender wedge and curved foot are distinct at24px.",
+      "svg_findings": "106-unit stem,25-unit crossbar,106×106 ascending wedge. Bottom curve has controlled tangent into terminal; no extra bulge.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "u": {
+      "authoritative_source": "output/wedge/drawings/glyph-U0075.svg",
+      "source_sha256": "9176571276deaaef718e6564d5e6e7da764b47d91c52209a057d345b5181dd1c",
+      "compiled_bounds": [
+        26,
+        -12,
+        559,
+        480
+      ],
+      "advance_lsb": [
+        588,
+        26
+      ],
+      "proof": "proofs/alphabet-08.png",
+      "canonical_source": "output/wedge/glyphs/0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Open top and right slanted foot maintain even rhythm; base curve is not swollen.",
+      "svg_findings": "106-unit uprights, deliberate near-parallel/slightly differing head cuts. Outer bottom812 and inside761 create optical bottom weight; no corner knot.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "v": {
+      "authoritative_source": "output/wedge/refined/glyph-U0076.svg",
+      "source_sha256": "e5bdea29cf5eec8bd69c83c8d65cd716843b957c30c071cf5c7be4b9c1c0c1be",
+      "compiled_bounds": [
+        33,
+        -13,
+        488,
+        470
+      ],
+      "advance_lsb": [
+        530,
+        33
+      ],
+      "proof": "proofs/alphabet-08.png",
+      "canonical_source": "output/wedge/glyphs/4c94485e0c21ae6c41ce1dfe7b6bfaceea5ab68e40a2476f50208e526f506080.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Recent diagonal compensation balances lowercase n and leaves open vertex.",
+      "svg_findings": "Heavy edges keep|dx/dy|0.4, about105.85 perpendicular; pointed baseline overshoot13units. Hairline remains distinct.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "w": {
+      "authoritative_source": "output/wedge/refined/glyph-U0077.svg",
+      "source_sha256": "d332648936f7ed1a86503c333733b835032ca8680d7f5abf5f404347f709d67e",
+      "compiled_bounds": [
+        23,
+        -13,
+        729,
+        470
+      ],
+      "advance_lsb": [
+        766,
+        23
+      ],
+      "proof": "proofs/alphabet-09.png",
+      "canonical_source": "output/wedge/glyphs/50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Both darker legs hold up in woven and native24px without congested valleys.",
+      "svg_findings": "Matched parallel heavy edges retain about106.6–107.2 compiled perpendicular width. Separate hairline directions are intentional for the wider w.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "x": {
+      "authoritative_source": "output/wedge/refined/glyph-U0078.svg",
+      "source_sha256": "134bca0953c71ecac2de3703add1ac3f8f3a8fb16e38a43e0ae7bdf665ef6c30",
+      "compiled_bounds": [
+        27,
+        0,
+        494,
+        470
+      ],
+      "advance_lsb": [
+        531,
+        27
+      ],
+      "proof": "proofs/alphabet-09.png",
+      "canonical_source": "output/wedge/glyphs/2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Heavier diagonal no longer appears weak; crossing is sharp and unclotted.",
+      "svg_findings": "Heavy pair shares2:3 descent, light pair4:5 ascent.128-unit horizontal span yields about106.5 perpendicular; baseline800 and cap330 aligned.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "y": {
+      "authoritative_source": "output/wedge/refined/glyph-U0079.svg",
+      "source_sha256": "cd5a9eaffa140105a195361c7f689b2b25442cf527486d3117e8ed3a933ab666",
+      "compiled_bounds": [
+        28,
+        -229,
+        488,
+        470
+      ],
+      "advance_lsb": [
+        531,
+        28
+      ],
+      "proof": "proofs/alphabet-09.png",
+      "canonical_source": "output/wedge/glyphs/a1fce4363854ff888cff4b8e7875d600c2682390412a8cf79b37d0b11148b0fa.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Upper v and descending curved tail balance at24px; terminal stays distinct.",
+      "svg_findings": "Main diagonal retains v105.85 perpendicular family. Tail extension has smooth cubic return and deliberate faceted terminal, descender-229.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    },
+    "z": {
+      "authoritative_source": "output/wedge/drawings/glyph-U007A.svg",
+      "source_sha256": "d608df33f22dc7f2e51fc64578e0eb04ee68b9a85761f55a0919d24f9526f8c4",
+      "compiled_bounds": [
+        30,
+        0,
+        453,
+        470
+      ],
+      "advance_lsb": [
+        492,
+        30
+      ],
+      "proof": "proofs/alphabet-09.png",
+      "canonical_source": "output/wedge/glyphs/594e519ae499312b29433b7dd8a97ff068defcba9755b6d5d00e84c524d67b06.svg",
+      "canonical_path_parity": true,
+      "visual_status": "inspected_no_change_recommended",
+      "geometry_status": "inspected_no_change_recommended",
+      "visual_findings": "Short diagonal and wedges remain crisp at24px with an open center.",
+      "svg_findings": "Top/bottom23units; long heavy edges have near-matching slope with1-unit endpoint difference. Vertical endpoints y330/800 align to lowercase flat family.",
+      "sizes_px": [
+        220,
+        36,
+        24
+      ],
+      "pixel_scale": 1,
+      "remaining_design_work": null
+    }
+  },
+  "review_status": "inspected; no high-confidence new contour defect found",
+  "scope": "52 Latin letters only; independent design pass on v0.111",
+  "reference": "output/wedge/references/reference.png",
+  "word_proofs": [
+    "proofs/caps-use.png",
+    "proofs/lower-use.png",
+    "proofs/details-use.png",
+    "proofs/diagonals-use.png"
+  ],
+  "word_proof_font_size": 32,
+  "word_proof_pixel_scale": 1,
+  "master_changes": false,
+  "proposals": [],
+  "limitations": [
+    "No claim of user aesthetic approval.",
+    "Kerning and sequence ligature needs are separate coordinated reviews.",
+    "All52 inspected individually at display220px and use36/24px with letters beside H/O or n/o; word proofs provide additional selected context.",
+    "No trial rebuild was needed because no glyph change is proposed.",
+    "TTF rendering and source/canonical SVG parity were reviewed; this subtask did not independently inspect every exported OTF contour."
+  ]
+}

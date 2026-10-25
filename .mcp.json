@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "font-maker": {
+      "command": "uv",
+      "args": ["run", "--project", ".", "fontmaker-mcp"],
+      "cwd": "."
+    }
+  }
+}

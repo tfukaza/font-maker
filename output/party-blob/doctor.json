@@ -1,0 +1,19 @@
+{
+  "font_maker_version": "0.1.0",
+  "fontforge": {
+    "available": true,
+    "executable": "/opt/homebrew/bin/fontforge",
+    "version": "20251009",
+    "required_version": "20251009",
+    "compatible": true,
+    "license": "GPL-3.0-or-later",
+    "credit": "FontForge by George Williams and the FontForge contributors",
+    "source": "https://github.com/fontforge/fontforge/tree/20251009"
+  },
+  "formats": [
+    "ttf",
+    "otf",
+    "woff2"
+  ],
+  "transport": "stdio"
+}

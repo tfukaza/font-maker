@@ -1,0 +1,48 @@
+{
+  "revision": "a11e6cc5cbf20e3f56750af8767e2fe062674364c77ee3965c6e4c8c23f65c2f",
+  "checks": {
+    "ttf": {
+      "sha256_verified": true,
+      "upm": 1000,
+      "coverage_verified": true,
+      "discretionary_substitution": [
+        "E_n",
+        "space",
+        "E_n",
+        "g",
+        "i",
+        "n",
+        "e"
+      ]
+    },
+    "otf": {
+      "sha256_verified": true,
+      "upm": 1000,
+      "coverage_verified": true,
+      "discretionary_substitution": [
+        "E_n",
+        "space",
+        "E_n",
+        "g",
+        "i",
+        "n",
+        "e"
+      ]
+    },
+    "woff2": {
+      "sha256_verified": true,
+      "upm": 1000,
+      "coverage_verified": true,
+      "discretionary_substitution": [
+        "E_n",
+        "space",
+        "E_n",
+        "g",
+        "i",
+        "n",
+        "e"
+      ]
+    }
+  },
+  "specimen": "/Users/tomokif/code/font-maker/output/party-blob/specimen.html"
+}

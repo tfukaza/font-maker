@@ -1,0 +1,402 @@
+{
+  "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+  "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691",
+  "sizes_px": [
+    180,
+    56,
+    24
+  ],
+  "pixel_scale": 1,
+  "glyphs": {
+    "A": {
+      "source": "output/wedge/refined/glyph-U0041.svg",
+      "source_sha256": "59429999d73e8a9b753592b3cbaf507f4f0312cc35683e41c717c87a8e4936de",
+      "compiled_bounds": [
+        28,
+        0,
+        724,
+        724
+      ],
+      "advance_lsb": [
+        740,
+        28
+      ],
+      "proof": "proofs/caps-01.png"
+    },
+    "B": {
+      "source": "output/wedge/drawings/glyph-U0042.svg",
+      "source_sha256": "b80be9fe59675757cb6678e563a1e18e4d7ffd9a65a7b3196bb4e2c3509f87c4",
+      "compiled_bounds": [
+        36,
+        0,
+        635,
+        700
+      ],
+      "advance_lsb": [
+        670,
+        36
+      ],
+      "proof": "proofs/caps-01.png"
+    },
+    "C": {
+      "source": "output/wedge/drawings/glyph-U0043.svg",
+      "source_sha256": "54dd5d7f85c565ac5e83855eb4e756d9aa28914614cc1c606eeeaf84fa75c124",
+      "compiled_bounds": [
+        46,
+        -12,
+        657,
+        712
+      ],
+      "advance_lsb": [
+        717,
+        46
+      ],
+      "proof": "proofs/caps-01.png"
+    },
+    "D": {
+      "source": "output/wedge/drawings/glyph-U0044.svg",
+      "source_sha256": "c954f38c663ebfb8925f0d83227a26164fe1d52796062659dfc2b6a0b0821891",
+      "compiled_bounds": [
+        36,
+        0,
+        690.0,
+        700
+      ],
+      "advance_lsb": [
+        736,
+        36
+      ],
+      "proof": "proofs/caps-01.png"
+    },
+    "E": {
+      "source": "output/wedge/drawings/glyph-U0045.svg",
+      "source_sha256": "73daecc25d51a819d1519766689077d049d61d1a84ac5dd837b94753068bdd84",
+      "compiled_bounds": [
+        36,
+        0,
+        621,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        36
+      ],
+      "proof": "proofs/caps-02.png"
+    },
+    "F": {
+      "source": "output/wedge/drawings/glyph-U0046.svg",
+      "source_sha256": "ff3e5ee26791400498faf5a971a33122bddf5cf7210e9b732001826d10f354dd",
+      "compiled_bounds": [
+        36,
+        0,
+        588,
+        700
+      ],
+      "advance_lsb": [
+        607,
+        36
+      ],
+      "proof": "proofs/caps-02.png"
+    },
+    "G": {
+      "source": "output/wedge/drawings/glyph-U0047.svg",
+      "source_sha256": "340111358fef290d2ad775593226d34b624bd8586f3b241d974e1475036e665b",
+      "compiled_bounds": [
+        46,
+        -12,
+        727,
+        712
+      ],
+      "advance_lsb": [
+        754,
+        46
+      ],
+      "proof": "proofs/caps-02.png"
+    },
+    "H": {
+      "source": "output/wedge/drawings/glyph-U0048.svg",
+      "source_sha256": "4dac80b2d50492aaccd3612312ff4906bdcccf26448489582a9e8f6a9523c108",
+      "compiled_bounds": [
+        36,
+        0,
+        694,
+        700
+      ],
+      "advance_lsb": [
+        730,
+        36
+      ],
+      "proof": "proofs/caps-02.png"
+    },
+    "I": {
+      "source": "output/wedge/drawings/glyph-U0049.svg",
+      "source_sha256": "2f590509721f21e2331bedaa6affdb770161366f683888ee41290c4f8ce46650",
+      "compiled_bounds": [
+        40,
+        0,
+        264,
+        700
+      ],
+      "advance_lsb": [
+        304,
+        40
+      ],
+      "proof": "proofs/caps-03.png"
+    },
+    "J": {
+      "source": "output/wedge/drawings/glyph-U004A.svg",
+      "source_sha256": "bbbf433a397f991cdb7ec1720b95b5ba3c1f350946648ffe850cbad66f1f016d",
+      "compiled_bounds": [
+        140,
+        -72,
+        417,
+        700
+      ],
+      "advance_lsb": [
+        463,
+        140
+      ],
+      "proof": "proofs/caps-03.png"
+    },
+    "K": {
+      "source": "output/wedge/refined/glyph-U004B.svg",
+      "source_sha256": "e5151c085a9cb3593c7fc31096bad0a1c2891da37654d24151bd03984733103c",
+      "compiled_bounds": [
+        36,
+        0,
+        701,
+        700
+      ],
+      "advance_lsb": [
+        725,
+        36
+      ],
+      "proof": "proofs/caps-03.png"
+    },
+    "L": {
+      "source": "output/wedge/drawings/glyph-U004C.svg",
+      "source_sha256": "0fe1221912d7f0cb7a8bc3fe50e8a2252740c4494656a5e92fe82b56a40b580e",
+      "compiled_bounds": [
+        36,
+        0,
+        611,
+        700
+      ],
+      "advance_lsb": [
+        633,
+        36
+      ],
+      "proof": "proofs/caps-03.png"
+    },
+    "M": {
+      "source": "output/wedge/refined/glyph-U004D.svg",
+      "source_sha256": "654dd018dc4023f2cd27787b25560974b850dae09697335c3a5ee36f1cd32a37",
+      "compiled_bounds": [
+        40,
+        0,
+        852,
+        700
+      ],
+      "advance_lsb": [
+        890,
+        40
+      ],
+      "proof": "proofs/caps-04.png"
+    },
+    "N": {
+      "source": "output/wedge/drawings/glyph-U004E.svg",
+      "source_sha256": "871ab9e97d66af406691b3ae3f9b3f0625941064b881c7de3d85103cf9df0d1d",
+      "compiled_bounds": [
+        40,
+        0,
+        720,
+        700
+      ],
+      "advance_lsb": [
+        768,
+        40
+      ],
+      "proof": "proofs/caps-04.png"
+    },
+    "O": {
+      "source": "output/wedge/drawings/glyph-U004F.svg",
+      "source_sha256": "334ca6996c2c1041f9faa04a94fa63151f86ad24cca0b65c51799b41d7f85866",
+      "compiled_bounds": [
+        47.0,
+        -12.0,
+        683.0,
+        712.0
+      ],
+      "advance_lsb": [
+        730,
+        47
+      ],
+      "proof": "proofs/caps-04.png"
+    },
+    "P": {
+      "source": "output/wedge/drawings/glyph-U0050.svg",
+      "source_sha256": "50fc2b902fc9281186adcc860016dc84acdfe83185ece6cb15cd1ffdca4241e1",
+      "compiled_bounds": [
+        36,
+        0,
+        604,
+        700
+      ],
+      "advance_lsb": [
+        650,
+        36
+      ],
+      "proof": "proofs/caps-04.png"
+    },
+    "Q": {
+      "source": "output/wedge/refined/glyph-U0051.svg",
+      "source_sha256": "9a0e67f80ea7d6f84f91a2f05858653dd1d8d81ae727f33b2b0970428f252715",
+      "compiled_bounds": [
+        47,
+        -151,
+        683.0,
+        712.0
+      ],
+      "advance_lsb": [
+        770,
+        47
+      ],
+      "proof": "proofs/caps-05.png"
+    },
+    "R": {
+      "source": "output/wedge/drawings/glyph-U0052.svg",
+      "source_sha256": "c31fdfd312fa3afc547720fb8373eeab7a51e2ec053350af3b1275111f6f2446",
+      "compiled_bounds": [
+        36,
+        0,
+        703,
+        700
+      ],
+      "advance_lsb": [
+        724,
+        36
+      ],
+      "proof": "proofs/caps-05.png"
+    },
+    "S": {
+      "source": "output/wedge/refined/glyph-U0053.svg",
+      "source_sha256": "e7846978cbba540d808f6861a13da9062f4abc11fbe2f690589a010131f33d42",
+      "compiled_bounds": [
+        66,
+        -12,
+        568,
+        712
+      ],
+      "advance_lsb": [
+        613,
+        66
+      ],
+      "proof": "proofs/caps-05.png"
+    },
+    "T": {
+      "source": "output/wedge/drawings/glyph-U0054.svg",
+      "source_sha256": "ea212387c1dfb6b455bdf5cc84d4e90503d954af7828cc7d55ca42a084fd0bc5",
+      "compiled_bounds": [
+        23,
+        0,
+        667,
+        700
+      ],
+      "advance_lsb": [
+        690,
+        23
+      ],
+      "proof": "proofs/caps-05.png"
+    },
+    "U": {
+      "source": "output/wedge/drawings/glyph-U0055.svg",
+      "source_sha256": "bc554e64e8e73b15f74b546c9e37a4347844e2f4837f745365eeca4719cec769",
+      "compiled_bounds": [
+        38,
+        -12,
+        696,
+        700
+      ],
+      "advance_lsb": [
+        746,
+        38
+      ],
+      "proof": "proofs/caps-06.png"
+    },
+    "V": {
+      "source": "output/wedge/drawings/glyph-U0056.svg",
+      "source_sha256": "d3edff9830e3900b12153b88bc4081bb27a1db796151d6331f930b0dec62a0e8",
+      "compiled_bounds": [
+        28,
+        -14,
+        690,
+        700
+      ],
+      "advance_lsb": [
+        738,
+        28
+      ],
+      "proof": "proofs/caps-06.png"
+    },
+    "W": {
+      "source": "output/wedge/refined/glyph-U0057.svg",
+      "source_sha256": "68f9a9a4e860a83e7543954333cb59413ee020cf4e62dd4c26e929acb18ccc1a",
+      "compiled_bounds": [
+        23,
+        -14,
+        963,
+        700
+      ],
+      "advance_lsb": [
+        1020,
+        23
+      ],
+      "proof": "proofs/caps-06.png"
+    },
+    "X": {
+      "source": "output/wedge/refined/glyph-U0058.svg",
+      "source_sha256": "cde0b147c1bb559316c4bc97f0a9d73e1899c2ba62180965dea05917c1a8ca08",
+      "compiled_bounds": [
+        42,
+        0,
+        682,
+        700
+      ],
+      "advance_lsb": [
+        728,
+        42
+      ],
+      "proof": "proofs/caps-06.png"
+    },
+    "Y": {
+      "source": "output/wedge/drawings/glyph-U0059.svg",
+      "source_sha256": "85447b8cf459d2dbed69dfcb03e748737354d7c2f4656cb63cf4c27f3e385b4f",
+      "compiled_bounds": [
+        24,
+        0,
+        666,
+        700
+      ],
+      "advance_lsb": [
+        706,
+        24
+      ],
+      "proof": "proofs/caps-07.png"
+    },
+    "Z": {
+      "source": "output/wedge/drawings/glyph-U005A.svg",
+      "source_sha256": "7e70ec3747d5a23fc2c5612c4eaf673241c1cc6950d5b3b96b1b011250e7fb5c",
+      "compiled_bounds": [
+        34,
+        0,
+        621,
+        700
+      ],
+      "advance_lsb": [
+        663,
+        34
+      ],
+      "proof": "proofs/caps-07.png"
+    }
+  }
+}

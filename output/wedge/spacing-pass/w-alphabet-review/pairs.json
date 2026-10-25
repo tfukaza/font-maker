@@ -1,0 +1,1037 @@
+{
+  "font_sha256": "95c8caf7ee3a1aa885ad020a7e57a4f1f5443c1c615333dabfbed011a020ccf5",
+  "pair_count": 103,
+  "pairs": [
+    {
+      "pair": "WA",
+      "kern": -80,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WB",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WC",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "secondary_negative_trial",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WD",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WE",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WF",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WG",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "secondary_negative_trial",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WH",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WI",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WJ",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WK",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WL",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WM",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WN",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WO",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "secondary_negative_trial",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WP",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WQ",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "secondary_negative_trial",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WR",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WS",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "secondary_negative_trial",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WT",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WU",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WV",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WX",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "secondary_negative_trial",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WY",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "WZ",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wa",
+      "kern": -45,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wb",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wc",
+      "kern": -45,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wd",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "We",
+      "kern": -45,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wf",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "individual_negative_trial_with_upper_clearance_check",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wg",
+      "kern": -45,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wh",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wi",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "individual_negative_trial_with_upper_clearance_check",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wj",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "individual_negative_trial_with_upper_clearance_check",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wk",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wl",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wm",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wn",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wo",
+      "kern": -45,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wp",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wq",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wr",
+      "kern": -12,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Ws",
+      "kern": -45,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wt",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "individual_negative_trial_with_upper_clearance_check",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wu",
+      "kern": -12,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wv",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Ww",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wx",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wy",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "Wz",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "trial_stronger_negative",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "AW",
+      "kern": -90,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "BW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "CW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "DW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "EW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "FW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "GW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "HW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "IW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "JW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "KW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "LW",
+      "kern": -85,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "MW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "NW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "OW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "PW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "QW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "RW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "SW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "TW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "UW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "VW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "XW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "YW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "ZW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "aW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "bW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "cW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "dW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "eW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "fW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "already_close_do_not_mirror_forward_values",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "gW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "hW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "iW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "jW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "kW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "lW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "mW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "nW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "oW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "pW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "qW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "rW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "already_close_do_not_mirror_forward_values",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "sW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "tW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "uW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "vW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "wW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "xW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "yW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    },
+    {
+      "pair": "zW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_review_status": "no_change_established_by_baseline_review",
+      "final_value_accepted": false
+    }
+  ],
+  "scope": "All ordered W pairs against ASCII A-Z/a-z; baseline visual review only."
+}

@@ -1,0 +1,65 @@
+{
+  "project_id": "8192953c-1ac4-4776-9088-ae245a5d0807",
+  "revision": "a8eced687c967935e75dc99061346771214593015b0b87fb6a3198a4e245a5d4",
+  "changed": [
+    "glyphs/6500ef20b6c4932a1e6184d2175adb7fdd2b8cd572414c9ae5901a9a7e340e0b.svg",
+    "glyphs/cf48159a73d856b5b16f15f69c100e48ef40729c2722a6a61354a55ce1eb72cf.svg",
+    "glyphs/64d3fd3e91a16874ce6880c4e502a72e8030e37cb9dd9734f4fefb64e079dbf9.svg",
+    "glyphs/c0eaf33cfc1d9ccea63147e8e78672f06a21d7a3a8511a406f1da5841d565f8e.svg",
+    "glyphs/7d0b0aaec388130d5da536cd39adcd44325f09ceafbd8cacb2b3232b1b51bb06.svg",
+    "font.yaml"
+  ],
+  "diagnostics": [
+    {
+      "code": "SVG_NORMALIZED",
+      "severity": "info",
+      "message": "stripped guides and non-artwork metadata",
+      "glyph": "e_c",
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    },
+    {
+      "code": "SVG_NORMALIZED",
+      "severity": "info",
+      "message": "stripped guides and non-artwork metadata",
+      "glyph": "i_n",
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    },
+    {
+      "code": "SVG_NORMALIZED",
+      "severity": "info",
+      "message": "stripped guides and non-artwork metadata",
+      "glyph": "n_a",
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    },
+    {
+      "code": "SVG_NORMALIZED",
+      "severity": "info",
+      "message": "stripped guides and non-artwork metadata",
+      "glyph": "o_o",
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    },
+    {
+      "code": "SVG_NORMALIZED",
+      "severity": "info",
+      "message": "stripped guides and non-artwork metadata",
+      "glyph": "r_t",
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    }
+  ],
+  "suggested_previews": [
+    "HHOHHO",
+    "nnonn",
+    "AVATAR",
+    "affine office"
+  ]
+}

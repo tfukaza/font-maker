@@ -1,0 +1,174 @@
+{
+  "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d",
+  "revision": "0160db525812d5fa5000d5d51bca1dda700b21b92abddb9691ef1b22939451bf",
+  "settings": {
+    "text": "Snap Engine fi fl",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "font_size": 160,
+    "pixel_scale": 4,
+    "guides": false
+  },
+  "artifacts": [
+    {
+      "artifact_id": "d176cf59-a342-499a-91c2-a15a1bd69ef2",
+      "path": "build/previews/preview-b51643f154a0.svg",
+      "mime_type": "image/svg+xml",
+      "size": 8622,
+      "sha256": "bbdf9dd412f3d652461a768942d03ca3ac8ed0b6eb52346643fc39499e181539",
+      "revision": "0160db525812d5fa5000d5d51bca1dda700b21b92abddb9691ef1b22939451bf"
+    },
+    {
+      "artifact_id": "c49a8c34-77d5-48e1-af9d-01b5ce4de824",
+      "path": "build/previews/preview-b51643f154a0.png",
+      "mime_type": "image/png",
+      "size": 101627,
+      "sha256": "65740c0d8b715a9f637d92eb09fa607aef6c6a8b221a3a03e291e802d13dbccc",
+      "revision": "0160db525812d5fa5000d5d51bca1dda700b21b92abddb9691ef1b22939451bf"
+    }
+  ],
+  "shaping": {
+    "text": "Snap Engine fi fl",
+    "direction": "ltr",
+    "script": "Latn",
+    "language": "c",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "units_per_em": 1000,
+    "glyphs": [
+      {
+        "glyph_id": 22,
+        "glyph_name": "S",
+        "cluster": 0,
+        "x_advance": 710,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 51,
+        "glyph_name": "n_a",
+        "cluster": 1,
+        "x_advance": 855,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 56,
+        "glyph_name": "p",
+        "cluster": 3,
+        "x_advance": 405,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 65,
+        "glyph_name": "space",
+        "cluster": 4,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 8,
+        "glyph_name": "E_n",
+        "cluster": 5,
+        "x_advance": 980,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 41,
+        "glyph_name": "g",
+        "cluster": 7,
+        "x_advance": 460,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 45,
+        "glyph_name": "i_n",
+        "cluster": 8,
+        "x_advance": 650,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 35,
+        "glyph_name": "e",
+        "cluster": 10,
+        "x_advance": 440,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 65,
+        "glyph_name": "space",
+        "cluster": 11,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 38,
+        "glyph_name": "f",
+        "cluster": 12,
+        "x_advance": 330,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 44,
+        "glyph_name": "i",
+        "cluster": 13,
+        "x_advance": 210,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 65,
+        "glyph_name": "space",
+        "cluster": 14,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 38,
+        "glyph_name": "f",
+        "cluster": 15,
+        "x_advance": 330,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 48,
+        "glyph_name": "l",
+        "cluster": 16,
+        "x_advance": 235,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      }
+    ],
+    "total_advance": 6220
+  }
+}

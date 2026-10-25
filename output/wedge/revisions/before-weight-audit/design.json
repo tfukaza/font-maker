@@ -1,0 +1,36 @@
+{
+  "family": "Hakiland Display",
+  "scope": "103-character Latin display prototype",
+  "provenance": "Original project-specific B\u00e9zier drawings guided by user-supplied concept artwork. No existing font outlines or bitmap tracing.",
+  "reference_traits": [
+    "high vertical contrast",
+    "triangular wedge serifs",
+    "double-storey a and g",
+    "diamond dots",
+    "unbracketed sharp terminals"
+  ],
+  "user_refinements": [
+    "g ear is one triangle without a separate bar",
+    "Q tail has parallel diagonal edges and a faceted finish",
+    "parallel construction: vertical stem families, horizontal crossbars, 45-degree serif cuts, exact parallelograms for X/x, parallel V/v diagonals",
+    "a lower bowl and b/d/p/q joins redrawn as clean unified contours"
+  ],
+  "metrics": {
+    "upm": 1000,
+    "cap": 700,
+    "x_height": 470,
+    "ascenders": 770,
+    "descenders": [
+      -220,
+      -230
+    ],
+    "cap_stem": 116,
+    "lower_stem": 106,
+    "hairline": [
+      20,
+      24
+    ],
+    "round_overshoot": 12
+  },
+  "revision": "c5c1dfebdde7e86a107e9b155087a50ececa2a571cbd6d86c8d50010f22c451c"
+}

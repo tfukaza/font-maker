@@ -1,0 +1,58 @@
+{
+  "family": "Hakiland Display",
+  "version": "0.111",
+  "revision": "4b03087526b719ffe2972ed1b48e64a3a23e2a470b7d9aaf23d1e8c421772cb3",
+  "font_sha256": "777dde9cdbf31f71213188fdf42f90c200122e62e180a1e2e456329302f64704",
+  "baseline_revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773",
+  "scope": {
+    "unique_ordered_W_alphabet_pairs_visually_inspected": 103,
+    "changed_pairs": 26,
+    "unchanged_pairs": 77,
+    "excluded": "Other letter families, punctuation and digits are outside this targeted followup."
+  },
+  "values": {
+    "Wa": -110,
+    "Wc": -110,
+    "We": -110,
+    "Wg": -110,
+    "Wo": -110,
+    "Wq": -110,
+    "Wd": -110,
+    "Ws": -90,
+    "Wm": -80,
+    "Wn": -80,
+    "Wp": -80,
+    "Wr": -80,
+    "Wu": -80,
+    "Wi": -65,
+    "Wj": -65,
+    "Wv": -65,
+    "Ww": -65,
+    "Wx": -65,
+    "Wy": -65,
+    "Wz": -65,
+    "Wt": -35,
+    "WC": -35,
+    "WG": -35,
+    "WO": -35,
+    "WQ": -35,
+    "WS": -35
+  },
+  "evidence": [
+    "spacing-pass/w-alphabet-review/pairs.json",
+    "spacing-pass/w-alphabet-review/trial/pairs.json",
+    "spacing-pass/we-refinement/W-family-trial.png",
+    "proofs/w-reading-final.png"
+  ],
+  "observations": [
+    "We moves from -45 to -110; the e nests beneath the W overhang while retaining an open gap.",
+    "Related round and low shoulder pairs tightened with individual tall-detail exceptions.",
+    "Reversed pairs and top-constrained cap/stem pairs retain their earlier spacing."
+  ],
+  "verification": {
+    "all_three_exports_have_expected_pair_adjustments": true,
+    "unchanged_outline_metric_substitution_tables": true,
+    "word_proof_visually_inspected": true,
+    "native_final_proof": "inspected at 28 px, pixel scale 1; We and Woven maintain clear separation and coherent word rhythm"
+  }
+}

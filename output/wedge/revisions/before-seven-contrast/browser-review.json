@@ -1,0 +1,19 @@
+{
+  "family_name": "Hakiland Display",
+  "version": "0.113",
+  "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691",
+  "embedded_woff2_sha256": "d9eba9d0d5bd98cc4793321c94b2746657c83a177f848520a90d96880e3cff01",
+  "checks": {
+    "font_loaded": true,
+    "embedded_font_matches_export": true,
+    "stroke_weight_preset": true,
+    "download_http_status": {
+      "ttf": 200,
+      "otf": 200,
+      "woff2": 200,
+      "zip": 200
+    },
+    "interactive_sample_screenshot_inspected": true
+  },
+  "aesthetic_status": "Revised prototype; user acceptance pending."
+}

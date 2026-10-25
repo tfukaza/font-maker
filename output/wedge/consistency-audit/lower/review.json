@@ -1,0 +1,772 @@
+{
+  "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691",
+  "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+  "font_size": 160,
+  "pixel_scale": 2,
+  "glyphs": [
+    {
+      "character": "a",
+      "codepoint": "U+0061",
+      "glyph": "a",
+      "source": "refined/glyph-U0061.svg",
+      "advance": 547,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Narrower teardrop lower bowl and angled exit preserve concept identity. Outer left extremum82 and inner186 maintain the approved104-unit side; aligned upper entry handles feed the diagonal counter without a second bulge. The asymmetric bowl is deliberately not o-like.",
+      "decision": "retain",
+      "compiled_bounds": [
+        60,
+        -23,
+        535,
+        482
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "b",
+      "codepoint": "U+0062",
+      "glyph": "b",
+      "source": "drawings/glyph-U0062.svg",
+      "advance": 582,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Ascender head matches h/k/l: upper54/162 slope and45-degree entry. Bowl shares p coordinates; horizontal extrema tangents and24-unit top/bottom bowl rails are clean. One-sided baseline foot avoids a right spur beneath bowl.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        -12,
+        540,
+        770
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "c",
+      "codepoint": "U+0063",
+      "glyph": "c",
+      "source": "drawings/glyph-U0063.svg",
+      "advance": 506,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Outer body318–812 agrees with e/o. Upper triangular terminal remains from reference; the lower thin angled exit and open aperture are related to e without copying its horizontal bar.",
+      "decision": "retain",
+      "compiled_bounds": [
+        38.0,
+        -12,
+        473,
+        482.0
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "d",
+      "codepoint": "U+0064",
+      "glyph": "d",
+      "source": "refined/glyph-U0064.svg",
+      "advance": 582,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Keeps the0.113 lower-counter correction: bottom778, horizontal handles, lower join709. Ascender head and exit slope are both1/3. Counter is deliberately asymmetric and slightly higher than b/q because the left-side bowl joins an upright on right.",
+      "decision": "retain",
+      "compiled_bounds": [
+        40,
+        -12,
+        554,
+        770
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "e",
+      "codepoint": "U+0065",
+      "glyph": "e",
+      "source": "drawings/glyph-U0065.svg",
+      "advance": 531,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Body318–812 matches c/o. Counter has a22-unit top and24-unit horizontal bar; flat ends remain aligned. Lower exit follows c family and the distinct bowl/bar construction remains recognizable.",
+      "decision": "retain",
+      "compiled_bounds": [
+        38,
+        -12,
+        490,
+        482
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "f",
+      "codepoint": "U+0066",
+      "glyph": "f",
+      "source": "drawings/glyph-U0066.svg",
+      "advance": 363,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Current foot flares begin at758 versus746 for l/h/i; shallow42-unit rise makes the base a flattened wedge. Candidate uses746 and54-unit flare on each side, leaving106-unit stem, crossbar, arch and terminal intact. Compiled before/after gives a coherent foot beside l/i/h without opening a new gap.",
+      "decision": "refine",
+      "compiled_bounds": [
+        32,
+        0,
+        382,
+        770
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ],
+      "candidate": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/lower/glyph-U0066.svg",
+      "candidate_sha256": "ac963c5d0f7d4614ddda7a77bfc8710afb401a77c3e9ed2ccc0c442e0878d0dc",
+      "comparison_proofs": [
+        "uf-comparison.png",
+        "uf-native.png",
+        "f-detail.png"
+      ]
+    },
+    {
+      "character": "g",
+      "codepoint": "U+0067",
+      "glyph": "g",
+      "source": "drawings/glyph-U0067.svg",
+      "advance": 558,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Approved simple triangular ear has horizontal base338 and45-degree diagonal338,338→448,228. Upper bowl318–644 uses vertical elliptical stress; lower loop and curved link remain distinct, appropriate to two-storey g. Lower extremum1023 coheres with220-unit flat descenders plus round overshoot.",
+      "decision": "retain",
+      "compiled_bounds": [
+        39,
+        -223,
+        526,
+        572
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "h",
+      "codepoint": "U+0068",
+      "glyph": "h",
+      "source": "refined/glyph-U0068.svg",
+      "advance": 586,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Main stem/head/feet match l. Shoulder exactly shares n construction, including outer318 top and inner361 top. Straight stem joins are continuous after overlap cleanup.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        0,
+        556,
+        770
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "i",
+      "codepoint": "U+0069",
+      "glyph": "i",
+      "source": "refined/glyph-U0069.svg",
+      "advance": 274,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Body top320 and head374→430 share n construction, not accidentally shortened.106×106 diamond139–245 centered135 exactly over106-unit stem82–188;75-unit clearance stays open at24px.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        0,
+        242,
+        661
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "j",
+      "codepoint": "U+006A",
+      "glyph": "j",
+      "source": "refined/glyph-U006A.svg",
+      "advance": 286,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Authoritative source already matches i: head35,374→197,320 and45-degree entry→91,430.106×106 diamond uses same139–245 vertical bounds; curved descender ends1030, a10-unit optical depth beyond flat p/q.",
+      "decision": "retain",
+      "compiled_bounds": [
+        9,
+        -230,
+        197,
+        661
+      ],
+      "proofs": [
+        "sheet-1.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "k",
+      "codepoint": "U+006B",
+      "glyph": "k",
+      "source": "drawings/glyph-U006B.svg",
+      "advance": 562,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Ascender stem and foot share l/h. Open branch and inclined lower leg have attachment-specific flares; their slight taper preserves counter and avoids a crowded crossing. No reason to force leg-attached flare into the upright-foot template.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        0,
+        527,
+        770
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "l",
+      "codepoint": "U+006C",
+      "glyph": "l",
+      "source": "drawings/glyph-U006C.svg",
+      "advance": 274,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Straight106-unit control stem with770-unit ascender,1/3 head slope,45-degree entry and45-degree54-unit feet. Clean baseline and coherent width against i/h.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        0,
+        242,
+        770
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "m",
+      "codepoint": "U+006D",
+      "glyph": "m",
+      "source": "refined/glyph-U006D.svg",
+      "advance": 858,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Outer shoulders318 and inner361 align with n/h. Middle shoulder is compressed to accommodate a second arch; keeping distinct339/342-width lobes avoids a mechanical triple-stem expansion. All stems/feet meet common baseline.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        0,
+        828,
+        482
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "n",
+      "codepoint": "U+006E",
+      "glyph": "n",
+      "source": "refined/glyph-U006E.svg",
+      "advance": 586,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Control: body top320 head/318 curved shoulder,106-unit first stem and105-unit second,45-degree feet. The slightly thin join entering the upright gives contrast and clear counter at24px.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        0,
+        556,
+        482
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "o",
+      "codepoint": "U+006F",
+      "glyph": "o",
+      "source": "drawings/glyph-U006F.svg",
+      "advance": 558,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Round control has318/812 outer and340/790 inner extrema,113-unit sides with continuous tangent transitions. Symmetry belongs here but should not be imposed on a/d or open c/e.",
+      "decision": "retain",
+      "compiled_bounds": [
+        40.0,
+        -12.0,
+        518.0,
+        482.0
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "p",
+      "codepoint": "U+0070",
+      "glyph": "p",
+      "source": "drawings/glyph-U0070.svg",
+      "advance": 582,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Bowl exactly shares b above baseline; head repeats n. Flat descending foot1020 coheres with q and is shallower than curved/pointed j/y. Counter and attachment remain open.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        -220,
+        540,
+        482
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "q",
+      "codepoint": "U+0071",
+      "glyph": "q",
+      "source": "refined/glyph-U0071.svg",
+      "advance": 582,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Bowl remains related to b/p with left-right structural reversal; no longer has an extraneous spur. Short upper head slope35/106 is near1/3 and joins bowl at370 without a detached serif. Baseline bowl812 and flat foot1020 are coherent.",
+      "decision": "retain",
+      "compiled_bounds": [
+        40,
+        -220,
+        552,
+        482
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "r",
+      "codepoint": "U+0072",
+      "glyph": "r",
+      "source": "drawings/glyph-U0072.svg",
+      "advance": 438,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "106-unit stem and standard feet. Faceted terminal has45-degree edges and312 top,8 units above stemhead: optical compensation for a point, not baseline drift. Its asymmetric inner join keeps the distinctive reference gesture.",
+      "decision": "retain",
+      "compiled_bounds": [
+        26,
+        0,
+        404,
+        488
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "s",
+      "codepoint": "U+0073",
+      "glyph": "s",
+      "source": "drawings/glyph-U0073.svg",
+      "advance": 458,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Body318–812 and22-unit round rails match o/c/e. Both triangular terminals are vertical-faced but have their own wedge slopes to enter curved bowls; enforcing g-ear45-degree geometry would distort their curve flow.",
+      "decision": "retain",
+      "compiled_bounds": [
+        46,
+        -12,
+        414,
+        482
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "t",
+      "codepoint": "U+0074",
+      "glyph": "t",
+      "source": "drawings/glyph-U0074.svg",
+      "advance": 370,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Diagonal head is exactly45 degrees, related to g ear; crossbar330–355 matches f. Tall top162 is distinct from ascenders by construction; hook turns to812 with an open wedge-like exit that fits c/e family.",
+      "decision": "retain",
+      "compiled_bounds": [
+        29,
+        -12,
+        342,
+        638
+      ],
+      "proofs": [
+        "sheet-2.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "u",
+      "codepoint": "U+0075",
+      "glyph": "u",
+      "source": "drawings/glyph-U0075.svg",
+      "advance": 588,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Current heads use46/161 slope and41/55 entry, flatter than n/i/j; exit uses58/157 versus d54/162. Candidate aligns head slopes54/162 and entries56/56, and exit54/162 at812; curves and106-unit stems are unchanged. Visual differences are subtle at24px but clear beside n/d in display proof.",
+      "decision": "refine",
+      "compiled_bounds": [
+        26,
+        -12,
+        559,
+        480
+      ],
+      "proofs": [
+        "sheet-3.png",
+        "context-56.png",
+        "context-24.png"
+      ],
+      "candidate": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/lower/glyph-U0075.svg",
+      "candidate_sha256": "44ce7768985fe15dd50799f02e71873033a7c90d479faede40e756613aee7717",
+      "comparison_proofs": [
+        "uf-comparison.png",
+        "uf-native.png",
+        "u-detail.png"
+      ]
+    },
+    {
+      "character": "v",
+      "codepoint": "U+0076",
+      "glyph": "v",
+      "source": "refined/glyph-U0076.svg",
+      "advance": 530,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Top330 flat rails match x/z. Parallel diagonal edges retain prior perceived-weight compensation; thin ascending diagonal and13-unit pointed overshoot distinguish it from upright n.",
+      "decision": "retain",
+      "compiled_bounds": [
+        33,
+        -13,
+        488,
+        470
+      ],
+      "proofs": [
+        "sheet-3.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "w",
+      "codepoint": "U+0077",
+      "glyph": "w",
+      "source": "refined/glyph-U0077.svg",
+      "advance": 766,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two descending strokes use the same slope; right ascending hairline and internal join preserve open triangular counters. Top330 and bottom813 agree with v/y. Preserve approved diagonal weight; its wider footprint is intentional.",
+      "decision": "retain",
+      "compiled_bounds": [
+        23,
+        -13,
+        729,
+        470
+      ],
+      "proofs": [
+        "sheet-3.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "x",
+      "codepoint": "U+0078",
+      "glyph": "x",
+      "source": "refined/glyph-U0078.svg",
+      "advance": 531,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Both crossing stroke pairs are parallel. Flat rails330/800 and38-unit flare depths match the diagonal family. Resolved overlapping contours have no central sliver; angled construction does not require54-unit upright flares.",
+      "decision": "retain",
+      "compiled_bounds": [
+        27,
+        0,
+        494,
+        470
+      ],
+      "proofs": [
+        "sheet-3.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "y",
+      "codepoint": "U+0079",
+      "glyph": "y",
+      "source": "refined/glyph-U0079.svg",
+      "advance": 531,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Body is the exact approved v construction and retains its weight. Descending tail has its own curved terminal, reaching1029, matching j optically rather than forcing both to flat p/q1020.",
+      "decision": "retain",
+      "compiled_bounds": [
+        28,
+        -229,
+        488,
+        470
+      ],
+      "proofs": [
+        "sheet-3.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    },
+    {
+      "character": "z",
+      "codepoint": "U+007A",
+      "glyph": "z",
+      "source": "drawings/glyph-U007A.svg",
+      "advance": 492,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Top330/bottom800 match flat diagonal forms.23-unit upper rail and23-unit lower are balanced. Approximate1-unit diagonal divergence is restrained taper, not a visible kink; broad top/bottom end wedges fit its horizontal architecture.",
+      "decision": "retain",
+      "compiled_bounds": [
+        30,
+        0,
+        453,
+        470
+      ],
+      "proofs": [
+        "sheet-3.png",
+        "context-56.png",
+        "context-24.png"
+      ]
+    }
+  ],
+  "scope": "General design consistency: lowercase a-z",
+  "source_version": "0.113",
+  "proof_sizes": [
+    {
+      "font_size": 160,
+      "pixel_scale": 2,
+      "purpose": "isolated glyph sheets"
+    },
+    {
+      "font_size": 56,
+      "pixel_scale": 2,
+      "purpose": "family/context words"
+    },
+    {
+      "font_size": 24,
+      "pixel_scale": 1,
+      "purpose": "native small context"
+    },
+    {
+      "font_size": 96,
+      "pixel_scale": 2,
+      "purpose": "f/u compiled alternatives"
+    },
+    {
+      "font_size": 160,
+      "pixel_scale": 3,
+      "purpose": "tight f/u compiled detail comparisons, inspected"
+    }
+  ],
+  "original_reference_inspected": true,
+  "proposals": [
+    "f",
+    "u"
+  ],
+  "unchanged": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z"
+  ],
+  "trial": {
+    "revision": "492b5686ff5679f5ac50f43a4d0d51af5e404d4bd2d993638252407426ba1874",
+    "sha256": "33a720c5ef6eaa58bcc61b92e0abe78925f49660990c1add715008fa9671d1b4",
+    "changed": [
+      "f",
+      "u"
+    ],
+    "same_advances": true,
+    "metric_diffs": {
+      "u": [
+        [
+          588,
+          26
+        ],
+        [
+          588,
+          25
+        ]
+      ]
+    },
+    "same_GPOS": true,
+    "validation": [
+      {
+        "code": "FONT_LICENSE_UNSET",
+        "severity": "info",
+        "message": "The generated font has no user-selected license metadata.",
+        "glyph": null,
+        "rule": null,
+        "measurements": {},
+        "suggested_action": null
+      }
+    ],
+    "build": {
+      "project_id": "315ff6a3-c635-4155-8475-33d6055e5d4d",
+      "revision": "492b5686ff5679f5ac50f43a4d0d51af5e404d4bd2d993638252407426ba1874",
+      "artifacts": [
+        {
+          "artifact_id": "dfd0302d-da90-4ead-be5a-eafce1005bd8",
+          "path": "build/fonts/HakilandConsistencyStudy-Regular.ttf",
+          "mime_type": "font/ttf",
+          "size": 11532,
+          "sha256": "33a720c5ef6eaa58bcc61b92e0abe78925f49660990c1add715008fa9671d1b4",
+          "revision": "492b5686ff5679f5ac50f43a4d0d51af5e404d4bd2d993638252407426ba1874"
+        }
+      ],
+      "diagnostics": [
+        {
+          "code": "FONT_LICENSE_UNSET",
+          "severity": "info",
+          "message": "The generated font has no user-selected license metadata.",
+          "glyph": null,
+          "rule": null,
+          "measurements": {},
+          "suggested_action": null
+        }
+      ],
+      "backend": {
+        "name": "FontForge",
+        "fontforge_version": "20251009",
+        "license": "GPL-3.0-or-later",
+        "credit": "FontForge by George Williams and the FontForge contributors",
+        "source": "https://github.com/fontforge/fontforge/tree/20251009",
+        "revision": "492b5686ff5679f5ac50f43a4d0d51af5e404d4bd2d993638252407426ba1874",
+        "inspections": {
+          "ttf": {
+            "tables": [
+              "FFTM",
+              "GDEF",
+              "GPOS",
+              "GSUB",
+              "GlyphOrder",
+              "OS/2",
+              "cmap",
+              "gasp",
+              "glyf",
+              "head",
+              "hhea",
+              "hmtx",
+              "loca",
+              "maxp",
+              "name",
+              "post"
+            ],
+            "glyph_count": 106,
+            "units_per_em": 1000,
+            "has_gpos": true,
+            "has_gsub": true
+          }
+        }
+      }
+    }
+  }
+}

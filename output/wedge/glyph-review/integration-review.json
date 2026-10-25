@@ -1,0 +1,69 @@
+{
+  "revision": "bd9b2c3476ddd201ac373ad4f65afab164bc0bdab76227c0857caef0f08714c6",
+  "font_sha256": "9702bfba9aa494793d31c260d8d75728a73fc92456b62c6caf4be3d999ea0f1a",
+  "status": "individually reviewed prototype; user aesthetic acceptance pending",
+  "previous_reviews": [
+    "caps-review.json",
+    "lower-review.json",
+    "marks-review.json"
+  ],
+  "resolved_after_review": {
+    "A": "Changed counter lower-left vertex to189.2879/271; left counter slope121.7121/277 equals outer290/660. Inspected final caps proof; uniform thin diagonal retained.",
+    "M": "Replaced overlapping pieces with a single continuous contour; parallel right diagonal sides227/537 and267/631.65; inspected final caps proof to remove intermediate spur.",
+    "K": "Replaced with220/-440 and177/-354, both dx/dy=-0.5; inspected final caps proof.",
+    "h n m": "Each shoulder foot now uses54 rise for54 run, matching main stem; inspected final lowercase proof.",
+    "j": "Head now54 rise/162run and56/56 notch, same as i; inspected lowercase proof.",
+    "q": "Trimmed head wedge to start at392/445; eliminated counter intrusion and reviewed final lowercase proof.",
+    "7": "Inner edge341/591\u2192136/0 matches outer511/677\u2192276/0 slope within export rounding; inspected final figure proof."
+  },
+  "root_review": {
+    "a": {
+      "status": "revised and reviewed; not user-approved",
+      "visual": "Restored broad asymmetric lower bowl, raised counter floor47 vs previous14, terminal extends left as reference. Latest detail and lowercase proofs inspected.",
+      "geometry": "Read refined SVG. Horizontal extrema and vertical extrema have collinear tangent handles. Outer lower-bowl entry to stem and inner counter entry use parallel156/55 tangent vectors with24 vertical separation."
+    },
+    "d": {
+      "status": "revised and reviewed; not user-approved",
+      "visual": "Higher counter floor47 and slanted foot bring the letter back toward supplied reference; reviewed lowercase proof.",
+      "geometry": "Read refined SVG. Bowl extrema have horizontal/vertical tangent handles; 106-unit upright stem; head and lower exit both have54 rise over162 run."
+    },
+    "Q": {
+      "status": "revised and reviewed; not user-approved",
+      "visual": "Returned to under-bowl ribbon structure visible in original reference, with diamond counter terminal. Prior straight slash and arrow-tail versions superseded. Latest detail/caps proof inspected.",
+      "geometry": "Read refined SVG. Reuses own O ellipse/counter; ribbon long edges215/-43 and335/-67 are parallel. No dangling path or self-intersection warning."
+    },
+    "g": {
+      "status": "reviewed",
+      "visual": "Single triangular ear, open double-storey counters; latest detail/lowercase proof inspected.",
+      "geometry": "Original SVG read: triangle110x110 and oval head with true inner contour. Stem-free construction retains curves at head/link/loop. No self-intersection warning."
+    },
+    "space": {
+      "status": "reviewed",
+      "visual": "Word gap distinct from letter gaps in headline and sentence proofs.",
+      "geometry": "Empty outline,255-unit advance."
+    }
+  },
+  "browser": {
+    "status": "verified",
+    "font_loaded": true,
+    "sample_edit": true,
+    "size_control": true,
+    "kerning_control": true,
+    "unsupported_character_warning": "\u00e9 U+00E9 correctly identified",
+    "download_responses": "TTF/OTF/WOFF2/ZIP all HTTP200",
+    "woff2_sha256": "5b8cf45728b43e92545928c51e42cbddbb5e118a4200915780619079743627bc"
+  },
+  "limitations": [
+    "No language coverage beyond103-character prototype asserted.",
+    "Design is for display sizes; small24px rendering inspected, fine hairlines remain small.",
+    "Review records are evidence of inspection, not user approval."
+  ],
+  "final_spacing_review": {
+    "status": "inspected",
+    "artifacts": [
+      "proofs/final-kern-off.png",
+      "proofs/final-kern-on.png"
+    ],
+    "observation": "AV/AW/AY diagonal white pockets are reduced while tips remain distinct. To/Ta upper overhang is brought nearer the lowercase bowl; Ty has a coherent upper gap. ra/re shoulder gaps remain open without a disconnected visual word rhythm. Word spaces remain clearly larger. No extreme joins or substitutions."
+  }
+}

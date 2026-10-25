@@ -1,0 +1,301 @@
+[
+  {
+    "tool": "set_kerning",
+    "mutate": true,
+    "args": {
+      "upsert_pairs": [
+        {
+          "left": "R",
+          "right": "e",
+          "value": -25
+        },
+        {
+          "left": "A",
+          "right": "V",
+          "value": -170
+        },
+        {
+          "left": "S",
+          "right": "n",
+          "value": -60
+        },
+        {
+          "left": "u",
+          "right": "p",
+          "value": -95
+        }
+      ]
+    },
+    "save": "kerning-final.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Snap Engine",
+      "font_size": 160,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "snap-final.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Super Rec",
+      "font_size": 160,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "super-final.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "HHOH noon AV Il",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "controls-final.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "'Snap', 'Rec'. a-a, n.n, o'o",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "boundaries-final.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Il rn m cl d b p q",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "differentiation-final.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "AEFHIORSV",
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false,
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "caps-final.json"
+  },
+  {
+    "tool": "shape_text",
+    "args": {
+      "text": "En Engine",
+      "features": {
+        "kern": true,
+        "liga": false,
+        "dlig": false
+      }
+    },
+    "save": "En-shape-False.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "En Engine",
+      "features": {
+        "kern": true,
+        "liga": false,
+        "dlig": false
+      },
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false
+    },
+    "save": "En-preview-False.json"
+  },
+  {
+    "tool": "shape_text",
+    "args": {
+      "text": "Five affable office staff efficiently filed flawless affidavits.",
+      "features": {
+        "kern": true,
+        "liga": false,
+        "dlig": false
+      }
+    },
+    "save": "sentence-shape-False.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Five affable office staff efficiently filed flawless affidavits.",
+      "features": {
+        "kern": true,
+        "liga": false,
+        "dlig": false
+      },
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false
+    },
+    "save": "sentence-preview-False.json"
+  },
+  {
+    "tool": "shape_text",
+    "args": {
+      "text": "AV Re Sn up",
+      "features": {
+        "kern": false,
+        "liga": false,
+        "dlig": false
+      }
+    },
+    "save": "kern-shape-False.json"
+  },
+  {
+    "tool": "shape_text",
+    "args": {
+      "text": "En Engine",
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "En-shape-True.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "En Engine",
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      },
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false
+    },
+    "save": "En-preview-True.json"
+  },
+  {
+    "tool": "shape_text",
+    "args": {
+      "text": "Five affable office staff efficiently filed flawless affidavits.",
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      }
+    },
+    "save": "sentence-shape-True.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Five affable office staff efficiently filed flawless affidavits.",
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      },
+      "font_size": 96,
+      "pixel_scale": 3,
+      "guides": false
+    },
+    "save": "sentence-preview-True.json"
+  },
+  {
+    "tool": "shape_text",
+    "args": {
+      "text": "AV Re Sn up",
+      "features": {
+        "kern": true,
+        "liga": false,
+        "dlig": false
+      }
+    },
+    "save": "kern-shape-True.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Snap Engine fi fl",
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      },
+      "font_size": 32,
+      "pixel_scale": 1,
+      "guides": false
+    },
+    "save": "size-32.json"
+  },
+  {
+    "tool": "preview_font",
+    "args": {
+      "text": "Snap Engine fi fl",
+      "features": {
+        "kern": true,
+        "liga": true,
+        "dlig": true
+      },
+      "font_size": 160,
+      "pixel_scale": 4,
+      "guides": false
+    },
+    "save": "size-160.json"
+  },
+  {
+    "tool": "validate_font_project",
+    "args": {
+      "temporary_build": true
+    },
+    "save": "validation-final.json"
+  },
+  {
+    "tool": "build_font",
+    "args": {
+      "formats": [
+        "ttf",
+        "otf",
+        "woff2"
+      ]
+    },
+    "save": "build-report.json"
+  }
+]

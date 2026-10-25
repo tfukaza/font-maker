@@ -1,0 +1,1184 @@
+{
+  "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691",
+  "font_sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+  "font_size": 160,
+  "pixel_scale": 2,
+  "glyphs": [
+    {
+      "character": " ",
+      "codepoint": "U+0020",
+      "glyph": "space",
+      "source": "drawings/glyph-U0020.svg",
+      "advance": 255,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Empty outline and255-unit advance remain intentional. Native sentences establish a clear word break; there is no shape or baseline inconsistency to correct.",
+      "reference_visible": false,
+      "source_sha256": "4e4179dbe5ca3874d36c8e1660460dd74ba51c60610425b96ced735358397150",
+      "source_snapshot": "source-svg/glyph-U0020.svg",
+      "compiled_font_bounds": null,
+      "recommendation": "retain"
+    },
+    {
+      "character": "!",
+      "codepoint": "U+0021",
+      "glyph": "exclam",
+      "source": "refined/glyph-U0021.svg",
+      "advance": 253,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Tapered shaft retains the reference gesture. Current92-unit diamond has exact45-degree edges, baseline point800 and near-centered axis126 against shaft126.5. The half-unit offset is below compilation significance; the visible separation is clear.",
+      "reference_visible": true,
+      "source_sha256": "0aee69afafaac3a6575c7908e5d81ab8717ecf936e355b81336bb559ed2ae33c",
+      "source_snapshot": "source-svg/glyph-U0021.svg",
+      "compiled_font_bounds": [
+        65,
+        0,
+        188,
+        700
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "\"",
+      "codepoint": "U+0022",
+      "glyph": "quotedbl",
+      "source": "drawings/glyph-U0022.svg",
+      "advance": 378,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two identical tapered components share top100/bottom311 and171-unit separation. Flat-ended straight quotes intentionally differ from curved typographic quotes. Both appear level and belong to the wedge vocabulary.",
+      "reference_visible": false,
+      "source_sha256": "e57e30b49bece42e0e9892cb233f4c80eb1eebcc24516dccafa097c694646303",
+      "source_snapshot": "source-svg/glyph-U0022.svg",
+      "compiled_font_bounds": [
+        57,
+        489,
+        321,
+        700
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "#",
+      "codepoint": "U+0023",
+      "glyph": "numbersign",
+      "source": "drawings/glyph-U0023.svg",
+      "advance": 620,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Paired slanted stems use the same110/710 vector and equal33-unit horizontal span. Both51-unit crossbars are exactly horizontal. Joining cleanup introduces no pinholes; repeated alignment reads deliberate in numeric context.",
+      "reference_visible": false,
+      "source_sha256": "dcf0c98d2bd884810e8fa6192c6228d222123ad452ad3a605de8ac0910225289",
+      "source_snapshot": "source-svg/glyph-U0023.svg",
+      "compiled_font_bounds": [
+        24,
+        -5,
+        570,
+        705
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "$",
+      "codepoint": "U+0024",
+      "glyph": "dollar",
+      "source": "refined/glyph-U0024.svg",
+      "advance": 613,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Current refined S outline matches the recently reduced waist and maintains its letter-family curves. The27-unit central bar is vertical and projects equally enough for recognizable currency. Counters remain separate; no independent redraw warranted.",
+      "reference_visible": false,
+      "source_sha256": "301bbcdac2e3ea7b82930bf669503adb3e221350b5658f2d04a9aaa622f6188a",
+      "source_snapshot": "source-svg/glyph-U0024.svg",
+      "compiled_font_bounds": [
+        66,
+        -99,
+        568,
+        786
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "%",
+      "codepoint": "U+0025",
+      "glyph": "percent",
+      "source": "drawings/glyph-U0025.svg",
+      "advance": 766,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two identical oval forms share radii130/177 and inner64/156; the second is translated406/371. Their extrema and vertical stress are consistent with0. The slash is parallel-sided and intentionally finer than the oval sides.",
+      "reference_visible": false,
+      "source_sha256": "bc7037d71b0d5b00474dbee85833d73f63228f3979b7dcb1494a5ef23061fdd3",
+      "source_snapshot": "source-svg/glyph-U0025.svg",
+      "compiled_font_bounds": [
+        50.0,
+        -18,
+        716.0,
+        718
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "&",
+      "codepoint": "U+0026",
+      "glyph": "ampersand",
+      "source": "drawings/glyph-U0026.svg",
+      "advance": 760,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The reference two-counter construction survives with a small upper loop and broad lower loop. The main diagonal boundaries are nearly parallel; top/bottom counter stress and right-hand triangular exit stay coherent. Crossed joins remain clear at24px.",
+      "reference_visible": true,
+      "source_sha256": "dec33ba59fc84dd1333a82d061990bc70c0d4993d2db8d303e1d725beb344135",
+      "source_snapshot": "source-svg/glyph-U0026.svg",
+      "compiled_font_bounds": [
+        54,
+        -12,
+        753,
+        712
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "'",
+      "codepoint": "U+0027",
+      "glyph": "quotesingle",
+      "source": "drawings/glyph-U0027.svg",
+      "advance": 207,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The single taper exactly matches one double-quote component. Shared100/311 levels and93/41 widths create an intentional straight-quote family.",
+      "reference_visible": false,
+      "source_sha256": "6b47510bd31cba27d6a0fae9a227696d4b2a24edff4ccdc8bb8d739c2cee3385",
+      "source_snapshot": "source-svg/glyph-U0027.svg",
+      "compiled_font_bounds": [
+        57,
+        489,
+        150,
+        700
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "(",
+      "codepoint": "U+0028",
+      "glyph": "parenleft",
+      "source": "drawings/glyph-U0028.svg",
+      "advance": 353,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Inner and outer cubic curves use matching vertical tangents at their centers. The tips are sharp, with a slight angled terminal cut rather than a wedge serif. Full enclosure height is intentionally greater than capitals and balances(10).",
+      "reference_visible": false,
+      "source_sha256": "fe0b6ea14e41e61448a5ff06db52958aa65816eff8b59b4bc1a3704ae87e9431",
+      "source_snapshot": "source-svg/glyph-U0028.svg",
+      "compiled_font_bounds": [
+        54.0,
+        -160,
+        320,
+        761
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": ")",
+      "codepoint": "U+0029",
+      "glyph": "parenright",
+      "source": "drawings/glyph-U0029.svg",
+      "advance": 353,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Opening-parenthesis geometry mirrors exactly across the353-unit advance. Tip heights, central width and curvature therefore correspond; the compiled silhouette also reads balanced.",
+      "reference_visible": false,
+      "source_sha256": "463f329535367c87628f47bb3cc7dc127d5fccb394e99bffd0bfa7aba3f4bb1e",
+      "source_snapshot": "source-svg/glyph-U0029.svg",
+      "compiled_font_bounds": [
+        33,
+        -160,
+        299.0,
+        761
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "*",
+      "codepoint": "U+002A",
+      "glyph": "asterisk",
+      "source": "drawings/glyph-U002A.svg",
+      "advance": 462,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Five rotational wedge arms follow equal construction around one center; the central pentagon is open intentionally. The sharp outer ends and small negative center remain legible at24px. No rounded replacement needed.",
+      "reference_visible": false,
+      "source_sha256": "d7ffee42924f5774e59d773c78709933210ffae0ff8bf874513fed79e88baab5",
+      "source_snapshot": "source-svg/glyph-U002A.svg",
+      "compiled_font_bounds": [
+        67,
+        369,
+        395,
+        681
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "+",
+      "codepoint": "U+002B",
+      "glyph": "plus",
+      "source": "drawings/glyph-U002B.svg",
+      "advance": 582,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Horizontal and vertical rectangles have36-unit thickness and centers within0.5unit. Shared square endings are appropriate for operators; wedge attachments would be intrusive.",
+      "reference_visible": false,
+      "source_sha256": "b7802267db18880bc1116d8dfad8a86ea387786d309ef938302857a1d59b0a4b",
+      "source_snapshot": "source-svg/glyph-U002B.svg",
+      "compiled_font_bounds": [
+        54,
+        72,
+        528,
+        545
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": ",",
+      "codepoint": "U+002C",
+      "glyph": "comma",
+      "source": "refined/glyph-U002C.svg",
+      "advance": 200,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Revised92-unit head uses exact45-degree sides and matches the full-stop family. Its connected cubic tail preserves the original endpoint915 and does not show an abrupt bulge at the head/tail transition.",
+      "reference_visible": false,
+      "source_sha256": "2bb574d68ad5c524ed927b338e5f9b7c0549a53b189db3f3798fa7ec35231bb9",
+      "source_snapshot": "source-svg/glyph-U002C.svg",
+      "compiled_font_bounds": [
+        39,
+        -115,
+        146,
+        92
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "-",
+      "codepoint": "U+002D",
+      "glyph": "hyphen",
+      "source": "drawings/glyph-U002D.svg",
+      "advance": 338,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The short244-unit rectangular bar is45units thick, sharing lower edge557 with the longer dashes. Its3-unit higher center is an optical compensation for the shorter, heavier mark and is imperceptible in a-b context.",
+      "reference_visible": false,
+      "source_sha256": "f8b3f198eaed34d0cd508ec44f81c14586a9bd34a0d964d776d7fce51e894f34",
+      "source_snapshot": "source-svg/glyph-U002D.svg",
+      "compiled_font_bounds": [
+        47,
+        243,
+        291,
+        288
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": ".",
+      "codepoint": "U+002E",
+      "glyph": "period",
+      "source": "refined/glyph-U002E.svg",
+      "advance": 200,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Current92-unit diamond is centered on x100, uses exact45-degree edges, and terminates on baseline800. It matches colon and ellipsis geometry and remains visible in decimals.",
+      "reference_visible": false,
+      "source_sha256": "fedd65c2ac91204c7d93ea1562335efeb72abf05e6c4e5d93a5d580a7a09b5b4",
+      "source_snapshot": "source-svg/glyph-U002E.svg",
+      "compiled_font_bounds": [
+        54,
+        0,
+        146,
+        92
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "/",
+      "codepoint": "U+002F",
+      "glyph": "slash",
+      "source": "drawings/glyph-U002F.svg",
+      "advance": 439,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The two long edges have identical344/805 vectors, with horizontal terminal cuts. The baseline descender and ascender projection are deliberate for a separator, not lining-figure height. It pairs consistently with the mirrored backslash.",
+      "reference_visible": false,
+      "source_sha256": "5ee11eaa7b3ad55d323571ad4db7add94a847fc86a5d558b02099a180e1c0c08",
+      "source_snapshot": "source-svg/glyph-U002F.svg",
+      "compiled_font_bounds": [
+        35,
+        -64,
+        410,
+        741
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "0",
+      "codepoint": "U+0030",
+      "glyph": "zero",
+      "source": "drawings/glyph-U0030.svg",
+      "advance": 580,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Symmetric oval has aligned outer/inner extrema and vertical stress, with22-unit top/bottom hairlines. The narrow proportion distinguishes0 fromO and matches the original figure row. No pinch or lopsided counter in1001.",
+      "reference_visible": true,
+      "source_sha256": "d872d3fa806acbedd32a7852a645d1a3650c484c8e09c1343139bd09928f6408",
+      "source_snapshot": "source-svg/glyph-U0030.svg",
+      "compiled_font_bounds": [
+        43.0,
+        -12.0,
+        537.0,
+        712.0
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "1",
+      "codepoint": "U+0031",
+      "glyph": "one",
+      "source": "drawings/glyph-U0031.svg",
+      "advance": 378,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The baseline foot has visibly shallower cuts than H/I despite a comparable upright: left35.62degrees and right36.03degrees. Chosen candidate changes both foot cuts to45degrees, preserving the original angled head,114-unit stem, bounds and advance. It now shares the wedge-foot grammar without becoming an I.",
+      "reference_visible": true,
+      "source_sha256": "220e4b1231da0a1e342df33b2bb3dacb4e9a16ea7f89807604b2df1a3ea7e331",
+      "source_snapshot": "source-svg/glyph-U0031.svg",
+      "compiled_font_bounds": [
+        46,
+        0,
+        326,
+        712
+      ],
+      "recommendation": "refine_proposed",
+      "candidate": {
+        "character": "1",
+        "glyph": "one",
+        "path": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/marks/candidate-svg/glyph-U0031.svg",
+        "sha256": "f7afa528de825d226acf846e26bf0a40e660d698e71de60913cac6f19f001086"
+      },
+      "candidate_compiled_font_bounds": [
+        46,
+        0,
+        326,
+        712
+      ]
+    },
+    {
+      "character": "2",
+      "codepoint": "U+0032",
+      "glyph": "two",
+      "source": "drawings/glyph-U0032.svg",
+      "advance": 559,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The upper hook follows the reference, transitioning from broad right curve into a fine descending sweep and solid baseline wedge. Top overshoot88 and flat baseline800 match round-to-flat figure construction. Counter opening remains clear; terminal angles are local tapers rather than repeated foot serifs.",
+      "reference_visible": true,
+      "source_sha256": "fe73c8d3459a9a315195b1eeb14a46a293437a854566be626bb62ef7ab68ded5",
+      "source_snapshot": "source-svg/glyph-U0032.svg",
+      "compiled_font_bounds": [
+        44,
+        0,
+        505,
+        712
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "3",
+      "codepoint": "U+0033",
+      "glyph": "three",
+      "source": "drawings/glyph-U0033.svg",
+      "advance": 552,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The angled top-half construction is a defining reference trait. Horizontal top100 and curved bottom812 place it in the flat/round figure family. The short top wedge and lower pointed terminal are intentionally different from a full foot serif; no visible benefit from imposing one universal angle.",
+      "reference_visible": true,
+      "source_sha256": "7c702d022922415c2a02d554125750e44469761fa7efec559a115f8e223237c4",
+      "source_snapshot": "source-svg/glyph-U0033.svg",
+      "compiled_font_bounds": [
+        39,
+        -12,
+        515,
+        700
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "4",
+      "codepoint": "U+0034",
+      "glyph": "four",
+      "source": "drawings/glyph-U0034.svg",
+      "advance": 582,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The broad flat top at SVG88 sits12units above H and flat3/5/7, with no pointed or curved extremum to justify it. The foot cuts are shallow38.53degrees. Chosen candidate sets top100 and footcuts45degrees, retains114-unit stem/30-unit crossbar, and adjusts the inner diagonal endpoint139→143.1847 so its edges are parallel. The open counter remains clear.",
+      "reference_visible": true,
+      "source_sha256": "3384499ed5991dedd82a7756f1e06ffd9219138e51309cdcb4c851f1fbe841bc",
+      "source_snapshot": "source-svg/glyph-U0034.svg",
+      "compiled_font_bounds": [
+        32,
+        0,
+        542,
+        712
+      ],
+      "recommendation": "refine_proposed",
+      "candidate": {
+        "character": "4",
+        "glyph": "four",
+        "path": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/marks/candidate-svg/glyph-U0034.svg",
+        "sha256": "ea89b37e16744771dcbc431f528f01548dd67a7dec7b9292ccd37dff060d7c77"
+      },
+      "candidate_compiled_font_bounds": [
+        32,
+        0,
+        542,
+        700
+      ]
+    },
+    {
+      "character": "5",
+      "codepoint": "U+0035",
+      "glyph": "five",
+      "source": "drawings/glyph-U0035.svg",
+      "advance": 549,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Flat top100 and rounded bottom812 align with3. The top bar flows into a thin slanted spine, then a broad round bowl; the lower pointed terminal repeats3 vocabulary. Its counter is deliberately rounder than the angled upper3 and retains clear aperture.",
+      "reference_visible": true,
+      "source_sha256": "2d7d4e353416344e83fcd24fb81308a3df5d0bd793db572c495bc077a4f0d17a",
+      "source_snapshot": "source-svg/glyph-U0035.svg",
+      "compiled_font_bounds": [
+        43,
+        -12,
+        515,
+        700
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "6",
+      "codepoint": "U+0036",
+      "glyph": "six",
+      "source": "drawings/glyph-U0036.svg",
+      "advance": 570,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Outer upper sweep and inner bowl transition smoothly without a visible shoulder bump. The thin cut tip at SVG95 is an optical near-cap endpoint; the bowl overshoots to812 like0/8. The narrow upper exit matches the reference and the rotated9 counterpart.",
+      "reference_visible": true,
+      "source_sha256": "2c938156ebb9d4c3d49d561db2c99126a8a963923157a84f27e32659d1647b05",
+      "source_snapshot": "source-svg/glyph-U0036.svg",
+      "compiled_font_bounds": [
+        42,
+        -12,
+        529,
+        705
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "7",
+      "codepoint": "U+0037",
+      "glyph": "seven",
+      "source": "refined/glyph-U0037.svg",
+      "advance": 546,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Current0.113 has parallel diagonal edges,108-unit normal weight and92-unit top bar, but the user rejected its remaining perceived heaviness during this audit. This baseline is unresolved. Root owns the new lighter candidate and final judgment; no7 path is proposed or accepted here.",
+      "reference_visible": true,
+      "source_sha256": "055c12b45ee3215c16b3735635ef6cb06168b8bac836691fb08c58f3e7d073fb",
+      "source_snapshot": "source-svg/glyph-U0037.svg",
+      "compiled_font_bounds": [
+        36,
+        0,
+        511,
+        700
+      ],
+      "recommendation": "user_rejected_pending_root_revision"
+    },
+    {
+      "character": "8",
+      "codepoint": "U+0038",
+      "glyph": "eight",
+      "source": "drawings/glyph-U0038.svg",
+      "advance": 572,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two asymmetric counters preserve the reference crossing stress, with smaller upper eye and broader lower bowl. The top/bottom extrema88/812 match0; the inner cardinal tangents are smooth. Waist is visually clear and does not require forcing symmetric bowls.",
+      "reference_visible": true,
+      "source_sha256": "ae86ec171030a1c5612350aa3ab50c2772748622f507c00d01c117c0c67b99bb",
+      "source_snapshot": "source-svg/glyph-U0038.svg",
+      "compiled_font_bounds": [
+        43,
+        -12,
+        531,
+        712
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "9",
+      "codepoint": "U+0039",
+      "glyph": "nine",
+      "source": "drawings/glyph-U0039.svg",
+      "advance": 570,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The6-derived rotated construction preserves loop tension, matching24-unit-ish bottom-cut vocabulary and broad upper bowl. Top88 aligns with other rounds; the lower thin tip805 is a deliberate near-baseline overshoot. Native8989 remains distinct.",
+      "reference_visible": true,
+      "source_sha256": "661059ab3e2bb1983d2c4300e783b3db07a9d38fe7b38b0d2df6b0a4addbfee5",
+      "source_snapshot": "source-svg/glyph-U0039.svg",
+      "compiled_font_bounds": [
+        41,
+        -5,
+        528,
+        712
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": ":",
+      "codepoint": "U+003A",
+      "glyph": "colon",
+      "source": "refined/glyph-U003A.svg",
+      "advance": 218,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Both current diamonds have92-unit bounds, exact45-degree edges and the samex109 axis. The lower tip uses baseline800, and the upper center439 aligns with the semicolon. Their unequal-to-letter-dot scale is role-specific, not drift.",
+      "reference_visible": false,
+      "source_sha256": "954d5201ba0e209a8cf246e45a8583de49363ab595c287b947dc8935b64ff881",
+      "source_snapshot": "source-svg/glyph-U003A.svg",
+      "compiled_font_bounds": [
+        63,
+        0,
+        155,
+        407
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": ";",
+      "codepoint": "U+003B",
+      "glyph": "semicolon",
+      "source": "refined/glyph-U003B.svg",
+      "advance": 218,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Upper diamond exactly matches colon placement/shape. Lower92-unit head and tail match comma with a9-unit horizontal translation. Both components now share the approved punctuation construction.",
+      "reference_visible": false,
+      "source_sha256": "904582aa8acbf15a1ae0c139967f8ed68bab3394ac444bc3d769471e11a460c6",
+      "source_snapshot": "source-svg/glyph-U003B.svg",
+      "compiled_font_bounds": [
+        48,
+        -115,
+        155,
+        407
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "<",
+      "codepoint": "U+003C",
+      "glyph": "less",
+      "source": "drawings/glyph-U003C.svg",
+      "advance": 582,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Upper/lower arms are symmetric around SVG499, ending in matched vertical cuts. The slight difference between outer and inner arm slopes produces a controlled bevel, not a visible asymmetric bulge. The operator is coherent with> and does not need wedge serifs.",
+      "reference_visible": false,
+      "source_sha256": "c2484c12c6af76185983efa9576f15272732f7e910d5298d1175281143d355b8",
+      "source_snapshot": "source-svg/glyph-U003C.svg",
+      "compiled_font_bounds": [
+        51,
+        51,
+        531,
+        551
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "=",
+      "codepoint": "U+003D",
+      "glyph": "equal",
+      "source": "drawings/glyph-U003D.svg",
+      "advance": 582,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two35-unit rectangles sharex54..528 and190-unit offsets. All horizontal edges are parallel, with a clear interval and consistent square terminals.",
+      "reference_visible": false,
+      "source_sha256": "a72a02279e03246f8df9382d76bb32c6b69c227fdb54ed87193173179c9e4b05",
+      "source_snapshot": "source-svg/glyph-U003D.svg",
+      "compiled_font_bounds": [
+        54,
+        195,
+        528,
+        420
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": ">",
+      "codepoint": "U+003E",
+      "glyph": "greater",
+      "source": "drawings/glyph-U003E.svg",
+      "advance": 582,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Mirrored less-than has the same arm weights, axis499 and central20-unit bevel. The pair is visually balanced in the operator context.",
+      "reference_visible": false,
+      "source_sha256": "1a634605f2233532f2bdb96fd30657b79b3f91965bbcd44c803121a5f87f9289",
+      "source_snapshot": "source-svg/glyph-U003E.svg",
+      "compiled_font_bounds": [
+        51,
+        51,
+        531,
+        551
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "?",
+      "codepoint": "U+003F",
+      "glyph": "question",
+      "source": "refined/glyph-U003F.svg",
+      "advance": 496,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The question hook preserves the concept diamond-like entry and gradual thinning into its stem. The current92-unit baseline dot is centered under the hook tail and matches!. Tangent transitions remain clean after compilation.",
+      "reference_visible": true,
+      "source_sha256": "6c4b62f819c1f40438eef7ec7a0f14b2c068f80982af72bfee8ab28bd0fd285e",
+      "source_snapshot": "source-svg/glyph-U003F.svg",
+      "compiled_font_bounds": [
+        50,
+        0,
+        450,
+        712
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "@",
+      "codepoint": "U+0040",
+      "glyph": "at",
+      "source": "drawings/glyph-U0040.svg",
+      "advance": 866,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Outer spiral and internal slanted a intentionally form a separate compact construction. Vertical stress and the outer terminal echo the letters, while the internal counter remains open. Both spiral-to-stem and exit transitions look continuous.",
+      "reference_visible": false,
+      "source_sha256": "b2ac04bd6d2ff1306bc8bb6613060f3366666d3c98e80a3bebe3f8c300b205b6",
+      "source_snapshot": "source-svg/glyph-U0040.svg",
+      "compiled_font_bounds": [
+        40,
+        -12,
+        827,
+        712
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "[",
+      "codepoint": "U+005B",
+      "glyph": "bracketleft",
+      "source": "drawings/glyph-U005B.svg",
+      "advance": 334,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Exact vertical92-unit spine and25-unit horizontal lips have square terminals. Levels50/950 intentionally enclose figures beyond cap/baseline. Negative inside corners remain square and clear.",
+      "reference_visible": false,
+      "source_sha256": "47396c9ebfb58386750f1055cf571e2e8c39f73f5e4259488e9abebf0ce92211",
+      "source_snapshot": "source-svg/glyph-U005B.svg",
+      "compiled_font_bounds": [
+        81,
+        -150,
+        296,
+        750
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "\\",
+      "codepoint": "U+005C",
+      "glyph": "backslash",
+      "source": "drawings/glyph-U005C.svg",
+      "advance": 439,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Exact mirror of slash across439-unit advance, preserving normal width, terminal cuts and vertical bounds. Any apparent sidebearing asymmetry reverses consistently.",
+      "reference_visible": false,
+      "source_sha256": "aa0da1ac80a2201902cd467c521c8c3c47a9b55d55f46a491f91340a4b2a3b0f",
+      "source_snapshot": "source-svg/glyph-U005C.svg",
+      "compiled_font_bounds": [
+        29,
+        -64,
+        404,
+        741
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "]",
+      "codepoint": "U+005D",
+      "glyph": "bracketright",
+      "source": "drawings/glyph-U005D.svg",
+      "advance": 334,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Exact mirrored bracket construction keeps levels50/950,92-unit stem and25-unit lips. It frames figures evenly with[.",
+      "reference_visible": false,
+      "source_sha256": "4bf0b76ae864468cb731ecfe1176cf91b977516e8cae207a20f1b33266a8e809",
+      "source_snapshot": "source-svg/glyph-U005D.svg",
+      "compiled_font_bounds": [
+        38,
+        -150,
+        253,
+        750
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "^",
+      "codepoint": "U+005E",
+      "glyph": "asciicircum",
+      "source": "drawings/glyph-U005E.svg",
+      "advance": 510,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The symmetric chevron intentionally tapers rather than behaving as a constant-width slash. Both outer endpoints share337, apex plateau94 and inner vertex174. This standalone accent-like symbol need not match foot-wedge45degrees.",
+      "reference_visible": false,
+      "source_sha256": "a6f9b88b7b83f07c36ad3621b5a4823d95b1bfd30edffd74b1e8f4239216c6d4",
+      "source_snapshot": "source-svg/glyph-U005E.svg",
+      "compiled_font_bounds": [
+        48,
+        463,
+        462,
+        706
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "_",
+      "codepoint": "U+005F",
+      "glyph": "underscore",
+      "source": "drawings/glyph-U005F.svg",
+      "advance": 554,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The31-unit rectangle has exact horizontal edges and symmetric22-unit sidebearings. Its lowered889..920 zone intentionally distinguishes an underscore from the centered hyphen.",
+      "reference_visible": false,
+      "source_sha256": "1eb09c90247644ddb54991a0fa0a85f5497978428cc7086d1c6e5c3ff353569a",
+      "source_snapshot": "source-svg/glyph-U005F.svg",
+      "compiled_font_bounds": [
+        22,
+        -120,
+        532,
+        -89
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "`",
+      "codepoint": "U+0060",
+      "glyph": "grave",
+      "source": "drawings/glyph-U0060.svg",
+      "advance": 300,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The standalone tapered accent uses a broad top and short slanted cut; the shape has the same sharp terminal vocabulary as the reference without pretending to be a positioned combining accent.",
+      "reference_visible": false,
+      "source_sha256": "2cea8af878f21ac116eb437cd9d69545e123bf84f981f27e056a98ba60fe5d94",
+      "source_snapshot": "source-svg/glyph-U0060.svg",
+      "compiled_font_bounds": [
+        59,
+        553,
+        248,
+        739
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "{",
+      "codepoint": "U+007B",
+      "glyph": "braceleft",
+      "source": "drawings/glyph-U007B.svg",
+      "advance": 395,
+      "sheet": 4,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Outer and inner vertical segments have clean tangent transitions into the curved shoulders. Top and bottom terminal widths23 match, while the24-unit waist stays pointed but unknotted. Full-height enclosure is balanced around figures.",
+      "reference_visible": false,
+      "source_sha256": "22630db3d1e48e1ca2e7037dff3c5dde1ab6a588a35bdd84bbe995ea35e4ea7f",
+      "source_snapshot": "source-svg/glyph-U007B.svg",
+      "compiled_font_bounds": [
+        40,
+        -150,
+        345,
+        752
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "|",
+      "codepoint": "U+007C",
+      "glyph": "bar",
+      "source": "drawings/glyph-U007C.svg",
+      "advance": 214,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Centered32-unit vertical rectangle has square ends and spans the enclosure zone39..955. Its geometry is intentionally simpler than bracket shapes and maintains the operator family.",
+      "reference_visible": false,
+      "source_sha256": "669ab7ac5cff1d1f0cd110be1e019933a7dcab545d40ae306a6ecb246b1b83c1",
+      "source_snapshot": "source-svg/glyph-U007C.svg",
+      "compiled_font_bounds": [
+        91,
+        -155,
+        123,
+        761
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "}",
+      "codepoint": "U+007D",
+      "glyph": "braceright",
+      "source": "drawings/glyph-U007D.svg",
+      "advance": 395,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Exact mirror of the opening brace preserves widths, curve handles, waist position and top/bottom levels. No independent adjustment needed.",
+      "reference_visible": false,
+      "source_sha256": "c3b2784d7c663d867e358b086936a2c58dea96e8a32b95da90899d39c4c3bd29",
+      "source_snapshot": "source-svg/glyph-U007D.svg",
+      "compiled_font_bounds": [
+        50,
+        -150,
+        355,
+        752
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "~",
+      "codepoint": "U+007E",
+      "glyph": "asciitilde",
+      "source": "drawings/glyph-U007E.svg",
+      "advance": 588,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two broad cubic crests share deliberate60-unit thickness at their horizontal extrema and taper toward diagonal terminal cuts. The undulation feels consistent with curved operators; it is not a pair of arbitrary circles.",
+      "reference_visible": false,
+      "source_sha256": "741f01b87ac1714c7cb49d2d7cb52e0b035deafb1793b80019d5431ee441b76a",
+      "source_snapshot": "source-svg/glyph-U007E.svg",
+      "compiled_font_bounds": [
+        45,
+        232,
+        545,
+        382
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "–",
+      "codepoint": "U+2013",
+      "glyph": "endash",
+      "source": "drawings/glyph-U2013.svg",
+      "advance": 570,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The486-unit bar shares exact518/557 edges with the em dash. Square endpoints and39-unit weight are stable in text. Its size relationship to hyphen and em dash is legible.",
+      "reference_visible": false,
+      "source_sha256": "79fdf035d5c628cd6732447c8f96228593ab8893a9212140d0de187f43ce8fe5",
+      "source_snapshot": "source-svg/glyph-U2013.svg",
+      "compiled_font_bounds": [
+        42,
+        243,
+        528,
+        282
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "—",
+      "codepoint": "U+2014",
+      "glyph": "emdash",
+      "source": "drawings/glyph-U2014.svg",
+      "advance": 1000,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The912-unit bar repeats the en-dash vertical position and39-unit weight exactly. Its much greater width is intentional; the outline and bearings do not clip.",
+      "reference_visible": false,
+      "source_sha256": "c2321db8b0031a27977fa40fb03f6c4ce22a5bee4ef0885df25d2a0ffa4a391f",
+      "source_snapshot": "source-svg/glyph-U2014.svg",
+      "compiled_font_bounds": [
+        44,
+        243,
+        956,
+        282
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "‘",
+      "codepoint": "U+2018",
+      "glyph": "quoteleft",
+      "source": "drawings/glyph-U2018.svg",
+      "advance": 209,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Opening curly quote is a rotated comma-like construction with81-unit head and curved tail. The attached tail explains its smaller head than the92-unit isolated full stop. It reads in the correct direction and has a shared family with double-opening quotes.",
+      "reference_visible": false,
+      "source_sha256": "a4e03de163ab3dcc5b7c73e8e99c1183a022b6828442af0703d22da22c151a82",
+      "source_snapshot": "source-svg/glyph-U2018.svg",
+      "compiled_font_bounds": [
+        60,
+        510,
+        163,
+        703
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "’",
+      "codepoint": "U+2019",
+      "glyph": "quoteright",
+      "source": "drawings/glyph-U2019.svg",
+      "advance": 209,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Closing quote maintains the same head/tail proportions as its opening counterpart, with a3-unit optical vertical offset in bounding extrema. No visible misalignment in context; retain the shape rather than equalizing bounding boxes mechanically.",
+      "reference_visible": false,
+      "source_sha256": "4b815b954cbc009a903e07a26176345c0e4fec4462058ba9fcd199cb284c55bf",
+      "source_snapshot": "source-svg/glyph-U2019.svg",
+      "compiled_font_bounds": [
+        39,
+        507,
+        142,
+        700
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "“",
+      "codepoint": "U+201C",
+      "glyph": "quotedblleft",
+      "source": "drawings/glyph-U201C.svg",
+      "advance": 380,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two repeated opening components use an exact171-unit translation. Endpoints, handles and head geometry correspond, preserving both visual rhythm and the slight compactness of quote marks.",
+      "reference_visible": false,
+      "source_sha256": "353698795e8f388ab741f78e78098d5db5617df83056d3f42352ac29b9045494",
+      "source_snapshot": "source-svg/glyph-U201C.svg",
+      "compiled_font_bounds": [
+        60,
+        510,
+        334,
+        703
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "”",
+      "codepoint": "U+201D",
+      "glyph": "quotedblright",
+      "source": "drawings/glyph-U201D.svg",
+      "advance": 380,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two repeated closing components exactly reuse the single closing quote at171-unit offset. Curvature and terminal cuts match the opening family without becoming straight quotation marks.",
+      "reference_visible": false,
+      "source_sha256": "d930ac1fa10aa615e7c2f9af843d75ab826d51e83f388e7b7ae46e48b098201f",
+      "source_snapshot": "source-svg/glyph-U201D.svg",
+      "compiled_font_bounds": [
+        39,
+        507,
+        313,
+        700
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "•",
+      "codepoint": "U+2022",
+      "glyph": "bullet",
+      "source": "drawings/glyph-U2022.svg",
+      "advance": 330,
+      "sheet": 5,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "The centered150-unit diamond repeats45-degree punctuation geometry at a deliberately larger separator scale. Its higher vertical position528 distinguishes it from a full stop.",
+      "reference_visible": false,
+      "source_sha256": "d29ef7f284121fde34303d70b78a0d1d08687330466f160937efa198c22994ce",
+      "source_snapshot": "source-svg/glyph-U2022.svg",
+      "compiled_font_bounds": [
+        90,
+        197,
+        240,
+        347
+      ],
+      "recommendation": "retain"
+    },
+    {
+      "character": "…",
+      "codepoint": "U+2026",
+      "glyph": "ellipsis",
+      "source": "refined/glyph-U2026.svg",
+      "advance": 600,
+      "sheet": 6,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Three exact copies of the approved92-unit period sit on baseline800 at200-unit centers. Equal spacing and identical vertices remain evident at24px; no contour or alignment drift.",
+      "reference_visible": false,
+      "source_sha256": "6f1763b82d3b6e121bd4353ea7cbaaa7f950842ff923d87897852abeeaf7783e",
+      "source_snapshot": "source-svg/glyph-U2026.svg",
+      "compiled_font_bounds": [
+        54,
+        0,
+        546,
+        92
+      ],
+      "recommendation": "retain"
+    }
+  ],
+  "scope": "All51 encoded nonletter entries, including10digits,40marks andspace. General design consistency, not only stroke weight.",
+  "concept_reference": "references/codex-clipboard-9b9d5222-0485-40e2-b46a-a99d6d1fe063.png",
+  "concept_reference_inspected": true,
+  "context_proofs": [
+    {
+      "file": "context-56.png",
+      "font_size": 56,
+      "pixel_scale": 2
+    },
+    {
+      "file": "context-24.png",
+      "font_size": 24,
+      "pixel_scale": 1
+    }
+  ],
+  "candidate_proofs": [
+    {
+      "file": "compare-96.png",
+      "font_size": 96,
+      "pixel_scale": 2
+    },
+    {
+      "file": "compare-56.png",
+      "font_size": 56,
+      "pixel_scale": 2
+    },
+    {
+      "file": "compare-24.png",
+      "font_size": 24,
+      "pixel_scale": 1
+    }
+  ],
+  "candidate_font_sha256": "6ed0ce06cdd4ba4c2f92480a03f86018a21d468688acbbdeb4b3b7531ebdf635",
+  "candidate_changed_glyphs": [
+    "four",
+    "one"
+  ],
+  "candidate_invariants": {
+    "cmap_unchanged": true,
+    "hmtx_unchanged": true,
+    "GPOS_unchanged": true,
+    "GSUB_unchanged": true,
+    "all_other_outlines_unchanged": true
+  },
+  "selected_candidates": [
+    {
+      "character": "1",
+      "glyph": "one",
+      "path": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/marks/candidate-svg/glyph-U0031.svg",
+      "sha256": "f7afa528de825d226acf846e26bf0a40e660d698e71de60913cac6f19f001086"
+    },
+    {
+      "character": "4",
+      "glyph": "four",
+      "path": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/marks/candidate-svg/glyph-U0034.svg",
+      "sha256": "ea89b37e16744771dcbc431f528f01548dd67a7dec7b9292ccd37dff060d7c77"
+    }
+  ],
+  "candidate_validation": "Compiled successfully, no error/warning diagnostics; FONT_LICENSE_UNSET informational only.",
+  "measurements": {
+    "one_foot_angles_before_degrees": [
+      35.618,
+      36.027
+    ],
+    "one_foot_angles_candidate_degrees": [
+      45,
+      45
+    ],
+    "one_stem_width_unchanged": 114,
+    "four_foot_angles_before_degrees": [
+      38.53,
+      38.53
+    ],
+    "four_foot_angles_candidate_degrees": [
+      45,
+      45
+    ],
+    "four_flat_top_svg_y_before": 88,
+    "four_flat_top_svg_y_candidate": 100,
+    "four_stem_width_unchanged": 114,
+    "four_crossbar_unchanged": 30,
+    "four_inner_diagonal_vertex_svg_y_before": 139,
+    "four_inner_diagonal_vertex_svg_y_candidate": 143.1847,
+    "four_candidate_diagonal_perpendicular": 24.0606
+  },
+  "result": "Recommend two selected figure refinements:1/4 exact45-degree footcuts;4 flat-cap alignment and parallel thin diagonal. Other48entries retained.7 is explicitly unresolved after fresh user feedback and belongs to root revision. No master edits. Candidate files are frozen at this handoff."
+}

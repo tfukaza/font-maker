@@ -1,0 +1,72 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  quality:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.23"
+          enable-cache: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install FontForge on macOS
+        if: runner.os == 'macOS'
+        run: brew bundle
+
+      - name: Install FontForge for non-native tests on Ubuntu
+        if: runner.os == 'Linux'
+        run: sudo apt-get update && sudo apt-get install --yes fontforge
+
+      - name: Install locked dependencies
+        run: uv sync --all-extras --frozen --python 3.12
+
+      - name: Install UI dependencies
+        run: npm ci
+
+      - name: Lint and type-check Python
+        run: |
+          uv run ruff check src tests
+          uv run ruff format --check src tests
+          uv run mypy src/font_maker
+
+      - name: Check and build MCP App
+        run: |
+          npm run typecheck
+          npm run build
+
+      - name: Install browser for MCP App acceptance tests
+        if: runner.os == 'Linux'
+        run: npx playwright install --with-deps chromium
+
+      - name: Run MCP App acceptance tests
+        if: runner.os == 'Linux'
+        run: npm run test:e2e
+
+      - name: Validate plugin and skill discovery metadata
+        run: uv run pytest tests/test_distribution.py
+
+      - name: Run full macOS suite
+        if: runner.os == 'macOS'
+        run: uv run pytest --cov=font_maker --cov-report=term-missing
+
+      - name: Run portable Ubuntu suite
+        if: runner.os == 'Linux'
+        run: uv run pytest -m "not fontforge" --cov=font_maker --cov-report=term-missing
+
+      - name: Validate package build
+        run: uv build

@@ -1,0 +1,26 @@
+[
+  {
+    "kern": -45,
+    "font": "spacing-pass/we-refinement/We-45.ttf",
+    "revision": "0ace24aab49a96ead473782d29e5e293e06697f9cb0352f317b3f231abbdfb10",
+    "sha256": "a8b26854952bdd26c3d988d9a8747c2f10f8deb34371ba4aac2014752e057cfb"
+  },
+  {
+    "kern": -80,
+    "font": "spacing-pass/we-refinement/We-80.ttf",
+    "revision": "c9fd1ad01fc5550def0f4266952b10f5101545a2916895bf0512c624c4fc37fa",
+    "sha256": "a482b93a8fcd4f685b6c9fad5822c82b427153f5b4fa2074cb035db1a77733f6"
+  },
+  {
+    "kern": -100,
+    "font": "spacing-pass/we-refinement/We-100.ttf",
+    "revision": "fafc85f609404e92841d5e8b52f2443d19941ccb543b7c60b2a0a057a6906e29",
+    "sha256": "4b627c4d540b5492b579d6ac16088734d4e4b9e71be0077ba02a5146177b3981"
+  },
+  {
+    "kern": -120,
+    "font": "spacing-pass/we-refinement/We-120.ttf",
+    "revision": "a586f7cbfc5d1478f22d53cfdc4a2d519e2e6307072aa720ba4e721867d5f58f",
+    "sha256": "42b9fc651dc602a6431731062eea1dfdc4a09128a54b059c2cd5a4a9cfab9a19"
+  }
+]

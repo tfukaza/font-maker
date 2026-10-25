@@ -1,0 +1,61 @@
+{
+  "version": "0.110",
+  "revision": "c10da56c3e0d319470220d7742999512f6bbbf6e2e54b2fd6018e5a9cf789981",
+  "ttf_sha256": "7ec20f5a45e364e50191733536a7dfa35a21f46a6d25c0735692f9a0485ad780",
+  "status": "compiled and visually reviewed revision; aesthetic approval remains with user",
+  "a": {
+    "lower_bowl_left_before": 40,
+    "lower_bowl_left_after": 82,
+    "comment": "42-unit reduction of left projection, matching counter narrowed deliberately; 104-unit thick side. Applied15-unit spacing shift afterward.",
+    "compiled_bounds": [
+      60,
+      -23,
+      535,
+      482
+    ],
+    "advance": 547,
+    "left_bearing": 60,
+    "source": "refined/glyph-U0061.svg"
+  },
+  "dots": {
+    "characters": [
+      "i",
+      "j"
+    ],
+    "diamond_diagonal_before": 78,
+    "diamond_diagonal_after": 106,
+    "body_clearance": 75,
+    "inspection": "Before/after source and compiled proofs reviewed; dot positions stay centered over their stems."
+  },
+  "diagonals": {
+    "report": "diagonal-refinement.json",
+    "changed": [
+      "w",
+      "W",
+      "v",
+      "y",
+      "x",
+      "X"
+    ],
+    "unchanged_control": "V"
+  },
+  "spacing": {
+    "report": "spacing-refinement.json",
+    "proofs": "spacing-pass/REVIEW.md",
+    "override_pairs": 85,
+    "native_size": 22,
+    "reading_scope": "35 tested paired and word rows"
+  },
+  "validation": [
+    {
+      "code": "FONT_LICENSE_UNSET",
+      "severity": "info",
+      "message": "The generated font has no user-selected license metadata.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    }
+  ],
+  "skill_update": "font-design-metrics now specifies perpendicular diagonal measurement and evidence-led optical compensation."
+}

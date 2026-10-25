@@ -1,0 +1,347 @@
+{
+  "purpose": "Optical compensation for visibly underweight diagonals, with exact parallel straight sides.",
+  "controls": {
+    "H_vertical": 116,
+    "n_left_vertical": 106,
+    "n_right_vertical": 105,
+    "measurement_units": "font units / 1000 UPM; stroke width measured perpendicular to the edge, away from joins"
+  },
+  "method": "Before: signed point-to-line distance from an outer-edge point to the inner straight segment at recorded body heights; y coordinates are SVG-downward. Original w/W nonparallel edges are recorded as sampled ranges. After: exact distance between parallel edge lines; rounded to four decimals.",
+  "inspection": {
+    "reference": "references/reference.png",
+    "compiled_before": "specimen.png",
+    "source_comparison": "/tmp/wedge-diagonals.png",
+    "source_comparison_svg": "/tmp/wedge-diagonals.svg",
+    "source_image_dimensions": [
+      1260,
+      1530
+    ],
+    "source_display_size": 190,
+    "source_pixel_scale": 1,
+    "source_visual_status": "inspected all six candidates beside before and n/H controls; open counters, baseline terminal width and hairline contrast retained",
+    "source_svg_status": "read every affected path; recalculated joins from line intersections rather than repeated approximate vertices; source paths parse as closed filled shapes",
+    "compiled_after_status": "inspected at 50px \u00d74 detail and 48/32px native reading sizes; all six revised outlines retain open counters and hairline contrast, and no export-induced spikes or joins are visible",
+    "user_acceptance": "pending",
+    "compiled_before_path": "revisions/before-optical-refinement/Wedge-Regular.ttf",
+    "compiled_before_sha256": "9702bfba9aa494793d31c260d8d75728a73fc92456b62c6caf4be3d999ea0f1a",
+    "compiled_after_path": "build/fonts/Wedge-Regular.ttf",
+    "compiled_after_sha256": "c0988efeed83cf8df7a901c1f8afaec7a69ecb2422cc57f3f0cb1469d326e0f4",
+    "compiled_comparison_proof": "proofs/diagonal-optical-before-after.png",
+    "compiled_comparison_svg": "proofs/diagonal-optical-before-after.svg",
+    "compiled_comparison_font_size": 50,
+    "compiled_comparison_pixel_scale": 4,
+    "compiled_native_proof": "proofs/diagonal-optical-native.png",
+    "compiled_native_svg": "proofs/diagonal-optical-native.svg",
+    "compiled_native_font_sizes": [
+      48,
+      32
+    ],
+    "compiled_native_pixel_scale": 1,
+    "compiled_native_features": {
+      "kern": false,
+      "liga": false
+    },
+    "compiled_geometry_status": "inspected actual TTF glyf coordinates after overlap removal; intended parallel source edges remain within integer rounding variation",
+    "decision": "retain these six candidates; V needs no change; user aesthetic acceptance remains pending"
+  },
+  "glyphs": {
+    "w": {
+      "changed": true,
+      "path": "refined/glyph-U0077.svg",
+      "sha256": "d332648936f7ed1a86503c333733b835032ca8680d7f5abf5f404347f709d67e",
+      "before_perpendicular": {
+        "left": [
+          90.7978,
+          87.5829
+        ],
+        "right": [
+          85.4075,
+          85.1252
+        ]
+      },
+      "after_main_perpendicular": 106.9178,
+      "source_svg_bounds": [
+        23.0,
+        330.0,
+        729.0,
+        813.0
+      ],
+      "reason": "The two previous heavy legs were too light and had small slope differences. Both now use dx/dy=165/446 with 114-unit horizontal separation. Both pairs of thin rising edges are parallel; they retain their own 27\u201328-unit perpendicular family. All outer cap/baseline endpoints, 24-unit bottom wedges and overall advance remain. Inner vertices rise as expected when the heavy diagonals expand.",
+      "compiled_bounds": {
+        "before": [
+          23,
+          -13,
+          729,
+          470
+        ],
+        "after": [
+          23,
+          -13,
+          729,
+          470
+        ]
+      },
+      "compiled_after_perpendicular": {
+        "left": [
+          106.9811,
+          107.1883
+        ],
+        "right": [
+          106.6019,
+          106.6544
+        ]
+      }
+    },
+    "W": {
+      "changed": true,
+      "path": "refined/glyph-U0057.svg",
+      "sha256": "68f9a9a4e860a83e7543954333cb59413ee020cf4e62dd4c26e929acb18ccc1a",
+      "before_perpendicular": {
+        "left": [
+          111.176,
+          108.9103
+        ],
+        "right": [
+          106.2058,
+          107.0318
+        ]
+      },
+      "after_main_perpendicular": 121.4315,
+      "source_svg_bounds": [
+        23.0,
+        100.0,
+        963.0,
+        814.0
+      ],
+      "reason": "A modest increase to 121.43 units gives the long diagonal stems slight optical compensation over H=116. Both heavy legs now share dx/dy=1/3. The small slope drift in each hairline has been removed. Existing 28/29-unit bottom wedges and overall side bounds remain; intersection vertices are computed from the actual edge lines.",
+      "compiled_bounds": {
+        "before": [
+          23,
+          -14,
+          963,
+          700
+        ],
+        "after": [
+          23,
+          -14,
+          963,
+          700
+        ]
+      },
+      "compiled_after_perpendicular": {
+        "left": [
+          121.3903,
+          121.1867
+        ],
+        "right": [
+          121.5095,
+          121.5213
+        ]
+      }
+    },
+    "v": {
+      "changed": true,
+      "path": "refined/glyph-U0076.svg",
+      "sha256": "e5bdea29cf5eec8bd69c83c8d65cd716843b957c30c071cf5c7be4b9c1c0c1be",
+      "before_perpendicular": {
+        "main": [
+          98.4185
+        ]
+      },
+      "after_main_perpendicular": 105.8463,
+      "source_svg_bounds": [
+        33.0,
+        330.0,
+        488.0,
+        813.0
+      ],
+      "reason": "Widened the heavy stem by 8 horizontal units; perpendicular width rises from 98.42 to 105.85, matching lowercase stems. Both heavy edges retain dx/dy=0.4, and the 26.93-unit thin return is unchanged. Shifted the inner cap wedge corner by the same 8 units to retain its 45-degree edge.",
+      "compiled_bounds": {
+        "before": [
+          33,
+          -13,
+          488,
+          470
+        ],
+        "after": [
+          33,
+          -13,
+          488,
+          470
+        ]
+      },
+      "compiled_after_perpendicular": {
+        "main": [
+          105.8463
+        ]
+      }
+    },
+    "y": {
+      "changed": true,
+      "path": "refined/glyph-U0079.svg",
+      "sha256": "cd5a9eaffa140105a195361c7f689b2b25442cf527486d3117e8ed3a933ab666",
+      "before_perpendicular": {
+        "main": [
+          98.4185
+        ]
+      },
+      "after_main_perpendicular": 105.8463,
+      "source_svg_bounds": [
+        28.0,
+        330.0,
+        488.0,
+        1029.0
+      ],
+      "reason": "Exactly the same body correction as v. Original descending stroke and hooked terminal path retained unchanged.",
+      "compiled_bounds": {
+        "before": [
+          28,
+          -229,
+          488,
+          470
+        ],
+        "after": [
+          28,
+          -229,
+          488,
+          470
+        ]
+      },
+      "compiled_after_perpendicular": {
+        "main": [
+          105.8463
+        ]
+      }
+    },
+    "x": {
+      "changed": true,
+      "path": "refined/glyph-U0078.svg",
+      "sha256": "134bca0953c71ecac2de3703add1ac3f8f3a8fb16e38a43e0ae7bdf665ef6c30",
+      "before_perpendicular": {
+        "main": [
+          88.1973
+        ]
+      },
+      "after_main_perpendicular": 106.5024,
+      "source_svg_bounds": [
+        27.0,
+        330.0,
+        493.667,
+        800.0
+      ],
+      "reason": "Original main diagonal used the vertical-stem horizontal width, producing only 88.20 perpendicular units. Widened symmetrically by 11 horizontal units per side to 106.50 perpendicular units. Main diagonal remains 2:3 and hairline remains 4:5. Wedge terminal edges remain 45 degrees; left/right sidebearings change by 11 units and need compiled spacing review.",
+      "compiled_bounds": {
+        "before": [
+          38,
+          0,
+          483,
+          470
+        ],
+        "after": [
+          27,
+          0,
+          494,
+          470
+        ]
+      },
+      "compiled_after_perpendicular": {
+        "upper": [
+          106.5951,
+          106.5419
+        ],
+        "lower": [
+          106.9194,
+          106.6402
+        ]
+      }
+    },
+    "X": {
+      "changed": true,
+      "path": "refined/glyph-U0058.svg",
+      "sha256": "cde0b147c1bb559316c4bc97f0a9d73e1899c2ba62180965dea05917c1a8ca08",
+      "before_perpendicular": {
+        "main": [
+          87.3653
+        ]
+      },
+      "after_main_perpendicular": 116.487,
+      "source_svg_bounds": [
+        42.5,
+        100.0,
+        682.5,
+        800.0
+      ],
+      "reason": "Original main diagonal was only 87.37 perpendicular units beside H=116. Expanded each heavy side symmetrically by 17.5 horizontal units to 116.49 perpendicular units. Preserved parallel 2:3 heavy edges, 4:5 thin edges, 45-degree wedge cuts. Sidebearings change by 17.5 units and need compiled spacing review.",
+      "compiled_bounds": {
+        "before": [
+          58,
+          0,
+          667,
+          700
+        ],
+        "after": [
+          42,
+          0,
+          682,
+          700
+        ]
+      },
+      "compiled_after_perpendicular": {
+        "upper": [
+          116.4039,
+          116.4689
+        ],
+        "lower": [
+          116.4847,
+          116.5238
+        ]
+      }
+    },
+    "V": {
+      "changed": false,
+      "before_after_perpendicular": {
+        "main": [
+          115.5025,
+          115.5025
+        ]
+      },
+      "reason": "Already 115.51 perpendicular units, essentially the 116-unit H stem. Exact parallel diagonals and appropriate apparent weight in the current compiled specimen; no unnecessary widening.",
+      "compiled_bounds": {
+        "before": [
+          28,
+          -14,
+          690,
+          700
+        ],
+        "after": [
+          28,
+          -14,
+          690,
+          700
+        ]
+      }
+    }
+  },
+  "samples_svg_y": {
+    "w_left": [
+      450,
+      600
+    ],
+    "w_right": [
+      550,
+      650
+    ],
+    "W_left": [
+      250,
+      550
+    ],
+    "W_right": [
+      350,
+      550
+    ],
+    "V": [
+      300,
+      500
+    ]
+  }
+}

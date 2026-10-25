@@ -1,0 +1,20 @@
+{
+  "family_name": "Hakiland Display",
+  "version": "0.110",
+  "revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773",
+  "embedded_woff2_sha256": "7cde040cda79d520304ea949d21fb8ed7ca4c6fa711dceb5f28411b0e28e9d00",
+  "checks": {
+    "font_loaded": true,
+    "embedded_font_matches_export": true,
+    "page_title": "Hakiland Display \u2014 Font specimen",
+    "horizontal_overflow": false,
+    "download_http_status": {
+      "ttf": 200,
+      "otf": 200,
+      "woff2": 200,
+      "zip": 200
+    },
+    "viewport_screenshot_inspected": true
+  },
+  "aesthetic_status": "Revised prototype; user acceptance pending."
+}

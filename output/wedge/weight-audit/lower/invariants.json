@@ -1,0 +1,20 @@
+[
+  {
+    "candidate": "d-770",
+    "changed_glyphs": [
+      "d"
+    ],
+    "advances_and_bearings_unchanged": true,
+    "kerning_unchanged": true,
+    "cmap_unchanged": true
+  },
+  {
+    "candidate": "d-778",
+    "changed_glyphs": [
+      "d"
+    ],
+    "advances_and_bearings_unchanged": true,
+    "kerning_unchanged": true,
+    "cmap_unchanged": true
+  }
+]

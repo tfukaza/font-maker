@@ -1,0 +1,61 @@
+{
+  "proposal_id": "0692ba6b-2635-49e5-8129-3d3b4e55ccdc",
+  "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d",
+  "base_revision": "4f701c6eff7b2ff81f0744c5fc9454152ff90ab9e08a339b40f640d2f5c6c36f",
+  "target_separation": 35,
+  "changes": [
+    {
+      "kind": "glyph_metrics",
+      "glyph": "o",
+      "left": null,
+      "right": null,
+      "before": {
+        "advance_width": 461,
+        "left_side_bearing": 19,
+        "right_side_bearing": 19
+      },
+      "after": {
+        "advance_width": 462,
+        "left_side_bearing": 19,
+        "right_side_bearing": 20
+      },
+      "evidence": [
+        "FontForge autoWidth targeted 35 font units of optical separation."
+      ]
+    },
+    {
+      "kind": "kerning",
+      "glyph": null,
+      "left": "S",
+      "right": "n",
+      "before": {
+        "value": -104
+      },
+      "after": {
+        "value": -103
+      },
+      "evidence": [
+        "FontForge autoKern targeted 35 font units of optical separation."
+      ]
+    }
+  ],
+  "preview_strings": [
+    "HHIHH HOOH",
+    "nninn noon",
+    "AVATAR To Ta Te",
+    "WAY OVER"
+  ],
+  "diagnostics": [
+    {
+      "code": "FONTFORGE_SPACING_HEURISTIC",
+      "severity": "info",
+      "message": "Proposal was measured on a disposable FontForge clone and did not mutate the project.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {
+        "fontforge_version": "20251009"
+      },
+      "suggested_action": "Review every delta in compiled specimen text before applying it."
+    }
+  ]
+}

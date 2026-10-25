@@ -1,0 +1,40 @@
+apply_spacing_proposal {"revision": "c9094f7fe4299a2115647b53be37f5450850f36beace85e5fd8e84893952839a", "changed": ["glyph_metrics:H", "glyph_metrics:O", "glyph_metrics:n", "glyph_metrics:o", "kerning:A/V", "kerning:R/e", "kerning:S/n", "kerning:u/p"]}
+set_ligatures {"revision": "4f701c6eff7b2ff81f0744c5fc9454152ff90ab9e08a339b40f640d2f5c6c36f", "changed": ["ligatures"]}
+{
+  "tool": "preview_font",
+  "arguments": {
+    "text": "Snap Engine",
+    "font_size": 120,
+    "pixel_scale": 3,
+    "guides": false,
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d"
+  },
+  "result": {
+    "error": {
+      "code": "VALIDATION_FAILED",
+      "message": "Font has validation errors and was not built.",
+      "details": {
+        "diagnostics": [
+          {
+            "code": "INCONSISTENT_GLYPH_METRICS",
+            "severity": "error",
+            "message": "Advance width does not equal outline width plus the explicit left and right sidebearings.",
+            "glyph": "o",
+            "rule": null,
+            "measurements": {
+              "advance_width": 461,
+              "expected_advance_width": 462
+            },
+            "suggested_action": "Change the advance or clear one sidebearing so the remaining value determines outline placement."
+          }
+        ]
+      }
+    }
+  },
+  "is_error": true
+}

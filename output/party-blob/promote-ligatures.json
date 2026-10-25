@@ -1,0 +1,96 @@
+[
+  {
+    "tool": "upsert_glyphs",
+    "mutate": true,
+    "glyph_file": "creative-glyphs.json",
+    "save": "creative-import.json"
+  },
+  {
+    "tool": "set_ligatures",
+    "mutate": true,
+    "args": {
+      "upsert": [
+        {
+          "feature": "dlig",
+          "sequence": [
+            "e",
+            "c"
+          ],
+          "replacement": "e_c"
+        },
+        {
+          "feature": "dlig",
+          "sequence": [
+            "i",
+            "n"
+          ],
+          "replacement": "i_n"
+        },
+        {
+          "feature": "dlig",
+          "sequence": [
+            "n",
+            "a"
+          ],
+          "replacement": "n_a"
+        },
+        {
+          "feature": "dlig",
+          "sequence": [
+            "o",
+            "o"
+          ],
+          "replacement": "o_o"
+        },
+        {
+          "feature": "dlig",
+          "sequence": [
+            "r",
+            "t"
+          ],
+          "replacement": "r_t"
+        }
+      ]
+    },
+    "save": "creative-rules.json"
+  },
+  {
+    "tool": "set_kerning",
+    "mutate": true,
+    "args": {
+      "upsert_pairs": [
+        {
+          "left": "R",
+          "right": "e_c",
+          "value": -25
+        },
+        {
+          "left": "S",
+          "right": "n_a",
+          "value": -60
+        },
+        {
+          "left": "F",
+          "right": "o_o",
+          "value": -80
+        },
+        {
+          "left": "P",
+          "right": "o_o",
+          "value": -130
+        },
+        {
+          "left": "T",
+          "right": "o_o",
+          "value": -160
+        },
+        {
+          "left": "T",
+          "right": "e_c",
+          "value": -150
+        }
+      ]
+    },
+    "save": "creative-kern.json"
+  }
+]

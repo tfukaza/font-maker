@@ -1,0 +1,64 @@
+{
+  "caps": [
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/caps-01.png",
+      "characters": "ABCDEFGH"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/caps-02.png",
+      "characters": "IJKLMNOP"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/caps-03.png",
+      "characters": "RSTUVWXY"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/caps-04.png",
+      "characters": "Z"
+    }
+  ],
+  "lower": [
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "characters": "bcefhijk"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "characters": "lmnopqrs"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-03.png",
+      "characters": "tuvwxyz"
+    }
+  ],
+  "marks": [
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/marks-01.png",
+      "characters": "!\"#$%&'("
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/marks-02.png",
+      "characters": ")*+,-./0"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/marks-03.png",
+      "characters": "12345678"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/marks-04.png",
+      "characters": "9:;<=>?@"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/marks-05.png",
+      "characters": "[\\]^_`{|"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/marks-06.png",
+      "characters": "}~–—‘’“”"
+    },
+    {
+      "path": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/marks-07.png",
+      "characters": "•…"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+upsert_glyphs {"revision": "c39653b9d0036465e624781f233316af964a6b98741fdb868d0306482092beb5", "changed": ["glyphs/6500ef20b6c4932a1e6184d2175adb7fdd2b8cd572414c9ae5901a9a7e340e0b.svg", "glyphs/cf48159a73d856b5b16f15f69c100e48ef40729c2722a6a61354a55ce1eb72cf.svg", "glyphs/64d3fd3e91a16874ce6880c4e502a72e8030e37cb9dd9734f4fefb64e079dbf9.svg", "glyphs/c0eaf33cfc1d9ccea63147e8e78672f06a21d7a3a8511a406f1da5841d565f8e.svg", "glyphs/7d0b0aaec388130d5da536cd39adcd44325f09ceafbd8cacb2b3232b1b51bb06.svg", "font.yaml"]}
+set_ligatures {"revision": "630508974bccb5f86cf7a87fad2fc2b796fbb91196cc587411546e6c2a28bd78", "changed": ["ligatures"]}
+set_kerning {"revision": "0160db525812d5fa5000d5d51bca1dda700b21b92abddb9691ef1b22939451bf", "changed": ["kerning"]}

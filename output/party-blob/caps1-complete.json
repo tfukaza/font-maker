@@ -1,0 +1,111 @@
+{
+  "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d",
+  "revision": "b25f8517cf42164f8a01aa9a42168e95d142284f816544a7bdaf7835ff421050",
+  "settings": {
+    "text": "ABCDEFG",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "font_size": 96,
+    "pixel_scale": 3,
+    "guides": false
+  },
+  "artifacts": [
+    {
+      "artifact_id": "dee2c71a-30ec-4dd6-8cdd-1b46ef0a6f45",
+      "path": "build/previews/preview-999e12da8769.svg",
+      "mime_type": "image/svg+xml",
+      "size": 5190,
+      "sha256": "5e0ca63a18211e3aa21b9c7b974ebfd6abbc6283236d72db5a7d1fdf062e764a",
+      "revision": "b25f8517cf42164f8a01aa9a42168e95d142284f816544a7bdaf7835ff421050"
+    },
+    {
+      "artifact_id": "0862474c-27f3-4639-bcca-d04da5812cf0",
+      "path": "build/previews/preview-999e12da8769.png",
+      "mime_type": "image/png",
+      "size": 28511,
+      "sha256": "429b2f9f8677bbaff6fdb3edc6baf9615d56304dbf65518d6e79bc7bb4078e30",
+      "revision": "b25f8517cf42164f8a01aa9a42168e95d142284f816544a7bdaf7835ff421050"
+    }
+  ],
+  "shaping": {
+    "text": "ABCDEFG",
+    "direction": "ltr",
+    "script": "Latn",
+    "language": "c",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "units_per_em": 1000,
+    "glyphs": [
+      {
+        "glyph_id": 3,
+        "glyph_name": "A",
+        "cluster": 0,
+        "x_advance": 665,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 4,
+        "glyph_name": "B",
+        "cluster": 1,
+        "x_advance": 720,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 5,
+        "glyph_name": "C",
+        "cluster": 2,
+        "x_advance": 710,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 6,
+        "glyph_name": "D",
+        "cluster": 3,
+        "x_advance": 760,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 7,
+        "glyph_name": "E",
+        "cluster": 4,
+        "x_advance": 710,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 9,
+        "glyph_name": "F",
+        "cluster": 5,
+        "x_advance": 660,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 10,
+        "glyph_name": "G",
+        "cluster": 6,
+        "x_advance": 745,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      }
+    ],
+    "total_advance": 4970
+  }
+}

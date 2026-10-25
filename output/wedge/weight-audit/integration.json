@@ -1,0 +1,49 @@
+{
+  "revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691",
+  "version": "0.113",
+  "changed": [
+    "S",
+    "colon",
+    "comma",
+    "d",
+    "dollar",
+    "ellipsis",
+    "exclam",
+    "period",
+    "question",
+    "semicolon",
+    "seven"
+  ],
+  "selected_sources": {
+    "7": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/seven-C.svg",
+    "d": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/d-778.svg",
+    "$": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/caps/candidate-svg/glyph-U0024.svg",
+    "S": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/caps/candidate-svg/glyph-U0053.svg",
+    ",": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/marks/candidate-svg/glyph-U002C.svg",
+    "?": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/marks/candidate-svg/glyph-U003F.svg",
+    ";": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/marks/candidate-svg/glyph-U003B.svg",
+    "!": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/marks/candidate-svg/glyph-U0021.svg",
+    ".": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/marks/candidate-svg/glyph-U002E.svg",
+    ":": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/marks/candidate-svg/glyph-U003A.svg",
+    "…": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/marks/candidate-svg/glyph-U2026.svg"
+  },
+  "sha256": "bcd55c655d04eb54d186ea106d1763bb7237272b912ce64b9e99978dc71be033",
+  "unchanged": {
+    "advance_widths": true,
+    "cmap": true,
+    "GPOS": true,
+    "GSUB": true,
+    "all_other_outlines": true
+  },
+  "diagnostics": [
+    {
+      "code": "FONT_LICENSE_UNSET",
+      "severity": "info",
+      "message": "The generated font has no user-selected license metadata.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    }
+  ]
+}

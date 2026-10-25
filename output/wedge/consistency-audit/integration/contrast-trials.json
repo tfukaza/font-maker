@@ -1,0 +1,20 @@
+{
+  "108 / 24": {
+    "diagonal": 108,
+    "bar": 24,
+    "svg": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-contrast-108-24.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-contrast-108-24/build/fonts/HakilandDisplay-Regular.ttf"
+  },
+  "108 / 20": {
+    "diagonal": 108,
+    "bar": 20,
+    "svg": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-contrast-108-20.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-contrast-108-20/build/fonts/HakilandDisplay-Regular.ttf"
+  },
+  "114 / 24": {
+    "diagonal": 114,
+    "bar": 24,
+    "svg": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-contrast-114-24.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-contrast-114-24/build/fonts/HakilandDisplay-Regular.ttf"
+  }
+}

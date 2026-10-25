@@ -1,0 +1,14 @@
+{
+  "project_id": "8192953c-1ac4-4776-9088-ae245a5d0807",
+  "diagnostics": [
+    {
+      "code": "FONT_LICENSE_UNSET",
+      "severity": "info",
+      "message": "The generated font has no user-selected license metadata.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    }
+  ]
+}

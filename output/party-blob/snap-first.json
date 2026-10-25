@@ -1,0 +1,145 @@
+{
+  "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d",
+  "revision": "73270f14bdfef070b933cabcf17b7235f64672bc21e3d1a92d3ac4064f20288b",
+  "settings": {
+    "text": "Snap Engine",
+    "features": {
+      "kern": false,
+      "liga": false
+    },
+    "font_size": 160,
+    "pixel_scale": 3,
+    "guides": false
+  },
+  "artifacts": [
+    {
+      "artifact_id": "16a0ebaa-094f-4f19-a6b1-7e8817f05dd2",
+      "path": "build/previews/preview-633c7193fcb9.svg",
+      "mime_type": "image/svg+xml",
+      "size": 6476,
+      "sha256": "7e4cebb5192038d7e85e55c0629e3f97b38de8014877f0695d58e68c09afcde5",
+      "revision": "73270f14bdfef070b933cabcf17b7235f64672bc21e3d1a92d3ac4064f20288b"
+    },
+    {
+      "artifact_id": "f03d1076-bcff-4fa1-a072-9f971c4b824f",
+      "path": "build/previews/preview-633c7193fcb9.png",
+      "mime_type": "image/png",
+      "size": 53909,
+      "sha256": "c10d327ff5c2e7c19d1c0d8623975794deb76892f6202639941fa9b299bc4c87",
+      "revision": "73270f14bdfef070b933cabcf17b7235f64672bc21e3d1a92d3ac4064f20288b"
+    }
+  ],
+  "shaping": {
+    "text": "Snap Engine",
+    "direction": "ltr",
+    "script": "Latn",
+    "language": "c",
+    "features": {
+      "kern": false,
+      "liga": false
+    },
+    "units_per_em": 1070,
+    "glyphs": [
+      {
+        "glyph_id": 15,
+        "glyph_name": "S",
+        "cluster": 0,
+        "x_advance": 770,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 30,
+        "glyph_name": "n",
+        "cluster": 1,
+        "x_advance": 460,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 17,
+        "glyph_name": "a",
+        "cluster": 2,
+        "x_advance": 470,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 32,
+        "glyph_name": "p",
+        "cluster": 3,
+        "x_advance": 405,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 3,
+        "glyph_name": "space",
+        "cluster": 4,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 9,
+        "glyph_name": "E",
+        "cluster": 5,
+        "x_advance": 710,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 30,
+        "glyph_name": "n",
+        "cluster": 6,
+        "x_advance": 460,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 23,
+        "glyph_name": "g",
+        "cluster": 7,
+        "x_advance": 460,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 25,
+        "glyph_name": "i",
+        "cluster": 8,
+        "x_advance": 210,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 30,
+        "glyph_name": "n",
+        "cluster": 9,
+        "x_advance": 460,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 21,
+        "glyph_name": "e",
+        "cluster": 10,
+        "x_advance": 440,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      }
+    ],
+    "total_advance": 5050
+  }
+}

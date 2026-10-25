@@ -1,0 +1,273 @@
+{
+  "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d",
+  "revision": "b4cbb50a3c36d7bb27c79366151438bc3ef43f11de5cfb8ad940b23a678c542c",
+  "settings": {
+    "text": "Five affable office staff",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "font_size": 96,
+    "pixel_scale": 3,
+    "guides": false
+  },
+  "artifacts": [
+    {
+      "artifact_id": "3f48d7eb-e083-4641-b0b4-c0e5c2ea908a",
+      "path": "build/previews/preview-83b7c2476faf.svg",
+      "mime_type": "image/svg+xml",
+      "size": 14423,
+      "sha256": "cada5193ef3298a4b524809264abe7e6d91913fa0c843b3d7acb845b13b8d971",
+      "revision": "b4cbb50a3c36d7bb27c79366151438bc3ef43f11de5cfb8ad940b23a678c542c"
+    },
+    {
+      "artifact_id": "d1d60fac-b2e1-4473-b339-5f87ec554c7c",
+      "path": "build/previews/preview-83b7c2476faf.png",
+      "mime_type": "image/png",
+      "size": 48933,
+      "sha256": "1f8d6cddce2b190bf9498e7e0611ade93910add847687825fca21403ff7ade2d",
+      "revision": "b4cbb50a3c36d7bb27c79366151438bc3ef43f11de5cfb8ad940b23a678c542c"
+    }
+  ],
+  "shaping": {
+    "text": "Five affable office staff",
+    "direction": "ltr",
+    "script": "Latn",
+    "language": "c",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "units_per_em": 1070,
+    "glyphs": [
+      {
+        "glyph_id": 10,
+        "glyph_name": "F",
+        "cluster": 0,
+        "x_advance": 660,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 25,
+        "glyph_name": "i",
+        "cluster": 1,
+        "x_advance": 210,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 38,
+        "glyph_name": "v",
+        "cluster": 2,
+        "x_advance": 430,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 21,
+        "glyph_name": "e",
+        "cluster": 3,
+        "x_advance": 440,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 3,
+        "glyph_name": "space",
+        "cluster": 4,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 17,
+        "glyph_name": "a",
+        "cluster": 5,
+        "x_advance": 470,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 22,
+        "glyph_name": "f",
+        "cluster": 6,
+        "x_advance": 330,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 22,
+        "glyph_name": "f",
+        "cluster": 7,
+        "x_advance": 330,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 17,
+        "glyph_name": "a",
+        "cluster": 8,
+        "x_advance": 470,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 18,
+        "glyph_name": "b",
+        "cluster": 9,
+        "x_advance": 455,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 28,
+        "glyph_name": "l",
+        "cluster": 10,
+        "x_advance": 235,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 21,
+        "glyph_name": "e",
+        "cluster": 11,
+        "x_advance": 440,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 3,
+        "glyph_name": "space",
+        "cluster": 12,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 31,
+        "glyph_name": "o",
+        "cluster": 13,
+        "x_advance": 462,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 22,
+        "glyph_name": "f",
+        "cluster": 14,
+        "x_advance": 330,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 22,
+        "glyph_name": "f",
+        "cluster": 15,
+        "x_advance": 330,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 25,
+        "glyph_name": "i",
+        "cluster": 16,
+        "x_advance": 210,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 19,
+        "glyph_name": "c",
+        "cluster": 17,
+        "x_advance": 425,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 21,
+        "glyph_name": "e",
+        "cluster": 18,
+        "x_advance": 440,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 3,
+        "glyph_name": "space",
+        "cluster": 19,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 35,
+        "glyph_name": "s",
+        "cluster": 20,
+        "x_advance": 395,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 36,
+        "glyph_name": "t",
+        "cluster": 21,
+        "x_advance": 320,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 17,
+        "glyph_name": "a",
+        "cluster": 22,
+        "x_advance": 470,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 22,
+        "glyph_name": "f",
+        "cluster": 23,
+        "x_advance": 330,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 22,
+        "glyph_name": "f",
+        "cluster": 24,
+        "x_advance": 330,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      }
+    ],
+    "total_advance": 9127
+  }
+}

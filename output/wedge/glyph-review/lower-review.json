@@ -1,0 +1,303 @@
+{
+  "scope": "Every lowercase except a,d,g, reviewed individually; no outlines modified. reviewed means inspection complete, not user approval or comprehensive aesthetic acceptance.",
+  "font_sha256": "78838d6e5bce4909a16761714aac49dfc073b21c9c86cef29c37b0297c49c004",
+  "proof_settings": {
+    "compiled_sheets": {
+      "font_size": 96,
+      "pixel_scale": 3
+    },
+    "word_proofs": {
+      "font_size": 96,
+      "pixel_scale": 3
+    },
+    "source_direct_sheets": {
+      "svg_units_to_pixels": 0.4,
+      "pixel_scale": 1
+    }
+  },
+  "word_proofs": [
+    "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-words-01.png",
+    "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-words-02.png",
+    "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-words-03.png",
+    "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-words-04.png"
+  ],
+  "visual_reference": "/Users/tomokif/code/font-maker/output/wedge/references/reference.png",
+  "glyphs": [
+    {
+      "character": "b",
+      "codepoint": "U+0062",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0062.svg",
+      "source_sha256": "3657bacf8d0a9457ed5e7bf2269fa5ba4df72dfaafae66e6925d3b44e6bbab74",
+      "visual_evidence": "Tall left stem and narrow oval counter preserve the reference construction; no isolated swell in the bowl.",
+      "geometry_evidence": "Vertical stem x82/188 gives 106-unit weight. Bowl extrema x540/427 at y565 give 113-unit right weight; corresponding cubic joins at y565 have vertical tangents. Counter top/bottom y342/788 are smooth horizontal extrema.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "c",
+      "codepoint": "U+0063",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0063.svg",
+      "source_sha256": "067db546dedc269e58f9d31d11e3087e0c2d3ebc8882060ff8091c1c53ffc7aa",
+      "visual_evidence": "Open bowl and angular upper beak read clearly in quick; lower terminal remains light and pointed.",
+      "geometry_evidence": "Left outer/inner extrema x38/151 are 113 units apart. Cubic arrival/departure at x151,y560 are vertical; top curves leave y318/340 horizontally. The 7 by 10 terminal end is intentional and visible, without a hook or doubled join.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "e",
+      "codepoint": "U+0065",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0065.svg",
+      "source_sha256": "f55286b0722b0422bfac56087217c6dfab3fa447b8ce73ed62422de2c27114ca",
+      "visual_evidence": "Counter is compact and the straight crossbar is visually horizontal; lower sweep is smooth in over the.",
+      "geometry_evidence": "Bar edges H379 at y522 and H151 at y546 are parallel with 24-unit thickness. Top counter ends x151/379 meet the horizontal bar intentionally. Outer left extremum x38,y565 is vertically tangent.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "f",
+      "codepoint": "U+0066",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0066.svg",
+      "source_sha256": "21bd7d00c6109ae8c9097898fd1355759382248d5d17c7936e772b2ba25d5f29",
+      "visual_evidence": "Triangular top terminal, tall stem and thin crossbar are coherent with the concept; top does not form a round droplet.",
+      "geometry_evidence": "Stem x89/195 is 106 units. Crossbar y330/355 is 25 units and horizontal. Vertical tangent joins occur at x89,y257 and x195,y176; upper extrema y30/52 have horizontal handles. Foot overhangs differ left/right, but remain clean straight facets.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "h",
+      "codepoint": "U+0068",
+      "status": "needs_refinement",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0068.svg",
+      "source_sha256": "9ce4a5797cb42de3168ab49bcecf3debb3eb20d5dd92cec6d392c71a87c90497",
+      "visual_evidence": "Shoulder is clean, but the second foot visibly has a flatter wedge than the main stem foot.",
+      "geometry_evidence": "Main foot starts y746 and rises 54 units over 54 (45 degrees); shoulder foot begins y758 and rises 42 over 54 (37.875 degrees). Stem weights 106 and105 are coherent; arch control handles arrive vertically at x502,y451 and x397,y455.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "i",
+      "codepoint": "U+0069",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0069.svg",
+      "source_sha256": "4d50fc31c02f7d6f889053690b9c861038377bbe8fd562ed94deee803b580976",
+      "visual_evidence": "Centered diamond dot and vertical stem are clean; foot is balanced.",
+      "geometry_evidence": "Stem x82/188 is106 units. Dot vertices (135,153),(174,192),(135,231),(96,192) form exact 45-degree sides about stem center x135. Foot diagonals each run54/rise54.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "j",
+      "codepoint": "U+006A",
+      "status": "needs_refinement",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U006A.svg",
+      "source_sha256": "1717d8afab52ee9be4416ff8284c7fb5fcd55c91d8c470b40bcdcfae931141ac",
+      "visual_evidence": "The dot aligns correctly, but the head wedge is visibly shallower than i despite their close relationship. Descender hook itself is clean.",
+      "geometry_evidence": "Stem x91/197 is106 units; dot center x144 equals stem center. Head (36,365)->(197,320) rises45 over161 versus i54 over162. Notch (36,365)->(91,406) has run55/rise41 versus i56/56. Align head construction with i while retaining the descender.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "k",
+      "codepoint": "U+006B",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U006B.svg",
+      "source_sha256": "a6915d2b94a2e4ec3e00870dd276773720cefb136fb378e7744f0fbdfc350683",
+      "visual_evidence": "Sharp open crotch and lower diagonal read clearly; no dark knot at arm/stem meeting.",
+      "geometry_evidence": "Main stem x82/188 is106. Upper arm edges (179,584)->(401,370) and (437,370)->(179,616) are close to parallel. Lower-leg sides (332,471)->(484,765) and (249,551)->(355,765) differ by about1 degree, a mild taper rather than a sudden weight change.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-01.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "l",
+      "codepoint": "U+006C",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U006C.svg",
+      "source_sha256": "9bdaeb6659062c1497acf4c3f44e5aac8ef78bd1ba15e1cd990e1d4da4e60b5c",
+      "visual_evidence": "Uncomplicated ascender and symmetrical foot match the stem family.",
+      "geometry_evidence": "Stem x82/188 is106. Both bottom facets run54/rise54 to y800. Top cap runs162/rise54, matching b/h/i/n main-stem construction.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "m",
+      "codepoint": "U+006D",
+      "status": "needs_refinement",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U006D.svg",
+      "source_sha256": "2b1c9df3fb1dbeb01d22c480910a45bf5ade1fdb7667fcb76ba24639ff204ebd",
+      "visual_evidence": "Both arches are coherent, but the middle and right feet are flatter than the left foot, most evident in minimum.",
+      "geometry_evidence": "Main stem foot has54/54 diagonals. Middle/right feet use42/54 diagonals with start y758. Vertical stems x82/188,372/477,669/774 have106/105/105 widths. Top extrema y318 and inner extrema y361 share horizontal tangents; arch valleys are intentional.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "n",
+      "codepoint": "U+006E",
+      "status": "needs_refinement",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U006E.svg",
+      "source_sha256": "723db22a801b93f75cf6b1b067dbb03b184f22295b0c14fe60810e432e81a66e",
+      "visual_evidence": "The shoulder is clean and the counter is open; right foot is visibly flatter than the left.",
+      "geometry_evidence": "Stem sides x82/188 and397/502 give106/105 units. Main foot uses54/54 diagonals; right uses42/54. Right shoulder approaches x502,y451 vertically and inner x397,y455 vertically, avoiding a bulge.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "o",
+      "codepoint": "U+006F",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U006F.svg",
+      "source_sha256": "16533fa40bb0389972c7d62ffc4cb7c299fb4a3eb80cefa187ed75abd357a50e",
+      "visual_evidence": "Even high-contrast oval without local lumps; fits the reference round-letter family.",
+      "geometry_evidence": "Outer ellipse extrema x40/518,y318/812 and inner x153/405,y340/790 share center (279,565). Vertical weights113; top/bottom22. Four cubic segments have axis-aligned tangent handles at all extrema.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "p",
+      "codepoint": "U+0070",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0070.svg",
+      "source_sha256": "688c3c33a077d2edc54540bc523252f53ba67569a6f05d5d6c30f254ad71c201",
+      "visual_evidence": "Bowl matches b and descender maintains its weight; no new swelling around stem/bowl joins.",
+      "geometry_evidence": "Same bowl/counter cubic coordinates as b: right thickness113 at y565. Descender x82/188 remains106 units; foot y966->1020 uses54/54 facets. Outer and inner extrema use aligned horizontal/vertical tangents.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "q",
+      "codepoint": "U+0071",
+      "status": "needs_refinement",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0071.svg",
+      "source_sha256": "be7233d86dec26f4e997522d4267288f4d354a31bfd1763e4e947ba9d6e2a1f1",
+      "visual_evidence": "A small inward-pointing black spur interrupts the upper-right counter in both isolated q and quick.",
+      "geometry_evidence": "The head segment closes through V430 L336 374, crossing the bowl/counter region near their upper join. This creates the visible triangular intrusion instead of one clean shoulder boundary. Unify/trim the stem wedge where it intersects the bowl; retain stem x392/498 and counter/bowl proportions.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "r",
+      "codepoint": "U+0072",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0072.svg",
+      "source_sha256": "636b1e3194ecd4c8d55d798df41f1547ce9ccd2c129e52df16ea5f90c2593fd6",
+      "visual_evidence": "Angular terminal reads as the distinctive reference wedge; the shoulder remains open below it.",
+      "geometry_evidence": "Terminal vertices (318,312),(404,398),(326,476),(259,409) use exact45-degree edges for its three polygonal sides. Main stem x82/188 is106. Curved underside joins the terminal intentionally at259,409; no extra circular node.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "s",
+      "codepoint": "U+0073",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0073.svg",
+      "source_sha256": "9a4eceb290f7d66896637dd39a2ce5b7daac0360b6eb9a1c29712e863373bf8a",
+      "visual_evidence": "Balanced top/bottom terminals and continuous spine; no isolated swelling in jumps.",
+      "geometry_evidence": "Vertical upper/lower terminal edges x384 andx46 contrast with intentional diagonals. Top/bottom y318/812 and inner extrema y340/790 have horizontal tangent handles. Central L277,525 and L174,599 connect to cubics with near-collinear direction, not hard accidental elbows.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-02.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "t",
+      "codepoint": "U+0074",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0074.svg",
+      "source_sha256": "c98fdb0296b67b3a12163a53133039fb860a00e81017dd5de9b08edec552a8b0",
+      "visual_evidence": "Pointed ascender, straight crossbar and open lower hook preserve a minimal construction.",
+      "geometry_evidence": "Stem x89/195 is106; y330/355 crossbar is25. Top cut from89,268 to195,162 is45 degrees. Foot curves depart x195,701 and arrive x89,692 vertically; no tangent reversal or extra bulge.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-03.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "u",
+      "codepoint": "U+0075",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0075.svg",
+      "source_sha256": "9176571276deaaef718e6564d5e6e7da764b47d91c52209a057d345b5181dd1c",
+      "visual_evidence": "Both stems align and the low diagonal terminal retains the reference identity; inner turn is clean.",
+      "geometry_evidence": "Parallel vertical sides x81/187 and402/508 both106. Top wedges repeat161/46 exactly. Bowl upper join at187,668 is vertical; inner bottom y761 and outer y812 have horizontal tangent handles. Bottom-right oblique wedge is intentional, not a curved swelling.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-03.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "v",
+      "codepoint": "U+0076",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0076.svg",
+      "source_sha256": "658cfa85b15e4920567101033146a4ad062432035fb52f29861020e75cec7654",
+      "visual_evidence": "Clean symmetric diagonal rhythm, narrow lower tip and coherent contrast.",
+      "geometry_evidence": "Both opposing faces of the heavy descending stroke have slope2.5:122/305 and178/445; both thin returning faces have absolute slope2.5. Top vertices share y330/368 and bottom sharesy813.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-03.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "w",
+      "codepoint": "U+0077",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0077.svg",
+      "source_sha256": "82ab4586408308b9edafabae3fb4ca8aea1b895aa242cd5b9b70ae39ff37990d",
+      "visual_evidence": "Two lower vertices align; center crossing is sharply joined without a blob.",
+      "geometry_evidence": "Both bottom flats share y813 and24-unit width. Tops share y330/367. Long heavy strokes taper slightly: first outer165/446 versus inner108/311; second outer112/316 versus inner110/313. These are gradual deliberate-looking differences, not local bulges; do not force unlike strokes to identical widths.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-03.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "x",
+      "codepoint": "U+0078",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0078.svg",
+      "source_sha256": "6437f3128dbf681359e8fa1e9adf079ecca34b379632f9478ecd475e2eca7971",
+      "visual_evidence": "Crossing has clean straight sides and balanced top/bottom wedge ends.",
+      "geometry_evidence": "Heavy diagonal uses identical vector(262.667,394) on both faces; thin diagonal identical vector(-315.2,394). Top ends y330/368 and bottoms762/800 share alignment. Overlapping components compile into a clean crossing in the rendered proof.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-03.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "y",
+      "codepoint": "U+0079",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0079.svg",
+      "source_sha256": "7a5e93101e3610ddd03609aa3765220e16cce6a6ea3dcec13856eac3be5b2b96",
+      "visual_evidence": "Descender returns smoothly into a pointed terminal; the upper body preserves v geometry.",
+      "geometry_evidence": "Upper body duplicates exact v slope2.5. Tail cubic joins at226,928 and201,922 approximately follow adjoining straight diagonals; bottom extrema y1029 have horizontal handles. Terminal at28,988/92,912/143,966 remains intentionally faceted.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-03.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    },
+    {
+      "character": "z",
+      "codepoint": "U+007A",
+      "status": "reviewed",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U007A.svg",
+      "source_sha256": "d608df33f22dc7f2e51fc64578e0eb04ee68b9a85761f55a0919d24f9526f8c4",
+      "visual_evidence": "Strong straight diagonal and thin horizontal rails are clean; terminals remain angular.",
+      "geometry_evidence": "Top/bottom rails at330/353 and777/800 are23 units. Diagonal edges294/427 and295/426 are almost parallel (under0.2-degree difference). All diagonal/rail joins are explicit vertices, without curves to introduce bulging.",
+      "image": "/Users/tomokif/code/font-maker/output/wedge/glyph-review/lower-03.png",
+      "inspected_actual_path_commands": true,
+      "inspected_isolated_image": true
+    }
+  ]
+}

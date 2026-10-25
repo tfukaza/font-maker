@@ -1,0 +1,92 @@
+{
+  "revision": "492b5686ff5679f5ac50f43a4d0d51af5e404d4bd2d993638252407426ba1874",
+  "sha256": "33a720c5ef6eaa58bcc61b92e0abe78925f49660990c1add715008fa9671d1b4",
+  "changed": [
+    "f",
+    "u"
+  ],
+  "same_advances": true,
+  "metric_diffs": {
+    "u": [
+      [
+        588,
+        26
+      ],
+      [
+        588,
+        25
+      ]
+    ]
+  },
+  "same_GPOS": true,
+  "validation": [
+    {
+      "code": "FONT_LICENSE_UNSET",
+      "severity": "info",
+      "message": "The generated font has no user-selected license metadata.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    }
+  ],
+  "build": {
+    "project_id": "315ff6a3-c635-4155-8475-33d6055e5d4d",
+    "revision": "492b5686ff5679f5ac50f43a4d0d51af5e404d4bd2d993638252407426ba1874",
+    "artifacts": [
+      {
+        "artifact_id": "dfd0302d-da90-4ead-be5a-eafce1005bd8",
+        "path": "build/fonts/HakilandConsistencyStudy-Regular.ttf",
+        "mime_type": "font/ttf",
+        "size": 11532,
+        "sha256": "33a720c5ef6eaa58bcc61b92e0abe78925f49660990c1add715008fa9671d1b4",
+        "revision": "492b5686ff5679f5ac50f43a4d0d51af5e404d4bd2d993638252407426ba1874"
+      }
+    ],
+    "diagnostics": [
+      {
+        "code": "FONT_LICENSE_UNSET",
+        "severity": "info",
+        "message": "The generated font has no user-selected license metadata.",
+        "glyph": null,
+        "rule": null,
+        "measurements": {},
+        "suggested_action": null
+      }
+    ],
+    "backend": {
+      "name": "FontForge",
+      "fontforge_version": "20251009",
+      "license": "GPL-3.0-or-later",
+      "credit": "FontForge by George Williams and the FontForge contributors",
+      "source": "https://github.com/fontforge/fontforge/tree/20251009",
+      "revision": "492b5686ff5679f5ac50f43a4d0d51af5e404d4bd2d993638252407426ba1874",
+      "inspections": {
+        "ttf": {
+          "tables": [
+            "FFTM",
+            "GDEF",
+            "GPOS",
+            "GSUB",
+            "GlyphOrder",
+            "OS/2",
+            "cmap",
+            "gasp",
+            "glyf",
+            "head",
+            "hhea",
+            "hmtx",
+            "loca",
+            "maxp",
+            "name",
+            "post"
+          ],
+          "glyph_count": 106,
+          "units_per_em": 1000,
+          "has_gpos": true,
+          "has_gsub": true
+        }
+      }
+    }
+  }
+}

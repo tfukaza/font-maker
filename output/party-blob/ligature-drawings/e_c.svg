@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 1070"
+     width="1000" height="1070"
+     data-fontmaker-family="Party Blob"
+     data-fontmaker-upm="1000"
+     data-fontmaker-baseline-y="800">
+  <title>Party Blob shared glyph template</title>
+  <desc>Draw filled outlines only inside #glyph. Do not crop or move the baseline.</desc>
+  <g id="fontmaker-guides" data-fontmaker-ignore="true"
+     fill="none" stroke-width="1" vector-effect="non-scaling-stroke">
+    <line id="ascender-guide" x1="0" x2="1000" y1="0" y2="0" stroke="#8b5cf6" opacity="0.45"/>
+    <line id="cap-height-guide" x1="0" x2="1000" y1="80" y2="80" stroke="#3b82f6" opacity="0.45"/>
+    <line id="x-height-guide" x1="0" x2="1000" y1="380" y2="380" stroke="#10b981" opacity="0.45"/>
+    <line id="baseline" data-fontmaker-baseline="true" x1="0" x2="1000" y1="800" y2="800" stroke="#ef4444" stroke-width="2"/>
+    <line id="descender-guide" x1="0" x2="1000" y1="1070" y2="1070" stroke="#f59e0b" opacity="0.45"/>
+  </g>
+  <g id="glyph" fill="#000000"><path d="M121 558 C83 559 77 586 108 604 C170 647 263 650 331 629 C395 609 423 553 445 497 C480 409 550 354 632 365 C698 357 750 385 761 427 C777 499 705 521 645 487 C594 458 545 462 509 496 C472 530 465 578 498 607 C543 647 631 630 693 637 C756 644 782 686 766 744 C748 811 669 829 579 813 C505 800 456 766 414 725 C379 786 314 827 231 814 C104 798 23 716 19 604 C16 471 104 369 235 365 C343 362 424 411 425 481 C427 550 362 575 281 576 C218 577 174 556 121 558 ZM108.0 465.0C101.0 483.0 112.0 492.0 132.0 500.0C163.0 512.0 212.0 513.0 236.0 491.0C257.0 472.0 251.0 436.0 217.0 425.0C178.0 412.0 121.0 426.0 108.0 465.0Z"/></g>
+</svg>

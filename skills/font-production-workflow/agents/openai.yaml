@@ -1,0 +1,4 @@
+interface:
+  display_name: "Font Production Workflow"
+  short_description: "Scope original fonts through coverage and specimen handoff"
+  default_prompt: "Use $font-production-workflow to develop this original concept through a stated coverage profile, revision-safe production, export, and an interactive specimen."

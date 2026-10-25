@@ -1,0 +1,29 @@
+{
+  "A": {
+    "normal_diagonal": 116,
+    "top_bar": 109,
+    "baseline_left": 153.21017549581126,
+    "inner_top_x": 358.35788598325587,
+    "source": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/seven-A.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-A/build/fonts/HakilandDisplay-Regular.ttf",
+    "revision": "d67d1c1c69c1ba30a17bbdbe3f7dcdfac460b1da2cfc0e1c12bc865fafebdb34"
+  },
+  "B": {
+    "normal_diagonal": 116,
+    "top_bar": 92,
+    "baseline_left": 153.21017549581126,
+    "inner_top_x": 364.258919956668,
+    "source": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/seven-B.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-B/build/fonts/HakilandDisplay-Regular.ttf",
+    "revision": "828bc3bca02d3f019f17a20ac6187065a409d3db8f4a87bfce827b86b75322de"
+  },
+  "C": {
+    "normal_diagonal": 108,
+    "top_bar": 92,
+    "baseline_left": 161.67843925472084,
+    "inner_top_x": 372.72718371557755,
+    "source": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/seven-C.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/figures/trial-C/build/fonts/HakilandDisplay-Regular.ttf",
+    "revision": "39464ef3c1c0426fb33f09561c87bba6c3eb45a3cb749ce8cc30dc54b39b1bc7"
+  }
+}

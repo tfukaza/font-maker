@@ -1,0 +1,12 @@
+{
+  "index": "/Users/tomokif/code/font-maker/output/party-blob/final-kerning/index.json",
+  "revision": "b25f8517cf42164f8a01aa9a42168e95d142284f816544a7bdaf7835ff421050",
+  "counts": {
+    "sources": 4,
+    "cases": 5,
+    "rendered": 5,
+    "skipped": 0,
+    "pending": 5,
+    "sheets": 5
+  }
+}

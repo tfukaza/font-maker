@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1020"><rect width="1800" height="1020" fill="white"/><text x="24" y="32" font-family="Arial" font-size="22" fill="#888">U+2022 •</text><g transform="translate(0 25) scale(3)"><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M165 347 240 272 165 197 90 272Z" fill="#111827" transform="translate(24 100.8) scale(0.096 -0.096)" />
+</g><text x="474" y="32" font-family="Arial" font-size="22" fill="#888">U+2026 …</text><g transform="translate(450 25) scale(3)"><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M500 78 539 39 500 0 461 39ZM300 78 339 39 300 0 261 39ZM100 78 139 39 100 0 61 39Z" fill="#111827" transform="translate(24 100.8) scale(0.096 -0.096)" />
+</g></svg>

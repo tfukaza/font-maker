@@ -1,0 +1,4 @@
+interface:
+  display_name: "Font Design Metrics"
+  short_description: "Set coordinates, stroke families, and accent placement"
+  default_prompt: "Use $font-design-metrics to draw original glyphs with a shared coordinate contract, coherent stroke families, and optically reviewed accents."

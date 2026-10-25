@@ -1,0 +1,59 @@
+{
+  "version": "0.114",
+  "revision": "df00704ededf67903b810146215a037c3f7fa5bd214e397899ca67a19fc3ad6d",
+  "font_sha256": "65259eb8b2bcfbc724262f38bb32eb4a305149560203ed191feca410ebf401ae",
+  "changed": [
+    "E",
+    "F",
+    "L",
+    "N",
+    "Y",
+    "f",
+    "four",
+    "one",
+    "seven",
+    "u"
+  ],
+  "selected_sources": {
+    "7": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-T2.svg",
+    "E": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/caps/glyph-U0045.svg",
+    "F": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/caps/glyph-U0046.svg",
+    "L": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/caps/glyph-U004C.svg",
+    "N": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/caps/glyph-U004E.svg",
+    "Y": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/caps/glyph-U0059.svg",
+    "f": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/lower/glyph-U0066.svg",
+    "u": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/lower/glyph-U0075.svg",
+    "1": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/marks/candidate-svg/glyph-U0031.svg",
+    "4": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/marks/candidate-svg/glyph-U0034.svg"
+  },
+  "invariants": {
+    "all_advances_unchanged": true,
+    "cmap_unchanged": true,
+    "GPOS_unchanged": true,
+    "GSUB_unchanged": true,
+    "all_other_outlines_unchanged": true
+  },
+  "metric_differences": {
+    "u": [
+      [
+        588,
+        26
+      ],
+      [
+        588,
+        25
+      ]
+    ]
+  },
+  "diagnostics": [
+    {
+      "code": "FONT_LICENSE_UNSET",
+      "severity": "info",
+      "message": "The generated font has no user-selected license metadata.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    }
+  ]
+}

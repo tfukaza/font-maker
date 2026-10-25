@@ -1,0 +1,5596 @@
+{
+  "schema_version": 1,
+  "project_id": "d75e345b-b8f4-4b8f-a7d2-b0c1c7cbfb18",
+  "revision": "45bc2bcbf3525b78b1133ff396fff3533b79336e7e069d33ede24e77277c03e7",
+  "family_name": "Wedge",
+  "project_path": "/Users/tomokif/code/font-maker/output/wedge/spacing-pass/trial-project",
+  "output_path": "/Users/tomokif/code/font-maker/output/wedge/spacing-pass/all-pairs",
+  "settings": {
+    "font_size": 50,
+    "pixel_scale": 3,
+    "sheet_width": 640,
+    "rows_per_sheet": 4,
+    "sheet_height_target": 650,
+    "guides": false,
+    "features_off": {
+      "kern": false,
+      "liga": false,
+      "rlig": true,
+      "dlig": false
+    },
+    "features_on": {
+      "kern": true,
+      "liga": false,
+      "rlig": true,
+      "dlig": false
+    }
+  },
+  "font": {
+    "path": "proof-font.ttf",
+    "sha256": "9e24ba9fa766be806b53124f363cf7cd971adb9a784b245dafb0b805f98fabcf"
+  },
+  "build": {
+    "project_id": "d75e345b-b8f4-4b8f-a7d2-b0c1c7cbfb18",
+    "revision": "45bc2bcbf3525b78b1133ff396fff3533b79336e7e069d33ede24e77277c03e7",
+    "artifacts": [
+      {
+        "artifact_id": "7124b1cf-7ddc-422e-aa49-e3f7039bea5e",
+        "path": "build/fonts/Wedge-Regular.ttf",
+        "mime_type": "font/ttf",
+        "size": 10324,
+        "sha256": "9e24ba9fa766be806b53124f363cf7cd971adb9a784b245dafb0b805f98fabcf",
+        "revision": "45bc2bcbf3525b78b1133ff396fff3533b79336e7e069d33ede24e77277c03e7"
+      }
+    ],
+    "diagnostics": [
+      {
+        "code": "FONT_LICENSE_UNSET",
+        "severity": "info",
+        "message": "The generated font has no user-selected license metadata.",
+        "glyph": null,
+        "rule": null,
+        "measurements": {},
+        "suggested_action": null
+      }
+    ],
+    "backend": {
+      "name": "FontForge",
+      "fontforge_version": "20251009",
+      "license": "GPL-3.0-or-later",
+      "credit": "FontForge by George Williams and the FontForge contributors",
+      "source": "https://github.com/fontforge/fontforge/tree/20251009",
+      "revision": "45bc2bcbf3525b78b1133ff396fff3533b79336e7e069d33ede24e77277c03e7",
+      "inspections": {
+        "ttf": {
+          "tables": [
+            "FFTM",
+            "GDEF",
+            "GPOS",
+            "GSUB",
+            "GlyphOrder",
+            "OS/2",
+            "cmap",
+            "gasp",
+            "glyf",
+            "head",
+            "hhea",
+            "hmtx",
+            "loca",
+            "maxp",
+            "name",
+            "post"
+          ],
+          "glyph_count": 106,
+          "units_per_em": 1000,
+          "has_gpos": true,
+          "has_gsub": true
+        }
+      }
+    }
+  },
+  "coverage_note": "Examples only; extend with --pair and --text. Pending includes skipped cases. No aesthetic verdict is inferred from numeric shaping.",
+  "counts": {
+    "sources": 15,
+    "cases": 15,
+    "rendered": 15,
+    "skipped": 0,
+    "pending": 15,
+    "sheets": 7
+  },
+  "sheets": [
+    {
+      "svg": "sheet-001.svg",
+      "png": "sheet-001.png",
+      "case_ids": [
+        "001",
+        "002"
+      ],
+      "logical_width": 640,
+      "logical_height": 504,
+      "pixel_width": 1920,
+      "pixel_height": 1512,
+      "sha256": "55d08898be6a46bbb08b3748054088aa975a51fadcbb7fdb7f139d1ffe132bd0"
+    },
+    {
+      "svg": "sheet-002.svg",
+      "png": "sheet-002.png",
+      "case_ids": [
+        "003",
+        "004"
+      ],
+      "logical_width": 640,
+      "logical_height": 504,
+      "pixel_width": 1920,
+      "pixel_height": 1512,
+      "sha256": "35afd9be84931929b47febcc06c7676aa10dc23d4abd6b9ee9c538dc06efe042"
+    },
+    {
+      "svg": "sheet-003.svg",
+      "png": "sheet-003.png",
+      "case_ids": [
+        "005",
+        "006"
+      ],
+      "logical_width": 640,
+      "logical_height": 504,
+      "pixel_width": 1920,
+      "pixel_height": 1512,
+      "sha256": "cebe81df1e4094276cf5d1fd3af402e236439b96f404fdd4d82c1b3a6ac3abe5"
+    },
+    {
+      "svg": "sheet-004.svg",
+      "png": "sheet-004.png",
+      "case_ids": [
+        "007",
+        "008"
+      ],
+      "logical_width": 640,
+      "logical_height": 504,
+      "pixel_width": 1920,
+      "pixel_height": 1512,
+      "sha256": "7620bfcc47abb7899726062d6e77d626f0b26d99e0d6d203d0f283196cca747f"
+    },
+    {
+      "svg": "sheet-005.svg",
+      "png": "sheet-005.png",
+      "case_ids": [
+        "009",
+        "010"
+      ],
+      "logical_width": 640,
+      "logical_height": 504,
+      "pixel_width": 1920,
+      "pixel_height": 1512,
+      "sha256": "c37b7137b730189f96b9ffbf1e38314dcac2915affaf93bb1797c346ecfb1e61"
+    },
+    {
+      "svg": "sheet-006.svg",
+      "png": "sheet-006.png",
+      "case_ids": [
+        "011",
+        "012"
+      ],
+      "logical_width": 640,
+      "logical_height": 504,
+      "pixel_width": 1920,
+      "pixel_height": 1512,
+      "sha256": "5c410e82dd2fa856f9c3da8ba48ec1360e201b1cbfbcecd60ce78143cf6bd65a"
+    },
+    {
+      "svg": "sheet-007.svg",
+      "png": "sheet-007.png",
+      "case_ids": [
+        "013",
+        "014",
+        "015"
+      ],
+      "logical_width": 640,
+      "logical_height": 624,
+      "pixel_width": 1920,
+      "pixel_height": 1872,
+      "sha256": "13868690af1539c3ce5441b2895d3e9b4e5a6cc31761fa0367a5a765595a1024"
+    }
+  ],
+  "cases": [
+    {
+      "case_id": "001",
+      "group": "custom-text",
+      "source_id": 1,
+      "source_text": "AV AW AY AT VA WA",
+      "text": "AV AW AY AT VA WA",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "AV AW AY AT VA WA",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 0,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 1,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 3,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 4,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 6,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 7,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 9,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 10,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 12,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 13,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 15,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 16,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 10627
+        },
+        "on": {
+          "text": "AV AW AY AT VA WA",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 0,
+              "x_advance": 645,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 1,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 3,
+              "x_advance": 650,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 4,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 6,
+              "x_advance": 635,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 7,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 9,
+              "x_advance": 650,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 10,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 12,
+              "x_advance": 648,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 13,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 15,
+              "x_advance": 940,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 16,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 10077
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 26,
+          "logical_width": 563,
+          "logical_height": 87,
+          "pixel_width": 1689,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 146,
+          "logical_width": 535,
+          "logical_height": 87,
+          "pixel_width": 1605,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-001.png",
+      "sheet_row": 1
+    },
+    {
+      "case_id": "002",
+      "group": "custom-text",
+      "source_id": 2,
+      "source_text": "YA TA LT LV LW LY",
+      "text": "YA TA LT LV LW LY",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "YA TA LT LV LW LY",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 0,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 1,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 3,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 4,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 14,
+              "glyph_name": "L",
+              "cluster": 6,
+              "x_advance": 633,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 7,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 14,
+              "glyph_name": "L",
+              "cluster": 9,
+              "x_advance": 633,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 10,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 14,
+              "glyph_name": "L",
+              "cluster": 12,
+              "x_advance": 633,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 13,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 14,
+              "glyph_name": "L",
+              "cluster": 15,
+              "x_advance": 633,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 16,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9837
+        },
+        "on": {
+          "text": "YA TA LT LV LW LY",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 0,
+              "x_advance": 601,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 1,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 3,
+              "x_advance": 595,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 4,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 14,
+              "glyph_name": "L",
+              "cluster": 6,
+              "x_advance": 533,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 7,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 14,
+              "glyph_name": "L",
+              "cluster": 9,
+              "x_advance": 543,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 10,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 14,
+              "glyph_name": "L",
+              "cluster": 12,
+              "x_advance": 548,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 13,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 14,
+              "glyph_name": "L",
+              "cluster": 15,
+              "x_advance": 528,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 16,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9257
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 266,
+          "logical_width": 523,
+          "logical_height": 87,
+          "pixel_width": 1569,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 386,
+          "logical_width": 494,
+          "logical_height": 87,
+          "pixel_width": 1482,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-001.png",
+      "sheet_row": 2
+    },
+    {
+      "case_id": "003",
+      "group": "custom-text",
+      "source_id": 3,
+      "source_text": "FA PA Tr Tu Ty Tv",
+      "text": "FA PA Tr Tu Ty Tv",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "FA PA Tr Tu Ty Tv",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 8,
+              "glyph_name": "F",
+              "cluster": 0,
+              "x_advance": 607,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 1,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 18,
+              "glyph_name": "P",
+              "cluster": 3,
+              "x_advance": 650,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 4,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 6,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 7,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 9,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 98,
+              "glyph_name": "u",
+              "cluster": 10,
+              "x_advance": 588,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 12,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 13,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 15,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 16,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8859
+        },
+        "on": {
+          "text": "FA PA Tr Tu Ty Tv",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 8,
+              "glyph_name": "F",
+              "cluster": 0,
+              "x_advance": 542,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 1,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 18,
+              "glyph_name": "P",
+              "cluster": 3,
+              "x_advance": 585,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 3,
+              "glyph_name": "A",
+              "cluster": 4,
+              "x_advance": 740,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 6,
+              "x_advance": 635,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 7,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 9,
+              "x_advance": 635,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 98,
+              "glyph_name": "u",
+              "cluster": 10,
+              "x_advance": 588,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 12,
+              "x_advance": 645,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 13,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 15,
+              "x_advance": 645,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 16,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8529
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 26,
+          "logical_width": 474,
+          "logical_height": 87,
+          "pixel_width": 1422,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 146,
+          "logical_width": 458,
+          "logical_height": 87,
+          "pixel_width": 1374,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-002.png",
+      "sheet_row": 1
+    },
+    {
+      "case_id": "004",
+      "group": "custom-text",
+      "source_id": 4,
+      "source_text": "Tw Vr Vu Wr Wu Yr",
+      "text": "Tw Vr Vu Wr Wu Yr",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "Tw Vr Vu Wr Wu Yr",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 0,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 1,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 3,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 4,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 6,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 98,
+              "glyph_name": "u",
+              "cluster": 7,
+              "x_advance": 588,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 9,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 10,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 12,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 98,
+              "glyph_name": "u",
+              "cluster": 13,
+              "x_advance": 588,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 15,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 16,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9443
+        },
+        "on": {
+          "text": "Tw Vr Vu Wr Wu Yr",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 0,
+              "x_advance": 645,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 1,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 3,
+              "x_advance": 713,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 4,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 6,
+              "x_advance": 713,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 98,
+              "glyph_name": "u",
+              "cluster": 7,
+              "x_advance": 588,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 9,
+              "x_advance": 1008,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 10,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 12,
+              "x_advance": 1008,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 98,
+              "glyph_name": "u",
+              "cluster": 13,
+              "x_advance": 588,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 15,
+              "x_advance": 651,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 16,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9269
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 266,
+          "logical_width": 504,
+          "logical_height": 87,
+          "pixel_width": 1512,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 386,
+          "logical_width": 495,
+          "logical_height": 87,
+          "pixel_width": 1485,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-002.png",
+      "sheet_row": 2
+    },
+    {
+      "case_id": "005",
+      "group": "custom-text",
+      "source_id": 5,
+      "source_text": "Yu Yv Yw Ta Va Wa",
+      "text": "Yu Yv Yw Ta Va Wa",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "Yu Yv Yw Ta Va Wa",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 0,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 98,
+              "glyph_name": "u",
+              "cluster": 1,
+              "x_advance": 588,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 3,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 4,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 6,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 7,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 9,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 10,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 12,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 13,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 15,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 16,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9366
+        },
+        "on": {
+          "text": "Yu Yv Yw Ta Va Wa",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 0,
+              "x_advance": 651,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 98,
+              "glyph_name": "u",
+              "cluster": 1,
+              "x_advance": 588,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 3,
+              "x_advance": 676,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 4,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 6,
+              "x_advance": 676,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 7,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 9,
+              "x_advance": 605,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 10,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 12,
+              "x_advance": 676,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 13,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 15,
+              "x_advance": 975,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 16,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9059
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 26,
+          "logical_width": 500,
+          "logical_height": 87,
+          "pixel_width": 1500,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 146,
+          "logical_width": 484,
+          "logical_height": 87,
+          "pixel_width": 1452,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-003.png",
+      "sheet_row": 1
+    },
+    {
+      "case_id": "006",
+      "group": "custom-text",
+      "source_id": 6,
+      "source_text": "Ya Tc Vc Wc Yc Te",
+      "text": "Ya Tc Vc Wc Yc Te",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "Ya Tc Vc Wc Yc Te",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 0,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 1,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 3,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 43,
+              "glyph_name": "c",
+              "cluster": 4,
+              "x_advance": 506,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 6,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 43,
+              "glyph_name": "c",
+              "cluster": 7,
+              "x_advance": 506,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 9,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 43,
+              "glyph_name": "c",
+              "cluster": 10,
+              "x_advance": 506,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 12,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 43,
+              "glyph_name": "c",
+              "cluster": 13,
+              "x_advance": 506,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 15,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 16,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8927
+        },
+        "on": {
+          "text": "Ya Tc Vc Wc Yc Te",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 0,
+              "x_advance": 616,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 1,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 3,
+              "x_advance": 605,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 43,
+              "glyph_name": "c",
+              "cluster": 4,
+              "x_advance": 506,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 6,
+              "x_advance": 676,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 43,
+              "glyph_name": "c",
+              "cluster": 7,
+              "x_advance": 506,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 9,
+              "x_advance": 975,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 43,
+              "glyph_name": "c",
+              "cluster": 10,
+              "x_advance": 506,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 12,
+              "x_advance": 616,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 43,
+              "glyph_name": "c",
+              "cluster": 13,
+              "x_advance": 506,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 15,
+              "x_advance": 605,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 16,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8470
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 266,
+          "logical_width": 478,
+          "logical_height": 87,
+          "pixel_width": 1434,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 386,
+          "logical_width": 455,
+          "logical_height": 87,
+          "pixel_width": 1365,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-003.png",
+      "sheet_row": 2
+    },
+    {
+      "case_id": "007",
+      "group": "custom-text",
+      "source_id": 7,
+      "source_text": "Ve We Ye Tg Vg Wg",
+      "text": "Ve We Ye Tg Vg Wg",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "Ve We Ye Tg Vg Wg",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 0,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 1,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 3,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 4,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 6,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 7,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 9,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 58,
+              "glyph_name": "g",
+              "cluster": 10,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 12,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 58,
+              "glyph_name": "g",
+              "cluster": 13,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 15,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 58,
+              "glyph_name": "g",
+              "cluster": 16,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9454
+        },
+        "on": {
+          "text": "Ve We Ye Tg Vg Wg",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 0,
+              "x_advance": 676,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 1,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 3,
+              "x_advance": 975,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 4,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 6,
+              "x_advance": 616,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 7,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 9,
+              "x_advance": 605,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 58,
+              "glyph_name": "g",
+              "cluster": 10,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 12,
+              "x_advance": 676,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 58,
+              "glyph_name": "g",
+              "cluster": 13,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 15,
+              "x_advance": 975,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 58,
+              "glyph_name": "g",
+              "cluster": 16,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9065
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 26,
+          "logical_width": 504,
+          "logical_height": 87,
+          "pixel_width": 1512,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 146,
+          "logical_width": 485,
+          "logical_height": 87,
+          "pixel_width": 1455,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-004.png",
+      "sheet_row": 1
+    },
+    {
+      "case_id": "008",
+      "group": "custom-text",
+      "source_id": 8,
+      "source_text": "Yg To Vo Wo Yo Ts",
+      "text": "Yg To Vo Wo Yo Ts",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "Yg To Vo Wo Yo Ts",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 0,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 58,
+              "glyph_name": "g",
+              "cluster": 1,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 3,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 4,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 6,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 7,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 9,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 10,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 12,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 13,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 15,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 89,
+              "glyph_name": "s",
+              "cluster": 16,
+              "x_advance": 458,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 9073
+        },
+        "on": {
+          "text": "Yg To Vo Wo Yo Ts",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 0,
+              "x_advance": 616,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 58,
+              "glyph_name": "g",
+              "cluster": 1,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 3,
+              "x_advance": 605,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 4,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 6,
+              "x_advance": 676,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 7,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 9,
+              "x_advance": 975,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 10,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 12,
+              "x_advance": 616,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 13,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 15,
+              "x_advance": 605,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 89,
+              "glyph_name": "s",
+              "cluster": 16,
+              "x_advance": 458,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8616
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 266,
+          "logical_width": 485,
+          "logical_height": 87,
+          "pixel_width": 1455,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 386,
+          "logical_width": 462,
+          "logical_height": 87,
+          "pixel_width": 1386,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-004.png",
+      "sheet_row": 2
+    },
+    {
+      "case_id": "009",
+      "group": "custom-text",
+      "source_id": 9,
+      "source_text": "Vs Ws Ys va wa ya",
+      "text": "Vs Ws Ys va wa ya",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "Vs Ws Ys va wa ya",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 0,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 89,
+              "glyph_name": "s",
+              "cluster": 1,
+              "x_advance": 458,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 3,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 89,
+              "glyph_name": "s",
+              "cluster": 4,
+              "x_advance": 458,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 6,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 89,
+              "glyph_name": "s",
+              "cluster": 7,
+              "x_advance": 458,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 9,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 10,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 12,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 13,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 15,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 16,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8581
+        },
+        "on": {
+          "text": "Vs Ws Ys va wa ya",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 0,
+              "x_advance": 676,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 89,
+              "glyph_name": "s",
+              "cluster": 1,
+              "x_advance": 458,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 3,
+              "x_advance": 975,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 89,
+              "glyph_name": "s",
+              "cluster": 4,
+              "x_advance": 458,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 6,
+              "x_advance": 616,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 89,
+              "glyph_name": "s",
+              "cluster": 7,
+              "x_advance": 458,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 9,
+              "x_advance": 508,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 10,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 12,
+              "x_advance": 750,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 13,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 15,
+              "x_advance": 513,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 16,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8328
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 26,
+          "logical_width": 461,
+          "logical_height": 87,
+          "pixel_width": 1383,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 146,
+          "logical_width": 448,
+          "logical_height": 87,
+          "pixel_width": 1344,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-005.png",
+      "sheet_row": 1
+    },
+    {
+      "case_id": "010",
+      "group": "custom-text",
+      "source_id": 10,
+      "source_text": "ve we ye vo wo yo",
+      "text": "ve we ye vo wo yo",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "ve we ye vo wo yo",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 0,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 1,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 3,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 4,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 6,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 7,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 9,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 10,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 12,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 13,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 15,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 16,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8196
+        },
+        "on": {
+          "text": "ve we ye vo wo yo",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 0,
+              "x_advance": 508,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 1,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 3,
+              "x_advance": 750,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 4,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 6,
+              "x_advance": 513,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 7,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 9,
+              "x_advance": 508,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 10,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 12,
+              "x_advance": 750,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 13,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 15,
+              "x_advance": 513,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 16,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8084
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 266,
+          "logical_width": 441,
+          "logical_height": 87,
+          "pixel_width": 1323,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 386,
+          "logical_width": 436,
+          "logical_height": 87,
+          "pixel_width": 1308,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-005.png",
+      "sheet_row": 2
+    },
+    {
+      "case_id": "011",
+      "group": "custom-text",
+      "source_id": 11,
+      "source_text": "ov ev av ow ew aw",
+      "text": "ov ev av ow ew aw",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "ov ev av ow ew aw",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 0,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 1,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 3,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 4,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 6,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 7,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 9,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 10,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 12,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 13,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 15,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 16,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8435
+        },
+        "on": {
+          "text": "ov ev av ow ew aw",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 0,
+              "x_advance": 544,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 1,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 3,
+              "x_advance": 519,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 4,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 6,
+              "x_advance": 539,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 7,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 9,
+              "x_advance": 544,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 10,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 12,
+              "x_advance": 519,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 13,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 15,
+              "x_advance": 539,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 16,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 8367
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 26,
+          "logical_width": 453,
+          "logical_height": 87,
+          "pixel_width": 1359,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 146,
+          "logical_width": 450,
+          "logical_height": 87,
+          "pixel_width": 1350,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-006.png",
+      "sheet_row": 1
+    },
+    {
+      "case_id": "012",
+      "group": "custom-text",
+      "source_id": 12,
+      "source_text": "oy ey ay V. V, W.",
+      "text": "oy ey ay V. V, W.",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "oy ey ay V. V, W.",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 0,
+              "x_advance": 558,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 1,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 3,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 4,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 6,
+              "x_advance": 547,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 7,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 9,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 10,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 12,
+              "x_advance": 738,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 13,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 15,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 16,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 7600
+        },
+        "on": {
+          "text": "oy ey ay V. V, W.",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 72,
+              "glyph_name": "o",
+              "cluster": 0,
+              "x_advance": 544,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 1,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 48,
+              "glyph_name": "e",
+              "cluster": 3,
+              "x_advance": 519,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 4,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 29,
+              "glyph_name": "a",
+              "cluster": 6,
+              "x_advance": 539,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 7,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 9,
+              "x_advance": 638,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 10,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 24,
+              "glyph_name": "V",
+              "cluster": 12,
+              "x_advance": 638,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 13,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 15,
+              "x_advance": 935,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 16,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 7281
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 266,
+          "logical_width": 412,
+          "logical_height": 87,
+          "pixel_width": 1236,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 386,
+          "logical_width": 396,
+          "logical_height": 87,
+          "pixel_width": 1188,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-006.png",
+      "sheet_row": 2
+    },
+    {
+      "case_id": "013",
+      "group": "custom-text",
+      "source_id": 13,
+      "source_text": "W, Y. Y, T. T, r.",
+      "text": "W, Y. Y, T. T, r.",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "W, Y. Y, T. T, r.",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 0,
+              "x_advance": 1020,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 1,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 3,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 4,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 6,
+              "x_advance": 706,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 7,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 9,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 10,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 12,
+              "x_advance": 690,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 13,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 15,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 16,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 6725
+        },
+        "on": {
+          "text": "W, Y. Y, T. T, r.",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 25,
+              "glyph_name": "W",
+              "cluster": 0,
+              "x_advance": 935,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 1,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 3,
+              "x_advance": 621,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 4,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 27,
+              "glyph_name": "Y",
+              "cluster": 6,
+              "x_advance": 621,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 7,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 9,
+              "x_advance": 610,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 10,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 22,
+              "glyph_name": "T",
+              "cluster": 12,
+              "x_advance": 610,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 13,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 15,
+              "x_advance": 398,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 16,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 6270
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 26,
+          "logical_width": 368,
+          "logical_height": 87,
+          "pixel_width": 1104,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 146,
+          "logical_width": 345,
+          "logical_height": 87,
+          "pixel_width": 1035,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-007.png",
+      "sheet_row": 1
+    },
+    {
+      "case_id": "014",
+      "group": "custom-text",
+      "source_id": 14,
+      "source_text": "r, v. v, w. w, y.",
+      "text": "r, v. v, w. w, y.",
+      "part": 1,
+      "parts": 1,
+      "layout": "full-width-stacked",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "r, v. v, w. w, y.",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 0,
+              "x_advance": 438,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 1,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 3,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 4,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 6,
+              "x_advance": 530,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 7,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 9,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 10,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 12,
+              "x_advance": 766,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 13,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 15,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 16,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 6036
+        },
+        "on": {
+          "text": "r, v. v, w. w, y.",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 88,
+              "glyph_name": "r",
+              "cluster": 0,
+              "x_advance": 398,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 1,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 2,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 3,
+              "x_advance": 480,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 4,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 5,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 100,
+              "glyph_name": "v",
+              "cluster": 6,
+              "x_advance": 480,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 7,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 8,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 9,
+              "x_advance": 716,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 10,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 11,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 101,
+              "glyph_name": "w",
+              "cluster": 12,
+              "x_advance": 716,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 13,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 94,
+              "glyph_name": "space",
+              "cluster": 14,
+              "x_advance": 255,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 15,
+              "x_advance": 481,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 78,
+              "glyph_name": "period",
+              "cluster": 16,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 5746
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 240,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 266,
+          "logical_width": 333,
+          "logical_height": 87,
+          "pixel_width": 999,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 6,
+          "y": 386,
+          "logical_width": 319,
+          "logical_height": 87,
+          "pixel_width": 957,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-007.png",
+      "sheet_row": 2
+    },
+    {
+      "case_id": "015",
+      "group": "custom-text",
+      "source_id": 15,
+      "source_text": "y,",
+      "text": "y,",
+      "part": 1,
+      "parts": 1,
+      "layout": "side-by-side",
+      "review_status": "pending",
+      "observation": "",
+      "why_acceptable": "",
+      "render_status": "rendered",
+      "missing_glyphs": [],
+      "skip_reason": null,
+      "shaping": {
+        "off": {
+          "text": "y,",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": false,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 0,
+              "x_advance": 531,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 1,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 731
+        },
+        "on": {
+          "text": "y,",
+          "direction": "ltr",
+          "script": "Latn",
+          "language": "c",
+          "features": {
+            "kern": true,
+            "liga": false,
+            "rlig": true,
+            "dlig": false
+          },
+          "units_per_em": 1000,
+          "glyphs": [
+            {
+              "glyph_id": 103,
+              "glyph_name": "y",
+              "cluster": 0,
+              "x_advance": 481,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            },
+            {
+              "glyph_id": 45,
+              "glyph_name": "comma",
+              "cluster": 1,
+              "x_advance": 200,
+              "y_advance": 0,
+              "x_offset": 0,
+              "y_offset": 0
+            }
+          ],
+          "total_advance": 681
+        }
+      },
+      "logical_width": 640,
+      "logical_height": 120,
+      "samples": {
+        "off": {
+          "x": 6,
+          "y": 506,
+          "logical_width": 68,
+          "logical_height": 87,
+          "pixel_width": 204,
+          "pixel_height": 261
+        },
+        "on": {
+          "x": 326,
+          "y": 506,
+          "logical_width": 66,
+          "logical_height": 87,
+          "pixel_width": 198,
+          "pixel_height": 261
+        }
+      },
+      "sheet": "sheet-007.png",
+      "sheet_row": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "font-maker",
+  "version": "0.1.0",
+  "description": "Explore, preview, and build fonts from SVG glyphs with FontForge, the GPL-3.0-or-later editor created by George Williams and maintained by its contributors.",
+  "author": {
+    "name": "tfukaza"
+  },
+  "license": "GPL-3.0-or-later",
+  "keywords": ["fontforge", "fonts", "svg", "typography", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Font Maker",
+    "shortDescription": "Explore, design, and build fonts with an agent.",
+    "longDescription": "A visual font-design interview and stateful local workshop for choosing a direction, importing SVG glyphs, refining metrics, spacing, kerning and ligatures, rendering previews, and exporting validated fonts.",
+    "developerName": "tfukaza",
+    "category": "Developer Tools",
+    "capabilities": ["Read", "Write", "Image output"],
+    "defaultPrompt": [
+      "Help me decide what kind of font to make.",
+      "Create a font project and its SVG glyph template.",
+      "Validate, preview, and export my current font."
+    ]
+  }
+}

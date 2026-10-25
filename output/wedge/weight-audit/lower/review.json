@@ -1,0 +1,1491 @@
+{
+  "revision": "c5c1dfebdde7e86a107e9b155087a50ececa2a571cbd6d86c8d50010f22c451c",
+  "font_sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f",
+  "font_size": 160,
+  "pixel_scale": 2,
+  "glyphs": [
+    {
+      "character": "a",
+      "codepoint": "U+0061",
+      "glyph": "a",
+      "source": "refined/glyph-U0061.svg",
+      "advance": 547,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Narrowed lower bowl keeps even apparent weight with its106 stem; no excess left mass in bad/adapted. Retain current shape.",
+      "geometry_evidence": "Source side104; compiled horizontal section near SVG y650 is104.34 and stem106. Curved section at y565 narrows intentionally. Stem remains vertical; diagonal bowl-entry curves flow into the retained counter.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 129.45,
+            "end": 220.5,
+            "width": 91.06
+          },
+          {
+            "start": 355.0,
+            "end": 461.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 67.59,
+            "end": 171.93,
+            "width": 104.34
+          },
+          {
+            "start": 355.0,
+            "end": 461.0,
+            "width": 106.0
+          }
+        ]
+      },
+      "source_sha256": "a12872f324277c59f641bb296b77e9a105315c7698eb09fd96458a0e5d0ca495",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "b",
+      "codepoint": "U+0062",
+      "glyph": "b",
+      "source": "drawings/glyph-U0062.svg",
+      "advance": 582,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Bowl and upright balance; bottom hairline remains light, with no dark stem/bowl knot.",
+      "geometry_evidence": "106 stem,113 bowl side at y565. Lower/upper curve sections at x299 are22.70/23.65. Tangent handles remain aligned at bowl extrema.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 427.0,
+            "end": 540.0,
+            "width": 113.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 420.45,
+            "end": 529.76,
+            "width": 109.31
+          }
+        ],
+        "vertical_round_extrema": {
+          "x": 299,
+          "intervals": [
+            {
+              "start": 318.35,
+              "end": 342.0,
+              "width": 23.65
+            },
+            {
+              "start": 788.0,
+              "end": 810.7,
+              "width": 22.7
+            }
+          ]
+        }
+      },
+      "source_sha256": "3657bacf8d0a9457ed5e7bf2269fa5ba4df72dfaafae66e6925d3b44e6bbab74",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "c",
+      "codepoint": "U+0063",
+      "glyph": "c",
+      "source": "drawings/glyph-U0063.svg",
+      "advance": 506,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Open side and triangular terminal preserve contrast without appearing heavier than o/e.",
+      "geometry_evidence": "113.02 side at y565 and111.29 at650; thin top and bottom curves transition continuously, with explicit terminal vertices.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 38.0,
+            "end": 151.02,
+            "width": 113.02
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 49.09,
+            "end": 160.38,
+            "width": 111.29
+          }
+        ]
+      },
+      "source_sha256": "067db546dedc269e58f9d31d11e3087e0c2d3ebc8882060ff8091c1c53ffc7aa",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "d",
+      "codepoint": "U+0064",
+      "glyph": "d",
+      "source": "refined/glyph-U0064.svg",
+      "advance": 582,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Current lower bowl is perceptibly darker than b/q/o in bad dad adapted paddle. Select d-778 counter-only correction: opens lower counter while keeping outer silhouette and previous bulge correction.",
+      "geometry_evidence": "Current compiled bottom section at x287 is55.83, versus22.70 in b/p/q and22 in o. d-778 moves inner lower extremum753→778 and handles/inner stem junction correspondingly; resulting bottom section is about30.83. Outer contour, upper counter,106 stem and120 side remain; no advance/kerning changes.",
+      "decision": "refine_counter_d-778",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 40.0,
+            "end": 160.19,
+            "width": 120.19
+          },
+          {
+            "start": 392.0,
+            "end": 498.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 50.3,
+            "end": 171.86,
+            "width": 121.56
+          },
+          {
+            "start": 392.0,
+            "end": 498.0,
+            "width": 106.0
+          }
+        ],
+        "vertical_round_extrema": {
+          "x": 287,
+          "intervals": [
+            {
+              "start": 318.84,
+              "end": 342.0,
+              "width": 23.16
+            },
+            {
+              "start": 753.0,
+              "end": 808.83,
+              "width": 55.83
+            }
+          ]
+        }
+      },
+      "source_sha256": "ea2364b1d59f8d2f9ee89e0a029a1366611d039596d1ec925cd97b371d89ee5d",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "e",
+      "codepoint": "U+0065",
+      "glyph": "e",
+      "source": "drawings/glyph-U0065.svg",
+      "advance": 531,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Counter, crossbar and left curve retain the intended high contrast; no local heavy patch in middle/successful.",
+      "geometry_evidence": "113.30 side at y565 and113.23 at650; source crossbar24 at y522/546, top22. Counter apex has horizontal tangent; side arrives vertically.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 38.0,
+            "end": 151.3,
+            "width": 113.3
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 49.18,
+            "end": 162.41,
+            "width": 113.23
+          }
+        ]
+      },
+      "source_sha256": "f55286b0722b0422bfac56087217c6dfab3fa447b8ce73ed62422de2c27114ca",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "f",
+      "codepoint": "U+0066",
+      "glyph": "f",
+      "source": "drawings/glyph-U0066.svg",
+      "advance": 363,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Stem and hooked terminal balance the ascender family; crossbar stays visibly thin.",
+      "geometry_evidence": "106 stem and25 crossbar. Hook is curved compensation rather than another equal-width straight stem; extrema and tangent directions remain controlled.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 89.0,
+            "end": 195.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 89.0,
+            "end": 195.0,
+            "width": 106.0
+          }
+        ]
+      },
+      "source_sha256": "21bd7d00c6109ae8c9097898fd1355759382248d5d17c7936e772b2ba25d5f29",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "g",
+      "codepoint": "U+0067",
+      "glyph": "g",
+      "source": "drawings/glyph-U0067.svg",
+      "advance": 558,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two-storey construction is denser than o by design, but repeated g in rough/graphic has no isolated overweight section. Keep triangle ear and strong linking bridge from the concept.",
+      "geometry_evidence": "Upper bowl side115 at y481; upper/lower hairlines20; bridge108 at x274 and lower hairline21.03. Bridge is deliberately much heavier than a crossbar: it is the primary stroke of the lower bowl, not a thin connecting rail.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 87.46,
+            "end": 190.46,
+            "width": 102.99
+          },
+          {
+            "start": 357.54,
+            "end": 461.05,
+            "width": 103.5
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 113.13,
+            "end": 156.31,
+            "width": 43.18
+          }
+        ],
+        "top_bowl_midsection": {
+          "svg_y": 481,
+          "intervals": [
+            {
+              "start": 56.0,
+              "end": 171.0,
+              "width": 115.0
+            },
+            {
+              "start": 377.0,
+              "end": 492.0,
+              "width": 115.0
+            }
+          ]
+        },
+        "bridge_vertical": {
+          "svg_x": 274,
+          "intervals": [
+            {
+              "start": 318.0,
+              "end": 338.0,
+              "width": 20.0
+            },
+            {
+              "start": 624.0,
+              "end": 644.0,
+              "width": 20.0
+            },
+            {
+              "start": 709.0,
+              "end": 817.0,
+              "width": 108.0
+            },
+            {
+              "start": 1001.89,
+              "end": 1022.92,
+              "width": 21.03
+            }
+          ]
+        }
+      },
+      "source_sha256": "20b073856fb80c2b607e091a7d01d2c5fbed8e1fb547e148967c73c73b2b6a4a",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "h",
+      "codepoint": "U+0068",
+      "glyph": "h",
+      "source": "refined/glyph-U0068.svg",
+      "advance": 586,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Shared shoulder and upright weights remain coherent beside n/m.",
+      "geometry_evidence": "Straight stems106/105 at both y565/650. Shoulder outer/inner curves enter the right stem vertically, without abrupt thickening.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 397.0,
+            "end": 502.0,
+            "width": 105.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 397.0,
+            "end": 502.0,
+            "width": 105.0
+          }
+        ]
+      },
+      "source_sha256": "c6cecc5197fa7779cae505b6d4c4eac38e102efa01ad0cb164dd1e8d815ebc2d",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "i",
+      "codepoint": "U+0069",
+      "glyph": "i",
+      "source": "refined/glyph-U0069.svg",
+      "advance": 274,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Dot reads clearly as a separate diamond; its latest enlargement is appropriate beside stem. Preserve.",
+      "geometry_evidence": "106 stem; diamond106×106, side74.95; dot bounds y139..245 and75 clearance to body top320. Centerx135 matches stem center.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          }
+        ],
+        "dot": {
+          "diagonal_bbox": 106,
+          "diamond_side": 74.95,
+          "svg_y_min": 139,
+          "svg_y_max": 245,
+          "body_clearance": 75,
+          "stem": 106
+        }
+      },
+      "source_sha256": "35c023c9673a90a17d85c547ac0311c2e88d974c6bfc8ddfce320068f6df7db5",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "j",
+      "codepoint": "U+006A",
+      "glyph": "j",
+      "source": "refined/glyph-U006A.svg",
+      "advance": 286,
+      "sheet": 1,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Dot matches i; descending hook retains enough body without becoming a lump in joining/joyful.",
+      "geometry_evidence": "106 stem; diamond106×106, side74.95,75 body clearance, centerx144. Descender curves maintain vertical departure before faceted terminal.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 91.0,
+            "end": 197.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 91.0,
+            "end": 197.0,
+            "width": 106.0
+          }
+        ],
+        "dot": {
+          "diagonal_bbox": 106,
+          "diamond_side": 74.95,
+          "svg_y_min": 139,
+          "svg_y_max": 245,
+          "body_clearance": 75,
+          "stem": 106
+        }
+      },
+      "source_sha256": "0dbc130d27961b6bbe46c4cae8574ccbaf290979328791852c4c1d1021c37227",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-1.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "k",
+      "codepoint": "U+006B",
+      "glyph": "k",
+      "source": "drawings/glyph-U006B.svg",
+      "advance": 562,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Leg appears slightly forceful but balanced beside tall stem in frisky; no correction justified.",
+      "geometry_evidence": "106 stem; main leg112.25 perpendicular at SVG point340,620. The6% difference compensates diagonal/open form. Source leg tapers slightly; it is not identical to the v/w family.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 198.39,
+            "end": 234.02,
+            "width": 35.63
+          },
+          {
+            "start": 255.93,
+            "end": 380.6,
+            "width": 124.66
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 298.04,
+            "end": 424.54,
+            "width": 126.51
+          }
+        ],
+        "normal_primary": {
+          "point_svg": [
+            340,
+            620
+          ],
+          "direction_svg": [
+            294,
+            -152
+          ],
+          "intervals": [
+            {
+              "start": -307.66,
+              "end": -171.11,
+              "width": 136.55
+            },
+            {
+              "start": -50.93,
+              "end": 61.32,
+              "width": 112.25
+            }
+          ]
+        }
+      },
+      "source_sha256": "a6915d2b94a2e4ec3e00870dd276773720cefb136fb378e7744f0fbdfc350683",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "l",
+      "codepoint": "U+006C",
+      "glyph": "l",
+      "source": "drawings/glyph-U006C.svg",
+      "advance": 274,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Simple upright has the same apparent weight as h/i stems.",
+      "geometry_evidence": "106 between x82/188, matching family; identical54×54 bottom serif facets. No curved weight patches.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          }
+        ]
+      },
+      "source_sha256": "9bdaeb6659062c1497acf4c3f44e5aac8ef78bd1ba15e1cd990e1d4da4e60b5c",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "m",
+      "codepoint": "U+006D",
+      "glyph": "m",
+      "source": "refined/glyph-U006D.svg",
+      "advance": 858,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Three strokes produce greater total black area, but each maintains n-like color; do not lighten merely because letter is wider.",
+      "geometry_evidence": "106/105/105 stems. Two shoulder curves and their valleys are separately inspected; counter spaces stay open at24px.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 372.0,
+            "end": 477.0,
+            "width": 105.0
+          },
+          {
+            "start": 669.0,
+            "end": 774.0,
+            "width": 105.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 372.0,
+            "end": 477.0,
+            "width": 105.0
+          },
+          {
+            "start": 669.0,
+            "end": 774.0,
+            "width": 105.0
+          }
+        ]
+      },
+      "source_sha256": "533d61a06aa33f4f7bc3347c06e35c86ffb12e4d375eff7f949c2ed339790c44",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "n",
+      "codepoint": "U+006E",
+      "glyph": "n",
+      "source": "refined/glyph-U006E.svg",
+      "advance": 586,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Control letter has stable upright color and shoulder tension.",
+      "geometry_evidence": "106/105 stems. Shoulder is curved contrast with outer minimumy318 and inner361, not a same-width horizontal bar.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 397.0,
+            "end": 502.0,
+            "width": 105.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 397.0,
+            "end": 502.0,
+            "width": 105.0
+          }
+        ]
+      },
+      "source_sha256": "d784fa6ceef805ebca5c8258cd9df0e163ba271b863d491f45d110ddea568192",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "o",
+      "codepoint": "U+006F",
+      "glyph": "o",
+      "source": "drawings/glyph-U006F.svg",
+      "advance": 558,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Rounds have adequate compensation beside n; top/bottom remain fine and sides balanced.",
+      "geometry_evidence": "113 side widths;22 top/bottom hairlines. Centers/extrema and cubic tangent handles are shared; no local bulges.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 40.0,
+            "end": 153.0,
+            "width": 113.0
+          },
+          {
+            "start": 405.0,
+            "end": 518.0,
+            "width": 113.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 53.89,
+            "end": 161.96,
+            "width": 108.08
+          },
+          {
+            "start": 396.04,
+            "end": 504.11,
+            "width": 108.08
+          }
+        ],
+        "vertical_round_extrema": {
+          "x": 279,
+          "intervals": [
+            {
+              "start": 318.0,
+              "end": 340.0,
+              "width": 22.0
+            },
+            {
+              "start": 790.0,
+              "end": 812.0,
+              "width": 22.0
+            }
+          ]
+        }
+      },
+      "source_sha256": "16533fa40bb0389972c7d62ffc4cb7c299fb4a3eb80cefa187ed75abd357a50e",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "p",
+      "codepoint": "U+0070",
+      "glyph": "p",
+      "source": "drawings/glyph-U0070.svg",
+      "advance": 582,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Bowl color matches b; descender stays the same stem weight.",
+      "geometry_evidence": "106 stem,113 side at y565;22.70/23.65 lower/upper sections at x299. Shared bowl geometry with b verified independently.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 427.0,
+            "end": 540.0,
+            "width": 113.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          },
+          {
+            "start": 420.45,
+            "end": 529.76,
+            "width": 109.31
+          }
+        ],
+        "vertical_round_extrema": {
+          "x": 299,
+          "intervals": [
+            {
+              "start": 318.35,
+              "end": 342.0,
+              "width": 23.65
+            },
+            {
+              "start": 788.0,
+              "end": 810.7,
+              "width": 22.7
+            }
+          ]
+        }
+      },
+      "source_sha256": "688c3c33a077d2edc54540bc523252f53ba67569a6f05d5d6c30f254ad71c201",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "q",
+      "codepoint": "U+0071",
+      "glyph": "q",
+      "source": "refined/glyph-U0071.svg",
+      "advance": 582,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Bowl balances p/o and stem join remains clean after prior spur removal.",
+      "geometry_evidence": "106 stem,113 side;22.70/23.65 lower/upper sections at x281. Top stem wedge no longer intrudes into counter.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 40.0,
+            "end": 153.0,
+            "width": 113.0
+          },
+          {
+            "start": 392.0,
+            "end": 498.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 50.24,
+            "end": 159.55,
+            "width": 109.31
+          },
+          {
+            "start": 392.0,
+            "end": 498.0,
+            "width": 106.0
+          }
+        ],
+        "vertical_round_extrema": {
+          "x": 281,
+          "intervals": [
+            {
+              "start": 318.35,
+              "end": 342.0,
+              "width": 23.65
+            },
+            {
+              "start": 788.0,
+              "end": 810.7,
+              "width": 22.7
+            }
+          ]
+        }
+      },
+      "source_sha256": "447a7d2a241173b240fc5f8d81423a6dbceccf3fba3e3535f992e369bafed0bc",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "r",
+      "codepoint": "U+0072",
+      "glyph": "r",
+      "source": "drawings/glyph-U0072.svg",
+      "advance": 438,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Faceted terminal remains assertive as in reference, while main stem matches n. No terminal reduction.",
+      "geometry_evidence": "106 stem; diamond-like terminal is a separate shape family with45° facets, not a106-unit upright. Shoulder/terminal join leaves open negative space.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 82.0,
+            "end": 188.0,
+            "width": 106.0
+          }
+        ]
+      },
+      "source_sha256": "636b1e3194ecd4c8d55d798df41f1547ce9ccd2c129e52df16ea5f90c2593fd6",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "s",
+      "codepoint": "U+0073",
+      "glyph": "s",
+      "source": "drawings/glyph-U0073.svg",
+      "advance": 458,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Spine appears comparable to adjacent letters in successful/stories; compact form needs its present curved weight.",
+      "geometry_evidence": "Near-central normal slice at SVG228,565 along(-45,100) gives110.04. Raw horizontal slice237.66 is oblique and must not be mistaken for stroke width. Top/bottom thin22; continuous spine curves.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 112.81,
+            "end": 350.46,
+            "width": 237.66
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 46.0,
+            "end": 59.39,
+            "width": 13.39
+          },
+          {
+            "start": 278.57,
+            "end": 411.58,
+            "width": 133.01
+          }
+        ],
+        "normal_spine": {
+          "svg_point": [
+            228,
+            565
+          ],
+          "direction_svg": [
+            -45,
+            100
+          ],
+          "intervals": [
+            {
+              "start": -254.02,
+              "end": -202.95,
+              "width": 51.07
+            },
+            {
+              "start": -56.58,
+              "end": 53.46,
+              "width": 110.04
+            },
+            {
+              "start": 214.64,
+              "end": 255.74,
+              "width": 41.09
+            }
+          ]
+        }
+      },
+      "source_sha256": "9a4eceb290f7d66896637dd39a2ce5b7daac0360b6eb9a1c29712e863373bf8a",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "t",
+      "codepoint": "U+0074",
+      "glyph": "t",
+      "source": "drawings/glyph-U0074.svg",
+      "advance": 370,
+      "sheet": 2,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Straight body and low hook balance f/r; crossbar is appropriately light.",
+      "geometry_evidence": "106 stem,25 crossbar. Upper45° terminal and lower curve are distinct construction families; hook remains open.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 89.0,
+            "end": 195.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 89.0,
+            "end": 195.0,
+            "width": 106.0
+          }
+        ]
+      },
+      "source_sha256": "c98fdb0296b67b3a12163a53133039fb860a00e81017dd5de9b08edec552a8b0",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-2.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "u",
+      "codepoint": "U+0075",
+      "glyph": "u",
+      "source": "drawings/glyph-U0075.svg",
+      "advance": 588,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Two upright strokes agree; bottom turn has adequate thinning and no dark join.",
+      "geometry_evidence": "Both stems106. Inner bottomy761 vsouter812 gives51 at extrema that are not on same x; do not call this a constant-width horizontal. Curves and terminal are checked visually.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 81.0,
+            "end": 187.0,
+            "width": 106.0
+          },
+          {
+            "start": 402.0,
+            "end": 508.0,
+            "width": 106.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 81.0,
+            "end": 187.0,
+            "width": 106.0
+          },
+          {
+            "start": 402.0,
+            "end": 508.0,
+            "width": 106.0
+          }
+        ]
+      },
+      "source_sha256": "9176571276deaaef718e6564d5e6e7da764b47d91c52209a057d345b5181dd1c",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-3.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "v",
+      "codepoint": "U+0076",
+      "glyph": "v",
+      "source": "refined/glyph-U0076.svg",
+      "advance": 530,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Recently compensated diagonal now balances n/o at display and24px. Preserve.",
+      "geometry_evidence": "105.85 compiled perpendicular main stroke; source parallel vector118:295. Horizontal span114 is not the physical stroke width.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 149.8,
+            "end": 263.8,
+            "width": 114.0
+          },
+          {
+            "start": 342.2,
+            "end": 371.2,
+            "width": 29.0
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 183.8,
+            "end": 297.8,
+            "width": 114.0
+          },
+          {
+            "start": 308.2,
+            "end": 337.2,
+            "width": 29.0
+          }
+        ],
+        "normal_primary": {
+          "point_svg": [
+            170,
+            565
+          ],
+          "direction_svg": [
+            295,
+            -118
+          ],
+          "intervals": [
+            {
+              "start": -18.76,
+              "end": 87.09,
+              "width": 105.85
+            },
+            {
+              "start": 220.79,
+              "end": 257.98,
+              "width": 37.18
+            }
+          ]
+        }
+      },
+      "source_sha256": "e5bdea29cf5eec8bd69c83c8d65cd716843b957c30c071cf5c7be4b9c1c0c1be",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-3.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "w",
+      "codepoint": "U+0077",
+      "glyph": "w",
+      "source": "refined/glyph-U0077.svg",
+      "advance": 766,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Repeated descending strokes retain coherent weight; center is compact but no overweight blob. Preserve latest adjustment.",
+      "geometry_evidence": "First perpendicular stroke107.17; second normal slice106.58. Intersections/rounding explain small differences from source~106.9; both feet sharey813.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 139.25,
+            "end": 253.54,
+            "width": 114.29
+          },
+          {
+            "start": 312.52,
+            "end": 341.68,
+            "width": 29.16
+          },
+          {
+            "start": 385.5,
+            "end": 499.16,
+            "width": 113.65
+          },
+          {
+            "start": 575.44,
+            "end": 604.43,
+            "width": 28.98
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 170.7,
+            "end": 311.97,
+            "width": 141.27
+          },
+          {
+            "start": 416.86,
+            "end": 530.57,
+            "width": 113.7
+          },
+          {
+            "start": 540.0,
+            "end": 568.98,
+            "width": 28.97
+          }
+        ],
+        "normal_primary": {
+          "point_svg": [
+            200,
+            565
+          ],
+          "direction_svg": [
+            446,
+            -165
+          ],
+          "intervals": [
+            {
+              "start": -56.97,
+              "end": 50.19,
+              "width": 107.17
+            },
+            {
+              "start": 137.69,
+              "end": 173.5,
+              "width": 35.81
+            },
+            {
+              "start": 174.04,
+              "end": 280.62,
+              "width": 106.58
+            },
+            {
+              "start": 473.32,
+              "end": 509.88,
+              "width": 36.56
+            }
+          ]
+        }
+      },
+      "source_sha256": "d332648936f7ed1a86503c333733b835032ca8680d7f5abf5f404347f709d67e",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-3.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "x",
+      "codepoint": "U+0078",
+      "glyph": "x",
+      "source": "refined/glyph-U0078.svg",
+      "advance": 531,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Central crossing has strong but controlled color; does not require thinning because overlap is structural.",
+      "geometry_evidence": "107.06 perpendicular to main diagonal; source128 horizontal offset gives~106.5 physical width. Thin stroke and polygonal foot endpoints remain aligned.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 196.04,
+            "end": 324.67,
+            "width": 128.62
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 172.2,
+            "end": 198.45,
+            "width": 26.25
+          },
+          {
+            "start": 252.83,
+            "end": 381.33,
+            "width": 128.5
+          }
+        ],
+        "normal_primary": {
+          "point_svg": [
+            260,
+            565
+          ],
+          "direction_svg": [
+            394,
+            -262.667
+          ],
+          "intervals": [
+            {
+              "start": -53.25,
+              "end": 53.81,
+              "width": 107.06
+            }
+          ]
+        }
+      },
+      "source_sha256": "134bca0953c71ecac2de3703add1ac3f8f3a8fb16e38a43e0ae7bdf665ef6c30",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-3.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "y",
+      "codepoint": "U+0079",
+      "glyph": "y",
+      "source": "refined/glyph-U0079.svg",
+      "advance": 531,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Body agrees with v; tail is visibly lighter and terminal distinctive.",
+      "geometry_evidence": "105.93 perpendicular main stroke after compiled cleanup; inherited v geometry retained. Descending join has a small deliberate overlap cleaned in build.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 149.71,
+            "end": 263.8,
+            "width": 114.09
+          },
+          {
+            "start": 342.2,
+            "end": 371.49,
+            "width": 29.29
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 183.67,
+            "end": 297.8,
+            "width": 114.13
+          },
+          {
+            "start": 308.2,
+            "end": 337.62,
+            "width": 29.42
+          }
+        ],
+        "normal_primary": {
+          "point_svg": [
+            170,
+            565
+          ],
+          "direction_svg": [
+            295,
+            -118
+          ],
+          "intervals": [
+            {
+              "start": -18.84,
+              "end": 87.09,
+              "width": 105.93
+            },
+            {
+              "start": 220.79,
+              "end": 258.17,
+              "width": 37.38
+            }
+          ]
+        }
+      },
+      "source_sha256": "cd5a9eaffa140105a195361c7f689b2b25442cf527486d3117e8ed3a933ab666",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-3.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    },
+    {
+      "character": "z",
+      "codepoint": "U+007A",
+      "glyph": "z",
+      "source": "drawings/glyph-U007A.svg",
+      "advance": 492,
+      "sheet": 3,
+      "visual": "inspected",
+      "geometry": "inspected",
+      "observation": "Long diagonal is balanced beside x/v; terminal wedges and thin rails keep it from looking blocky.",
+      "geometry_evidence": "104.32 main stroke perpendicular at245,565. Top/bottom rails23; nearly parallel294:427 and295:426 source edges. No broad reduction warranted.",
+      "decision": "retain",
+      "measurements": {
+        "horizontal_svg_y565": [
+          {
+            "start": 178.19,
+            "end": 304.97,
+            "width": 126.77
+          }
+        ],
+        "horizontal_svg_y650": [
+          {
+            "start": 119.33,
+            "end": 246.44,
+            "width": 127.11
+          }
+        ],
+        "normal_primary": {
+          "point_svg": [
+            245,
+            565
+          ],
+          "direction_svg": [
+            427,
+            294
+          ],
+          "intervals": [
+            {
+              "start": -239.18,
+              "end": -213.12,
+              "width": 26.06
+            },
+            {
+              "start": -54.92,
+              "end": 49.39,
+              "width": 104.32
+            },
+            {
+              "start": 211.91,
+              "end": 245.06,
+              "width": 33.14
+            }
+          ]
+        }
+      },
+      "source_sha256": "d608df33f22dc7f2e51fc64578e0eb04ee68b9a85761f55a0919d24f9526f8c4",
+      "visual_evidence": [
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/sheet-3.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-56.png",
+        "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/context-24.png"
+      ]
+    }
+  ],
+  "scope": "Perceived stroke width of all26 lowercase letters",
+  "comparison_policy": "Stroke families and repeated visual context establish optical weight. Horizontal spans of diagonals, total ink area and unlike joins are not equal-width targets.",
+  "skills": [
+    "font-design-metrics",
+    "font-outline-qa"
+  ],
+  "status": "26 visually and geometrically inspected; one scoped counter correction selected by root; integration owned by root",
+  "proposal": {
+    "character": "d",
+    "source": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/d-778.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/d-778.ttf",
+    "evidence": [
+      "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/d-comparison.png",
+      "/Users/tomokif/code/font-maker/output/wedge/weight-audit/lower/d-native.png"
+    ],
+    "accepted_by_root": true,
+    "master_edited_by_this_agent": false,
+    "preserves": [
+      "outer silhouette",
+      "upper counter",
+      "advance and sidebearings",
+      "kerning",
+      "other glyphs"
+    ],
+    "change": "Only the lower inner curve moves:753→778; handles and inner-stem meeting point follow it."
+  },
+  "proofs": [
+    {
+      "file": "sheet-1.png",
+      "font_size": 160,
+      "pixel_scale": 2
+    },
+    {
+      "file": "sheet-2.png",
+      "font_size": 160,
+      "pixel_scale": 2
+    },
+    {
+      "file": "sheet-3.png",
+      "font_size": 160,
+      "pixel_scale": 2
+    },
+    {
+      "file": "context-56.png",
+      "font_size": 56,
+      "pixel_scale": 2
+    },
+    {
+      "file": "context-24.png",
+      "font_size": 24,
+      "pixel_scale": 1
+    },
+    {
+      "file": "d-comparison.png",
+      "font_size": 90,
+      "pixel_scale": 2
+    },
+    {
+      "file": "d-native.png",
+      "font_size": 24,
+      "pixel_scale": 1
+    }
+  ],
+  "invariants": [
+    {
+      "candidate": "d-770",
+      "changed_glyphs": [
+        "d"
+      ],
+      "advances_and_bearings_unchanged": true,
+      "kerning_unchanged": true,
+      "cmap_unchanged": true
+    },
+    {
+      "candidate": "d-778",
+      "changed_glyphs": [
+        "d"
+      ],
+      "advances_and_bearings_unchanged": true,
+      "kerning_unchanged": true,
+      "cmap_unchanged": true
+    }
+  ],
+  "notes": [
+    "Sourcepaths and originalfont hash identify the audited0.112 state.",
+    "d finding supersedes prior outline-only acceptance which missed its concentrated lower weight.",
+    "i/j diamonds and v/w/x/y latest weight increases are deliberately preserved."
+  ]
+}

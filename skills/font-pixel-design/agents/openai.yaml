@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Font Design"
+  short_description: "Draw coherent pixel grids, steps, and modular glyphs"
+  default_prompt: "Use $font-pixel-design to draw or refine this original pixel font with deliberate grid, step, and contact geometry."

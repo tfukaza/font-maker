@@ -1,0 +1,1048 @@
+{
+  "reviewer": "display_design_pass",
+  "status": "independently_inspected_no_actionable_concerns",
+  "base_revision": "4b03087526b719ffe2972ed1b48e64a3a23e2a470b7d9aaf23d1e8c421772cb3",
+  "base_font_sha256": "777dde9cdbf31f71213188fdf42f90c200122e62e180a1e2e456329302f64704",
+  "trial_revision": "c0f3e88b3d853e7c1f29d454b096d47e296a08bbb31b62ffa27d63f9e2e5b022",
+  "trial_font_sha256": "6973083420140899daf083ab08aca432951397bd2bc364ca73bb3b07c607e3ee",
+  "actual_trial_sha256": "6973083420140899daf083ab08aca432951397bd2bc364ca73bb3b07c607e3ee",
+  "font_size": 50,
+  "pixel_scale": 3,
+  "scope": "Changes97–223, sheets04–07, gray baseline and black trial;127 exact pair changes. Other96 changes and word/native contexts reviewed by display_kerning_pass.",
+  "pair_count": 127,
+  "font_outline_and_base_metrics_comparison": {
+    "glyph_count": 106,
+    "different_glyphs": [],
+    "method": "Exact RecordingPen operations and hmtx comparison between baseline.ttf and trial.ttf"
+  },
+  "sheet_findings": {
+    "4": "Reviewed every cell: RV/SV, all listed lowercase-before-V, punctuation-before-V, and YC/YG/YO. Triangular gaps reduce without compressing lower feet; i/j dots and g ear stay clear of V crown/diagonal. No collision or excessive attachment found.",
+    "5": "Reviewed every cell: YQ/YS, Y-before-d/q/i/j/m/n/p/t/x/y/z and punctuation, capitals-before-Y, and listed a..n-before-Y. Enlarged Yi/Yj dots retain crown clearance; Yd preserves tall ascender clearance; YQ/QY ribbon remains free. Reverse values leave appropriate additional room.",
+    "6": "Reviewed every cell: remaining lowercase-before-Y, punctuation-before-Y, FC/FG/FO/FQ/FJ and F-before-a/c/d/e/g/o/q/s/m/n/p. Overhang tucks are modest; Fg ear remains separate from cap arm, Fq/Fn crown and F crossbar show open gaps. FJ stays distinct without a fake ligature.",
+    "7": "Reviewed every cell: F-before-r/u/i/j/v/w/x/y/z and punctuation, L-before-C/G/O/Q/c/d/e/g/o/q/v/w/y, quotes and question mark. Fi/Fj dots clear top wedge. L foot and round/diagonal neighbors remain separate, Lg loop does not fuse; stronger L quote values visually attach high marks without implying a joined glyph."
+  },
+  "pairs": [
+    {
+      "pair": "RV",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 0,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "SV",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 1,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "aV",
+      "before": 0,
+      "after": -45,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 2,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "bV",
+      "before": 0,
+      "after": -45,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 3,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "cV",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 4,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "eV",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 5,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "gV",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 6,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "hV",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 7,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "iV",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 8,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "jV",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 9,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "kV",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 10,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "mV",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 11,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "nV",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 12,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "oV",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 13,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "pV",
+      "before": 0,
+      "after": -45,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 14,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "qV",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 15,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "rV",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 16,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "sV",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 17,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "tV",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 18,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "uV",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 19,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "vV",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 20,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "wV",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 21,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "xV",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 22,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "yV",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 23,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "zV",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 24,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": ".V",
+      "before": 0,
+      "after": -80,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 25,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": ",V",
+      "before": 0,
+      "after": -80,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 26,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": ":V",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 27,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": ";V",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 28,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "YC",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 29,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "YG",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 30,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "YO",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-04.png",
+      "cell": 31,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "YQ",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 0,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "YS",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 1,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yd",
+      "before": 0,
+      "after": -90,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 2,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yq",
+      "before": 0,
+      "after": -90,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 3,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yi",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 4,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yj",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 5,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Ym",
+      "before": 0,
+      "after": -55,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 6,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yn",
+      "before": 0,
+      "after": -55,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 7,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yp",
+      "before": 0,
+      "after": -55,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 8,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yt",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 9,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yx",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 10,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yy",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 11,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Yz",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 12,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Y:",
+      "before": 0,
+      "after": -55,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 13,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Y;",
+      "before": 0,
+      "after": -55,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 14,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "BY",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 15,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "DY",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 16,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "OY",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 17,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "QY",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 18,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "RY",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 19,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "SY",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 20,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "aY",
+      "before": 0,
+      "after": -45,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 21,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "bY",
+      "before": 0,
+      "after": -60,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 22,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "cY",
+      "before": 0,
+      "after": -65,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 23,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "eY",
+      "before": 0,
+      "after": -65,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 24,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "gY",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 25,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "hY",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 26,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "iY",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 27,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "jY",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 28,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "kY",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 29,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "mY",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 30,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "nY",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-05.png",
+      "cell": 31,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "oY",
+      "before": 0,
+      "after": -65,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 0,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "pY",
+      "before": 0,
+      "after": -60,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 1,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "qY",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 2,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "rY",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 3,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "sY",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 4,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "tY",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 5,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "uY",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 6,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "vY",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 7,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "wY",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 8,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "xY",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 9,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "yY",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 10,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "zY",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 11,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": ".Y",
+      "before": 0,
+      "after": -75,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 12,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": ",Y",
+      "before": 0,
+      "after": -75,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 13,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": ":Y",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 14,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": ";Y",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 15,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "FC",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 16,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "FG",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 17,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "FO",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 18,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "FQ",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 19,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "FJ",
+      "before": 0,
+      "after": -35,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 20,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fa",
+      "before": -25,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 21,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fc",
+      "before": -25,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 22,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fd",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 23,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fe",
+      "before": -25,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 24,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fg",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 25,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fo",
+      "before": -25,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 26,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fq",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 27,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fs",
+      "before": 0,
+      "after": -40,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 28,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fm",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 29,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fn",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 30,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fp",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-06.png",
+      "cell": 31,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fr",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 0,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fu",
+      "before": 0,
+      "after": -25,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 1,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fi",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 2,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fj",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 3,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fv",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 4,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fw",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 5,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fx",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 6,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fy",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 7,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Fz",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 8,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "F.",
+      "before": -50,
+      "after": -100,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 9,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "F,",
+      "before": -50,
+      "after": -100,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 10,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "F:",
+      "before": 0,
+      "after": -45,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 11,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "F;",
+      "before": 0,
+      "after": -45,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 12,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "LC",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 13,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "LG",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 14,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "LO",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 15,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "LQ",
+      "before": 0,
+      "after": -20,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 16,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Lc",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 17,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Ld",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 18,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Le",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 19,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Lg",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 20,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Lo",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 21,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Lq",
+      "before": 0,
+      "after": -15,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 22,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Lv",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 23,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Lw",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 24,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "Ly",
+      "before": 0,
+      "after": -50,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 25,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "L‘",
+      "before": 0,
+      "after": -90,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 26,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "L’",
+      "before": 0,
+      "after": -120,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 27,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "L“",
+      "before": 0,
+      "after": -90,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 28,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "L”",
+      "before": 0,
+      "after": -120,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 29,
+      "status": "visually_inspected_no_actionable_concern"
+    },
+    {
+      "pair": "L?",
+      "before": 0,
+      "after": -30,
+      "proof": "output/wedge/review-pass-2/kerning/trial/changes-07.png",
+      "cell": 30,
+      "status": "visually_inspected_no_actionable_concern"
+    }
+  ],
+  "actionable_concerns": [],
+  "font_edits": false,
+  "limitations": [
+    "This cross-review does not claim user aesthetic approval.",
+    "Native-size word-context review delegated to display_kerning_pass; this cross-review inspected compiled display pair evidence."
+  ]
+}

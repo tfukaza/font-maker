@@ -1,0 +1,174 @@
+{
+  "project_id": "c9abccf3-abde-489a-a593-6b7aa7941c5d",
+  "revision": "0160db525812d5fa5000d5d51bca1dda700b21b92abddb9691ef1b22939451bf",
+  "settings": {
+    "text": "HHOH noon AV Il",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "font_size": 96,
+    "pixel_scale": 3,
+    "guides": false
+  },
+  "artifacts": [
+    {
+      "artifact_id": "8c2002e7-3f38-4fb5-b9c1-3bcbe02a319a",
+      "path": "build/previews/preview-ddc432396187.svg",
+      "mime_type": "image/svg+xml",
+      "size": 7055,
+      "sha256": "5d72307eed558b8e1291132714ffd19ac4419606650eb7f52f9ee2205f3ab6c9",
+      "revision": "0160db525812d5fa5000d5d51bca1dda700b21b92abddb9691ef1b22939451bf"
+    },
+    {
+      "artifact_id": "95ea7201-469d-4cf8-adec-1f1cd8602065",
+      "path": "build/previews/preview-ddc432396187.png",
+      "mime_type": "image/png",
+      "size": 36273,
+      "sha256": "08b17e526b93e0476fdfe7c399b40506dad32facdd03a9aa550d20a99548fe15",
+      "revision": "0160db525812d5fa5000d5d51bca1dda700b21b92abddb9691ef1b22939451bf"
+    }
+  ],
+  "shaping": {
+    "text": "HHOH noon AV Il",
+    "direction": "ltr",
+    "script": "Latn",
+    "language": "c",
+    "features": {
+      "kern": true,
+      "liga": true,
+      "dlig": true
+    },
+    "units_per_em": 1000,
+    "glyphs": [
+      {
+        "glyph_id": 11,
+        "glyph_name": "H",
+        "cluster": 0,
+        "x_advance": 658,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 11,
+        "glyph_name": "H",
+        "cluster": 1,
+        "x_advance": 658,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 18,
+        "glyph_name": "O",
+        "cluster": 2,
+        "x_advance": 728,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 11,
+        "glyph_name": "H",
+        "cluster": 3,
+        "x_advance": 658,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 65,
+        "glyph_name": "space",
+        "cluster": 4,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 50,
+        "glyph_name": "n",
+        "cluster": 5,
+        "x_advance": 465,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 54,
+        "glyph_name": "o_o",
+        "cluster": 6,
+        "x_advance": 865,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 50,
+        "glyph_name": "n",
+        "cluster": 8,
+        "x_advance": 465,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 65,
+        "glyph_name": "space",
+        "cluster": 9,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 3,
+        "glyph_name": "A",
+        "cluster": 10,
+        "x_advance": 495,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 25,
+        "glyph_name": "V",
+        "cluster": 11,
+        "x_advance": 650,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 65,
+        "glyph_name": "space",
+        "cluster": 12,
+        "x_advance": 205,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 12,
+        "glyph_name": "I",
+        "cluster": 13,
+        "x_advance": 270,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      },
+      {
+        "glyph_id": 48,
+        "glyph_name": "l",
+        "cluster": 14,
+        "x_advance": 235,
+        "y_advance": 0,
+        "x_offset": 0,
+        "y_offset": 0
+      }
+    ],
+    "total_advance": 6762
+  }
+}

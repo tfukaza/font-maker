@@ -1,0 +1,32 @@
+{
+  "revision": "a8eced687c967935e75dc99061346771214593015b0b87fb6a3198a4e245a5d4",
+  "formats": {
+    "ttf": {
+      "sha256": "1b60ebef5d73d780bb5cf67055525db713c64395e85bb6ba7eba526653f003a9",
+      "encoded_count": 103,
+      "glyph_count": 112,
+      "base_outlines_and_metrics_unchanged": true,
+      "feature_off_matches_baseline": true,
+      "exact_substitutions_and_clusters": true,
+      "cases_checked": 33
+    },
+    "otf": {
+      "sha256": "bae95f99149c753050d5844e60f5c06c64dd715883ad6a5ede0b189109ec8957",
+      "encoded_count": 103,
+      "glyph_count": 110,
+      "base_outlines_and_metrics_unchanged": true,
+      "feature_off_matches_baseline": true,
+      "exact_substitutions_and_clusters": true,
+      "cases_checked": 33
+    },
+    "woff2": {
+      "sha256": "83424b2544ef0f982c7e05f2fe010438e6eb29127c84e74d9f4ad9ef6479972c",
+      "encoded_count": 103,
+      "glyph_count": 112,
+      "base_outlines_and_metrics_unchanged": true,
+      "feature_off_matches_baseline": true,
+      "exact_substitutions_and_clusters": true,
+      "cases_checked": 33
+    }
+  }
+}

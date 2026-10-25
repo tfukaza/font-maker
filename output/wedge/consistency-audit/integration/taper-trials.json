@@ -1,0 +1,53 @@
+{
+  "T1": {
+    "upper_width": 44,
+    "lower_width": 104,
+    "top_bar": 38,
+    "profile": "linear",
+    "svg": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-T1.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-T1/build/fonts/HakilandDisplay-Regular.ttf",
+    "lefttop": 459.2177546435749,
+    "leftbottom": 165.9125711341756,
+    "controls": []
+  },
+  "T2": {
+    "upper_width": 44,
+    "lower_width": 112,
+    "top_bar": 38,
+    "profile": "quadratic",
+    "svg": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-T2.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-T2/build/fonts/HakilandDisplay-Regular.ttf",
+    "lefttop": 459.2177546435749,
+    "leftbottom": 157.44430737526605,
+    "controls": [
+      [
+        382.62001953771573,
+        358.66666666666663
+      ],
+      [
+        282.0288704482794,
+        579.3333333333333
+      ]
+    ]
+  },
+  "T3": {
+    "upper_width": 56,
+    "lower_width": 120,
+    "top_bar": 44,
+    "profile": "quadratic",
+    "svg": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-T3.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-T3/build/fonts/HakilandDisplay-Regular.ttf",
+    "lefttop": 444.4326411322416,
+    "leftbottom": 148.9760436163565,
+    "controls": [
+      [
+        368.52914531737207,
+        362.66666666666663
+      ],
+      [
+        270.043612812077,
+        581.3333333333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="465"><rect width="100%" height="100%" fill="#f8f6ef"/><text x="28" y="28" font-family="Arial" font-size="14" fill="#726b62">Before — uniform width</text><g transform="translate(-17 -6.0)"><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M46 601 260 712V48L326 0H79L146 48V608Z" fill="#111827" transform="translate(45 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M65 238H346V661ZM346 712H460V238H542V208H460V43L514 0H292L346 43V208H32V232Z" fill="#111827" transform="translate(113.04 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H162L373 608H152L36 492Z" fill="#111827" transform="translate(217.8 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="" fill="#111827" transform="translate(316.08 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H162L373 608H152L36 492Z" fill="#111827" transform="translate(361.98 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M65 238H346V661ZM346 712H460V238H542V208H460V43L514 0H292L346 43V208H32V232Z" fill="#111827" transform="translate(460.26 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H162L373 608H152L36 492Z" fill="#111827" transform="translate(565.02 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="" fill="#111827" transform="translate(663.3 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H162L373 608H152L36 492Z" fill="#111827" transform="translate(709.2 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H162L373 608H152L36 492Z" fill="#111827" transform="translate(807.48 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H162L373 608H152L36 492Z" fill="#111827" transform="translate(905.76 189) scale(0.18 -0.18)" />
+</g><text x="28" y="246" font-family="Arial" font-size="14" fill="#726b62">After — finer entry, fuller lower stroke</text><g transform="translate(-17 212.0)"><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M46 601 260 712V66L326 0H80L146 66V608Z" fill="#111827" transform="translate(45 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M65 238H346V657ZM346 700H460V238H542V208H460V54L514 0H292L346 54V208H32V232Z" fill="#111827" transform="translate(113.04 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H157Q343 329 459 662H206L36 492Z" fill="#111827" transform="translate(217.8 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="" fill="#111827" transform="translate(316.08 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H157Q343 329 459 662H206L36 492Z" fill="#111827" transform="translate(361.98 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M65 238H346V657ZM346 700H460V238H542V208H460V54L514 0H292L346 54V208H32V232Z" fill="#111827" transform="translate(460.26 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H157Q343 329 459 662H206L36 492Z" fill="#111827" transform="translate(565.02 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="" fill="#111827" transform="translate(663.3 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H157Q343 329 459 662H206L36 492Z" fill="#111827" transform="translate(709.2 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H157Q343 329 459 662H206L36 492Z" fill="#111827" transform="translate(807.48 189) scale(0.18 -0.18)" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M39 700H511V677L276 0H157Q343 329 459 662H206L36 492Z" fill="#111827" transform="translate(905.76 189) scale(0.18 -0.18)" />
+</g></svg>

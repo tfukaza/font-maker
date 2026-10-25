@@ -1,0 +1,66 @@
+{
+  "previous_name": "Wedge",
+  "family_name": "Hakiland Display",
+  "previous_revision": "c10da56c3e0d319470220d7742999512f6bbbf6e2e54b2fd6018e5a9cf789981",
+  "revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773",
+  "export_checks": {
+    "ttf": {
+      "names": {
+        "1": [
+          "Hakiland Display"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "4": [
+          "Hakiland Display Regular"
+        ],
+        "6": [
+          "HakilandDisplay-Regular"
+        ]
+      },
+      "encoded_characters": 103
+    },
+    "otf": {
+      "names": {
+        "1": [
+          "Hakiland Display"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "4": [
+          "Hakiland Display Regular"
+        ],
+        "6": [
+          "HakilandDisplay-Regular"
+        ]
+      },
+      "encoded_characters": 103
+    },
+    "woff2": {
+      "names": {
+        "1": [
+          "Hakiland Display"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "4": [
+          "Hakiland Display Regular"
+        ],
+        "6": [
+          "HakilandDisplay-Regular"
+        ]
+      },
+      "encoded_characters": 103
+    }
+  },
+  "unchanged_ttf_tables": [
+    "glyf",
+    "hmtx",
+    "GPOS",
+    "GSUB"
+  ],
+  "unicode_mapping_unchanged": true
+}

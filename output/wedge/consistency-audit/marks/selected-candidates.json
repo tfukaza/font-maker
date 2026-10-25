@@ -1,0 +1,19 @@
+{
+  "frozen": true,
+  "source_revision": "272db274ec68a315bb99eabc7fd98cd3a484b6dd93cfdc76f01485f032b2e691",
+  "candidate_font_sha256": "6ed0ce06cdd4ba4c2f92480a03f86018a21d468688acbbdeb4b3b7531ebdf635",
+  "candidates": [
+    {
+      "character": "1",
+      "glyph": "one",
+      "path": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/marks/candidate-svg/glyph-U0031.svg",
+      "sha256": "f7afa528de825d226acf846e26bf0a40e660d698e71de60913cac6f19f001086"
+    },
+    {
+      "character": "4",
+      "glyph": "four",
+      "path": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/marks/candidate-svg/glyph-U0034.svg",
+      "sha256": "ea89b37e16744771dcbc431f528f01548dd67a7dec7b9292ccd37dff060d7c77"
+    }
+  ]
+}

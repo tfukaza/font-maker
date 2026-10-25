@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serif Font Design"
+  short_description: "Refine serif contrast, bowls, joins, and terminals"
+  default_prompt: "Use $font-serif-design to refine this original serif font while preserving its concept, contrast, and serif vocabulary."

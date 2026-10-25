@@ -1,0 +1,3311 @@
+{
+  "revision": "c5c1dfebdde7e86a107e9b155087a50ececa2a571cbd6d86c8d50010f22c451c",
+  "formats": {
+    "ttf": {
+      "sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f",
+      "encoded_characters": 103,
+      "missing_codepoints": []
+    },
+    "otf": {
+      "sha256": "862fcf29cc3c0a64d8f51917590605574baaac105d5ec5fbe3a153b369df24ce",
+      "encoded_characters": 103,
+      "missing_codepoints": []
+    },
+    "woff2": {
+      "sha256": "1b57c799bb9a1475dd4894f7ff9eb6ce1d80bad76bfd1fe7c39cf39d80b67f8e",
+      "encoded_characters": 103,
+      "missing_codepoints": []
+    }
+  },
+  "bounds": {
+    " ": null,
+    "!": [
+      65,
+      0,
+      188,
+      700
+    ],
+    "\"": [
+      57,
+      489,
+      321,
+      700
+    ],
+    "#": [
+      24,
+      -5,
+      570,
+      705
+    ],
+    "$": [
+      66,
+      -99,
+      568,
+      786
+    ],
+    "%": [
+      50.0,
+      -18,
+      716.0,
+      718
+    ],
+    "&": [
+      54,
+      -12,
+      753,
+      712
+    ],
+    "'": [
+      57,
+      489,
+      150,
+      700
+    ],
+    "(": [
+      54.0,
+      -160,
+      320,
+      761
+    ],
+    ")": [
+      33,
+      -160,
+      299.0,
+      761
+    ],
+    "*": [
+      67,
+      369,
+      395,
+      681
+    ],
+    "+": [
+      54,
+      72,
+      528,
+      545
+    ],
+    ",": [
+      39,
+      -115,
+      142,
+      78
+    ],
+    "-": [
+      47,
+      243,
+      291,
+      288
+    ],
+    ".": [
+      61,
+      0,
+      139,
+      78
+    ],
+    "/": [
+      35,
+      -64,
+      410,
+      741
+    ],
+    "0": [
+      43.0,
+      -12.0,
+      537.0,
+      712.0
+    ],
+    "1": [
+      46,
+      0,
+      326,
+      712
+    ],
+    "2": [
+      44,
+      0,
+      505,
+      712
+    ],
+    "3": [
+      39,
+      -12,
+      515,
+      700
+    ],
+    "4": [
+      32,
+      0,
+      542,
+      712
+    ],
+    "5": [
+      43,
+      -12,
+      515,
+      700
+    ],
+    "6": [
+      42,
+      -12,
+      529,
+      705
+    ],
+    "7": [
+      36,
+      0,
+      511,
+      700
+    ],
+    "8": [
+      43,
+      -12,
+      531,
+      712
+    ],
+    "9": [
+      41,
+      -5,
+      528,
+      712
+    ],
+    ":": [
+      70,
+      0,
+      148,
+      400
+    ],
+    ";": [
+      48,
+      -115,
+      151,
+      400
+    ],
+    "<": [
+      51,
+      51,
+      531,
+      551
+    ],
+    "=": [
+      54,
+      195,
+      528,
+      420
+    ],
+    ">": [
+      51,
+      51,
+      531,
+      551
+    ],
+    "?": [
+      50,
+      0,
+      450,
+      712
+    ],
+    "@": [
+      40,
+      -12,
+      827,
+      712
+    ],
+    "A": [
+      28,
+      0,
+      724,
+      724
+    ],
+    "B": [
+      36,
+      0,
+      635,
+      700
+    ],
+    "C": [
+      46,
+      -12,
+      657,
+      712
+    ],
+    "D": [
+      36,
+      0,
+      690.0,
+      700
+    ],
+    "E": [
+      36,
+      0,
+      621,
+      700
+    ],
+    "F": [
+      36,
+      0,
+      588,
+      700
+    ],
+    "G": [
+      46,
+      -12,
+      727,
+      712
+    ],
+    "H": [
+      36,
+      0,
+      694,
+      700
+    ],
+    "I": [
+      40,
+      0,
+      264,
+      700
+    ],
+    "J": [
+      140,
+      -72,
+      417,
+      700
+    ],
+    "K": [
+      36,
+      0,
+      701,
+      700
+    ],
+    "L": [
+      36,
+      0,
+      611,
+      700
+    ],
+    "M": [
+      40,
+      0,
+      852,
+      700
+    ],
+    "N": [
+      40,
+      0,
+      720,
+      700
+    ],
+    "O": [
+      47.0,
+      -12.0,
+      683.0,
+      712.0
+    ],
+    "P": [
+      36,
+      0,
+      604,
+      700
+    ],
+    "Q": [
+      47,
+      -151,
+      683.0,
+      712.0
+    ],
+    "R": [
+      36,
+      0,
+      703,
+      700
+    ],
+    "S": [
+      66,
+      -12,
+      568,
+      712
+    ],
+    "T": [
+      23,
+      0,
+      667,
+      700
+    ],
+    "U": [
+      38,
+      -12,
+      696,
+      700
+    ],
+    "V": [
+      28,
+      -14,
+      690,
+      700
+    ],
+    "W": [
+      23,
+      -14,
+      963,
+      700
+    ],
+    "X": [
+      42,
+      0,
+      682,
+      700
+    ],
+    "Y": [
+      24,
+      0,
+      666,
+      700
+    ],
+    "Z": [
+      34,
+      0,
+      621,
+      700
+    ],
+    "[": [
+      81,
+      -150,
+      296,
+      750
+    ],
+    "\\": [
+      29,
+      -64,
+      404,
+      741
+    ],
+    "]": [
+      38,
+      -150,
+      253,
+      750
+    ],
+    "^": [
+      48,
+      463,
+      462,
+      706
+    ],
+    "_": [
+      22,
+      -120,
+      532,
+      -89
+    ],
+    "`": [
+      59,
+      553,
+      248,
+      739
+    ],
+    "a": [
+      60,
+      -23,
+      535,
+      482
+    ],
+    "b": [
+      26,
+      -12,
+      540,
+      770
+    ],
+    "c": [
+      38.0,
+      -12,
+      473,
+      482.0
+    ],
+    "d": [
+      40,
+      -12,
+      554,
+      770
+    ],
+    "e": [
+      38,
+      -12,
+      490,
+      482
+    ],
+    "f": [
+      32,
+      0,
+      382,
+      770
+    ],
+    "g": [
+      39,
+      -223,
+      526,
+      572
+    ],
+    "h": [
+      26,
+      0,
+      556,
+      770
+    ],
+    "i": [
+      26,
+      0,
+      242,
+      661
+    ],
+    "j": [
+      9,
+      -230,
+      197,
+      661
+    ],
+    "k": [
+      26,
+      0,
+      527,
+      770
+    ],
+    "l": [
+      26,
+      0,
+      242,
+      770
+    ],
+    "m": [
+      26,
+      0,
+      828,
+      482
+    ],
+    "n": [
+      26,
+      0,
+      556,
+      482
+    ],
+    "o": [
+      40.0,
+      -12.0,
+      518.0,
+      482.0
+    ],
+    "p": [
+      26,
+      -220,
+      540,
+      482
+    ],
+    "q": [
+      40,
+      -220,
+      552,
+      482
+    ],
+    "r": [
+      26,
+      0,
+      404,
+      488
+    ],
+    "s": [
+      46,
+      -12,
+      414,
+      482
+    ],
+    "t": [
+      29,
+      -12,
+      342,
+      638
+    ],
+    "u": [
+      26,
+      -12,
+      559,
+      480
+    ],
+    "v": [
+      33,
+      -13,
+      488,
+      470
+    ],
+    "w": [
+      23,
+      -13,
+      729,
+      470
+    ],
+    "x": [
+      27,
+      0,
+      494,
+      470
+    ],
+    "y": [
+      28,
+      -229,
+      488,
+      470
+    ],
+    "z": [
+      30,
+      0,
+      453,
+      470
+    ],
+    "{": [
+      40,
+      -150,
+      345,
+      752
+    ],
+    "|": [
+      91,
+      -155,
+      123,
+      761
+    ],
+    "}": [
+      50,
+      -150,
+      355,
+      752
+    ],
+    "~": [
+      45,
+      232,
+      545,
+      382
+    ],
+    "–": [
+      42,
+      243,
+      528,
+      282
+    ],
+    "—": [
+      44,
+      243,
+      956,
+      282
+    ],
+    "‘": [
+      60,
+      510,
+      163,
+      703
+    ],
+    "’": [
+      39,
+      507,
+      142,
+      700
+    ],
+    "“": [
+      60,
+      510,
+      334,
+      703
+    ],
+    "”": [
+      39,
+      507,
+      313,
+      700
+    ],
+    "•": [
+      90,
+      197,
+      240,
+      347
+    ],
+    "…": [
+      61,
+      0,
+      539,
+      78
+    ]
+  },
+  "shaping": {
+    "alphabet": {
+      "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",
+      "direction": "ltr",
+      "script": "Latn",
+      "language": "c",
+      "features": {
+        "kern": true,
+        "liga": false
+      },
+      "units_per_em": 1000,
+      "glyphs": [
+        {
+          "glyph_id": 3,
+          "glyph_name": "A",
+          "cluster": 0,
+          "x_advance": 740,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 4,
+          "glyph_name": "B",
+          "cluster": 1,
+          "x_advance": 670,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 5,
+          "glyph_name": "C",
+          "cluster": 2,
+          "x_advance": 717,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 6,
+          "glyph_name": "D",
+          "cluster": 3,
+          "x_advance": 736,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 7,
+          "glyph_name": "E",
+          "cluster": 4,
+          "x_advance": 654,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 8,
+          "glyph_name": "F",
+          "cluster": 5,
+          "x_advance": 587,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 9,
+          "glyph_name": "G",
+          "cluster": 6,
+          "x_advance": 754,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 10,
+          "glyph_name": "H",
+          "cluster": 7,
+          "x_advance": 730,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 11,
+          "glyph_name": "I",
+          "cluster": 8,
+          "x_advance": 304,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 12,
+          "glyph_name": "J",
+          "cluster": 9,
+          "x_advance": 463,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 13,
+          "glyph_name": "K",
+          "cluster": 10,
+          "x_advance": 725,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 14,
+          "glyph_name": "L",
+          "cluster": 11,
+          "x_advance": 633,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 15,
+          "glyph_name": "M",
+          "cluster": 12,
+          "x_advance": 890,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 16,
+          "glyph_name": "N",
+          "cluster": 13,
+          "x_advance": 768,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 17,
+          "glyph_name": "O",
+          "cluster": 14,
+          "x_advance": 730,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 18,
+          "glyph_name": "P",
+          "cluster": 15,
+          "x_advance": 650,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 19,
+          "glyph_name": "Q",
+          "cluster": 16,
+          "x_advance": 770,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 20,
+          "glyph_name": "R",
+          "cluster": 17,
+          "x_advance": 724,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 21,
+          "glyph_name": "S",
+          "cluster": 18,
+          "x_advance": 593,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 22,
+          "glyph_name": "T",
+          "cluster": 19,
+          "x_advance": 690,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 23,
+          "glyph_name": "U",
+          "cluster": 20,
+          "x_advance": 746,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 24,
+          "glyph_name": "V",
+          "cluster": 21,
+          "x_advance": 738,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 25,
+          "glyph_name": "W",
+          "cluster": 22,
+          "x_advance": 1020,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 26,
+          "glyph_name": "X",
+          "cluster": 23,
+          "x_advance": 728,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 27,
+          "glyph_name": "Y",
+          "cluster": 24,
+          "x_advance": 706,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 28,
+          "glyph_name": "Z",
+          "cluster": 25,
+          "x_advance": 663,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 29,
+          "glyph_name": "a",
+          "cluster": 26,
+          "x_advance": 547,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 35,
+          "glyph_name": "b",
+          "cluster": 27,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 43,
+          "glyph_name": "c",
+          "cluster": 28,
+          "x_advance": 506,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 46,
+          "glyph_name": "d",
+          "cluster": 29,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 48,
+          "glyph_name": "e",
+          "cluster": 30,
+          "x_advance": 531,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 55,
+          "glyph_name": "f",
+          "cluster": 31,
+          "x_advance": 363,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 58,
+          "glyph_name": "g",
+          "cluster": 32,
+          "x_advance": 558,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 61,
+          "glyph_name": "h",
+          "cluster": 33,
+          "x_advance": 586,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 63,
+          "glyph_name": "i",
+          "cluster": 34,
+          "x_advance": 274,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 64,
+          "glyph_name": "j",
+          "cluster": 35,
+          "x_advance": 286,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 65,
+          "glyph_name": "k",
+          "cluster": 36,
+          "x_advance": 562,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 66,
+          "glyph_name": "l",
+          "cluster": 37,
+          "x_advance": 274,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 68,
+          "glyph_name": "m",
+          "cluster": 38,
+          "x_advance": 858,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 69,
+          "glyph_name": "n",
+          "cluster": 39,
+          "x_advance": 586,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 72,
+          "glyph_name": "o",
+          "cluster": 40,
+          "x_advance": 558,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 74,
+          "glyph_name": "p",
+          "cluster": 41,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 80,
+          "glyph_name": "q",
+          "cluster": 42,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 88,
+          "glyph_name": "r",
+          "cluster": 43,
+          "x_advance": 438,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 89,
+          "glyph_name": "s",
+          "cluster": 44,
+          "x_advance": 458,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 95,
+          "glyph_name": "t",
+          "cluster": 45,
+          "x_advance": 370,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 98,
+          "glyph_name": "u",
+          "cluster": 46,
+          "x_advance": 588,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 100,
+          "glyph_name": "v",
+          "cluster": 47,
+          "x_advance": 530,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 101,
+          "glyph_name": "w",
+          "cluster": 48,
+          "x_advance": 766,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 102,
+          "glyph_name": "x",
+          "cluster": 49,
+          "x_advance": 531,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 103,
+          "glyph_name": "y",
+          "cluster": 50,
+          "x_advance": 531,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 104,
+          "glyph_name": "z",
+          "cluster": 51,
+          "x_advance": 492,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 105,
+          "glyph_name": "zero",
+          "cluster": 52,
+          "x_advance": 580,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 73,
+          "glyph_name": "one",
+          "cluster": 53,
+          "x_advance": 378,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 97,
+          "glyph_name": "two",
+          "cluster": 54,
+          "x_advance": 559,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 96,
+          "glyph_name": "three",
+          "cluster": 55,
+          "x_advance": 552,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 57,
+          "glyph_name": "four",
+          "cluster": 56,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 56,
+          "glyph_name": "five",
+          "cluster": 57,
+          "x_advance": 549,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 92,
+          "glyph_name": "six",
+          "cluster": 58,
+          "x_advance": 570,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 91,
+          "glyph_name": "seven",
+          "cluster": 59,
+          "x_advance": 546,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 49,
+          "glyph_name": "eight",
+          "cluster": 60,
+          "x_advance": 572,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 70,
+          "glyph_name": "nine",
+          "cluster": 61,
+          "x_advance": 570,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        }
+      ],
+      "total_advance": 37108
+    },
+    "pairs": {
+      "text": "AV AW AY To Ta Ty Va Vo Ya Yo",
+      "direction": "ltr",
+      "script": "Latn",
+      "language": "c",
+      "features": {
+        "kern": true,
+        "liga": false
+      },
+      "units_per_em": 1000,
+      "glyphs": [
+        {
+          "glyph_id": 3,
+          "glyph_name": "A",
+          "cluster": 0,
+          "x_advance": 645,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 24,
+          "glyph_name": "V",
+          "cluster": 1,
+          "x_advance": 738,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 2,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 3,
+          "glyph_name": "A",
+          "cluster": 3,
+          "x_advance": 650,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 25,
+          "glyph_name": "W",
+          "cluster": 4,
+          "x_advance": 1020,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 5,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 3,
+          "glyph_name": "A",
+          "cluster": 6,
+          "x_advance": 635,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 27,
+          "glyph_name": "Y",
+          "cluster": 7,
+          "x_advance": 706,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 8,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 22,
+          "glyph_name": "T",
+          "cluster": 9,
+          "x_advance": 605,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 72,
+          "glyph_name": "o",
+          "cluster": 10,
+          "x_advance": 558,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 11,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 22,
+          "glyph_name": "T",
+          "cluster": 12,
+          "x_advance": 605,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 29,
+          "glyph_name": "a",
+          "cluster": 13,
+          "x_advance": 547,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 14,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 22,
+          "glyph_name": "T",
+          "cluster": 15,
+          "x_advance": 645,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 103,
+          "glyph_name": "y",
+          "cluster": 16,
+          "x_advance": 531,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 17,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 24,
+          "glyph_name": "V",
+          "cluster": 18,
+          "x_advance": 648,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 29,
+          "glyph_name": "a",
+          "cluster": 19,
+          "x_advance": 547,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 20,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 24,
+          "glyph_name": "V",
+          "cluster": 21,
+          "x_advance": 648,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 72,
+          "glyph_name": "o",
+          "cluster": 22,
+          "x_advance": 558,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 23,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 27,
+          "glyph_name": "Y",
+          "cluster": 24,
+          "x_advance": 616,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 29,
+          "glyph_name": "a",
+          "cluster": 25,
+          "x_advance": 547,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 26,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 27,
+          "glyph_name": "Y",
+          "cluster": 27,
+          "x_advance": 616,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 72,
+          "glyph_name": "o",
+          "cluster": 28,
+          "x_advance": 558,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        }
+      ],
+      "total_advance": 14918
+    },
+    "bowls": {
+      "text": "aadd bbppqq",
+      "direction": "ltr",
+      "script": "Latn",
+      "language": "c",
+      "features": {
+        "kern": true,
+        "liga": false
+      },
+      "units_per_em": 1000,
+      "glyphs": [
+        {
+          "glyph_id": 29,
+          "glyph_name": "a",
+          "cluster": 0,
+          "x_advance": 547,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 29,
+          "glyph_name": "a",
+          "cluster": 1,
+          "x_advance": 547,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 46,
+          "glyph_name": "d",
+          "cluster": 2,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 46,
+          "glyph_name": "d",
+          "cluster": 3,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 4,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 35,
+          "glyph_name": "b",
+          "cluster": 5,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 35,
+          "glyph_name": "b",
+          "cluster": 6,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 74,
+          "glyph_name": "p",
+          "cluster": 7,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 74,
+          "glyph_name": "p",
+          "cluster": 8,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 80,
+          "glyph_name": "q",
+          "cluster": 9,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 80,
+          "glyph_name": "q",
+          "cluster": 10,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        }
+      ],
+      "total_advance": 6005
+    },
+    "figures": {
+      "text": "0123456789 & ?!",
+      "direction": "ltr",
+      "script": "None",
+      "language": "c",
+      "features": {
+        "kern": true,
+        "liga": false
+      },
+      "units_per_em": 1000,
+      "glyphs": [
+        {
+          "glyph_id": 105,
+          "glyph_name": "zero",
+          "cluster": 0,
+          "x_advance": 580,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 73,
+          "glyph_name": "one",
+          "cluster": 1,
+          "x_advance": 378,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 97,
+          "glyph_name": "two",
+          "cluster": 2,
+          "x_advance": 559,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 96,
+          "glyph_name": "three",
+          "cluster": 3,
+          "x_advance": 552,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 57,
+          "glyph_name": "four",
+          "cluster": 4,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 56,
+          "glyph_name": "five",
+          "cluster": 5,
+          "x_advance": 549,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 92,
+          "glyph_name": "six",
+          "cluster": 6,
+          "x_advance": 570,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 91,
+          "glyph_name": "seven",
+          "cluster": 7,
+          "x_advance": 546,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 49,
+          "glyph_name": "eight",
+          "cluster": 8,
+          "x_advance": 572,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 70,
+          "glyph_name": "nine",
+          "cluster": 9,
+          "x_advance": 570,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 10,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 30,
+          "glyph_name": "ampersand",
+          "cluster": 11,
+          "x_advance": 760,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 12,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 81,
+          "glyph_name": "question",
+          "cluster": 13,
+          "x_advance": 496,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 54,
+          "glyph_name": "exclam",
+          "cluster": 14,
+          "x_advance": 253,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        }
+      ],
+      "total_advance": 7477
+    },
+    "punctuation": {
+      "text": "12:30; a,b. “Quiet!” (g) $25.00",
+      "direction": "ltr",
+      "script": "Latn",
+      "language": "c",
+      "features": {
+        "kern": true,
+        "liga": false
+      },
+      "units_per_em": 1000,
+      "glyphs": [
+        {
+          "glyph_id": 73,
+          "glyph_name": "one",
+          "cluster": 0,
+          "x_advance": 378,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 97,
+          "glyph_name": "two",
+          "cluster": 1,
+          "x_advance": 559,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 44,
+          "glyph_name": "colon",
+          "cluster": 2,
+          "x_advance": 218,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 96,
+          "glyph_name": "three",
+          "cluster": 3,
+          "x_advance": 552,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 105,
+          "glyph_name": "zero",
+          "cluster": 4,
+          "x_advance": 580,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 90,
+          "glyph_name": "semicolon",
+          "cluster": 5,
+          "x_advance": 218,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 6,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 29,
+          "glyph_name": "a",
+          "cluster": 7,
+          "x_advance": 547,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 45,
+          "glyph_name": "comma",
+          "cluster": 8,
+          "x_advance": 200,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 35,
+          "glyph_name": "b",
+          "cluster": 9,
+          "x_advance": 582,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 78,
+          "glyph_name": "period",
+          "cluster": 10,
+          "x_advance": 200,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 11,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 83,
+          "glyph_name": "quotedblleft",
+          "cluster": 12,
+          "x_advance": 380,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 19,
+          "glyph_name": "Q",
+          "cluster": 13,
+          "x_advance": 770,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 98,
+          "glyph_name": "u",
+          "cluster": 14,
+          "x_advance": 588,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 63,
+          "glyph_name": "i",
+          "cluster": 15,
+          "x_advance": 274,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 48,
+          "glyph_name": "e",
+          "cluster": 16,
+          "x_advance": 531,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 95,
+          "glyph_name": "t",
+          "cluster": 17,
+          "x_advance": 370,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 54,
+          "glyph_name": "exclam",
+          "cluster": 18,
+          "x_advance": 253,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 84,
+          "glyph_name": "quotedblright",
+          "cluster": 19,
+          "x_advance": 380,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 20,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 75,
+          "glyph_name": "parenleft",
+          "cluster": 21,
+          "x_advance": 353,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 58,
+          "glyph_name": "g",
+          "cluster": 22,
+          "x_advance": 558,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 76,
+          "glyph_name": "parenright",
+          "cluster": 23,
+          "x_advance": 353,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 94,
+          "glyph_name": "space",
+          "cluster": 24,
+          "x_advance": 255,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 47,
+          "glyph_name": "dollar",
+          "cluster": 25,
+          "x_advance": 613,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 97,
+          "glyph_name": "two",
+          "cluster": 26,
+          "x_advance": 559,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 56,
+          "glyph_name": "five",
+          "cluster": 27,
+          "x_advance": 549,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 78,
+          "glyph_name": "period",
+          "cluster": 28,
+          "x_advance": 200,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 105,
+          "glyph_name": "zero",
+          "cluster": 29,
+          "x_advance": 580,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        },
+        {
+          "glyph_id": 105,
+          "glyph_name": "zero",
+          "cluster": 30,
+          "x_advance": 580,
+          "y_advance": 0,
+          "x_offset": 0,
+          "y_offset": 0
+        }
+      ],
+      "total_advance": 12945
+    }
+  },
+  "metrics": {
+    "status": "inspected",
+    "UPM": 1000,
+    "cap_height": 700,
+    "x_height": 470,
+    "ascender_zone": 770,
+    "body_top_i_j_n": [
+      480,
+      480,
+      482
+    ],
+    "body_top_reason": "10-unit pointed head overshoot; round n shoulder 12-unit overshoot.",
+    "dot_bounds_i": [
+      82,
+      555,
+      188,
+      661
+    ],
+    "descenders": {
+      "g": -223,
+      "p": -220,
+      "q": -220,
+      "j": -230,
+      "y": -229
+    },
+    "round_extrema": {
+      "O": [
+        47.0,
+        -12.0,
+        683.0,
+        712.0
+      ],
+      "o": [
+        40.0,
+        -12.0,
+        518.0,
+        482.0
+      ]
+    },
+    "line_metrics": {
+      "ascent": 800,
+      "descent": -240,
+      "gap": 70
+    },
+    "stem_families": {
+      "capital": 116,
+      "lowercase": 106,
+      "hairlines": "20–24"
+    },
+    "figure_style": "proportional lining; top 700–712, baseline overshoots up to -12",
+    "space_advance": 255,
+    "accents": "Not in the selected 103-character prototype scope."
+  },
+  "parallel_construction": {
+    "stems": "Vertical shared x coordinates through body sections; cap 116, lowercase 106 units.",
+    "crossbars": "Horizontal; H/A 24-unit parallel edges, E/F 24-unit parallel edges.",
+    "X_x": "Opposing sides are generated from identical vectors: 2/3 descent and 4/5 ascent. Integer export can round by <1 unit.",
+    "V_v": "Both edges of each diagonal use |dx/dy| = 0.4.",
+    "Q": "An under-bowl ribbon replaces the rejected slash tail; long ribbon edges have a shared 1:5 slope and the counter terminal echoes diamond dots.",
+    "g": "Single 110 × 110 right triangle, 45-degree diagonal.",
+    "r": "Three consecutive terminal edges are 45 degrees, matching the diamond dots.",
+    "serifs": "Shared stem foot/crown helpers have 45-degree cuts; optical deviations retained in contextual joins.",
+    "bowls": "Original cubic curves use aligned extrema/tangents; a and b/d/p/q have unified contours to remove overlap bulges."
+  },
+  "review": {
+    "status": "revised prototype; user aesthetic acceptance pending",
+    "inspected_scope": [
+      "alphabet and figures at display size",
+      "geometric Q and triangular g ear",
+      "a/d and related unified bowls",
+      "parallel construction families",
+      "selected kerning OFF/ON proofs",
+      "punctuation at display size",
+      "24 px native rendering"
+    ],
+    "limitations": [
+      "Display prototype, designed primarily for headings at 32 px and above.",
+      "103 encoded characters; accented letters and combining marks are not included.",
+      "No ligature substitutions.",
+      "All possible kerning combinations have not been individually reviewed.",
+      "Font licensing has not been assigned by the user."
+    ]
+  },
+  "diagonal-refinement": {
+    "purpose": "Optical compensation for visibly underweight diagonals, with exact parallel straight sides.",
+    "controls": {
+      "H_vertical": 116,
+      "n_left_vertical": 106,
+      "n_right_vertical": 105,
+      "measurement_units": "font units / 1000 UPM; stroke width measured perpendicular to the edge, away from joins"
+    },
+    "method": "Before: signed point-to-line distance from an outer-edge point to the inner straight segment at recorded body heights; y coordinates are SVG-downward. Original w/W nonparallel edges are recorded as sampled ranges. After: exact distance between parallel edge lines; rounded to four decimals.",
+    "inspection": {
+      "reference": "references/reference.png",
+      "compiled_before": "specimen.png",
+      "source_comparison": "/tmp/wedge-diagonals.png",
+      "source_comparison_svg": "/tmp/wedge-diagonals.svg",
+      "source_image_dimensions": [
+        1260,
+        1530
+      ],
+      "source_display_size": 190,
+      "source_pixel_scale": 1,
+      "source_visual_status": "inspected all six candidates beside before and n/H controls; open counters, baseline terminal width and hairline contrast retained",
+      "source_svg_status": "read every affected path; recalculated joins from line intersections rather than repeated approximate vertices; source paths parse as closed filled shapes",
+      "compiled_after_status": "inspected at 50px ×4 detail and 48/32px native reading sizes; all six revised outlines retain open counters and hairline contrast, and no export-induced spikes or joins are visible",
+      "user_acceptance": "pending",
+      "compiled_before_path": "revisions/before-optical-refinement/Wedge-Regular.ttf",
+      "compiled_before_sha256": "9702bfba9aa494793d31c260d8d75728a73fc92456b62c6caf4be3d999ea0f1a",
+      "compiled_after_path": "build/fonts/Wedge-Regular.ttf",
+      "compiled_after_sha256": "c0988efeed83cf8df7a901c1f8afaec7a69ecb2422cc57f3f0cb1469d326e0f4",
+      "compiled_comparison_proof": "proofs/diagonal-optical-before-after.png",
+      "compiled_comparison_svg": "proofs/diagonal-optical-before-after.svg",
+      "compiled_comparison_font_size": 50,
+      "compiled_comparison_pixel_scale": 4,
+      "compiled_native_proof": "proofs/diagonal-optical-native.png",
+      "compiled_native_svg": "proofs/diagonal-optical-native.svg",
+      "compiled_native_font_sizes": [
+        48,
+        32
+      ],
+      "compiled_native_pixel_scale": 1,
+      "compiled_native_features": {
+        "kern": false,
+        "liga": false
+      },
+      "compiled_geometry_status": "inspected actual TTF glyf coordinates after overlap removal; intended parallel source edges remain within integer rounding variation",
+      "decision": "retain these six candidates; V needs no change; user aesthetic acceptance remains pending"
+    },
+    "glyphs": {
+      "w": {
+        "changed": true,
+        "path": "refined/glyph-U0077.svg",
+        "sha256": "d332648936f7ed1a86503c333733b835032ca8680d7f5abf5f404347f709d67e",
+        "before_perpendicular": {
+          "left": [
+            90.7978,
+            87.5829
+          ],
+          "right": [
+            85.4075,
+            85.1252
+          ]
+        },
+        "after_main_perpendicular": 106.9178,
+        "source_svg_bounds": [
+          23.0,
+          330.0,
+          729.0,
+          813.0
+        ],
+        "reason": "The two previous heavy legs were too light and had small slope differences. Both now use dx/dy=165/446 with 114-unit horizontal separation. Both pairs of thin rising edges are parallel; they retain their own 27–28-unit perpendicular family. All outer cap/baseline endpoints, 24-unit bottom wedges and overall advance remain. Inner vertices rise as expected when the heavy diagonals expand.",
+        "compiled_bounds": {
+          "before": [
+            23,
+            -13,
+            729,
+            470
+          ],
+          "after": [
+            23,
+            -13,
+            729,
+            470
+          ]
+        },
+        "compiled_after_perpendicular": {
+          "left": [
+            106.9811,
+            107.1883
+          ],
+          "right": [
+            106.6019,
+            106.6544
+          ]
+        }
+      },
+      "W": {
+        "changed": true,
+        "path": "refined/glyph-U0057.svg",
+        "sha256": "68f9a9a4e860a83e7543954333cb59413ee020cf4e62dd4c26e929acb18ccc1a",
+        "before_perpendicular": {
+          "left": [
+            111.176,
+            108.9103
+          ],
+          "right": [
+            106.2058,
+            107.0318
+          ]
+        },
+        "after_main_perpendicular": 121.4315,
+        "source_svg_bounds": [
+          23.0,
+          100.0,
+          963.0,
+          814.0
+        ],
+        "reason": "A modest increase to 121.43 units gives the long diagonal stems slight optical compensation over H=116. Both heavy legs now share dx/dy=1/3. The small slope drift in each hairline has been removed. Existing 28/29-unit bottom wedges and overall side bounds remain; intersection vertices are computed from the actual edge lines.",
+        "compiled_bounds": {
+          "before": [
+            23,
+            -14,
+            963,
+            700
+          ],
+          "after": [
+            23,
+            -14,
+            963,
+            700
+          ]
+        },
+        "compiled_after_perpendicular": {
+          "left": [
+            121.3903,
+            121.1867
+          ],
+          "right": [
+            121.5095,
+            121.5213
+          ]
+        }
+      },
+      "v": {
+        "changed": true,
+        "path": "refined/glyph-U0076.svg",
+        "sha256": "e5bdea29cf5eec8bd69c83c8d65cd716843b957c30c071cf5c7be4b9c1c0c1be",
+        "before_perpendicular": {
+          "main": [
+            98.4185
+          ]
+        },
+        "after_main_perpendicular": 105.8463,
+        "source_svg_bounds": [
+          33.0,
+          330.0,
+          488.0,
+          813.0
+        ],
+        "reason": "Widened the heavy stem by 8 horizontal units; perpendicular width rises from 98.42 to 105.85, matching lowercase stems. Both heavy edges retain dx/dy=0.4, and the 26.93-unit thin return is unchanged. Shifted the inner cap wedge corner by the same 8 units to retain its 45-degree edge.",
+        "compiled_bounds": {
+          "before": [
+            33,
+            -13,
+            488,
+            470
+          ],
+          "after": [
+            33,
+            -13,
+            488,
+            470
+          ]
+        },
+        "compiled_after_perpendicular": {
+          "main": [
+            105.8463
+          ]
+        }
+      },
+      "y": {
+        "changed": true,
+        "path": "refined/glyph-U0079.svg",
+        "sha256": "cd5a9eaffa140105a195361c7f689b2b25442cf527486d3117e8ed3a933ab666",
+        "before_perpendicular": {
+          "main": [
+            98.4185
+          ]
+        },
+        "after_main_perpendicular": 105.8463,
+        "source_svg_bounds": [
+          28.0,
+          330.0,
+          488.0,
+          1029.0
+        ],
+        "reason": "Exactly the same body correction as v. Original descending stroke and hooked terminal path retained unchanged.",
+        "compiled_bounds": {
+          "before": [
+            28,
+            -229,
+            488,
+            470
+          ],
+          "after": [
+            28,
+            -229,
+            488,
+            470
+          ]
+        },
+        "compiled_after_perpendicular": {
+          "main": [
+            105.8463
+          ]
+        }
+      },
+      "x": {
+        "changed": true,
+        "path": "refined/glyph-U0078.svg",
+        "sha256": "134bca0953c71ecac2de3703add1ac3f8f3a8fb16e38a43e0ae7bdf665ef6c30",
+        "before_perpendicular": {
+          "main": [
+            88.1973
+          ]
+        },
+        "after_main_perpendicular": 106.5024,
+        "source_svg_bounds": [
+          27.0,
+          330.0,
+          493.667,
+          800.0
+        ],
+        "reason": "Original main diagonal used the vertical-stem horizontal width, producing only 88.20 perpendicular units. Widened symmetrically by 11 horizontal units per side to 106.50 perpendicular units. Main diagonal remains 2:3 and hairline remains 4:5. Wedge terminal edges remain 45 degrees; left/right sidebearings change by 11 units and need compiled spacing review.",
+        "compiled_bounds": {
+          "before": [
+            38,
+            0,
+            483,
+            470
+          ],
+          "after": [
+            27,
+            0,
+            494,
+            470
+          ]
+        },
+        "compiled_after_perpendicular": {
+          "upper": [
+            106.5951,
+            106.5419
+          ],
+          "lower": [
+            106.9194,
+            106.6402
+          ]
+        }
+      },
+      "X": {
+        "changed": true,
+        "path": "refined/glyph-U0058.svg",
+        "sha256": "cde0b147c1bb559316c4bc97f0a9d73e1899c2ba62180965dea05917c1a8ca08",
+        "before_perpendicular": {
+          "main": [
+            87.3653
+          ]
+        },
+        "after_main_perpendicular": 116.487,
+        "source_svg_bounds": [
+          42.5,
+          100.0,
+          682.5,
+          800.0
+        ],
+        "reason": "Original main diagonal was only 87.37 perpendicular units beside H=116. Expanded each heavy side symmetrically by 17.5 horizontal units to 116.49 perpendicular units. Preserved parallel 2:3 heavy edges, 4:5 thin edges, 45-degree wedge cuts. Sidebearings change by 17.5 units and need compiled spacing review.",
+        "compiled_bounds": {
+          "before": [
+            58,
+            0,
+            667,
+            700
+          ],
+          "after": [
+            42,
+            0,
+            682,
+            700
+          ]
+        },
+        "compiled_after_perpendicular": {
+          "upper": [
+            116.4039,
+            116.4689
+          ],
+          "lower": [
+            116.4847,
+            116.5238
+          ]
+        }
+      },
+      "V": {
+        "changed": false,
+        "before_after_perpendicular": {
+          "main": [
+            115.5025,
+            115.5025
+          ]
+        },
+        "reason": "Already 115.51 perpendicular units, essentially the 116-unit H stem. Exact parallel diagonals and appropriate apparent weight in the current compiled specimen; no unnecessary widening.",
+        "compiled_bounds": {
+          "before": [
+            28,
+            -14,
+            690,
+            700
+          ],
+          "after": [
+            28,
+            -14,
+            690,
+            700
+          ]
+        }
+      }
+    },
+    "samples_svg_y": {
+      "w_left": [
+        450,
+        600
+      ],
+      "w_right": [
+        550,
+        650
+      ],
+      "W_left": [
+        250,
+        550
+      ],
+      "W_right": [
+        350,
+        550
+      ],
+      "V": [
+        300,
+        500
+      ]
+    }
+  },
+  "spacing-refinement": {
+    "advance_overrides": {
+      "a": 547
+    },
+    "kerning_overrides": {
+      "AV": -95,
+      "AW": -90,
+      "AY": -105,
+      "AT": -90,
+      "VA": -90,
+      "WA": -80,
+      "YA": -105,
+      "TA": -95,
+      "LT": -100,
+      "LV": -90,
+      "LW": -85,
+      "LY": -105,
+      "FA": -65,
+      "PA": -65,
+      "Tr": -55,
+      "Tu": -55,
+      "Ty": -45,
+      "Tv": -45,
+      "Tw": -45,
+      "Vr": -55,
+      "Vu": -55,
+      "Wr": -80,
+      "Wu": -80,
+      "Yr": -55,
+      "Yu": -55,
+      "Yv": -30,
+      "Yw": -30,
+      "Ta": -85,
+      "Va": -90,
+      "Wa": -110,
+      "Ya": -90,
+      "Tc": -85,
+      "Vc": -90,
+      "Wc": -110,
+      "Yc": -90,
+      "Te": -85,
+      "Ve": -90,
+      "We": -110,
+      "Ye": -90,
+      "Tg": -85,
+      "Vg": -90,
+      "Wg": -110,
+      "Yg": -90,
+      "To": -85,
+      "Vo": -90,
+      "Wo": -110,
+      "Yo": -90,
+      "Ts": -85,
+      "Vs": -75,
+      "Ws": -90,
+      "Ys": -90,
+      "va": -22,
+      "wa": -16,
+      "ya": -18,
+      "ve": -22,
+      "we": -16,
+      "ye": -18,
+      "vo": -22,
+      "wo": -16,
+      "yo": -18,
+      "ov": -14,
+      "ev": -12,
+      "av": -8,
+      "ow": -14,
+      "ew": -12,
+      "aw": -8,
+      "oy": -14,
+      "ey": -12,
+      "ay": -8,
+      "V.": -100,
+      "V,": -100,
+      "W.": -85,
+      "W,": -85,
+      "Y.": -85,
+      "Y,": -85,
+      "T.": -80,
+      "T,": -80,
+      "r.": -40,
+      "r,": -40,
+      "v.": -50,
+      "v,": -50,
+      "w.": -50,
+      "w,": -50,
+      "y.": -50,
+      "y,": -50,
+      "Wq": -110,
+      "Wd": -110,
+      "Wm": -80,
+      "Wn": -80,
+      "Wp": -80,
+      "Wi": -65,
+      "Wj": -65,
+      "Wv": -65,
+      "Ww": -65,
+      "Wx": -65,
+      "Wy": -65,
+      "Wz": -65,
+      "Wt": -35,
+      "WC": -35,
+      "WG": -35,
+      "WO": -35,
+      "WQ": -35,
+      "WS": -35,
+      "AG": -20,
+      "OA": -20,
+      "DA": -15,
+      "CA": -10,
+      "fA": -30,
+      "vA": -25,
+      "wA": -25,
+      "yA": -25,
+      "A‘": -60,
+      "A’": -80,
+      "A“": -60,
+      "A”": -80,
+      "‘A": -70,
+      "“A": -70,
+      "’A": -60,
+      "”A": -60,
+      "TC": -25,
+      "TG": -25,
+      "TO": -25,
+      "TQ": -25,
+      "Td": -85,
+      "Tq": -85,
+      "Tm": -55,
+      "Tn": -55,
+      "Tp": -55,
+      "Ti": -30,
+      "Tj": -30,
+      "Tt": -25,
+      "Tx": -45,
+      "Tz": -45,
+      "T:": -55,
+      "T;": -55,
+      "BT": -20,
+      "DT": -25,
+      "OT": -25,
+      "QT": -20,
+      "ST": -20,
+      "aT": -50,
+      "bT": -50,
+      "cT": -60,
+      "eT": -60,
+      "gT": -20,
+      "hT": -40,
+      "iT": -25,
+      "jT": -25,
+      "kT": -35,
+      "mT": -40,
+      "nT": -40,
+      "oT": -60,
+      "pT": -50,
+      "qT": -35,
+      "rT": -35,
+      "sT": -50,
+      "tT": -20,
+      "uT": -40,
+      "vT": -30,
+      "wT": -30,
+      "xT": -30,
+      "yT": -30,
+      "zT": -30,
+      ".T": -80,
+      ",T": -80,
+      ":T": -50,
+      ";T": -50,
+      "VC": -25,
+      "VG": -25,
+      "VO": -25,
+      "VQ": -25,
+      "VS": -20,
+      "Vd": -90,
+      "Vq": -90,
+      "Vm": -55,
+      "Vn": -55,
+      "Vp": -55,
+      "Vi": -35,
+      "Vj": -35,
+      "Vv": -35,
+      "Vw": -35,
+      "Vx": -35,
+      "Vy": -35,
+      "Vz": -35,
+      "Vt": -25,
+      "V:": -60,
+      "V;": -60,
+      "BV": -15,
+      "DV": -25,
+      "OV": -25,
+      "QV": -25,
+      "RV": -15,
+      "SV": -15,
+      "aV": -45,
+      "bV": -45,
+      "cV": -50,
+      "eV": -50,
+      "gV": -20,
+      "hV": -35,
+      "iV": -20,
+      "jV": -20,
+      "kV": -25,
+      "mV": -35,
+      "nV": -35,
+      "oV": -50,
+      "pV": -45,
+      "qV": -30,
+      "rV": -30,
+      "sV": -40,
+      "tV": -20,
+      "uV": -35,
+      "vV": -25,
+      "wV": -25,
+      "xV": -25,
+      "yV": -25,
+      "zV": -25,
+      ".V": -80,
+      ",V": -80,
+      ":V": -50,
+      ";V": -50,
+      "YC": -35,
+      "YG": -35,
+      "YO": -35,
+      "YQ": -35,
+      "YS": -25,
+      "Yd": -90,
+      "Yq": -90,
+      "Yi": -40,
+      "Yj": -40,
+      "Ym": -55,
+      "Yn": -55,
+      "Yp": -55,
+      "Yt": -25,
+      "Yx": -30,
+      "Yy": -30,
+      "Yz": -30,
+      "Y:": -55,
+      "Y;": -55,
+      "BY": -15,
+      "DY": -35,
+      "OY": -35,
+      "QY": -30,
+      "RY": -15,
+      "SY": -20,
+      "aY": -45,
+      "bY": -60,
+      "cY": -65,
+      "eY": -65,
+      "gY": -20,
+      "hY": -40,
+      "iY": -20,
+      "jY": -20,
+      "kY": -30,
+      "mY": -40,
+      "nY": -40,
+      "oY": -65,
+      "pY": -60,
+      "qY": -40,
+      "rY": -35,
+      "sY": -50,
+      "tY": -20,
+      "uY": -40,
+      "vY": -30,
+      "wY": -30,
+      "xY": -30,
+      "yY": -30,
+      "zY": -30,
+      ".Y": -75,
+      ",Y": -75,
+      ":Y": -50,
+      ";Y": -50,
+      "FC": -20,
+      "FG": -20,
+      "FO": -20,
+      "FQ": -20,
+      "FJ": -35,
+      "Fa": -50,
+      "Fc": -50,
+      "Fd": -50,
+      "Fe": -50,
+      "Fg": -50,
+      "Fo": -50,
+      "Fq": -50,
+      "Fs": -40,
+      "Fm": -25,
+      "Fn": -25,
+      "Fp": -25,
+      "Fr": -25,
+      "Fu": -25,
+      "Fi": -15,
+      "Fj": -15,
+      "Fv": -20,
+      "Fw": -20,
+      "Fx": -20,
+      "Fy": -20,
+      "Fz": -20,
+      "F.": -100,
+      "F,": -100,
+      "F:": -45,
+      "F;": -45,
+      "LC": -20,
+      "LG": -20,
+      "LO": -20,
+      "LQ": -20,
+      "Lc": -15,
+      "Ld": -15,
+      "Le": -15,
+      "Lg": -15,
+      "Lo": -15,
+      "Lq": -15,
+      "Lv": -50,
+      "Lw": -50,
+      "Ly": -50,
+      "L‘": -90,
+      "L’": -120,
+      "L“": -90,
+      "L”": -120,
+      "L?": -30,
+      "fb": 24,
+      "fh": 24,
+      "fk": 24,
+      "fl": 24
+    },
+    "left_side_bearing_overrides": {
+      "a": 60
+    },
+    "review": {
+      "status": "accepted in compiled final-shape trial",
+      "units_per_em": 1000,
+      "baseline": "spacing-pass/baseline-proofs/index.json",
+      "trial": "spacing-pass/all-pairs/index.json",
+      "a_bearings": "spacing-pass/a-adjusted/index.json",
+      "findings": [
+        "H/O and n/o base rhythm retained: triangular serif tips are close while main stem gaps remain evenly open.",
+        "a receives a 15-unit left shift and 15-unit advance reduction; this closes excess pre-a space from the narrowed bowl without changing its right spacing.",
+        "Capital diagonal and overhang exceptions tightened, based on wedge-shaped whitespace in AV/WA and rectangular lower cavities in LT/LY.",
+        "T/V/W/Y before lower rounds draw into the overhang; r/u use milder corrections to preserve shoulder clearance.",
+        "Small corrections around v/w/y unify wave/away/woven; open-form ra/re/ro retain their existing -18 because the r shoulder already approaches the next top.",
+        "Punctuation after overhangs is drawn closer so baseline marks attach to the preceding letter; colon and semicolon spacing retained."
+      ],
+      "limits": [
+        "This is a bounded spacing review, not exhaustive coverage of every glyph combination.",
+        "Existing discretionary ligatures are not evaluated by these proofs; they remain disabled.",
+        "Approximate outline clearances are diagnostic and do not replace the recorded visual inspection."
+      ],
+      "source_revision_before_spacing": "b97535502a2716f68b56a13b2109505aad241d969961bf876395c1056212952a",
+      "final_trial_revision": "26ece4efa8e8ca22b37026c6b7ae5566a63eadf3cf4bbd6cdcc17d711cfea3c2",
+      "final_trial_font_sha256": "820d653247e8769321b2a2e2cf5903c6457e2b418fc959c157bcb125e5954a15",
+      "evidence": [
+        "spacing-pass/final-pairs/index.json",
+        "spacing-pass/final-words/index.json",
+        "spacing-pass/final-reading/index.json",
+        "spacing-pass/pair-clearances.json"
+      ],
+      "tested_scope": {
+        "proposed_exact_pairs": 85,
+        "final_pair_rows": 15,
+        "final_word_control_rows": 14,
+        "native_reading_rows": 6,
+        "display_settings": {
+          "font_size": 50,
+          "pixel_scale": 3
+        },
+        "word_settings": {
+          "font_size": 44,
+          "pixel_scale": 3
+        },
+        "reading_settings": {
+          "font_size": 22,
+          "pixel_scale": 1
+        },
+        "features_off": {
+          "kern": false,
+          "liga": false,
+          "rlig": true,
+          "dlig": false
+        },
+        "features_on": {
+          "kern": true,
+          "liga": false,
+          "rlig": true,
+          "dlig": false
+        }
+      }
+    },
+    "W_family_followup": {
+      "status": "visually inspected trial; integrated",
+      "values": {
+        "Wa": -110,
+        "Wc": -110,
+        "We": -110,
+        "Wg": -110,
+        "Wo": -110,
+        "Wq": -110,
+        "Wd": -110,
+        "Ws": -90,
+        "Wm": -80,
+        "Wn": -80,
+        "Wp": -80,
+        "Wr": -80,
+        "Wu": -80,
+        "Wi": -65,
+        "Wj": -65,
+        "Wv": -65,
+        "Ww": -65,
+        "Wx": -65,
+        "Wy": -65,
+        "Wz": -65,
+        "Wt": -35,
+        "WC": -35,
+        "WG": -35,
+        "WO": -35,
+        "WQ": -35,
+        "WS": -35
+      },
+      "pair_scope": "W with A-Z/a-z in both orders, including WW; 103 unique ordered pairs",
+      "changed_pair_count": 26,
+      "baseline_revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773",
+      "trial_proof": "spacing-pass/w-alphabet-review/trial/pairs.json",
+      "word_proof": "spacing-pass/we-refinement/W-family-trial.png",
+      "reason": "W right diagonal leaves excessive cavities before x-height forms; cap/stem and reverse pairs require different clearances."
+    },
+    "second_pass": {
+      "baseline_revision": "4b03087526b719ffe2972ed1b48e64a3a23e2a470b7d9aaf23d1e8c421772cb3",
+      "kerning_reviewed_matrix_pairs": 732,
+      "kerning_adjustments": 223,
+      "f_terminal_adjustments": {
+        "fb": 24,
+        "fh": 24,
+        "fk": 24,
+        "fl": 24
+      },
+      "geometry_changes": 0,
+      "new_ligatures": 0,
+      "evidence": "second-pass-review.json"
+    }
+  },
+  "optical-review": {
+    "version": "0.110",
+    "revision": "c10da56c3e0d319470220d7742999512f6bbbf6e2e54b2fd6018e5a9cf789981",
+    "ttf_sha256": "7ec20f5a45e364e50191733536a7dfa35a21f46a6d25c0735692f9a0485ad780",
+    "status": "compiled and visually reviewed revision; aesthetic approval remains with user",
+    "a": {
+      "lower_bowl_left_before": 40,
+      "lower_bowl_left_after": 82,
+      "comment": "42-unit reduction of left projection, matching counter narrowed deliberately; 104-unit thick side. Applied15-unit spacing shift afterward.",
+      "compiled_bounds": [
+        60,
+        -23,
+        535,
+        482
+      ],
+      "advance": 547,
+      "left_bearing": 60,
+      "source": "refined/glyph-U0061.svg"
+    },
+    "dots": {
+      "characters": [
+        "i",
+        "j"
+      ],
+      "diamond_diagonal_before": 78,
+      "diamond_diagonal_after": 106,
+      "body_clearance": 75,
+      "inspection": "Before/after source and compiled proofs reviewed; dot positions stay centered over their stems."
+    },
+    "diagonals": {
+      "report": "diagonal-refinement.json",
+      "changed": [
+        "w",
+        "W",
+        "v",
+        "y",
+        "x",
+        "X"
+      ],
+      "unchanged_control": "V"
+    },
+    "spacing": {
+      "report": "spacing-refinement.json",
+      "proofs": "spacing-pass/REVIEW.md",
+      "override_pairs": 85,
+      "native_size": 22,
+      "reading_scope": "35 tested paired and word rows"
+    },
+    "validation": [
+      {
+        "code": "FONT_LICENSE_UNSET",
+        "severity": "info",
+        "message": "The generated font has no user-selected license metadata.",
+        "glyph": null,
+        "rule": null,
+        "measurements": {},
+        "suggested_action": null
+      }
+    ],
+    "skill_update": "font-design-metrics now specifies perpendicular diagonal measurement and evidence-led optical compensation."
+  },
+  "w-kerning-review": {
+    "family": "Hakiland Display",
+    "version": "0.111",
+    "revision": "4b03087526b719ffe2972ed1b48e64a3a23e2a470b7d9aaf23d1e8c421772cb3",
+    "font_sha256": "777dde9cdbf31f71213188fdf42f90c200122e62e180a1e2e456329302f64704",
+    "baseline_revision": "e5cdc9c557fd27d039b928cda4ea5bc901b9684f8ef349ca0d50212aa58ba773",
+    "scope": {
+      "unique_ordered_W_alphabet_pairs_visually_inspected": 103,
+      "changed_pairs": 26,
+      "unchanged_pairs": 77,
+      "excluded": "Other letter families, punctuation and digits are outside this targeted followup."
+    },
+    "values": {
+      "Wa": -110,
+      "Wc": -110,
+      "We": -110,
+      "Wg": -110,
+      "Wo": -110,
+      "Wq": -110,
+      "Wd": -110,
+      "Ws": -90,
+      "Wm": -80,
+      "Wn": -80,
+      "Wp": -80,
+      "Wr": -80,
+      "Wu": -80,
+      "Wi": -65,
+      "Wj": -65,
+      "Wv": -65,
+      "Ww": -65,
+      "Wx": -65,
+      "Wy": -65,
+      "Wz": -65,
+      "Wt": -35,
+      "WC": -35,
+      "WG": -35,
+      "WO": -35,
+      "WQ": -35,
+      "WS": -35
+    },
+    "evidence": [
+      "spacing-pass/w-alphabet-review/pairs.json",
+      "spacing-pass/w-alphabet-review/trial/pairs.json",
+      "spacing-pass/we-refinement/W-family-trial.png",
+      "proofs/w-reading-final.png"
+    ],
+    "observations": [
+      "We moves from -45 to -110; the e nests beneath the W overhang while retaining an open gap.",
+      "Related round and low shoulder pairs tightened with individual tall-detail exceptions.",
+      "Reversed pairs and top-constrained cap/stem pairs retain their earlier spacing."
+    ],
+    "verification": {
+      "all_three_exports_have_expected_pair_adjustments": true,
+      "unchanged_outline_metric_substitution_tables": true,
+      "word_proof_visually_inspected": true,
+      "native_final_proof": "inspected at 28 px, pixel scale 1; We and Woven maintain clear separation and coherent word rhythm"
+    }
+  },
+  "second-pass-review": {
+    "family": "Hakiland Display",
+    "version": "0.112",
+    "revision": "c5c1dfebdde7e86a107e9b155087a50ececa2a571cbd6d86c8d50010f22c451c",
+    "ttf_sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f",
+    "source_revision": "4b03087526b719ffe2972ed1b48e64a3a23e2a470b7d9aaf23d1e8c421772cb3",
+    "design": {
+      "encoded_glyphs_reviewed": 103,
+      "letter_review": "review-pass-2/design/review.json",
+      "figures_marks_space_review": "review-pass-2/marks/review.json",
+      "outline_changes": 0,
+      "finding": "No high-confidence additional contour correction; preserve current forms."
+    },
+    "kerning": {
+      "matrix_pairs_reviewed": 732,
+      "candidate_glyphs": "ATVYFL",
+      "neighbors": "52 Latin letters and12 punctuation marks; both orders",
+      "proposed_and_integrated_pairs": 223,
+      "values": {
+        "AG": -20,
+        "OA": -20,
+        "DA": -15,
+        "CA": -10,
+        "fA": -30,
+        "vA": -25,
+        "wA": -25,
+        "yA": -25,
+        "A‘": -60,
+        "A’": -80,
+        "A“": -60,
+        "A”": -80,
+        "‘A": -70,
+        "“A": -70,
+        "’A": -60,
+        "”A": -60,
+        "TC": -25,
+        "TG": -25,
+        "TO": -25,
+        "TQ": -25,
+        "Td": -85,
+        "Tq": -85,
+        "Tm": -55,
+        "Tn": -55,
+        "Tp": -55,
+        "Ti": -30,
+        "Tj": -30,
+        "Tt": -25,
+        "Tx": -45,
+        "Tz": -45,
+        "T:": -55,
+        "T;": -55,
+        "BT": -20,
+        "DT": -25,
+        "OT": -25,
+        "QT": -20,
+        "ST": -20,
+        "aT": -50,
+        "bT": -50,
+        "cT": -60,
+        "eT": -60,
+        "gT": -20,
+        "hT": -40,
+        "iT": -25,
+        "jT": -25,
+        "kT": -35,
+        "mT": -40,
+        "nT": -40,
+        "oT": -60,
+        "pT": -50,
+        "qT": -35,
+        "rT": -35,
+        "sT": -50,
+        "tT": -20,
+        "uT": -40,
+        "vT": -30,
+        "wT": -30,
+        "xT": -30,
+        "yT": -30,
+        "zT": -30,
+        ".T": -80,
+        ",T": -80,
+        ":T": -50,
+        ";T": -50,
+        "VC": -25,
+        "VG": -25,
+        "VO": -25,
+        "VQ": -25,
+        "VS": -20,
+        "Va": -90,
+        "Vc": -90,
+        "Vd": -90,
+        "Ve": -90,
+        "Vg": -90,
+        "Vo": -90,
+        "Vq": -90,
+        "Vs": -75,
+        "Vr": -55,
+        "Vu": -55,
+        "Vm": -55,
+        "Vn": -55,
+        "Vp": -55,
+        "Vi": -35,
+        "Vj": -35,
+        "Vv": -35,
+        "Vw": -35,
+        "Vx": -35,
+        "Vy": -35,
+        "Vz": -35,
+        "Vt": -25,
+        "V:": -60,
+        "V;": -60,
+        "BV": -15,
+        "DV": -25,
+        "OV": -25,
+        "QV": -25,
+        "RV": -15,
+        "SV": -15,
+        "aV": -45,
+        "bV": -45,
+        "cV": -50,
+        "eV": -50,
+        "gV": -20,
+        "hV": -35,
+        "iV": -20,
+        "jV": -20,
+        "kV": -25,
+        "mV": -35,
+        "nV": -35,
+        "oV": -50,
+        "pV": -45,
+        "qV": -30,
+        "rV": -30,
+        "sV": -40,
+        "tV": -20,
+        "uV": -35,
+        "vV": -25,
+        "wV": -25,
+        "xV": -25,
+        "yV": -25,
+        "zV": -25,
+        ".V": -80,
+        ",V": -80,
+        ":V": -50,
+        ";V": -50,
+        "YC": -35,
+        "YG": -35,
+        "YO": -35,
+        "YQ": -35,
+        "YS": -25,
+        "Yd": -90,
+        "Yq": -90,
+        "Yi": -40,
+        "Yj": -40,
+        "Ym": -55,
+        "Yn": -55,
+        "Yp": -55,
+        "Yt": -25,
+        "Yx": -30,
+        "Yy": -30,
+        "Yz": -30,
+        "Y:": -55,
+        "Y;": -55,
+        "BY": -15,
+        "DY": -35,
+        "OY": -35,
+        "QY": -30,
+        "RY": -15,
+        "SY": -20,
+        "aY": -45,
+        "bY": -60,
+        "cY": -65,
+        "eY": -65,
+        "gY": -20,
+        "hY": -40,
+        "iY": -20,
+        "jY": -20,
+        "kY": -30,
+        "mY": -40,
+        "nY": -40,
+        "oY": -65,
+        "pY": -60,
+        "qY": -40,
+        "rY": -35,
+        "sY": -50,
+        "tY": -20,
+        "uY": -40,
+        "vY": -30,
+        "wY": -30,
+        "xY": -30,
+        "yY": -30,
+        "zY": -30,
+        ".Y": -75,
+        ",Y": -75,
+        ":Y": -50,
+        ";Y": -50,
+        "FC": -20,
+        "FG": -20,
+        "FO": -20,
+        "FQ": -20,
+        "FJ": -35,
+        "Fa": -50,
+        "Fc": -50,
+        "Fd": -50,
+        "Fe": -50,
+        "Fg": -50,
+        "Fo": -50,
+        "Fq": -50,
+        "Fs": -40,
+        "Fm": -25,
+        "Fn": -25,
+        "Fp": -25,
+        "Fr": -25,
+        "Fu": -25,
+        "Fi": -15,
+        "Fj": -15,
+        "Fv": -20,
+        "Fw": -20,
+        "Fx": -20,
+        "Fy": -20,
+        "Fz": -20,
+        "F.": -100,
+        "F,": -100,
+        "F:": -45,
+        "F;": -45,
+        "LC": -20,
+        "LG": -20,
+        "LO": -20,
+        "LQ": -20,
+        "Lc": -15,
+        "Ld": -15,
+        "Le": -15,
+        "Lg": -15,
+        "Lo": -15,
+        "Lq": -15,
+        "Lv": -50,
+        "Lw": -50,
+        "Ly": -50,
+        "L‘": -90,
+        "L’": -120,
+        "L“": -90,
+        "L”": -120,
+        "L?": -30,
+        "fb": 24,
+        "fh": 24,
+        "fk": 24,
+        "fl": 24
+      },
+      "evidence": "review-pass-2/kerning/REVIEW.md",
+      "limits": "Bounded second pass; other candidate families, digits, other punctuation and symbol permutations are not exhaustive.",
+      "coverage_status": {
+        "planned": 732,
+        "generated": 732,
+        "inspected": 732,
+        "accepted": 732,
+        "changed": 223,
+        "retained": 509,
+        "unresolved_within_scope": 0
+      }
+    },
+    "ligatures": {
+      "candidates_reviewed": "f family; Q tail; r diamond; crossbars; repeated shoulders; diagonals",
+      "new_substitutions": 0,
+      "recommendation": "Retain separate forms; spacing correction resolves nearest f-to-crown contacts.",
+      "added_positive_kerns": {
+        "fb": 24,
+        "fh": 24,
+        "fk": 24,
+        "fl": 24
+      },
+      "evidence": "review-pass-2/ligatures/REVIEW.md"
+    },
+    "verification": {
+      "all_export_pair_values_checked": true,
+      "all103UnicodeMappingsRetained": true,
+      "outlines_bearings_and_substitutions_unchanged": true,
+      "W_regressions_unchanged": true,
+      "overlapping_f_sequences_checked": true,
+      "integrated_visual_review": "Inspected final compiled48px display and24px native words; no collisions, preservedW and glyphdesign controls.",
+      "browser_font_and_kern_effects_verified": true
+    }
+  }
+}

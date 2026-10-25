@@ -1,0 +1,4 @@
+interface:
+  display_name: "Font Spacing and Kerning"
+  short_description: "Refine optical spacing and kerning rhythm"
+  default_prompt: "Use $font-spacing-kerning to review this font's spacing and propose evidence-backed corrections."

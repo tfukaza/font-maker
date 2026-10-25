@@ -1,0 +1,1 @@
+[{"tool":"suggest_spacing","args":{"glyph_names":["H","O","n","o"],"pair_candidates":[["A","V"],["R","e"],["S","n"],["u","p"]],"target_separation":35},"save":"spacing-proposal.json"},{"tool":"get_font_project","save":"inventory.json"}]

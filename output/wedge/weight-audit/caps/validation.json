@@ -1,0 +1,11 @@
+[
+  {
+    "code": "FONT_LICENSE_UNSET",
+    "severity": "info",
+    "message": "The generated font has no user-selected license metadata.",
+    "glyph": null,
+    "rule": null,
+    "measurements": {},
+    "suggested_action": null
+  }
+]

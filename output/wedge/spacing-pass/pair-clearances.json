@@ -1,0 +1,512 @@
+{
+  "AV": {
+    "kern": -95,
+    "minimum_horizontal_clearance_units": 261.4,
+    "median_horizontal_gap_units": 317.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "AW": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 215.3,
+    "median_horizontal_gap_units": 295.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "AY": {
+    "kern": -105,
+    "minimum_horizontal_clearance_units": 162.0,
+    "median_horizontal_gap_units": 346.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "AT": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 159.0,
+    "median_horizontal_gap_units": 324.1,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "VA": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 298.4,
+    "median_horizontal_gap_units": 319.8,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "WA": {
+    "kern": -80,
+    "minimum_horizontal_clearance_units": 274.0,
+    "median_horizontal_gap_units": 312.2,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "YA": {
+    "kern": -105,
+    "minimum_horizontal_clearance_units": 154.0,
+    "median_horizontal_gap_units": 343.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "TA": {
+    "kern": -95,
+    "minimum_horizontal_clearance_units": 166.0,
+    "median_horizontal_gap_units": 300.5,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "LT": {
+    "kern": -100,
+    "minimum_horizontal_clearance_units": 196.0,
+    "median_horizontal_gap_units": 360.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "LV": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 203.8,
+    "median_horizontal_gap_units": 468.2,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "LW": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 169.2,
+    "median_horizontal_gap_units": 457.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "LY": {
+    "kern": -105,
+    "minimum_horizontal_clearance_units": 209.0,
+    "median_horizontal_gap_units": 487.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "FA": {
+    "kern": -65,
+    "minimum_horizontal_clearance_units": 224.7,
+    "median_horizontal_gap_units": 310.1,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "PA": {
+    "kern": -65,
+    "minimum_horizontal_clearance_units": 225.9,
+    "median_horizontal_gap_units": 384.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Tr": {
+    "kern": -55,
+    "minimum_horizontal_clearance_units": 206.0,
+    "median_horizontal_gap_units": 314.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Tu": {
+    "kern": -55,
+    "minimum_horizontal_clearance_units": 258.0,
+    "median_horizontal_gap_units": 313.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Ty": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 277.0,
+    "median_horizontal_gap_units": 392.1,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Tv": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 277.0,
+    "median_horizontal_gap_units": 392.2,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Tw": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 267.3,
+    "median_horizontal_gap_units": 381.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Vr": {
+    "kern": -25,
+    "minimum_horizontal_clearance_units": 191.0,
+    "median_horizontal_gap_units": 324.2,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Vu": {
+    "kern": -25,
+    "minimum_horizontal_clearance_units": 187.8,
+    "median_horizontal_gap_units": 323.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Wr": {
+    "kern": -12,
+    "minimum_horizontal_clearance_units": 188.6,
+    "median_horizontal_gap_units": 314.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Wu": {
+    "kern": -12,
+    "minimum_horizontal_clearance_units": 185.7,
+    "median_horizontal_gap_units": 313.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Yr": {
+    "kern": -55,
+    "minimum_horizontal_clearance_units": 204.0,
+    "median_horizontal_gap_units": 312.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Yu": {
+    "kern": -55,
+    "minimum_horizontal_clearance_units": 201.4,
+    "median_horizontal_gap_units": 311.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Yv": {
+    "kern": -30,
+    "minimum_horizontal_clearance_units": 218.9,
+    "median_horizontal_gap_units": 405.2,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Yw": {
+    "kern": -30,
+    "minimum_horizontal_clearance_units": 209.3,
+    "median_horizontal_gap_units": 394.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Ta": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 262.0,
+    "median_horizontal_gap_units": 290.7,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Va": {
+    "kern": -62,
+    "minimum_horizontal_clearance_units": 208.0,
+    "median_horizontal_gap_units": 319.3,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Wa": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 207.3,
+    "median_horizontal_gap_units": 310.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Ya": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 228.4,
+    "median_horizontal_gap_units": 278.5,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Tc": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 240.0,
+    "median_horizontal_gap_units": 264.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Vc": {
+    "kern": -62,
+    "minimum_horizontal_clearance_units": 219.1,
+    "median_horizontal_gap_units": 260.1,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Wc": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 216.7,
+    "median_horizontal_gap_units": 255.3,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Yc": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 233.0,
+    "median_horizontal_gap_units": 245.3,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Te": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 240.0,
+    "median_horizontal_gap_units": 265.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Ve": {
+    "kern": -62,
+    "minimum_horizontal_clearance_units": 220.0,
+    "median_horizontal_gap_units": 261.5,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "We": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 217.4,
+    "median_horizontal_gap_units": 256.3,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Ye": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 233.0,
+    "median_horizontal_gap_units": 246.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Tg": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 240.7,
+    "median_horizontal_gap_units": 288.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Vg": {
+    "kern": -62,
+    "minimum_horizontal_clearance_units": 216.8,
+    "median_horizontal_gap_units": 332.3,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Wg": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 215.6,
+    "median_horizontal_gap_units": 319.2,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Yg": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 235.1,
+    "median_horizontal_gap_units": 267.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "To": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 242.0,
+    "median_horizontal_gap_units": 272.1,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Vo": {
+    "kern": -62,
+    "minimum_horizontal_clearance_units": 224.1,
+    "median_horizontal_gap_units": 265.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Wo": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 221.1,
+    "median_horizontal_gap_units": 260.3,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Yo": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 235.0,
+    "median_horizontal_gap_units": 252.3,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Ts": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 222.0,
+    "median_horizontal_gap_units": 255.7,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Vs": {
+    "kern": -62,
+    "minimum_horizontal_clearance_units": 195.8,
+    "median_horizontal_gap_units": 285.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Ws": {
+    "kern": -45,
+    "minimum_horizontal_clearance_units": 196.0,
+    "median_horizontal_gap_units": 277.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Ys": {
+    "kern": -90,
+    "minimum_horizontal_clearance_units": 214.1,
+    "median_horizontal_gap_units": 241.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "va": {
+    "kern": -22,
+    "minimum_horizontal_clearance_units": 140.4,
+    "median_horizontal_gap_units": 250.2,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "wa": {
+    "kern": -16,
+    "minimum_horizontal_clearance_units": 146.8,
+    "median_horizontal_gap_units": 259.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ya": {
+    "kern": -18,
+    "minimum_horizontal_clearance_units": 145.3,
+    "median_horizontal_gap_units": 256.2,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ve": {
+    "kern": -22,
+    "minimum_horizontal_clearance_units": 152.4,
+    "median_horizontal_gap_units": 190.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "we": {
+    "kern": -16,
+    "minimum_horizontal_clearance_units": 159.5,
+    "median_horizontal_gap_units": 196.8,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ye": {
+    "kern": -18,
+    "minimum_horizontal_clearance_units": 157.3,
+    "median_horizontal_gap_units": 195.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "vo": {
+    "kern": -22,
+    "minimum_horizontal_clearance_units": 156.5,
+    "median_horizontal_gap_units": 194.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "wo": {
+    "kern": -16,
+    "minimum_horizontal_clearance_units": 163.6,
+    "median_horizontal_gap_units": 201.3,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "yo": {
+    "kern": -18,
+    "minimum_horizontal_clearance_units": 161.3,
+    "median_horizontal_gap_units": 199.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ov": {
+    "kern": -14,
+    "minimum_horizontal_clearance_units": 155.5,
+    "median_horizontal_gap_units": 193.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ev": {
+    "kern": -12,
+    "minimum_horizontal_clearance_units": 146.7,
+    "median_horizontal_gap_units": 253.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "av": {
+    "kern": -8,
+    "minimum_horizontal_clearance_units": 170.7,
+    "median_horizontal_gap_units": 229.8,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ow": {
+    "kern": -14,
+    "minimum_horizontal_clearance_units": 147.7,
+    "median_horizontal_gap_units": 185.5,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ew": {
+    "kern": -12,
+    "minimum_horizontal_clearance_units": 140.0,
+    "median_horizontal_gap_units": 238.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "aw": {
+    "kern": -8,
+    "minimum_horizontal_clearance_units": 165.1,
+    "median_horizontal_gap_units": 218.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "oy": {
+    "kern": -14,
+    "minimum_horizontal_clearance_units": 155.4,
+    "median_horizontal_gap_units": 193.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ey": {
+    "kern": -12,
+    "minimum_horizontal_clearance_units": 146.7,
+    "median_horizontal_gap_units": 253.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "ay": {
+    "kern": -8,
+    "minimum_horizontal_clearance_units": 170.7,
+    "median_horizontal_gap_units": 231.5,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "V.": {
+    "kern": -100,
+    "minimum_horizontal_clearance_units": 306.4,
+    "median_horizontal_gap_units": 322.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "V,": {
+    "kern": -100,
+    "minimum_horizontal_clearance_units": 306.2,
+    "median_horizontal_gap_units": 325.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "W.": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 288.8,
+    "median_horizontal_gap_units": 305.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "W,": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 288.5,
+    "median_horizontal_gap_units": 307.7,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Y.": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 246.0,
+    "median_horizontal_gap_units": 249.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "Y,": {
+    "kern": -85,
+    "minimum_horizontal_clearance_units": 244.0,
+    "median_horizontal_gap_units": 248.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "T.": {
+    "kern": -80,
+    "minimum_horizontal_clearance_units": 253.0,
+    "median_horizontal_gap_units": 253.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "T,": {
+    "kern": -80,
+    "minimum_horizontal_clearance_units": 251.0,
+    "median_horizontal_gap_units": 252.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "r.": {
+    "kern": -40,
+    "minimum_horizontal_clearance_units": 256.0,
+    "median_horizontal_gap_units": 256.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "r,": {
+    "kern": -40,
+    "minimum_horizontal_clearance_units": 254.1,
+    "median_horizontal_gap_units": 255.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "v.": {
+    "kern": -50,
+    "minimum_horizontal_clearance_units": 248.8,
+    "median_horizontal_gap_units": 264.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "v,": {
+    "kern": -50,
+    "minimum_horizontal_clearance_units": 248.6,
+    "median_horizontal_gap_units": 267.0,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "w.": {
+    "kern": -50,
+    "minimum_horizontal_clearance_units": 254.9,
+    "median_horizontal_gap_units": 270.1,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "w,": {
+    "kern": -50,
+    "minimum_horizontal_clearance_units": 254.7,
+    "median_horizontal_gap_units": 272.6,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "y.": {
+    "kern": -50,
+    "minimum_horizontal_clearance_units": 249.2,
+    "median_horizontal_gap_units": 264.9,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  },
+  "y,": {
+    "kern": -50,
+    "minimum_horizontal_clearance_units": 249.0,
+    "median_horizontal_gap_units": 294.4,
+    "measurement_note": "Outer-boundary scanlines every 2 units; approximate, diagnostic only."
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "candidate": "d-770",
+    "revision": "0829d8a484ac15c3ebe34c16f9b757b8b114b41075019f6780d441bb4c4b90f9",
+    "sha256": "bb1cd32346cfbef3a4eacbd41560aac258c3173af103c373bcae3782e63f6bfe"
+  },
+  {
+    "candidate": "d-778",
+    "revision": "bf5c5830ccf64e0570921cf35f52f1d91e66f2f1c89642a3fcfa60b7d061e5f4",
+    "sha256": "da66f0851ea2e305cb5638c37d65b54ff4bdffdc65a1763726a22a2fe543f863"
+  }
+]

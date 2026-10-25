@@ -1,0 +1,506 @@
+[
+  {
+    "name": "B",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0042.svg",
+    "codepoints": [
+      "U+0042"
+    ],
+    "advance_width": 720
+  },
+  {
+    "name": "C",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0043.svg",
+    "codepoints": [
+      "U+0043"
+    ],
+    "advance_width": 710
+  },
+  {
+    "name": "D",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0044.svg",
+    "codepoints": [
+      "U+0044"
+    ],
+    "advance_width": 760
+  },
+  {
+    "name": "G",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0047.svg",
+    "codepoints": [
+      "U+0047"
+    ],
+    "advance_width": 745
+  },
+  {
+    "name": "J",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u004a.svg",
+    "codepoints": [
+      "U+004A"
+    ],
+    "advance_width": 520
+  },
+  {
+    "name": "K",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u004b.svg",
+    "codepoints": [
+      "U+004B"
+    ],
+    "advance_width": 730
+  },
+  {
+    "name": "L",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u004c.svg",
+    "codepoints": [
+      "U+004C"
+    ],
+    "advance_width": 645
+  },
+  {
+    "name": "M",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u004d.svg",
+    "codepoints": [
+      "U+004D"
+    ],
+    "advance_width": 920
+  },
+  {
+    "name": "N",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u004e.svg",
+    "codepoints": [
+      "U+004E"
+    ],
+    "advance_width": 750
+  },
+  {
+    "name": "P",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0050.svg",
+    "codepoints": [
+      "U+0050"
+    ],
+    "advance_width": 700
+  },
+  {
+    "name": "Q",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0051.svg",
+    "codepoints": [
+      "U+0051"
+    ],
+    "advance_width": 760
+  },
+  {
+    "name": "T",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0054.svg",
+    "codepoints": [
+      "U+0054"
+    ],
+    "advance_width": 740
+  },
+  {
+    "name": "U",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0055.svg",
+    "codepoints": [
+      "U+0055"
+    ],
+    "advance_width": 760
+  },
+  {
+    "name": "W",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0057.svg",
+    "codepoints": [
+      "U+0057"
+    ],
+    "advance_width": 895
+  },
+  {
+    "name": "X",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0058.svg",
+    "codepoints": [
+      "U+0058"
+    ],
+    "advance_width": 715
+  },
+  {
+    "name": "Z",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u005a.svg",
+    "codepoints": [
+      "U+005A"
+    ],
+    "advance_width": 700
+  },
+  {
+    "name": "Y",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0059.svg",
+    "codepoints": [
+      "U+0059"
+    ],
+    "advance_width": 710
+  },
+  {
+    "name": "zero",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0030.svg",
+    "codepoints": [
+      "U+0030"
+    ],
+    "advance_width": 560
+  },
+  {
+    "name": "one",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0031.svg",
+    "codepoints": [
+      "U+0031"
+    ],
+    "advance_width": 410
+  },
+  {
+    "name": "two",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0032.svg",
+    "codepoints": [
+      "U+0032"
+    ],
+    "advance_width": 560
+  },
+  {
+    "name": "three",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0033.svg",
+    "codepoints": [
+      "U+0033"
+    ],
+    "advance_width": 550
+  },
+  {
+    "name": "four",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0034.svg",
+    "codepoints": [
+      "U+0034"
+    ],
+    "advance_width": 575
+  },
+  {
+    "name": "five",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0035.svg",
+    "codepoints": [
+      "U+0035"
+    ],
+    "advance_width": 550
+  },
+  {
+    "name": "six",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0036.svg",
+    "codepoints": [
+      "U+0036"
+    ],
+    "advance_width": 570
+  },
+  {
+    "name": "seven",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0037.svg",
+    "codepoints": [
+      "U+0037"
+    ],
+    "advance_width": 560
+  },
+  {
+    "name": "eight",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0038.svg",
+    "codepoints": [
+      "U+0038"
+    ],
+    "advance_width": 560
+  },
+  {
+    "name": "nine",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0039.svg",
+    "codepoints": [
+      "U+0039"
+    ],
+    "advance_width": 570
+  },
+  {
+    "name": "uni003A",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u003a.svg",
+    "codepoints": [
+      "U+003A"
+    ],
+    "advance_width": 185
+  },
+  {
+    "name": "uni003B",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u003b.svg",
+    "codepoints": [
+      "U+003B"
+    ],
+    "advance_width": 185
+  },
+  {
+    "name": "uni0021",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0021.svg",
+    "codepoints": [
+      "U+0021"
+    ],
+    "advance_width": 240
+  },
+  {
+    "name": "uni003F",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u003f.svg",
+    "codepoints": [
+      "U+003F"
+    ],
+    "advance_width": 520
+  },
+  {
+    "name": "uni0022",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0022.svg",
+    "codepoints": [
+      "U+0022"
+    ],
+    "advance_width": 300
+  },
+  {
+    "name": "uni0060",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0060.svg",
+    "codepoints": [
+      "U+0060"
+    ],
+    "advance_width": 180
+  },
+  {
+    "name": "uni0028",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0028.svg",
+    "codepoints": [
+      "U+0028"
+    ],
+    "advance_width": 315
+  },
+  {
+    "name": "uni0029",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0029.svg",
+    "codepoints": [
+      "U+0029"
+    ],
+    "advance_width": 315
+  },
+  {
+    "name": "uni005B",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u005b.svg",
+    "codepoints": [
+      "U+005B"
+    ],
+    "advance_width": 300
+  },
+  {
+    "name": "uni005D",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u005d.svg",
+    "codepoints": [
+      "U+005D"
+    ],
+    "advance_width": 300
+  },
+  {
+    "name": "uni007B",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u007b.svg",
+    "codepoints": [
+      "U+007B"
+    ],
+    "advance_width": 350
+  },
+  {
+    "name": "uni007D",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u007d.svg",
+    "codepoints": [
+      "U+007D"
+    ],
+    "advance_width": 350
+  },
+  {
+    "name": "uni002F",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u002f.svg",
+    "codepoints": [
+      "U+002F"
+    ],
+    "advance_width": 405
+  },
+  {
+    "name": "uni005C",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u005c.svg",
+    "codepoints": [
+      "U+005C"
+    ],
+    "advance_width": 405
+  },
+  {
+    "name": "uni007C",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u007c.svg",
+    "codepoints": [
+      "U+007C"
+    ],
+    "advance_width": 220
+  },
+  {
+    "name": "uni005F",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u005f.svg",
+    "codepoints": [
+      "U+005F"
+    ],
+    "advance_width": 580
+  },
+  {
+    "name": "uni002B",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u002b.svg",
+    "codepoints": [
+      "U+002B"
+    ],
+    "advance_width": 550
+  },
+  {
+    "name": "uni003D",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u003d.svg",
+    "codepoints": [
+      "U+003D"
+    ],
+    "advance_width": 550
+  },
+  {
+    "name": "uni003C",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u003c.svg",
+    "codepoints": [
+      "U+003C"
+    ],
+    "advance_width": 490
+  },
+  {
+    "name": "uni003E",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u003e.svg",
+    "codepoints": [
+      "U+003E"
+    ],
+    "advance_width": 490
+  },
+  {
+    "name": "uni007E",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u007e.svg",
+    "codepoints": [
+      "U+007E"
+    ],
+    "advance_width": 550
+  },
+  {
+    "name": "uni005E",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u005e.svg",
+    "codepoints": [
+      "U+005E"
+    ],
+    "advance_width": 490
+  },
+  {
+    "name": "uni002A",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u002a.svg",
+    "codepoints": [
+      "U+002A"
+    ],
+    "advance_width": 510
+  },
+  {
+    "name": "uni0023",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0023.svg",
+    "codepoints": [
+      "U+0023"
+    ],
+    "advance_width": 640
+  },
+  {
+    "name": "uni0025",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0025.svg",
+    "codepoints": [
+      "U+0025"
+    ],
+    "advance_width": 760
+  },
+  {
+    "name": "uni0024",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0024.svg",
+    "codepoints": [
+      "U+0024"
+    ],
+    "advance_width": 615
+  },
+  {
+    "name": "uni0026",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0026.svg",
+    "codepoints": [
+      "U+0026"
+    ],
+    "advance_width": 770
+  },
+  {
+    "name": "uni0040",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u0040.svg",
+    "codepoints": [
+      "U+0040"
+    ],
+    "advance_width": 920
+  },
+  {
+    "name": "uni2013",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u2013.svg",
+    "codepoints": [
+      "U+2013"
+    ],
+    "advance_width": 650
+  },
+  {
+    "name": "uni2014",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u2014.svg",
+    "codepoints": [
+      "U+2014"
+    ],
+    "advance_width": 1000
+  },
+  {
+    "name": "uni2019",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u2019.svg",
+    "codepoints": [
+      "U+2019"
+    ],
+    "advance_width": 175
+  },
+  {
+    "name": "uni2018",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u2018.svg",
+    "codepoints": [
+      "U+2018"
+    ],
+    "advance_width": 175
+  },
+  {
+    "name": "uni201D",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u201d.svg",
+    "codepoints": [
+      "U+201D"
+    ],
+    "advance_width": 300
+  },
+  {
+    "name": "uni201C",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u201c.svg",
+    "codepoints": [
+      "U+201C"
+    ],
+    "advance_width": 300
+  },
+  {
+    "name": "uni2022",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u2022.svg",
+    "codepoints": [
+      "U+2022"
+    ],
+    "advance_width": 350
+  },
+  {
+    "name": "uni2026",
+    "svg_path": "/Users/tomokif/code/font-maker/output/party-blob/drawings/u2026.svg",
+    "codepoints": [
+      "U+2026"
+    ],
+    "advance_width": 550
+  }
+]

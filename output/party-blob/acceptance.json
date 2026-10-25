@@ -1,0 +1,55 @@
+{
+  "revision": "0160db525812d5fa5000d5d51bca1dda700b21b92abddb9691ef1b22939451bf",
+  "formats": {
+    "ttf": {
+      "sha256_verified": true,
+      "upm": 1000,
+      "coverage_verified": true,
+      "encoded_characters": 103,
+      "glyph_count": 112,
+      "all_103_shape_without_notdef": true,
+      "discretionary_substitution": [
+        "E_n",
+        "space",
+        "E_n",
+        "g",
+        "i_n",
+        "e"
+      ]
+    },
+    "otf": {
+      "sha256_verified": true,
+      "upm": 1000,
+      "coverage_verified": true,
+      "encoded_characters": 103,
+      "glyph_count": 110,
+      "all_103_shape_without_notdef": true,
+      "discretionary_substitution": [
+        "E_n",
+        "space",
+        "E_n",
+        "g",
+        "i_n",
+        "e"
+      ]
+    },
+    "woff2": {
+      "sha256_verified": true,
+      "upm": 1000,
+      "coverage_verified": true,
+      "encoded_characters": 103,
+      "glyph_count": 112,
+      "all_103_shape_without_notdef": true,
+      "discretionary_substitution": [
+        "E_n",
+        "space",
+        "E_n",
+        "g",
+        "i_n",
+        "e"
+      ]
+    }
+  },
+  "kerning_delta": -350,
+  "standard_ligature_comparison": "identical; no standard substitutions configured"
+}

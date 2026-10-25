@@ -1,0 +1,23 @@
+{
+  "A": {
+    "diagonal": 96,
+    "bar": 76,
+    "left_baseline": 174.3808348930852,
+    "source": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-A.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-A/build/fonts/HakilandDisplay-Regular.ttf"
+  },
+  "B": {
+    "diagonal": 88,
+    "bar": 68,
+    "left_baseline": 182.84909865199475,
+    "source": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-B.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-B/build/fonts/HakilandDisplay-Regular.ttf"
+  },
+  "C": {
+    "diagonal": 80,
+    "bar": 60,
+    "left_baseline": 191.3173624109043,
+    "source": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/seven-C.svg",
+    "font": "/Users/tomokif/code/font-maker/output/wedge/consistency-audit/integration/trial-C/build/fonts/HakilandDisplay-Regular.ttf"
+  }
+}

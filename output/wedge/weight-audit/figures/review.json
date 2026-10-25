@@ -1,0 +1,130 @@
+{
+  "baseline_revision": "c5c1dfebdde7e86a107e9b155087a50ececa2a571cbd6d86c8d50010f22c451c",
+  "font_sha256": "07ff25a10eb43e8bd90e5d88a2d1b63fb7a9e4abdbff6402c261c4cd50b23b7f",
+  "proof_records": "proof-records.json",
+  "visual_status": "inspected",
+  "geometry_status": "inspected",
+  "glyphs": [
+    {
+      "character": "0",
+      "codepoint": "U+0030",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0030.svg",
+      "source_sha256": "d872d3fa806acbedd32a7852a645d1a3650c484c8e09c1343139bd09928f6408",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain: 121-unit mid-side strokes compensate the curved sides; 22-unit top/bottom hairlines remain clear in 00 and 06. No local swelling.",
+      "proposal": null
+    },
+    {
+      "character": "1",
+      "codepoint": "U+0031",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0031.svg",
+      "source_sha256": "220e4b1231da0a1e342df33b2bb3dacb4e9a16ea7f89807604b2df1a3ea7e331",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain: 114-unit upright matches the figure stem family and H comparison. The broad base and head wedge add deliberate terminal mass, not a heavy body.",
+      "proposal": null
+    },
+    {
+      "character": "2",
+      "codepoint": "U+0032",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0032.svg",
+      "source_sha256": "fe73c8d3459a9a315195b1eeb14a46a293437a854566be626bb62ef7ab68ded5",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain: right upper bowl is approximately119 units at the extremum; descending taper is light by contrast design. Solid baseline wedge balances the curved head in 22 and 23.",
+      "proposal": null
+    },
+    {
+      "character": "3",
+      "codepoint": "U+0033",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0033.svg",
+      "source_sha256": "7c702d022922415c2a02d554125750e44469761fa7efec559a115f8e223237c4",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain: the105-unit top bar is balanced by a light diagonal and open lower bowl. Lower right thick stroke is about126 units and its22-unit baseline hairline keeps 33 from darkening.",
+      "proposal": null
+    },
+    {
+      "character": "4",
+      "codepoint": "U+0034",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0034.svg",
+      "source_sha256": "3384499ed5991dedd82a7756f1e06ffd9219138e51309cdcb4c851f1fbe841bc",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain: 114-unit vertical,30-unit crossbar, and light left diagonal form a deliberate contrast system. The crossbar junction is local, with a spacious triangular counter.",
+      "proposal": null
+    },
+    {
+      "character": "5",
+      "codepoint": "U+0035",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0035.svg",
+      "source_sha256": "2d7d4e353416344e83fcd24fb81308a3df5d0bd793db572c495bc077a4f0d17a",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain:106-unit top bar balances a roughly124-unit bowl side and22-unit baseline hairline. Curve transitions stay open in 55 and35; no long heavy uninterrupted stroke comparable to7.",
+      "proposal": null
+    },
+    {
+      "character": "6",
+      "codepoint": "U+0036",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0036.svg",
+      "source_sha256": "2c938156ebb9d4c3d49d561db2c99126a8a963923157a84f27e32659d1647b05",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain: approximately120\u2013124-unit sides with22-unit baseline hairline and tapered entry. The shoulder join looks slightly darker locally, but 06/68 proofs show coherent overall weight and open counter.",
+      "proposal": null
+    },
+    {
+      "character": "7",
+      "codepoint": "U+0037",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/refined/glyph-U0037.svg",
+      "source_sha256": "b753542b39d5e0e048946050564a9aee2ad39b2d7443753cdbfcc30fc64c913b",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "change",
+      "observation": "Change to candidateC: lighten long diagonal from about132.2 to108 perpendicular units, top bar109\u219292. Inspected original/A/B/C in number rows, repeated777, prices, and24px. C best balances1/4/6; preserve slope235:677,45-degree wedge, original outerbounds and546 advance.",
+      "proposal": "seven-C.svg"
+    },
+    {
+      "character": "8",
+      "codepoint": "U+0038",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0038.svg",
+      "source_sha256": "ae86ec171030a1c5612350aa3ab50c2772748622f507c00d01c117c0c67b99bb",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain: unequal bowl sides and thin extrema preserve the crossing contrast; central knot is intentional and does not merge into a heavy band in88/89. Do not equalize all its curved thicknesses.",
+      "proposal": null
+    },
+    {
+      "character": "9",
+      "codepoint": "U+0039",
+      "source": "/Users/tomokif/code/font-maker/output/wedge/drawings/glyph-U0039.svg",
+      "source_sha256": "661059ab3e2bb1983d2c4300e783b3db07a9d38fe7b38b0d2df6b0a4addbfee5",
+      "visual": "inspected",
+      "geometry": "inspected",
+      "recommendation": "retain",
+      "observation": "Retain: mirrored6 construction retains approximately120\u2013124-unit sides,22-unit top hairline, and light exit. 89/98 comparisons have coherent apparent mass.",
+      "proposal": null
+    }
+  ],
+  "seven": {
+    "selected": "C",
+    "independent_reviewer": "weight_lower",
+    "before_diagonal": 132.25851625389367,
+    "after_diagonal": 108,
+    "before_bar": 109,
+    "after_bar": 92,
+    "parallel_edge_slope": 0.34711964549483015,
+    "advance": 546,
+    "reason": "A/B retain excessive mass along a long uninterrupted diagonal; C is optically balanced in compiled display/native specimens."
+  }
+}

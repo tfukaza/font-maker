@@ -1,0 +1,1169 @@
+{
+  "font_sha256": "722a137664547f22ad114a29158d36ac9046230a94d34b81c89f16c4734d7c95",
+  "pair_count": 103,
+  "pairs": [
+    {
+      "pair": "WA",
+      "kern": -80,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -80,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WB",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WC",
+      "kern": -35,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WD",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WE",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WF",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WG",
+      "kern": -35,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WH",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WI",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WJ",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WK",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WL",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WM",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WN",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WO",
+      "kern": -35,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WP",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WQ",
+      "kern": -35,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WR",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WS",
+      "kern": -35,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WT",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WU",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WV",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WX",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WY",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "WZ",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wa",
+      "kern": -110,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -45,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wb",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wc",
+      "kern": -110,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -45,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wd",
+      "kern": -110,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "We",
+      "kern": -110,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -45,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wf",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wg",
+      "kern": -110,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -45,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wh",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wi",
+      "kern": -65,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wj",
+      "kern": -65,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wk",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wl",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wm",
+      "kern": -80,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wn",
+      "kern": -80,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wo",
+      "kern": -110,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -45,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wp",
+      "kern": -80,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wq",
+      "kern": -110,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wr",
+      "kern": -80,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -12,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Ws",
+      "kern": -90,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -45,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wt",
+      "kern": -35,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wu",
+      "kern": -80,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -12,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wv",
+      "kern": -65,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Ww",
+      "kern": -65,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wx",
+      "kern": -65,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wy",
+      "kern": -65,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "Wz",
+      "kern": -65,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "acceptable_at_reviewed_sizes",
+      "notes": "No visible collision or over-tightening in matrix; improved compared with baseline.",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "AW",
+      "kern": -90,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -90,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "BW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "CW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "DW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "EW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "FW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "GW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "HW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "IW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "JW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "KW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "LW",
+      "kern": -85,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": -85,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "MW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "NW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "OW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "PW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "QW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "RW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "SW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "TW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "UW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "VW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "XW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "YW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "ZW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "aW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "bW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "cW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "dW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "eW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "fW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "gW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "hW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "iW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "jW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "kW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "lW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "mW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "nW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "oW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "pW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "qW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "rW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "sW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "tW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "uW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "vW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "wW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "xW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "yW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    },
+    {
+      "pair": "zW",
+      "kern": 0,
+      "visually_inspected_sizes_px": [
+        100,
+        28
+      ],
+      "baseline_kern": 0,
+      "trial_visual_status": "unchanged_control_visually_reviewed",
+      "production_acceptance": "pending_separate_word_review_and_integrated_export"
+    }
+  ],
+  "changed_pair_count": 26,
+  "unchanged_pair_count": 77,
+  "trial_revision": "d78807a2daf6bb6fe5331a00982ce00ac42e34411f3bd2f520d7d03c1de1a8ea",
+  "scope": "103 ordered W/alphabet pairs, visual review at 100px and28px; matrix acceptance only."
+}

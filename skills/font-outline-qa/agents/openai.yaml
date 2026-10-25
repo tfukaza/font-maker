@@ -1,0 +1,4 @@
+interface:
+  display_name: "Font Outline QA"
+  short_description: "Inspect safe outlines, tangent joins, and curve quality"
+  default_prompt: "Use $font-outline-qa to inspect these original glyphs for import safety, tangent continuity, and compiled outline defects."

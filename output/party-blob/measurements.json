@@ -1,0 +1,105 @@
+{
+  "method": "Cubic curves sampled at 100 steps per segment; horizontal ink intervals in source font units, approximate. Sections distinguish thick and thin families, not a universal stroke width.",
+  "sections": {
+    "n": {
+      "svg_y_600_font_y_200": [
+        13.7,
+        95.5
+      ],
+      "svg_y_440_font_y_360": [
+        277.4
+      ]
+    },
+    "p": {
+      "svg_y_600_font_y_200": [
+        50.2,
+        170.5
+      ],
+      "svg_y_440_font_y_360": [
+        253.6
+      ]
+    },
+    "g": {
+      "svg_y_600_font_y_200": [
+        113.7,
+        148.7
+      ],
+      "svg_y_440_font_y_360": [
+        113.9,
+        176.7
+      ]
+    },
+    "o": {
+      "svg_y_600_font_y_200": [
+        91.6,
+        152.8
+      ],
+      "svg_y_440_font_y_360": [
+        92.2,
+        146.2
+      ]
+    },
+    "l": {
+      "svg_y_600_font_y_200": [
+        54.6
+      ],
+      "svg_y_440_font_y_360": [
+        58.1
+      ]
+    },
+    "h": {
+      "svg_y_600_font_y_200": [
+        52.2,
+        87.3
+      ],
+      "svg_y_440_font_y_360": [
+        31.8,
+        229.9
+      ]
+    },
+    "H": {
+      "svg_y_600_font_y_200": [
+        80.1,
+        89.4
+      ],
+      "svg_y_440_font_y_360": [
+        478.6
+      ]
+    },
+    "I": {
+      "svg_y_600_font_y_200": [
+        70.4
+      ],
+      "svg_y_440_font_y_360": [
+        60.8
+      ]
+    },
+    "f": {
+      "svg_y_600_font_y_200": [
+        71.6
+      ],
+      "svg_y_440_font_y_360": [
+        274.4
+      ]
+    },
+    "t": {
+      "svg_y_600_font_y_200": [
+        49.0
+      ],
+      "svg_y_440_font_y_360": [
+        267.8
+      ]
+    },
+    "m": {
+      "svg_y_600_font_y_200": [
+        42.5,
+        102.8,
+        81.8
+      ],
+      "svg_y_440_font_y_360": [
+        210.6,
+        250.4
+      ]
+    }
+  }
+}
