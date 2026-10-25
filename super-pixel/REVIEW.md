@@ -6,9 +6,9 @@ Current revision: `e1e93a6fbe9c7850195bdebd959989b7fc43865254fea8c917347c74c5800
 
 Raised the `i` and `j` body tops from 400 to the declared 500-unit x-height; moved their unchanged 100×100 dots from 500–600 to 600–700, retaining a 100-unit gap. The `i` baseline stays at 0 and `j` descender at −100. Advances, sidebearings, kerning, mappings, and every other compiled outline are unchanged. TTF, OTF, and WOFF2 measurements agree; validation reports only the existing unset-font-license information message.
 
-Inspected the [before/after comparison](snap-grid/build/previews/dotted-height-fix-2026-09-15/comparison.png), guide-overlaid controls, `minimum ninja jinx` at 72px/3× and native 24px/16px, the original title words, and punctuation/f-sequence contexts. The stems now share the n/x top line instead of dropping a module below it. Dots stay separate at native sizes, the square construction and j foot are preserved, and neither `fi` nor `ij` fuses. This accepts the scoped dotted-height repair, not a new whole-font review.
+Inspected the [before/after comparison](build/previews/dotted-height-fix-2026-09-15/comparison.png), guide-overlaid controls, `minimum ninja jinx` at 72px/3× and native 24px/16px, the original title words, and punctuation/f-sequence contexts. The stems now share the n/x top line instead of dropping a module below it. Dots stay separate at native sizes, the square construction and j foot are preserved, and neither `fi` nor `ij` fuses. This accepts the scoped dotted-height repair, not a new whole-font review.
 
-The [repair report](snap-grid/build/previews/dotted-height-fix-2026-09-15/report.json) records settings, shaping, hashes, measurements, and recoverable pre-fix font/source backups. The generator now preserves this correction, with regression tests for all three export formats. Earlier evidence below belongs to the explicitly stated earlier revision and has not been relabeled as current.
+The [repair report](build/previews/dotted-height-fix-2026-09-15/report.json) records settings, shaping, hashes, measurements, and recoverable pre-fix font/source backups. The generator now preserves this correction, with regression tests for all three export formats. Earlier evidence below belongs to the explicitly stated earlier revision and has not been relabeled as current.
 
 ## Earlier spacing and punctuation review
 
@@ -57,13 +57,13 @@ Colon and semicolon dots changed from 200×200 to 100×100 units, matching the p
 
 ## Evidence
 
-- [Actual before/after ra comparison](snap-grid/build/previews/kerning-review/super-pixel-ra-comparison.png)
-- [Actual before/after punctuation comparison](snap-grid/build/previews/kerning-review/super-pixel-punctuation-comparison.png)
-- [re/ro candidate comparison](snap-grid/build/previews/kerning-review/re-ro-candidates.png)
-- [ro in words](snap-grid/build/previews/kerning-review/ro-words.png)
-- [re/ro native 24px check](snap-grid/build/previews/kerning-review/re-ro-small.png)
-- [Final text and punctuation](snap-grid/build/previews/super-pixel-punctuation.png)
-- [Native 24px check](snap-grid/build/previews/super-pixel-small.png)
+- [Actual before/after ra comparison](build/previews/kerning-review/super-pixel-ra-comparison.png)
+- [Actual before/after punctuation comparison](build/previews/kerning-review/super-pixel-punctuation-comparison.png)
+- [re/ro candidate comparison](build/previews/kerning-review/re-ro-candidates.png)
+- [ro in words](build/previews/kerning-review/ro-words.png)
+- [re/ro native 24px check](build/previews/kerning-review/re-ro-small.png)
+- [Final text and punctuation](build/previews/super-pixel-punctuation.png)
+- [Native 24px check](build/previews/super-pixel-small.png)
 - [Build report, hashes, revisions, and recoverable earlier versions](build-report.json)
 
 The reusable skill script generates further proof sheets with pending review entries. Generation alone does not certify their visual quality. Export validation reports no errors or warnings; the remaining information message is that the designer has not selected a font license.

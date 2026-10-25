@@ -20,7 +20,7 @@ from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
 
 ROOT = Path(__file__).parents[1]
-DEFAULT_OUTPUT = ROOT / "output" / "concept-fonts"
+DEFAULT_OUTPUT = ROOT / "archive" / "concept-fonts"
 GRID_REFERENCE = Path(
     "/var/folders/61/r756smb95_16p68hfyzwypq40000gn/T/"
     "codex-clipboard-2102ce4d-0490-460d-8814-90a0e6d5bd04.png"

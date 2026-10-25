@@ -26,8 +26,8 @@ from examples.generate_concept_fonts import (
 )
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT / "output/concept-fonts/snap-grid"
-DEST = ROOT / "output/super-pixel-ligature-study"
+SOURCE = ROOT / "super-pixel"
+DEST = ROOT / "archive/super-pixel-ligature-study"
 CANDIDATES = {
     "ct": (5, -60, "Factory actor", "Shared upper rail; open c mouth and distinct t stem."),
     "tt": (4, -60, "letter little", "Shared crossbar; two ascenders and separate feet."),

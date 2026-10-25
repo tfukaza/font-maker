@@ -14,7 +14,7 @@ from font_maker.preview import compose_preview_svg, shape_font, svg_to_png
 from font_maker.service import FontMakerService
 
 ROOT=Path(__file__).resolve().parents[1]
-OUT=ROOT/'output/wedge'
+OUT=ROOT/'archive/wedge'
 service=FontMakerService()
 info=service.open_project(str(OUT))
 project=service._store_project(info['project_id'])[1]

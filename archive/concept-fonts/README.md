@@ -10,12 +10,12 @@ These two fonts were drawn from scratch from the supplied concept images with Fo
 - Colon and semicolon dots use the same 100-unit module as the period; the semicolon tail matches the comma.
 - No ligatures in the final build: the visual feature-on/off review did not justify them for this geometric design.
 
-The project keeps its original `snap-grid` directory for existing tool handles. Installable files are named `SuperPixel-Regular.ttf`, `.otf`, and `.woff2`, and their internal font family is **Super Pixel**.
+The Super Pixel project has moved to the top-level `super-pixel/` directory (its review notes are in `super-pixel/REVIEW.md`). Installable files are named `SuperPixel-Regular.ttf`, `.otf`, and `.woff2`, and their internal font family is **Super Pixel**.
 
 Generate reusable kerning review sheets with:
 
 ```shell
-.venv/bin/python skills/font-spacing-kerning/scripts/render_kerning_proofs.py output/concept-fonts/snap-grid --pair ra --text "rare Typography parallel; 12:30"
+.venv/bin/python skills/font-spacing-kerning/scripts/render_kerning_proofs.py super-pixel --pair ra --text "rare Typography parallel; 12:30"
 ```
 
 Each run creates PNG/SVG comparisons and an `index.json` with exact shaping evidence and pending visual-review entries. Default examples are not exhaustive.
