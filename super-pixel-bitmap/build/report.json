@@ -1,0 +1,1919 @@
+{
+  "source": {
+    "path": "/Users/tomokif/code/font-maker/super-pixel",
+    "project_id": "f3721ac8-ee24-448d-923a-4e171260735d",
+    "revision": "e1e93a6fbe9c7850195bdebd959989b7fc43865254fea8c917347c74c5800fd4",
+    "family_name": "Super Pixel",
+    "style_name": "Regular",
+    "glyph_count": 103,
+    "kerning_pair_count": 34,
+    "ligature_count": 0,
+    "capabilities": {
+      "font_maker_version": "0.1.0",
+      "fontforge": {
+        "available": true,
+        "executable": "/opt/homebrew/bin/fontforge",
+        "version": "20251009",
+        "required_version": "20251009",
+        "compatible": true,
+        "license": "GPL-3.0-or-later",
+        "credit": "FontForge by George Williams and the FontForge contributors",
+        "source": "https://github.com/fontforge/fontforge/tree/20251009"
+      },
+      "formats": [
+        "ttf",
+        "otf",
+        "woff2"
+      ],
+      "transport": "stdio"
+    }
+  },
+  "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365",
+  "cells": {
+    "A": 18,
+    "B": 20,
+    "C": 13,
+    "D": 18,
+    "E": 18,
+    "F": 14,
+    "G": 17,
+    "H": 17,
+    "I": 11,
+    "J": 12,
+    "K": 14,
+    "L": 11,
+    "M": 17,
+    "N": 17,
+    "O": 16,
+    "P": 15,
+    "Q": 17,
+    "R": 18,
+    "S": 15,
+    "T": 11,
+    "U": 15,
+    "V": 13,
+    "W": 18,
+    "X": 13,
+    "Y": 10,
+    "Z": 15,
+    "a": 14,
+    "b": 16,
+    "c": 11,
+    "d": 16,
+    "e": 15,
+    "f": 12,
+    "g": 18,
+    "h": 14,
+    "i": 6,
+    "j": 9,
+    "k": 13,
+    "l": 10,
+    "m": 16,
+    "n": 12,
+    "o": 12,
+    "p": 16,
+    "q": 16,
+    "r": 9,
+    "s": 13,
+    "t": 11,
+    "u": 12,
+    "v": 9,
+    "w": 12,
+    "x": 9,
+    "y": 16,
+    "z": 13,
+    "zero": 19,
+    "one": 10,
+    "two": 14,
+    "three": 15,
+    "four": 14,
+    "five": 17,
+    "six": 16,
+    "seven": 11,
+    "eight": 17,
+    "nine": 16,
+    "exclam": 6,
+    "quotedbl": 4,
+    "numbersign": 16,
+    "dollar": 13,
+    "percent": 13,
+    "ampersand": 15,
+    "quotesingle": 2,
+    "parenleft": 7,
+    "parenright": 7,
+    "asterisk": 17,
+    "plus": 9,
+    "comma": 3,
+    "hyphen": 4,
+    "period": 1,
+    "slash": 7,
+    "colon": 2,
+    "semicolon": 4,
+    "less": 7,
+    "equal": 10,
+    "greater": 7,
+    "question": 9,
+    "at": 23,
+    "bracketleft": 11,
+    "backslash": 7,
+    "bracketright": 11,
+    "asciicircum": 5,
+    "underscore": 5,
+    "grave": 2,
+    "braceleft": 9,
+    "bar": 7,
+    "braceright": 9,
+    "asciitilde": 6,
+    "bullet": 9,
+    "ellipsis": 12,
+    "endash": 6,
+    "emdash": 8,
+    "quoteleft": 2,
+    "quoteright": 2,
+    "quotedblleft": 4,
+    "quotedblright": 4,
+    "space": 0
+  },
+  "diagnostics": [
+    {
+      "code": "FONT_LICENSE_UNSET",
+      "severity": "info",
+      "message": "The generated font has no user-selected license metadata.",
+      "glyph": null,
+      "rule": null,
+      "measurements": {},
+      "suggested_action": null
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "A",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "B",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "C",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "D",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "G",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "J",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "K",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "M",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "N",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "O",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "P",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "Q",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "R",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "S",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "U",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "V",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "W",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "X",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "Y",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "Z",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "a",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "ampersand",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "asciicircum",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "asciitilde",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "asterisk",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "at",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "b",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "backslash",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "braceleft",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "braceright",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "c",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "comma",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "d",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "dollar",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "e",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "eight",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "five",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "four",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "g",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "grave",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "greater",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "h",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "j",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "k",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "less",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "m",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "n",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "nine",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "o",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "p",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "parenleft",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "parenright",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "percent",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "q",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "question",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "quotedblleft",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "quotedblright",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "quoteleft",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "quoteright",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "r",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "s",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "semicolon",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "seven",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "six",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "slash",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "t",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "three",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "two",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "u",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "v",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "w",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "x",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "y",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "z",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    },
+    {
+      "code": "FONTFORGE_VALIDATION_FLAGS",
+      "severity": "warning",
+      "message": "FontForge reported validation flags on the generated glyph.",
+      "glyph": "zero",
+      "rule": null,
+      "measurements": {
+        "bitmask": 4
+      },
+      "suggested_action": "Inspect and repair the affected outline."
+    }
+  ],
+  "build": {
+    "project_id": "92c190b5-d972-4e9d-8616-165e15ec5536",
+    "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365",
+    "artifacts": [
+      {
+        "artifact_id": "8c90a2c5-ac3f-42f1-aad9-a704f4a4eff7",
+        "path": "build/fonts/SuperPixelBitmap-Regular.ttf",
+        "mime_type": "font/ttf",
+        "size": 10344,
+        "sha256": "879c6d030a154043cbb0e390603669b474e5cfd76a3f04256e5ff22e2bd752de",
+        "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365"
+      },
+      {
+        "artifact_id": "a2de2ef5-6f74-4225-85c7-6878cc8572ab",
+        "path": "build/fonts/SuperPixelBitmap-Regular.otf",
+        "mime_type": "font/otf",
+        "size": 11796,
+        "sha256": "d0583ab035e8a00280403c6d9134684877792a82fc384c698099e7f6412c9865",
+        "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365"
+      },
+      {
+        "artifact_id": "ea270336-e376-40e1-9aba-044471350a76",
+        "path": "build/fonts/SuperPixelBitmap-Regular.woff2",
+        "mime_type": "font/woff2",
+        "size": 2484,
+        "sha256": "8df49047f927dfdc8a73d93221f2d09663248e96cfce3f304fe8f0523f2a7f94",
+        "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365"
+      }
+    ],
+    "diagnostics": [
+      {
+        "code": "FONT_LICENSE_UNSET",
+        "severity": "info",
+        "message": "The generated font has no user-selected license metadata.",
+        "glyph": null,
+        "rule": null,
+        "measurements": {},
+        "suggested_action": null
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "A",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "B",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "C",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "D",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "G",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "J",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "K",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "M",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "N",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "O",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "P",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "Q",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "R",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "S",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "U",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "V",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "W",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "X",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "Y",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "Z",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "a",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "ampersand",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "asciicircum",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "asciitilde",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "asterisk",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "at",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "b",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "backslash",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "braceleft",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "braceright",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "c",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "comma",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "d",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "dollar",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "e",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "eight",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "five",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "four",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "g",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "grave",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "greater",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "h",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "j",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "k",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "less",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "m",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "n",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "nine",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "o",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "p",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "parenleft",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "parenright",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "percent",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "q",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "question",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "quotedblleft",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "quotedblright",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "quoteleft",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "quoteright",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "r",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "s",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "semicolon",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "seven",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "six",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "slash",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "t",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "three",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "two",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "u",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "v",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "w",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "x",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "y",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "z",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      },
+      {
+        "code": "FONTFORGE_VALIDATION_FLAGS",
+        "severity": "warning",
+        "message": "FontForge reported validation flags on the generated glyph.",
+        "glyph": "zero",
+        "rule": null,
+        "measurements": {
+          "bitmask": 4
+        },
+        "suggested_action": "Inspect and repair the affected outline."
+      }
+    ],
+    "backend": {
+      "name": "FontForge",
+      "fontforge_version": "20251009",
+      "license": "GPL-3.0-or-later",
+      "credit": "FontForge by George Williams and the FontForge contributors",
+      "source": "https://github.com/fontforge/fontforge/tree/20251009",
+      "revision": "f265dac9025bc5033808ff08bf2be552bc36716f0ed211abfd5f5879923d9365",
+      "inspections": {
+        "ttf": {
+          "tables": [
+            "FFTM",
+            "GDEF",
+            "GPOS",
+            "GSUB",
+            "GlyphOrder",
+            "OS/2",
+            "cmap",
+            "gasp",
+            "glyf",
+            "head",
+            "hhea",
+            "hmtx",
+            "loca",
+            "maxp",
+            "name",
+            "post"
+          ],
+          "glyph_count": 106,
+          "units_per_em": 1000,
+          "has_gpos": true,
+          "has_gsub": true
+        },
+        "otf": {
+          "tables": [
+            "CFF ",
+            "FFTM",
+            "GDEF",
+            "GPOS",
+            "GSUB",
+            "GlyphOrder",
+            "OS/2",
+            "cmap",
+            "head",
+            "hhea",
+            "hmtx",
+            "maxp",
+            "name",
+            "post"
+          ],
+          "glyph_count": 104,
+          "units_per_em": 1000,
+          "has_gpos": true,
+          "has_gsub": true
+        },
+        "woff2": {
+          "tables": [
+            "FFTM",
+            "GDEF",
+            "GPOS",
+            "GSUB",
+            "GlyphOrder",
+            "OS/2",
+            "cmap",
+            "gasp",
+            "glyf",
+            "head",
+            "hhea",
+            "hmtx",
+            "loca",
+            "maxp",
+            "name",
+            "post"
+          ],
+          "glyph_count": 106,
+          "units_per_em": 1000,
+          "has_gpos": true,
+          "has_gsub": true
+        }
+      }
+    }
+  }
+}
