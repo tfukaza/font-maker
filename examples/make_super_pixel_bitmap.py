@@ -23,7 +23,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from examples.generate_concept_fonts import _filleted_grid_loop, _grid_boundary_loops
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT / "fonts" / "super-pixel"
+SOURCE = ROOT / "fonts" / "super-pixel-fluid"
 DEST = ROOT / "fonts" / "super-pixel-bitmap"
 SVG = "{http://www.w3.org/2000/svg}"
 # Super Pixel cells are 100 units square, with column 0 at x=50 and row 0 at y=100.

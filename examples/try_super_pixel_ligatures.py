@@ -26,7 +26,7 @@ from examples.generate_concept_fonts import (
 )
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT / "fonts/super-pixel"
+SOURCE = ROOT / "fonts/super-pixel-fluid"
 DEST = ROOT / "archive/super-pixel-ligature-study"
 CANDIDATES = {
     "ct": (5, -60, "Factory actor", "Shared upper rail; open c mouth and distinct t stem."),

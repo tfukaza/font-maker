@@ -733,7 +733,7 @@ async def run(output_root: Path) -> None:
         await session.initialize()
         reports = [
             await make_font(
-                session, output_root, "snap-grid", "Super Pixel", "grid", GRID_REFERENCE
+                session, output_root, "snap-grid", "Super Pixel Fluid", "grid", GRID_REFERENCE
             ),
             await make_font(session, output_root, "snap-flow", "Snap Flow", "flow", FLOW_REFERENCE),
         ]

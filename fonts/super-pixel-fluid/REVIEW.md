@@ -1,8 +1,14 @@
-# Super Pixel visual review
+# Super Pixel Fluid visual review
+
+## Renamed to Super Pixel Fluid — 2026-10-25
+
+Current revision: `1c52ec93acc96c2eac8d8c215834fe4145110c759c76f21a17b250e68d40c8c5`.
+
+Renamed the family from Super Pixel to **Super Pixel Fluid** (files `SuperPixelFluid-Regular.*`, project folder `fonts/super-pixel-fluid/`) to set it apart from Super Pixel Bitmap. Outlines, metrics and kerning are unchanged. Entries below predate the rename and use the old name.
 
 ## f revision — 2026-10-25
 
-Current revision: `62fd86afbefd5c96624e4a0a8d7b80f50795fda265594ed9ca192e1bef4b19c4`.
+Reviewed revision: `62fd86afbefd5c96624e4a0a8d7b80f50795fda265594ed9ca192e1bef4b19c4`.
 
 Removed the corner pixel where `f`'s top arm met its stem, so the hook now steps diagonally off the stem instead of forming a right angle. Width, advance, kerning and every other glyph's pixels are unchanged. Applied with `examples/revise_super_pixel_glyphs.py f`; Super Pixel Bitmap was regenerated from the result.
 

@@ -1,4 +1,4 @@
-"""Redraw the named Super Pixel glyphs from the generator's grid patterns and rebuild.
+"""Redraw the named Super Pixel Fluid glyphs from the generator's grid patterns and rebuild.
 
 Usage: python examples/revise_super_pixel_glyphs.py f [c C ...]
 """
@@ -19,7 +19,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from examples.generate_concept_fonts import all_patterns, write_svg
 
 ROOT = Path(__file__).resolve().parents[1]
-PROJECT = ROOT / "fonts" / "super-pixel"
+PROJECT = ROOT / "fonts" / "super-pixel-fluid"
 
 
 def main() -> None:
@@ -58,10 +58,10 @@ def main() -> None:
     assert not any(d.severity == "error" for d in diagnostics), diagnostics
     service.build(pid, ["ttf", "otf", "woff2"])
     fonts = PROJECT / "build" / "fonts"
-    with TTFont(fonts / "SuperPixel-Regular.ttf") as font:
+    with TTFont(fonts / "SuperPixelFluid-Regular.ttf") as font:
         assert len(font.getBestCmap()) == 103
         font.flavor = "woff"
-        font.save(fonts / "SuperPixel-Regular.woff")
+        font.save(fonts / "SuperPixelFluid-Regular.woff")
     text = " ".join(GLYPHS) + " Illinois 1l cC Cocoa often fifty after offer"
     _, png = service.preview(pid, text, font_size=72, pixel_scale=2, guides=False)
     previews = PROJECT / "build" / "previews"

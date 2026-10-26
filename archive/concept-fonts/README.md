@@ -10,12 +10,12 @@ These two fonts were drawn from scratch from the supplied concept images with Fo
 - Colon and semicolon dots use the same 100-unit module as the period; the semicolon tail matches the comma.
 - No ligatures in the final build: the visual feature-on/off review did not justify them for this geometric design.
 
-The Super Pixel project has moved to the `fonts/super-pixel/` directory (its review notes are in `fonts/super-pixel/REVIEW.md`). Installable files are named `SuperPixel-Regular.ttf`, `.otf`, and `.woff2`, and their internal font family is **Super Pixel**.
+The Super Pixel project (now named **Super Pixel Fluid**) has moved to the `fonts/super-pixel-fluid/` directory (its review notes are in `fonts/super-pixel-fluid/REVIEW.md`). Installable files are named `SuperPixel-Regular.ttf`, `.otf`, and `.woff2`, and their internal font family is **Super Pixel**.
 
 Generate reusable kerning review sheets with:
 
 ```shell
-.venv/bin/python skills/font-spacing-kerning/scripts/render_kerning_proofs.py fonts/super-pixel --pair ra --text "rare Typography parallel; 12:30"
+.venv/bin/python skills/font-spacing-kerning/scripts/render_kerning_proofs.py fonts/super-pixel-fluid --pair ra --text "rare Typography parallel; 12:30"
 ```
 
 Each run creates PNG/SVG comparisons and an `index.json` with exact shaping evidence and pending visual-review entries. Default examples are not exhaustive.
