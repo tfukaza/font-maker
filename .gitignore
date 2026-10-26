@@ -15,3 +15,10 @@ htmlcov/
 .fontmaker/
 .claude/settings.local.json
 .playwright-mcp/
+
+# Keep the reviewed Super Pixel ligature proofs with their source fonts.
+!/fonts/super-pixel-*/build/
+/fonts/super-pixel-*/build/*
+!/fonts/super-pixel-*/build/previews/
+/fonts/super-pixel-*/build/previews/*
+!/fonts/super-pixel-*/build/previews/coding-ligatures/

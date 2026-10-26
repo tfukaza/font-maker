@@ -3,7 +3,7 @@ project_id: 60fe571a-6fe5-45aa-8302-a38b5fec1b8d
 font:
   family_name: Super Pixel Bitmap
   style_name: Regular
-  version: '1.000'
+  version: '1.001'
   designer: Font Maker concept study
 metrics:
   units_per_em: 1000
@@ -645,6 +645,166 @@ glyphs:
     codepoints:
       - U+0020
     advance_width: 400
+  code_2d_3e:
+    source:
+      glyphs/3af65b584341d3c04bb49e054ee71a9e1e219013c1082e2d00c0a3bbd2758cad.svg
+    codepoints: []
+    advance_width: 1000
+  code_3c_2d:
+    source:
+      glyphs/170e2a05237088e413674cb6746108f63123d2f70c207f5dc638b4dadb73ce6c.svg
+    codepoints: []
+    advance_width: 1000
+  code_3c_2d_3e:
+    source:
+      glyphs/70de72807b654f73edfc4d4434395df88e59fa57fb506912b26ea90f9f59614d.svg
+    codepoints: []
+    advance_width: 1500
+  code_3d_3e:
+    source:
+      glyphs/56d0c4ae2fb9e38b728e1d637e557f1824459ad4a1b092accea5bbf607116949.svg
+    codepoints: []
+    advance_width: 1100
+  code_3c_3d_3e:
+    source:
+      glyphs/97f798cf3dd829c13f6737f24d348793b6a0b7ab23df346cffd28f66997d6ed4.svg
+    codepoints: []
+    advance_width: 1600
+  code_7c_3e:
+    source:
+      glyphs/f7a1c09da77bf2261a1881eeb6bd32cf2697491f4aca6360088a64424571140b.svg
+    codepoints: []
+    advance_width: 700
+  code_3c_7c:
+    source:
+      glyphs/826e864dcefb5605f58ef854f08284429e95cf1ef4f6fe1385717652910c15af.svg
+    codepoints: []
+    advance_width: 700
+  code_3d_3d:
+    source:
+      glyphs/fc1e8266ef59eac2381f2bd3815d345e7354b7ebd26834e72fc29998a36f8c0d.svg
+    codepoints: []
+    advance_width: 1200
+  code_3d_3d_3d:
+    source:
+      glyphs/e944e01457e8ed86e71cfb7bb8f0e190c8c77ade640bc7faa85a34de04726671.svg
+    codepoints: []
+    advance_width: 1800
+  code_21_3d:
+    source:
+      glyphs/f63f5b1d739b06b9e4bc43f06aa7d84596851deb9eab0174e6e05cc1e95bdec4.svg
+    codepoints: []
+    advance_width: 800
+  code_21_3d_3d:
+    source:
+      glyphs/e06de6eda34757f7234b9a5bd60020cbdb0e4a4202ddf36c60b97b2eb4b4e436.svg
+    codepoints: []
+    advance_width: 1400
+  code_3c_3d:
+    source:
+      glyphs/d6c4a131717a3165462dc7fea605cfdc495b3a775645e79d14ab2d3f92b883c2.svg
+    codepoints: []
+    advance_width: 1100
+  code_3e_3d:
+    source:
+      glyphs/5f05adcfda92c03afa22b0aaa95f415f3757ef89d4f44fe71d498c7f4f235288.svg
+    codepoints: []
+    advance_width: 1100
+  code_26_26:
+    source:
+      glyphs/548be696f3b165bc2dc6c9c6240dac734e40c2ca335160ebfa250fc3f31b2f09.svg
+    codepoints: []
+    advance_width: 1200
+  code_7c_7c:
+    source:
+      glyphs/9e94220a567fca518dea5586e9e9e50b03b05d44e493f460b2dc5b2ef77b07b9.svg
+    codepoints: []
+    advance_width: 400
+  code_3f_3f:
+    source:
+      glyphs/94172c4550a5dcdffbe143d041639be80e2a37994ecbbb4126e805fcd07f7b0c.svg
+    codepoints: []
+    advance_width: 1200
+  code_3f_2e:
+    source:
+      glyphs/505281a6a0abcdf8f651b8d66e6d18aea2fbab77585c78f4df613567e4ceff1f.svg
+    codepoints: []
+    advance_width: 800
+  code_3a_3a:
+    source:
+      glyphs/cf24662243e77db27b45e50d28ea242994565dcdc920dc4431ed91e8a12eeb85.svg
+    codepoints: []
+    advance_width: 400
+  code_3a_3d:
+    source:
+      glyphs/73fcea0ef683e4347bf3b722dea3a6a51fbfe00f20ec1677701a5f6918bc6a45.svg
+    codepoints: []
+    advance_width: 800
+  code_2e_2e:
+    source:
+      glyphs/1deec668aa7e09d1fc486c4e11304c399c788a23cdc05801ae0f4d12a9aacdb2.svg
+    codepoints: []
+    advance_width: 400
+  code_2e_2e_2e:
+    source:
+      glyphs/8c9bfd93c5798f0a3c417ea33a7c0f5d1a290719ad496077ea3547a0771912cd.svg
+    codepoints: []
+    advance_width: 600
+  code_3a_29:
+    source:
+      glyphs/41757dfac6272a9c524823e7a1afc29e224703ecd49f83061fd362c2bf238e19.svg
+    codepoints: []
+    advance_width: 600
+  code_3a_2d_29:
+    source:
+      glyphs/ebde0db4ff0cc5c4ea097464aa9f3d85d4becbc020455d6cf98b35bbf3e76679.svg
+    codepoints: []
+    advance_width: 1100
+  code_3a_28:
+    source:
+      glyphs/0c0d21c7f733ac7a30459e18e91100bb0fad4bffbbca017f83ad5f82efd80f6f.svg
+    codepoints: []
+    advance_width: 600
+  code_3a_2d_28:
+    source:
+      glyphs/cd31e815dee2a9ef67c26cc6022d5904ea2873e7649c79ff94e0a999e584b5cc.svg
+    codepoints: []
+    advance_width: 1100
+  code_3b_29:
+    source:
+      glyphs/3fec546c34bc72414d77fc66017ffe47df2f64a25a55708ef90a1096db302bf4.svg
+    codepoints: []
+    advance_width: 700
+  code_3b_2d_29:
+    source:
+      glyphs/6c68585ed1856a84eac379ac1a73030cc66e9b7a2558c7c89a7e0a4cfbc1f27c.svg
+    codepoints: []
+    advance_width: 1200
+  code_3a_44:
+    source:
+      glyphs/f039d5e5b3573edc35b26c7f76bd908fb1199928ddb6c9bc72a458e9226952ae.svg
+    codepoints: []
+    advance_width: 800
+  code_3a_2d_44:
+    source:
+      glyphs/80583f22a110a9bb1f5fd8eaf11b9a841677f4a4ecb5f1c7c3ce14bf358a9880.svg
+    codepoints: []
+    advance_width: 1300
+  code_3a_50:
+    source:
+      glyphs/b8eda04caf6eecb3e449c50ee26f56e0272a0fe70996dfb34d5b141094ddb6f3.svg
+    codepoints: []
+    advance_width: 800
+  code_3a_2d_50:
+    source:
+      glyphs/7ef72a6b5e5712ad5cffa3931f97350c04bf5a250c0734937993fdd7d0f608bd.svg
+    codepoints: []
+    advance_width: 1300
+  code_3c_33:
+    source:
+      glyphs/bd992c72ac976da9b65fbb095e05f014034662d65ca3cc88f854a7b418b66302.svg
+    codepoints: []
+    advance_width: 1100
 kerning:
   groups: {}
   pairs:
@@ -750,7 +910,213 @@ kerning:
     - left: r
       right: o
       value: -25
-ligatures: []
+    - left: code_3a_50
+      right: A
+      value: -20
+    - left: code_3a_2d_50
+      right: A
+      value: -20
+    - left: T
+      right: code_2e_2e
+      value: -140
+    - left: T
+      right: code_2e_2e_2e
+      value: -140
+    - left: V
+      right: code_2e_2e
+      value: -140
+    - left: V
+      right: code_2e_2e_2e
+      value: -140
+    - left: Y
+      right: code_2e_2e
+      value: -140
+    - left: Y
+      right: code_2e_2e_2e
+      value: -140
+    - left: F
+      right: code_2e_2e
+      value: -180
+    - left: F
+      right: code_2e_2e_2e
+      value: -180
+    - left: r
+      right: code_2e_2e
+      value: -100
+    - left: r
+      right: code_2e_2e_2e
+      value: -100
+ligatures:
+  - feature: liga
+    sequence:
+      - exclam
+      - equal
+      - equal
+    replacement: code_21_3d_3d
+  - feature: liga
+    sequence:
+      - period
+      - period
+      - period
+    replacement: code_2e_2e_2e
+  - feature: dlig
+    sequence:
+      - colon
+      - hyphen
+      - parenleft
+    replacement: code_3a_2d_28
+  - feature: dlig
+    sequence:
+      - colon
+      - hyphen
+      - parenright
+    replacement: code_3a_2d_29
+  - feature: dlig
+    sequence:
+      - colon
+      - hyphen
+      - D
+    replacement: code_3a_2d_44
+  - feature: dlig
+    sequence:
+      - colon
+      - hyphen
+      - P
+    replacement: code_3a_2d_50
+  - feature: dlig
+    sequence:
+      - semicolon
+      - hyphen
+      - parenright
+    replacement: code_3b_2d_29
+  - feature: liga
+    sequence:
+      - less
+      - hyphen
+      - greater
+    replacement: code_3c_2d_3e
+  - feature: liga
+    sequence:
+      - less
+      - equal
+      - greater
+    replacement: code_3c_3d_3e
+  - feature: liga
+    sequence:
+      - equal
+      - equal
+      - equal
+    replacement: code_3d_3d_3d
+  - feature: liga
+    sequence:
+      - exclam
+      - equal
+    replacement: code_21_3d
+  - feature: liga
+    sequence:
+      - ampersand
+      - ampersand
+    replacement: code_26_26
+  - feature: liga
+    sequence:
+      - hyphen
+      - greater
+    replacement: code_2d_3e
+  - feature: liga
+    sequence:
+      - period
+      - period
+    replacement: code_2e_2e
+  - feature: dlig
+    sequence:
+      - colon
+      - parenleft
+    replacement: code_3a_28
+  - feature: dlig
+    sequence:
+      - colon
+      - parenright
+    replacement: code_3a_29
+  - feature: liga
+    sequence:
+      - colon
+      - colon
+    replacement: code_3a_3a
+  - feature: liga
+    sequence:
+      - colon
+      - equal
+    replacement: code_3a_3d
+  - feature: dlig
+    sequence:
+      - colon
+      - D
+    replacement: code_3a_44
+  - feature: dlig
+    sequence:
+      - colon
+      - P
+    replacement: code_3a_50
+  - feature: dlig
+    sequence:
+      - semicolon
+      - parenright
+    replacement: code_3b_29
+  - feature: liga
+    sequence:
+      - less
+      - hyphen
+    replacement: code_3c_2d
+  - feature: dlig
+    sequence:
+      - less
+      - three
+    replacement: code_3c_33
+  - feature: liga
+    sequence:
+      - less
+      - equal
+    replacement: code_3c_3d
+  - feature: liga
+    sequence:
+      - less
+      - bar
+    replacement: code_3c_7c
+  - feature: liga
+    sequence:
+      - equal
+      - equal
+    replacement: code_3d_3d
+  - feature: liga
+    sequence:
+      - equal
+      - greater
+    replacement: code_3d_3e
+  - feature: liga
+    sequence:
+      - greater
+      - equal
+    replacement: code_3e_3d
+  - feature: liga
+    sequence:
+      - question
+      - period
+    replacement: code_3f_2e
+  - feature: liga
+    sequence:
+      - question
+      - question
+    replacement: code_3f_3f
+  - feature: liga
+    sequence:
+      - bar
+      - greater
+    replacement: code_7c_3e
+  - feature: liga
+    sequence:
+      - bar
+      - bar
+    replacement: code_7c_7c
 build:
   formats:
     - ttf

@@ -79,17 +79,23 @@ def add_lookups(font, request):
     by_feature = {}
     for rule in request.get("ligatures", []):
         by_feature.setdefault(rule["feature"], []).append(rule)
-    for feature, rules in by_feature.items():
+    # FontForge prepends lookups. Insert in reverse processing order so optional
+    # expressions cannot consume punctuation belonging to a standard ligature.
+    for feature in ("dlig", "liga", "rlig"):
+        rules = by_feature.get(feature, [])
+        if not rules:
+            continue
         lookup = f"fontmaker_gsub_{feature}"
         subtable = lookup + "_ligatures"
         font.addLookup(
             lookup,
             "gsub_ligature",
             (),
-            ((feature, (("latn", ("dflt",)),)),),
+            ((feature, (("DFLT", ("dflt",)), ("latn", ("dflt",)))),),
         )
         font.addLookupSubtable(lookup, subtable)
-        for rule in rules:
+        # A direct longer sequence must precede its shorter prefix.
+        for rule in sorted(rules, key=lambda rule: (-len(rule["sequence"]), tuple(rule["sequence"]))):
             font[rule["replacement"]].addPosSub(subtable, tuple(rule["sequence"]))
 
 
