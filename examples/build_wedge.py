@@ -22,7 +22,7 @@ from font_maker.preview import compose_preview_svg, shape_font, svg_to_png
 from font_maker.service import FontMakerService
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / 'archive' / 'wedge'
+OUT = ROOT / 'fonts' / 'hakiland-display'
 REFERENCE = Path('/var/folders/61/r756smb95_16p68hfyzwypq40000gn/T/codex-clipboard-9b9d5222-0485-40e2-b46a-a99d6d1fe063.png')
 G: dict[str, tuple[int, str]] = {}
 

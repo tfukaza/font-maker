@@ -1,7 +1,7 @@
 # Hakiland Display Regular — display prototype 0.115
 
 Open `specimen.html` in a browser to type with the font. Install either
-`build/fonts/HakilandDisplay-Regular.ttf` or `.otf`; `.woff2` is the webfont.
+`build/fonts/HakilandDisplay-Regular.ttf` or `.otf`; `.woff2` and `.woff` are the webfonts.
 
 This revised prototype contains 103 encoded characters: A–Z, a–z, 0–9, printable ASCII,
 curly quotes, en/em dashes, bullet, and ellipsis. No accented letters,
@@ -23,5 +23,8 @@ shaping and hashes. `specimen.svg` is a vector proof; `specimen.png` is its rend
 Font license: not assigned. Font Maker's own software license does not assign
 a license to this font. All possible kerning combinations have not been
 individually reviewed.
+
+Earlier audits and revision snapshots (`consistency-audit/`, `review-pass-2/`, `revisions/`,
+`spacing-pass/`, `weight-audit/`) are kept in `archive/wedge/`.
 
 Latest refinements: compact a lower bowl, larger i/j dots, compensated diagonal weights, optically reviewed spacing, and the perceived-weight and design-consistency passes recorded in `weight-review.json` and `consistency-review.json`, including the full diagonal and hairline top bar of 7. `spacing-refinement.json` is loaded on each rebuild.
