@@ -41,7 +41,7 @@ artwork was used. The original project ampersands supply the two `&&` components
 | `liga` | `\|>`, `<\|` | Separate pipe and shorter open chevron, with no filled triangle. |
 | `liga` | `==`, `===` | Continuous two-bar and three-bar forms, respectively. |
 | `liga` | `!=`, `!==` | Diagonal cancellation across two or three bars; diagonal ends remain visible. |
-| `liga` | `<=`, `>=` | Compact relational chevron above a separated equality bar. |
+| `liga` | `<=`, `>=` | 5px chevron beside the equal sign, centered on its bars. |
 | `liga` | `&&` | Two identifiable ampersands with a rising shared terminal. |
 | `liga` | `\|\|` | Two distinct parallel bars aligned to the operator body. |
 | `liga` | `??`, `?.` | Aligned question stems and dots; both question marks or the property dot remain distinct. |

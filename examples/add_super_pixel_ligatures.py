@@ -81,10 +81,10 @@ def draw_cells(sequence: str, advance: int, bases: dict[str, set[tuple[int, int]
             center = width // 2
             cells.update((center + 3 - y, y) for y in range(7))
     elif sequence in {"<=", ">="}:
-        # Compact relational chevron above a full-width equality bar.
-        tip = width // 2 - 2 if sequence == "<=" else width // 2 + 2
-        head(sequence == ">=", tip, center=2, radius=2)
-        rail(6, 1, width - 1)
+        # A 5px chevron centered on the equals bars, one cell before them.
+        head(sequence == ">=", 1 if sequence == "<=" else 3, radius=2)
+        for y in (2, 4):
+            rail(y, 5)
     elif sequence == "||":
         cells = {(x, y) for x in (0, 2) for y in range(1, 6)}
     elif sequence == "&&":
