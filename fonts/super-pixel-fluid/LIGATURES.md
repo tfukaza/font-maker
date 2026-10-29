@@ -13,6 +13,6 @@ mouths; the heart and operators retain the family's concave grid joins.
 - [Generating revision, font hash, and traces](build/previews/coding-ligatures/report.json)
 
 Reviewed TTF SHA-256:
-`97e9709d122a56a699de86e932df29300461806e414199c27c4569d5c57bb9c2`.
+`41e59cb48e8c259d01d3ca6919ff38ff012c9ca4c3ed26e768e6f689e1c03904`.
 TTF, OTF, WOFF, and WOFF2 exports have matching sequence coverage and unchanged
 103-codepoint mappings. Original glyph sources and metrics were preserved.

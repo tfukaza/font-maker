@@ -27,7 +27,7 @@ Let `E` be all supported neighboring characters in the declared review scope and
 
 Use every ordered pair in that union; include `cc` for each candidate and deduplicate identical codepoint sequences. Do not lowercase, remove uncommon letter combinations, or restrict neighbors to vowels or candidates alone. Uppercase–uppercase, lowercase–lowercase, uppercase–lowercase, and lowercase–uppercase combinations all belong when those characters are supported. Include figures, punctuation, and symbols; review spaces separately as word boundaries. For explicit exhaustive character-pair coverage, use `E × E`.
 
-Exclude unsupported or out-of-scope scripts/features explicitly. If a pair is shaped through a substitution, record the actual glyph sequence and feature settings; review substituted-glyph boundary kerning with that replacement enabled. A character-pair matrix does not by itself cover every unencoded alternate or ligature boundary.
+Exclude unsupported or out-of-scope scripts/features explicitly. If a pair is shaped through a substitution, record the actual glyph sequence and feature settings; review substituted-glyph boundary kerning with that replacement enabled. A character-pair matrix does not by itself cover every unencoded alternate or ligature boundary; replacements have their own edges and need the dedicated pass in [Re-space ligature replacements](../SKILL.md#re-space-ligature-replacements).
 
 Use the [proof script's character-set options](proof-script.md) for ordered products and reverse pairs. Split large matrices into bounded sheets, retaining their inventory and review ledger. The product size is planned workload, not completed review.
 

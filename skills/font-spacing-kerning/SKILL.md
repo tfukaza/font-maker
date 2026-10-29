@@ -1,6 +1,6 @@
 ---
 name: font-spacing-kerning
-description: Establish base sidebearings, word separation, and kerning exceptions; review spacing proposals and justify optical judgments with compiled evidence. Use after core proportions are stable, including punctuation and substituted-glyph boundaries; route shape changes to outline or ligature design.
+description: Establish base sidebearings, word separation, and kerning exceptions; review spacing proposals and justify optical judgments with compiled evidence. Use after core proportions are stable, including punctuation and substituted-glyph boundaries, and whenever a ligature replacement is added or redrawn; route shape changes to outline or ligature design.
 ---
 
 # Font Spacing and Kerning
@@ -30,6 +30,16 @@ Treat every tested pair as unproven until visually inspected in isolation and co
 Verify that the specimen contains the **exact case-sensitive sequence**: `Typography` contains `Ty`; `rare` contains `ra`; `more` does not contain `ro`. Pair coverage and actual substitution must be checked, not inferred from a plausible word.
 
 Use groups only for genuinely equivalent relevant sides. Inspect each member's geometry and exceptions; a common character category or similar name does not establish class equivalence. Check accented and punctuation members before accepting a class value. Compare kerning off/on while holding other features fixed, at reading and display sizes and inside words. Numeric advance changes reproduce the result but do not decide which looks better.
+
+## Re-space ligature replacements
+
+A replacement is a new drawing. Its left edge, right edge, and advance are new shapes, not the first and last components' shapes, so it inherits neither their sidebearings nor their kerning automatically. Treat every replacement as unspaced until proven, and treat any redraw or advance change as reopening that proof.
+
+For each replacement, compare its left and right white space and edge contour against the first component's left side and the last component's right side, in isolation and in context (`a…b`, inside brackets, inside real words) with the replacement enabled and kerning off/on. Uneven space inside the replacement's own box—a chevron floating a cell further from its neighbor than the bars do—belongs to its drawing or advance, not to pair kerning.
+
+Copy a component's kerning pairs onto a replacement only where that boundary's contour is actually unchanged. A baseline ellipsis can keep the tuck-under values that `T.`, `F.`, and `r.` earned; a range operator whose dots were lifted to mid-height cannot, because nothing tucks under anymore. When replacement edges move, remove stale copied pairs rather than layering new ones on top.
+
+Symbol-like replacements—arrows, equality and comparison operators, hearts, faces—usually deserve more room than letters: an extra unit of white space on each side keeps the symbol visible against surrounding text instead of reading as a letter cluster. Punctuation-like replacements such as `..`, `::`, and `||` keep ordinary letter spacing. Decide this from context proofs, not from equal numbers.
 
 ## Separate spacing, visual weight, and drawing
 

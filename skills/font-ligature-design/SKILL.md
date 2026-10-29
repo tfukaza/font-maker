@@ -39,7 +39,7 @@ Use stable names preserving component identity and case, such as `f_i` or `E_n`.
 
 Preserve component scale, baseline, stroke families, ascenders, and counter openness. Carry curve tension and thick/thin transitions through shared gestures without dark knots. For f combinations, decide dot treatment deliberately, keep `f_l` distinct from `f_i`, and resolve both terminals in longer forms rather than stacking pair patches.
 
-Give the replacement a deliberate advance; summing components is only a comparison point. Match entry/exit rhythm, but do not assume base kerning-group membership automatically applies to replacements. Reuse original project geometry only, flattened and validated under [outline QA](../font-outline-qa/SKILL.md).
+Give the replacement a deliberate advance; summing components is only a comparison point. Match entry/exit rhythm, but do not assume base kerning-group membership automatically applies to replacements. Redrawing changes the entry and exit edges, so every replacement—and every later redraw of one—needs its own sidebearing and boundary-kerning pass under [spacing and kerning](../font-spacing-kerning/SKILL.md), including removal of copied pairs the new edges no longer justify. Symbol-like replacements usually want more room than letters. Reuse original project geometry only, flattened and validated under [outline QA](../font-outline-qa/SKILL.md).
 
 Import replacement glyphs before `set_ligatures`, always using the latest revision. Fix absent components or replacements first; reopen conflicts rather than replaying stale mutations. For longer forms, define the intended direct sequence and verify actual shaping, not assumed chaining.
 
@@ -47,7 +47,7 @@ Import replacement glyphs before `set_ligatures`, always using the latest revisi
 
 Follow the [proof procedure](references/exploration-and-proof.md) with `shape_text` and `preview_font`. Use explicit maps for `kern/liga/rlig/dlig`; hold other features fixed when toggling one. Check glyph names, clusters, advances, offsets, and unrelated text. Exercise overlapping substitutions and both exterior boundaries, including repeated sequences and punctuation.
 
-Verify each test word contains the exact case-sensitive input and that shaping actually reaches the intended replacement. Generic f sentences do not clear unrelated creative combinations. Compare feature-on/off with kerning fixed, then kerning off/on with the replacement enabled. Internal spacing belongs to drawing and advance; boundary kerning belongs to neighboring glyphs.
+Verify each test word contains the exact case-sensitive input and that shaping actually reaches the intended replacement. Generic f sentences do not clear unrelated creative combinations. Compare feature-on/off with kerning fixed, then kerning off/on with the replacement enabled. Internal spacing belongs to drawing and advance; boundary kerning belongs to neighboring glyphs. Confirm the replacement's outer gaps are even on both sides and match the intended relationship to its components, and that no inherited pair survives whose contour reason the new drawing removed.
 
 Keep SVGs and use PNG `pixel_scale=3` for words, `4` for join details, plus separate `1` at actual small text size. Record size, scale, revision, **font-byte SHA-256**, features, and trace. Split long proofs without cutting target sequences or their neighbors.
 

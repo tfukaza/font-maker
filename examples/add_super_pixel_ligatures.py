@@ -32,6 +32,14 @@ CODING = (
 )
 EXPRESSIONS = (":)", ":-)", ":(", ":-(", ";)", ";-)", ":D", ":-D", ":P", ":-P", "<3")
 SEQUENCES = CODING + EXPRESSIONS
+# Symbol-like replacements carry one extra empty cell on each side so they stand
+# out from surrounding text; punctuation-like operators keep letter spacing.
+PADDED = set(CODING[:13]) | set(EXPRESSIONS)
+# Replacements whose drawing is narrower than the sum of their components.
+ADVANCE_ADJUST = {"<=": -100, ">=": -100, "<3": -100}
+# Replacements whose boundary contour no longer matches the component glyph, so
+# the component's kerning pairs must not be copied onto them.
+NO_INHERIT = {".."}
 FEATURES_OFF = {"kern": True, "liga": False, "rlig": False, "dlig": False}
 
 
@@ -82,9 +90,9 @@ def draw_cells(sequence: str, advance: int, bases: dict[str, set[tuple[int, int]
             cells.update((center + 3 - y, y) for y in range(7))
     elif sequence in {"<=", ">="}:
         # A 5px chevron centered on the equals bars, one cell before them.
-        head(sequence == ">=", 1 if sequence == "<=" else 3, center=4, radius=2)
+        head(sequence == ">=", 0 if sequence == "<=" else 2, center=4, radius=2)
         for y in (3, 5):
-            rail(y, 5)
+            rail(y, 4)
     elif sequence == "||":
         cells = {(x, y) for x in (0, 2) for y in range(1, 6)}
     elif sequence == "&&":
@@ -166,14 +174,19 @@ def update_project(root: Path, definitions: dict[str, tuple[set[tuple[int, int]]
     _, project = service._store_project(pid)
     pairs = [pair for pair in project.kerning.pairs
              if not pair.left.startswith("code_") and not pair.right.startswith("code_")]
-    boundaries = {glyph_name(seq): (char_names[seq[0]], char_names[seq[-1]]) for seq in SEQUENCES}
+    boundaries = {glyph_name(seq): (char_names[seq[0]], char_names[seq[-1]])
+                  for seq in SEQUENCES if seq not in NO_INHERIT}
     inherited = []
     for pair in pairs:
         lefts = [pair.left] + [name for name, (_, last) in boundaries.items() if last == pair.left]
         rights = [pair.right] + [name for name, (first, _) in boundaries.items() if first == pair.right]
         inherited.extend(KerningPair(left=left, right=right, value=pair.value)
                          for left in lefts for right in rights if (left, right) != (pair.left, pair.right))
-    revision = service.set_kerning(pid, revision, upsert_pairs=inherited).revision
+    current = {(pair.left, pair.right) for pair in inherited}
+    stale = [(pair.left, pair.right) for pair in project.kerning.pairs
+             if (pair.left.startswith("code_") or pair.right.startswith("code_"))
+             and (pair.left, pair.right) not in current]
+    revision = service.set_kerning(pid, revision, upsert_pairs=inherited, remove_pairs=stale).revision
     store, project = service._store_project(pid)
     project.font.version = "1.001"
     store.save(project, revision)
@@ -284,8 +297,11 @@ def main() -> None:
     bases = {char: occupied_cells(outline(source / project.glyphs[name].source)) for char, name in char_names.items()}
     definitions = {}
     for sequence in SEQUENCES:
-        advance = sum(widths[char] for char in sequence)
-        definitions[sequence] = draw_cells(sequence, advance, bases), advance
+        advance = sum(widths[char] for char in sequence) + ADVANCE_ADJUST.get(sequence, 0)
+        cells = draw_cells(sequence, advance, bases)
+        if sequence in PADDED:
+            cells, advance = {(x + 1, y) for x, y in cells}, advance + 200
+        definitions[sequence] = cells, advance
     for family in ("fluid", "bitmap"):
         root = ROOT / f"fonts/super-pixel-{family}"
         service, pid = update_project(root, definitions, char_names)

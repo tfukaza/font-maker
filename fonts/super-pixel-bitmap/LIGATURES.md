@@ -14,6 +14,6 @@ curved step patterns without introducing Bézier curves.
 - [Generating revision, font hash, and traces](build/previews/coding-ligatures/report.json)
 
 Reviewed TTF SHA-256:
-`e5a863fb480787e8f0002727f75144e8ce5618058a1ff3b92f3a8a856e9f0ac1`.
+`905b41b697132b3e34b69f72a162d0daccd240003f71aa71e3dc72413c6b97c2`.
 TTF, OTF, WOFF, and WOFF2 exports have matching sequence coverage and unchanged
 103-codepoint mappings. Original glyph sources and metrics were preserved.

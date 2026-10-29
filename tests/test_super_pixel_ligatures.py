@@ -20,6 +20,11 @@ OFF = {"kern": True, "liga": False, "rlig": False, "dlig": False}
 ON = {**OFF, "liga": True, "dlig": True}
 
 
+def advance_delta(sequence):
+    """Replacement advance minus its components: padding and narrower drawings."""
+    return DESIGN["ADVANCE_ADJUST"].get(sequence, 0) + (200 if sequence in DESIGN["PADDED"] else 0)
+
+
 @pytest.fixture(params=[(family, extension) for family in ("Fluid", "Bitmap")
                         for extension in ("ttf", "otf", "woff", "woff2")])
 def font_path(request, tmp_path):
@@ -52,7 +57,8 @@ def test_exported_sequences_features_clusters_and_widths(font_path):
             on = shape_font(font_path, text, ON)
             assert names(off) == [cmap[ord(char)] for char in text]
             assert names(on).count(NAME(sequence)) == (2 if text == repeated else 1)
-            assert on["total_advance"] == off["total_advance"], (text, font_path)
+            count = 2 if text == repeated else 1
+            assert on["total_advance"] == off["total_advance"] + count * advance_delta(sequence), (text, font_path)
         alone = shape_font(font_path, sequence, ON)
         assert names(alone) == [NAME(sequence)]
         assert alone["glyphs"][0]["cluster"] == 0
@@ -76,8 +82,14 @@ def test_overlap_boundaries_and_unrelated_text(font_path):
     for text, tokens in cases.items():
         expected = [NAME(token) if len(token) > 1 else cmap[ord(token)] for token in tokens]
         assert names(shape_font(font_path, text, ON)) == expected
-    for text in ("T..", "V...", "F...", "r..", ":PA", ":-PA"):
-        assert shape_font(font_path, text, ON)["total_advance"] == shape_font(font_path, text, OFF)["total_advance"]
+    # Baseline ellipsis and P mouths inherit component kerning; raised range dots do not.
+    for text, sequence in (("V...", "..."), ("F...", "..."), (":PA", ":P"), (":-PA", ":-P")):
+        on, off = shape_font(font_path, text, ON), shape_font(font_path, text, OFF)
+        assert on["total_advance"] == off["total_advance"] + advance_delta(sequence), text
+    for text, sequence in (("T..", ".."), ("r..", "..")):
+        unkerned = shape_font(font_path, text[0], ON)["total_advance"] + shape_font(font_path, sequence, ON)["total_advance"]
+        assert shape_font(font_path, text, ON)["total_advance"] == unkerned, text
+        assert shape_font(font_path, text, OFF)["total_advance"] < unkerned - advance_delta(sequence), text
     for text in ("Hello world 0123456789", "a + b / c;", "- > ! = = : )", "AVATAR office"):
         assert shape_font(font_path, text, ON)["glyphs"] == shape_font(font_path, text, OFF)["glyphs"]
 

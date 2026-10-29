@@ -21,9 +21,15 @@ enable its font-ligature setting; application support varies.
 .plain { font-feature-settings: "liga" 0, "dlig" 0; }
 ```
 
-The underlying text remains ASCII. Each replacement retains the sum of its
-component advances, with existing exterior kerning inherited where applicable.
-There are no new Unicode mappings. These fonts do not provide explicit ligature
+The underlying text remains ASCII. Each replacement's advance is set by its own
+drawing: punctuation-like operators (`&&`, `||`, `??`, `?.`, `::`, `:=`, `..`,
+`...`) keep the sum of their component advances and ordinary one-cell gaps, while
+symbol-like replacements (arrows, equality and comparison operators, faces, and
+the heart) carry one extra empty cell on each side so they stand out from the
+surrounding text. Existing exterior kerning is inherited only where the
+replacement's boundary contour still matches the component: `...` keeps the
+baseline period pairs after `T`, `V`, `Y`, `F`, and `r`, but the raised `..` does
+not. There are no new Unicode mappings. These fonts do not provide explicit ligature
 caret positions; cursor placement and selection within a ligature depend on the
 application.
 
